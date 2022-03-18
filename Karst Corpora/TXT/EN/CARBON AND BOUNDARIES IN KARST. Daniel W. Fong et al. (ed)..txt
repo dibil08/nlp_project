@@ -1,0 +1,2033 @@
+﻿----------------------- Page 1-----------------------
+
+Special Publication 17   
+
+Carbon and   
+ Boundaries in   
+ Karst  
+
+Edited by  
+Daniel W. Fong  
+David C. Culver  
+George Veni  
+Scott A. Engel  
+
+----------------------- Page 2-----------------------
+
+Special Publication 17 
+
+Carbon and  
+Boundaries in Karst 
+
+  2013 
+
+Abstracts of the conference held January 7  
+through 13, 2013, Carlsbad, New Mexico  
+
+Edited by 
+Daniel W. Fong 
+David C. Culver  
+George Veni 
+Scott A. Engel 
+
+----------------------- Page 3-----------------------
+
+Copyright © 2013 by the Karst Waters Institute, Inc. except where individual contributors to this volume retain copyright.   
+All rights reserved with the exception of non-commercial photocopying for the purposes of scientific or educational  
+advancement. 
+
+Published by:                 Karst Waters Institute, Inc. 
+                              P.O. Box 4142  
+                              Leesburg, Virginia 20177 
+                              http://www.karstwaters.org 
+
+Please visit our web page for ordering information. 
+
+The Karst Waters Institute is a non-profit 501 (c) (3) research and education organization incorporated in West Virginia.  The mission  
+of the Institute is to improve the fundamental understanding of karst water systems through sound scientific research and the education  
+of professionals and the public. 
+
+Library of Congress Control Number:   
+
+ISBN Number 978-0-9789976-6-3 
+
+Recommended citation for this volume: 
+
+Fong, D.W., Culver, D.C., Veni, G., Engel, S.A., 2013, Carbon and Boundaries in Karst. Abstracts of the conference held January 7- 
+13, 2013, Carlsbad, New Mexico. Karst Waters Institute Special Publication 17, Karst Waters Institute, Leesburg, Virginia. 54 p. 
+
+Published electronically  
+
+----------------------- Page 4-----------------------
+
+                ConFErEnCE on CArBon AnD BounDAriES in KArSt 
+                                          JAnuAry 7-11, 2013 
+
+                            National Cave and Karst Research Institute 
+                    400-1 Cascades Ave, Carlsbad, New Mexico 88220 USA 
+                                         Tel: 00.1. 575.887.5518 
+
+                                                HoStED By 
+
+                                          Karst Waters Institute 
+                                                     and 
+                            National Cave and Karst Research Institute 
+
+                                    ConFErEnCE orGAniZErS 
+
+David C. Culver, Ph.D.                         Conference Chair  
+
+George Veni, Ph.D.                             Executive Director, NCKRI, and Conference Co-Chair  
+
+William K. Jones,                              Chairman of the Board, KWI  
+
+Daniel W. Fong and Lewis Land                  Program Co-Chairs  
+
+                             KArSt WAtErS inStitutE oFFiCErS 
+
+                    President                              Janet S. Herman, Ph.D. 
+
+                    Executive Vice-President               William B. White, Ph.D. 
+
+                    Comptroller                            David C. Culver, Ph.D 
+
+                    Secretary                              Ira D. Sasowsky, Ph.D 
+
+                    Treasurer of the Board                 Harvey DuChene 
+
+                   Vice-President for Communications       Annette Summers Engel, Ph.D. 
+
+                   Vice-President for Education            Horton H. Hobbs, III, Ph.D. 
+
+                   Vice-President for Research             Carol Wicks, Ph.D. 
+
+                    KArSt WAtErS inStitutE BoArD oF DirECtorS 
+
+       Emily Davis                      Horton H. Hobbs, III, Ph.D.     Ira D. Sasowsky, Ph.D.  
+
+       Daniel Doctor, Ph.D.             William K. Jones (Chair)        Benjamin Schwartz, Ph.D. 
+
+       Harvey R. DuChene                Jon B. Martin, Ph.D.            Steven Taylor, Ph.D. 
+
+       John W. Hess, Ph.D.              Paul J. “PJ” Moore, Ph.D.       Dorothy Vesper, Ph.D. (Vice-Chair)  
+
+                                        John E. Mylroie, Ph.D.          William B. White, Ph.D. 
+
+----------------------- Page 5-----------------------
+
+                                                                    tABlE oF ContEntS 
+
+      Preface..............................................................................................................................................................................................vii 
+
+      Chemotrophy Meets Heterotrophy: the Inverted ‘Critical Zone’ of the Subsurface 
+                   Boston ........................................................................................................................................................................................1 
+
+      Microbial Controls on In Situ Production of Dissolved Organic Matter 
+                   Brannen, Engel, and Larson .....................................................................................................................................................2 
+
+      Redox State in Karst Aquifers: Impacts of DOC- and DO-Rich River Water Intrusion into Floridan Aquifer Springs 
+                   Brown, Martin, Screaton, Ezell, Sutton, and Spellman .............................................................................................................3 
+
+      Component Isolation and Lipid Profiling to Characterize Dissolved Organic Matter Transformations Along a Groundwater Flow  
+      Path 
+                   Brown, Pfiffner, and Engel ........................................................................................................................................................4 
+
+      Using Biominerals to Assess Anthropogenic Impact: A Case Study in Carter Salt Peter Cave, Carter County, TN 
+                   Carmichael, Carmichael, Strom, Johnson, Roble, Gao, Santelli, and Bräuer.........................................................................5 
+
+      A Simple Theoretical Framework to Interpret Spring Variations and Constrain Mechanistic Models of Karst Processes 
+                   Covington..................................................................................................................................................................................6 
+
+      Convergence and Divergence in Caves and Shallow Subterranean Habitats 
+                   Culver and Pipan......................................................................................................................................................................7 
+
+      The Role of Geological Processes in Global Carbon Cycle: A Review 
+                   Daoxian....................................................................................................................................................................................8 
+
+      Microbial Activities at Geochemical Interfaces in Cave and Karst Environments 
+                   Engel................... ....................................................................................................................................................................10 
+
+      Interactions Between Surface and Subterranean Amphipods in Springs 
+                   Fišer ........................................................................................................................................................................................11 
+
+      Preliminary Carbon Sequestration and Denudation Rates Within the Karst of the Cumberland Plateau, USA 
+                   Florea ......................................................................................................................................................................................12 
+
+      Determinants of Macroinvertebrate Diversity in Karst Springs of the Mid-Atlantic Region, USA 
+                   Fong, Seabolt, and Esson ........................................................................................................................................................13 
+
+      Bicarbonate Water Chemistry of Little Limestone Lake, a Beautiful Marl Lake in Manitoba, Canada 
+                   Ford......................................................... ................................................................................................................................14  
+
+      Dynamics and Limitations of Organic Carbon Turnover in Porous Aquifers 
+                   Griebler...................................................................................................................................................................................15 
+
+      The Longitudinal Response of Benthic Invertebrate Communities to Caves 
+                   Harding and Watson ................................................................................................................................................................16  
+
+      Experimental Design and Instrumentation to Observe Karst Conduit Hyporhiec Flow 
+                   Henry, Salaz, and Wilson ........................................................................................................................................................17 
+
+iv    Carbon and Boundaries in Karst 
+
+      Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 6-----------------------
+
+                                                            tABlE oF ContEntS 
+
+Biological Control on Acid Generation at the Conduit-Bedrock Boundary in Submerged Caves 
+             Herman, Hounshell, Franklin, and Mills.... ............................................................................................................................18 
+
+Environmental Controls on Organic Matter Production and Transport Across Surface-Subsurface and Geochemical Boundaries in  
+the Edwards Aquifer, Texas, USA 
+             Hutchins, Schwartz, and Engel ...............................................................................................................................................19 
+
+Carbon and CO2 in the Phreatic/Epiphreatic Zone of Karst Systems. Some Ideas, Data and Questions from the Milandre Karst   
+Laboratory (Switzerland)  
+             Jeannin and Hessenauer..........................................................................................................................................................20 
+
+Subaerial Microbial Life in the Sulfidic Frasassi Cave System, Italy 
+             Jones, Schaperdoth, and Macalady................ .........................................................................................................................21 
+
+Physical Structure of the Epikarst 
+             Jones.............................................................. ..........................................................................................................................22 
+
+Seasonal, Diurnal and Storm-scale PCO2 Variations of Cave Stream in Subtropical Karst Area, Chongqing, SW China 
+             Junbing, Daoxian, Licheng, and  Heping ..............................................................................................................................23 
+
+Stratigraphic Control on Conduit Development in the Ozark Karst, Missouri, USA 
+             Kaufmann and Crews..................................... .........................................................................................................................24 
+
+Using Isotopes of Dissolved Inorganic Carbon Species and Water to Separate Sources of Recharge in a Cave Spring, Northwestern  
+Arkansas 
+             Knierim, Pollock, and Hays ....................................................................................................................................................25 
+
+Quantitatively Modeling Source Influences on Cave Air Carbon Dioxide Chemistry 
+             Kowalczk...................................................... ...........................................................................................................................26 
+
+Quaternary Glacial Cycles: Karst Processes and the Global CO2 Budget 
+             Larson and Mylroie........... ......................................................................................................................................................27 
+
+Karst in the Global Carbon Cycle 
+             Martin, Khadka, Kurz, Ezell, and Brown....... .........................................................................................................................28 
+
+Spatio-temporal Trends in Diversity of Subsurface Assemblages from the Vadose Zone of the Carpathian Karst in Romania 
+             Meleg .......................................................................................................................................................................................29 
+
+Comparison of Water Chemistry in Submerged Caves with that of Diffuse Groundwater Immediately Proximal to the Conduit 
+             Mills, Herman, and Tysall.............................. .........................................................................................................................30 
+
+Carbon Cycling in Arid-Land Caves: Implications for Microbial Processes 
+             Northup, Martínez, Henderson, and Montano ........................................................................................................................31 
+
+Shallow Subterranean Habitats in Volcanic Terrain 
+             Oromí and López.....................................................................................................................................................................32 
+
+                                                                                                                                            Carbon and Boundaries in Karst               v 
+
+                                                                                                                             Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 7-----------------------
+
+                                                                  tABlE oF ContEntS 
+
+      Particulate Inorganic Carbon Flux in Karst and its Significance to Karst Development and the Carbon Cycle 
+                   Paylor and Wicks....................................................................................................................................................................33 
+
+      Patterns of Organic Carbon in Shallow Subterranean Habitats (SSHs) 
+                   Pipan and Culver ....................................................................................................................................................................34 
+
+      Variability of Groundwater Flow and Transport Processes in Karst Under Different Hydrologic Conditions 
+                   Ravbar.....................................................................................................................................................................................35 
+
+      Where’s the Fire? An Analysis of Carbon Precipitates in Black and Other Caves of the Upper Guadalupe Mountains, New Mexico 
+                   Rochelle, Spilde, and Boston...................................................................................................................................................36 
+
+      Using Hydrogeochemical and Ecohydrologic Responses to Understand Epikarst Processes in Semi-Arid Systems, Edwards Plateau,  
+      Texas, USA 
+                   Schwartz, Schwinning, Gerard, Kukowski, Stinson, and Dammeye........................................................................................37 
+
+      Carbon Flux in the Dorvan-Cleyzieu Karst: Lessons from the Past to Guide Future Research 
+                   Simon.......................................................................................................................................................................................38 
+
+      Groundwater Ecology of Alluvial River Flood Plains 
+                   Stanford...................................................................................................................................................................................39 
+
+      Seasonal Influx of Organic Carbon into Marengo Cave, Indiana, USA 
+                   van Beynen, Ford, and Schwarcz............................................................................................................................................40 
+
+      Testing Carbon Limitation of a Cave Stream Ecosystem Using a Whole-Reach Detritus Amendment 
+                   Venarsky, Huntsman, Benstead, and Huryn............................................................................................................................41 
+
+      The Role of Karst Conduit Morphology, Hydrology, and Evolution in the Transport, Storage, and Discharge of Carbon and  
+      Associated Sediments 
+                   Veni..........................................................................................................................................................................................42 
+
+      Carbon Fluxes in Karst Aquifers: Sources, Sinks, and the Effect of Storm Flows 
+                   White.......................................................................................................................................................................................43 
+
+      Hydrograph Interpretation - Changes in Time 
+                   Wicks.......................................................................................................................................................................................44 
+
+      Karst Conduit-Matrix Exchange and the Karst Hyporheic Zone 
+                   Wilson......................................................................................................................................................................................45 
+
+      The Stability of Carbon Sink Effect Related to Carbonate Rock Dissolution: A Case Study of the Caohai Lake Geological Carbon  
+      Sink 
+                   Qiang.......................................................................................................................................................................................46 
+
+vi    Carbon and Boundaries in Karst 
+
+      Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 8-----------------------
+
+                                                               PrEFACE 
+
+       ince the first Karst Waters Institute (KWI) meeting in 1994, KWI Board members have had the following goals for KWI confer- 
+        ences: to build bridges across disciplines, to promote interdisciplinary research, and to provide a forum for the presentation of  
+       findings from cutting-edge karst research.  The recent KWI conference on ‘Carbon and Boundaries in Karst’ achieved the goals  
+ S 
+of the organization.  The conference balanced technical sessions with a field trip, keynote presentations, and open-ended discussion  
+sessions that provided a forum for the exchange of ideas.    
+
+The focus of the meeting was on carbon (organic and inorganic) in karst and the technical sessions were organized to emphasize either  
+a boundary or the processing of carbon: the upper boundary (surface/epikarst), the lower boundary (vadose/phreatic), lateral inputs  
+and outputs, carbon (sources and quality), and microbial processes.  For sessions that were organized into boundary zones, the pre- 
+sentations included research designed to advance our understanding of the physical, geochemical, and biological processes involved  
+in the transport, transformation, and storage of various forms of carbon.  There were four themes that emerged from the meeting that  
+I would like to highlight.   
+
+     1) Are there hyporheic zones in karst? The hyporheic zone is a zone (usually associated with a coupled river - alluvial aquifer sys- 
+        tem) that has a variable thickness and lateral extent, through which surface water and groundwater exchange and mix.  The hy- 
+        porheic zone is a zone of fluid flux, biogeochemical reactions, including processing of organic matter, and the flux of animals.   
+        Viewed from the biological perspective, the volume of the hyporheic zone is the depth and lateral extent within which animals,  
+        such as stonefly larvae, move.  From the fluid dynamics view point, the hyporheic zone can be defined by flowpath segregra- 
+        tion patterns from local scale systems that mix with surface water from larger scale systems that do not mix with surface water.   
+        Within karst, there are two types of hyporheic zones.  One is the porous and cavernous limestone, such as the Floridan aquifer,  
+        where groundwater and surface water exchange and mix.  The other is the in-cave streambed sediment that acts in a manner  
+        similar to a gravel-bedded surface stream.  Placing these environments commonly encountered in karst settings in a broader  
+        context of ecological and hydrological literature will help to strengthen karst science. 
+
+     2) Is epikarst a “critical zone”?  As defined by the National Science Foundation, a critical zone includes water movement, inter- 
+        actions in the rhizosphere, and interactions with plants.  The base of a critical zone is the deepest penetration of roots.  There  
+        is water movement through the epikarst.  Interactions with water-plants and the water-rhizosphere are common in epikarst, as  
+        shown by several researchers.   Additionally, the epikarst is known for hosting dissolved organic matter in sufficient quantities  
+        to support a unique biota that may serve as a staging area for subsequent invasion into the underlying caves. Thinking of studies  
+        of epikarst as studies of “the critical zone” is another way to place karst studies within the framework of the larger scientific  
+        community. 
+
+     3) Is the missing carbon sink in the global carbon budgets accounted for by reactions occurring in karst?  Most models of the  
+        global carbon cycle disregard the role of karst geology, in general, and the role of geochemical reactions that occur in karst,  
+        specifically.  Weathering of carbonate bedrock that occurs within karst regions of the world is not accounted for in many mod- 
+        els of the global carbon cycle, whereas weathering of minerals in silicate bedrock are included. In karst regions of the world,  
+        the carbonate reactions are calcite dissolution, tufa formation, and carbonate formation.  Some carbonate reactions remove  
+        carbon (sink) and other serve as a source of carbon.  Regardless of the direction of the reaction, reactions involving carbonate  
+        minerals in karst need to be included in models of global change. 
+
+     4) Can chemoautotrophy support higher trophic levels within cave food webs/chains?  Our understanding of the chemoautotro- 
+        phic reactions, the microbial communities that facilitate those reactions, and the resultant changes in the bulk water composi- 
+        tion were well described in the session focused on microbial processes.  Evidence of chemoautotrophy has been found even  
+        in cave systems that had previously been characterized as hetereotrophic and the notion that chemoautotrophic reactions are  
+        unimportant is being reexamined.  A question that remains is, “Is the energy (carbon) derived from chemoautotrophic reactions  
+        moving to higher trophic levels within the food web?”  The innovative use of stream amendments and isotopic tracking are  
+        keys to addressing these questions.   
+
+In closing, KWI continues to advance karst science and to place karst science within a broader scientific context, whether that context  
+be the hyporheic zone, the critical zone, evolutionary theory, or within a growing subdiscipline (geomicrobiology).  In pointing out  
+an obvious achievement of KWI, the field of biogeochemistry in karst systems is now well developed and owes its origins (at least in  
+part) to KWI as the host of the first Geomicrobiology Conference in 1994 in Colorado Springs Colorado USA. 
+
+                                                                                                                   Carol Wicks 
+                                                                                                                   Louisiana State University 
+                                                                                                                   January 2013 
+
+                                                                                                                 Carbon and Boundaries in Karst      vii 
+
+                                                                                                     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 9-----------------------
+
+
+----------------------- Page 10-----------------------
+
+                                                                                                                                    P. J. BoSton 
+
+        CHEmotroPHy mEEtS HEtErotroPHy: tHE inVErtED  
+                             ‘CritiCAl ZonE’ oF tHE SuBSurFACE 
+
+                                                              Penny J. Boston 
+
+                  Department of Earth and Environmental Sciences, New Mexico Institute of Mining and Technology,  
+                                                           Socorro, New Mexico, and  
+                                    National Cave and Karst Research Institute, Carlsbad, New Mexico 
+                                                                pboston@nmt.edu 
+
+    n Earth’s subsurface, a host of poorly known microorganisms conduct their affairs in a dark world typically under extreme energy  
+     limitation, both organic and inorganic. This is often accompanied by extreme temperatures, pressures, or highly reactive gases.  
+IAre these organisms just evolution’s “losers” who have retreated to the subsurface because they simply can’t compete for the  
+delicious surface organics?  Or are they part of a subterranean microbial biosphere that has persisted over much of Earth’s history  
+and may even have originated there? Such a notion suggests an inversion of the ecological concept of a “critical zone” as it is usually  
+applied to surface systems. 
+
+Studies of natural caves, both shallow (a few meters) and deep (>1-2 km), and in mines (some >4 km deep) may provide hints about  
+the nutritional and evolutionary status of subsurface microbiota. Although subsurface microbial environments are frequently lumped  
+together, they span a tremendous range of different environmental conditions, just as surface habitats do. Are there systematic dif- 
+ferences in microbial biodiversity, nutritional strategy, and other properties with depth that may be distinguishable between shallow,  
+mid-range, and deep crustal levels?  While it is still early days, predictions can be made and tested as we continue to explore the  
+depths.  We predict a decreasing tendency to heterotrophy and an increasing tendency to chemoautotrophy with depth. This is likely  
+to be accompanied by a depth-dependent decrease in total biodiversity as a result of increasing temperatures resulting from the geo- 
+thermal gradient, spatial restrictions with only tiny rock fracture spaces available at great depth, but increasing niche richness with  
+increasing macroporosity (aka “caves”!), and limitations in transport mechanisms to move nutrients through the system. We anticipate  
+a biodiversity “sweet spot” where heterotrophic and chemotrophic metabolisms optimally overlap. 
+
+Comparative analyses of subsurface geomicrobial lifestyles may provide biomarker proxies for long timescale geological connec- 
+tions, plate motions, and fluid flowpaths, and perhaps offer insights into the origin and early evolution of life. 
+
+                                                                                                                 Carbon and Boundaries in Karst       1 
+
+                                                                                                     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 11-----------------------
+
+    K. BrAnnEn, A. S. EnGEl, AnD E. r. lArSon  
+
+                  miCroBiAl ControlS on in Situ ProDuCtion oF  
+                                          DiSSolVED orGAniC mAttEr 
+
+                                   Kathleen Brannen*, Annette S. Engel, and E. Ross Larson 
+
+                 Earth and Planetary Sciences Department, University of Tennessee, 306 EPS Building, Knoxville, Tennessee 
+                                                                  *kbrannen@utk.edu 
+
+         n  most  natural  systems,  microorganisms  are  responsible  for  the  production  and  cycling  of  dissolved  organic  matter  (DOM),  
+         despite limited understanding of the roles of microbes in producing DOM.  Differences in fluorescence and ultraviolet-visible  
+     Ispectral properties of chromophoric dissolved organic matter (CDOM) were investigated along a 2 km flowpath associated with  
+    the Cascade Cave system in Kentucky to understand the relative contributions of microbes in transforming specific allochthonous and  
+    autochthonous DOM fractions. Nearly all of the CDOM in the upstream segments of the cave system was determined to be alloch- 
+    thonous, comprised of humic-like DOM contributions consistent with soil or other surface sources. Contributions of autochthonous  
+    DOM increased downstream, characterized by the appearance of intense fluorescence spectral peaks attributed to amino acids sourced  
+    from microbial activities. It is unlikely that changes in DOM types downstream could be due to enhanced photodegradation, as much  
+    of the flowpath was in cave passages, and it is also unlikely that the protein-like fluorescence signatures are derived from wastewater  
+    contamination. To interrogate the potential abiotic and biotic controls on DOM transformations along the flowpath, separate micro- 
+    biological batch experiments using standard DOM compounds and allogenic water before the cave system and resurgence cave water  
+    were conducted. Changes to the experimental CDOM were evaluated using several fluorescence indices (e.g., Humification Index,  
+    Biological Index, and Fluorescence Index). The relative contribution of new autochthonous DOM increased over time with the addi- 
+    tion of either protein-like or humic acid-like reference compounds compared to abiotic controls where no new autochthonous DOM  
+    was produced. Combined, these results suggest that microbes in the cave stream were actively transforming the allochthonous DOM  
+    into different compounds, and that specific microbial communities along the flowpath were abundant where optimal DOM contribu- 
+    tions existed for their metabolism.   
+
+2   Carbon and Boundaries in Karst 
+
+    Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 12-----------------------
+
+                                                  A. l. BroWn, J. B. mArtin, E. SCrEAton, J. EZEll, J. Sutton, AnD P. S PEllmAn 
+
+     rEDox StAtE in KArSt AquiFErS: imPACtS oF DoC- AnD  
+                                Do-riCH riVEr WAtEr intruSion  
+                                into FloriDAn AquiFEr SPrinGS 
+
+                      Amy L. Brown*, Jonathan B. Martin, Elizabeth Screaton, John Ezell,  
+                                             James Sutton and Patricia Spellman  
+
+                Department of Geological Sciences, University of Florida, 241 Williamson Hall, Gainesville, Florida  
+                                                           *amy.brown@ufl.edu 
+
+       ocused recharge of surface water into karst aquifers is known to change water chemistry. For example when springs reverse as  
+       river stage rises above groundwater heads, river water enriched in dissolved oxygen (DO), dissolved organic carbon (DOC),  
+Fand trace metals infiltrates the aquifer through the spring vent.  The magnitude of changes in the groundwater chemical compo- 
+sition after intrusions is a function of the chemistry of the intruding water, as well as fluxes and residence times of flood waters in the  
+aquifer system.  Chemical changes were found to differ following flooding of two springs which discharge from the Floridan aquifer  
+system.  The first flood was in March at Madison Blue Spring, which discharges 21°C water to the Withlacoochee River at base flow.   
+During the flood, cold river water (15°C) intruded into the conduit system.   The second flood was in July at Peacock Springs, which  
+is connected to the Suwannee River only at high water levels.  During this flood, warm river water (28°C) flowed into the conduit  
+system.  At both spring systems river water completely displaced groundwater in the conduit system for 8 days and had DOC and DO  
+concentrations above normal spring values (<2 mg-C/L DOC; 1.5-2 mg-DO/L ).  Intruding water at Madison Blue Spring had lower  
+DOC and more DO (up to 21 mg-C/L; 6.8 mg-DO/L) than at Peacock Springs (up to 48 mg C/L; 3.6 mg/L DO).  At both locations  
+groundwater became more reducing when inflow ceased; however, Peacock Springs became more reducing with negative Eh values  
+and mobilization of iron (II) in the system.  The greater magnitude of changes during temporary recharge at Peacock Springs was  
+likely influenced both by the chemistry of the incoming water and the local hydrology of the site which increased the length of time  
+the reactive river water was present in the aquifer. 
+
+                                                                                                            Carbon and Boundaries in Karst     3 
+
+                                                                                                Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 13-----------------------
+
+    t. BroWn, S. m. PFiFFnEr, AnD A. S. EnGEl  
+
+                   ComPonEnt iSolAtion AnD liPiD ProFilinG to  
+                       CHArACtEriZE DiSSolVED orGAniC mAttEr  
+         trAnSFormAtionS AlonG A GrounDWAtEr FloW PAtH 
+
+                                     Terri Brown*, Susan M. Pfiffner, and Annette S. Engel 
+
+                 Earth and Planetary Sciences Department, University of Tennessee, 306 EPS Building, Knoxville, Tennessee 
+                                                                *tbrown23@utk.edu 
+
+             issolved organic matter (DOM) is a highly reactive mixture of compounds comprising the majority of organic carbon in  
+             aquatic ecosystems. In groundwater, the DOM pool constitutes a fundamental but poorly-constrained element of the carbon  
+    Dcycle. Groundwater-dependent ecosystems, including many karst aquifers, receive seasonal inputs of labile terrigenous or- 
+    ganic matter, which is degraded or sorbed over short distances. In deep aquifers, groundwater exhibits unique fluorescence signatures  
+    indicative of autochthonous (i.e. in situ) DOM that reflect abiotic processes and nutrient cycling between microbial communities. 
+
+    To examine the composition and transformation of organic matter in groundwater, we reduced the complex DOM mixtures to rec- 
+    ognizable macromolecular groups using diethylamino-ethyl (DEAE) cellulose anion exchange columns.  The hydrophilic fraction of  
+    DOM was isolated from a cave stream (Cascade Caverns, Kentucky) and two natural organic matter standards (NOM). Two to four  
+    liters of water were siphoned onto the DEAE columns to minimize sample aeration. Columns were loaded in the darkness of the cave,  
+    or protected from light in the laboratory, to avoid photodegradation. Different eluents, 0.1 M NaOH and 0.1 M phosphate-buffered  
+    NaCl, were compared to test for pH effects on macromolecule recovery and preservation. 
+
+    Organic carbon concentrations in the surface-fed cave stream varied seasonally, ranging from 3.25 mg/L near the swallet to 1.35 mg/L  
+    at the spring resurgence 2 km downstream. Organic carbon concentrations in the standards were 0.61 mg/L for Suwannee River NOM  
+    and 0.44 mg/L in Nordic Lake NOM. The DEAE columns retained approximately 70% of the DOM measured as organic carbon.  
+
+    Phospholipid fatty acid (PLFA) analysis was performed on the DOM isolates as a culture-independent technique for quantitatively  
+    estimating microbial biomass and characterizing community structure. PLFA were solvent extracted using a modified Bligh and Dyer  
+    procedure, fractionated by silicic acid column chromatography, and the polar fraction was derivatized for gas chromatograph-mass  
+    spectrometry (GC-MS) analysis.   
+
+4   Carbon and Boundaries in Karst 
+
+    Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 14-----------------------
+
+      S. K. CArmiCHAEl, m. J. CArmCHAEl, A. Strom, K. W. JoHnSon, l. A. roBlE, y. GAo, C. m. SAntElli, AnD S. l. BräuEr 
+
+     uSinG BiominErAlS to ASSESS AntHroPoGEniC inPACt:  
+                     A CASE StuDy in CArtEr SAlt PEtEr CAVE,  
+                                                  CArtEr County, tn 
+
+                                             1                               2,3                        2                            2 
+             Sarah K. Carmichael* , Mary J. Carmichael                          , Amanda Strom , Krissy W. Johnson , 
+                                            1,4                  5                          6                                    3 
+                  Leigh Anne Roble             , Yongli Gao , Cara M. Santelli , and Suzanna L. Bräuer 
+
+                              1 
+                               Department of Geology, Appalachian State University, Boone, North Carolina 
+                             2Department of Biology, Wake Forest University, Winston-Salem, North Carolina 
+                              3Department of Biology, Appalachian State University, Boone, North Carolina 
+                                4Department of Geology, University of Maryland, College Park, Maryland 
+                      5Department of Geological Sciences, University of Texas at San Antonio, San Antonio, Texas 
+           6Mineral Sciences, National Museum of Natural History, Smithsonian Institute, Washington, District of Columbia 
+
+                                                          *carmichaelsk@appstate.edu 
+
+          nthropogenic impact and eutrophication is a pervasive problem in many caves in the southern Appalachians.  Eutrophication  
+          can be difficult to visually assess directly in the field, but changes in function among Mn and Fe oxidizing microbial com- 
+Amunities are easily seen via changes in the abundance of metal oxide produced.   
+
+Carter Salt Peter Cave in eastern Tennessee exhibits Mn(III/IV) oxide formation in biofilms associated with several groundwater seeps  
+as well as on cave litter.  Culturing and molecular data indicates that Mn oxide production in groundwater seeps is primarily associated  
+with Mn(II) oxidizing bacteria, while those on cave litter are primarily associated with Mn(II) oxidizing fungi. In 2008, one of the Mn  
+oxide-rich seeps bloomed in a massive Mn oxide biofilm, anecdotally related to a release of sewage in a nearby sinkhole. Molecular  
+methods (16S rRNA) confirmed the presence of Bacteroides-Prevotella human fecal indicators in this seep, and most probable number  
+(MPN) assays and water chemistry confirmed nutrient loading at the site. In both 2009 and 2011, phylogenetic analysis from clone  
+sequences suggested a human-specific fecal signature (with 20-50% of the sequences clustering with human feces sequences). During  
+this time, the seep exhibited a dramatic visual reduction in Mn oxide production, which is hypothesized to correlate with a decrease  
+in nutrient input. MPN analyses suggested that Mn oxidation at the seep was correlated with heterotrophic activity (most likely due to  
+reactive oxygen species production) due to point source exogenous nutrient loading.  
+
+Preliminary phylogenetic analysis (using SSU, LSU, and ITS rRNA) to identify Mn(II) oxidizing fungi associated with cave litter  
+revealed the presence of Plectosphaerellaceae sp. DCIF (growing on battery), and two Genus incertae sedis (Fungal sp. YECT1, and  
+Fungal sp. YECT 3, growing on electrical tape) that are are not closely related to any known Mn oxidizing species. 
+
+                                                                                                                  Carbon and Boundaries in Karst       5 
+
+                                                                                                      Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 15-----------------------
+
+    m. D. CoVinGton  
+
+      A SimPlE tHEorEtiCAl FrAmEWorK to intErPrEt SPrinG  
+            VAriAtionS AnD ConStrAin mECHAniStiC moDElS oF  
+                                                     KArSt ProCESSES 
+
+                                                           Matthew D. Covington 
+
+                                   Department of Geosciences, University of Arkansas, Fayetteville, Arkansas 
+                                                             speleophysics@gmail.com 
+
+           rior work on understanding changes in discharge and water quality parameters at karst springs has largely taken two approach- 
+           es.  First, many studies have used statistical analysis or black box models in order to characterize or predict the changes at a  
+    Pspring.  This approach has the advantage that it is easy to apply to field data and may allow prediction of spring responses given  
+    limited information about aquifer structure.  However, it is often difficult to make explicit connections between such analysis and the  
+    physical processes occurring within the karst aquifer.  Consequently, the other main approach taken has been to construct numerical  
+    simulations of the processes that control spring responses.  Such models allow direct study of the physics and chemistry that lead to  
+    variations at springs.  However, these models also suffer from a key weakness.  Typically, such studies are limited to a few example  
+    cases, and results are difficult to generalize or apply to field sites.  Here, we develop a new approach, using simple analytical models  
+    of karst flow and transport processes as a tool for interpreting spring variations within a physical framework.  These models lead to  
+    characteristic time scales and length scales that provide explicit connections between karst conduit geometry and the amplitude of  
+    variations in various signals.  Ultimately, these simple models provide a bridge between the physics and chemistry realm of the pro- 
+    cess-based simulations and the statistical and black box approaches.  However, potential applications of these models go beyond the  
+    study of spring signals.  Characteristic length scales can be used to describe many karst processes, often resulting from the boundary  
+    between the surface and subsurface.  Consequently, these models have implications in a wide range of karst process studies in fields  
+    such as hydroecology and geomorphology. 
+
+6   Carbon and Boundaries in Karst 
+
+    Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 16-----------------------
+
+                                                                                                                  D. C. CulVEr AnD t. PiPAn 
+
+    ConVErGEnCE AnD DiVErGEnCE in CAVES AnD SHAlloW  
+                                         SuBtErrAnEAn HABitAtS 
+
+                                                                       1                        2 
+                                              David C. Culver*  and Tanja Pipan 
+
+                   1Department of Environmental Sciences, American University, Washington, District of Columbia. 
+                              2Karst Research Institute at ZRC-SAZU, Titov trg 2, 6230 Postojna, Slovenia. 
+
+                                                           *dculver@american.edu 
+
+        he dominant neo-Darwinian paradigm of the evolution of cave animals is that the severe aphotic, low food environment with  
+        little environmental cyclicity imposes strong selective pressures leading to a convergent (troglomorphic) morphology of re- 
+Tduced pigment and eyes, and elaborated extra-optic sensory structures.  Challenges to the paradigm come from two fronts.   
+First, troglomorphic animals occur in many aphotic habitats with relatively abundant food and environmental cyclicity.  Second, many  
+permanent reproducing populations in caves are not troglomorphic.  A review of data on patterns of troglomorphy confirms both of  
+these points.  This suggests that absence of light, rather than resource level and environmental cyclicity, is the important selective fac- 
+tor, and that other forces are at work, including competition and differences in age of lineages in subterranean environments. 
+
+                                                                                                              Carbon and Boundaries in Karst      7 
+
+                                                                                                  Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 17-----------------------
+
+    y. DAoxiAn  
+
+                  tHE rolE oF GEoloGiCAl ProCESSES in GloBAl  
+                                                CArBon CyClE: A rEViEW 
+
+                                                                      Yuan Daoxian 
+
+                                     School of Geographical Sciences, Southwest University, Chongqing, China 
+                                       The Institute of Karst Geology, Chinese Academy of Geological Sciences 
+                                                               50 Qixing Road, Guilin, China 
+                                                                  yuandx@sun.ihep.ac.cn 
+
+              arst process is a part of geological processes. So it is pertinent to review the history of people’s understanding on the carbon  
+              cycle in geological processes. Especially to find out why it is sometimes ignored, and being paid more attentions in recent  
+     Kyears 
+
+    The discussions on the relationship between global climate change and the increase of atmospheric green house gas concentration  
+    have attracted people’s attention on the carbon cycle in the Earth’s System. The latter is defined as the processes of the transformation  
+    and movement of the carbon between the lithosphere, the hydrosphere, the atmosphere and the biosphere in the forms of CO3 (mainly  
+    CaCO ,MgCO ), HCO , CO , CH , and (CH O)n (organic carbon). It can, on the one hand, constrain a series of resources and envi- 
+            3        3        3      2     4           2 
+
+    ronmental problems, such as the agricultural, forestry, and cement production, the formation, distribution and burning of fossil fuels,  
+    and the change of atmospheric CO2 concentration, but on the other hand, it is also controlled by a series of geological processes, such  
+    as weathering, transport and sedimentation, earthquakes and volcanism. A better understanding on the rules and mechanisms of global  
+    carbon cycle is an important scientific reinforcement for sustainable development. 
+
+    Since knowing the CO2 in the 17th century, and the discovery of the photosynthesis processes in 1799, human being’s exploration on  
+    the knowledge about carbon cycle in the earth system has been continuous for about 400 years. In 1896, S. Arrhenius (1859-1927), a  
+    Swedish chemist , calculated out on the bases of in situ infrared radiation measurement at different parts of the earth with varied CO2 
+    and water vapor concentration, that when the atmospheric CO  concentration is doubled, the mean air temperature of the earth’s surface  
+                                                                          2 
+
+    will rise up 5-6°C; and when the atmospheric CO2 is reduced to half, the latter will be down 4°C; moreover, if the atmospheric CO2  
+    concentration is zero, then the mean air temperature of the earth’s surface will be down 20°C. A hundred years ago, T. C. Chamberland  
+    (1843-1928), an American geologist put forward a hypothesis for the regulation of atmospheric CO2 concentration by the interactions  
+    between exogenic and endogenic geological processes, which include Crust’s uplift followed by  consumption of more CO2 from the  
+    atmosphere by intensification of weathering processes; the release of CO2 into the atmosphere by volcanism and deposition of carbon- 
+    ate rocks in the sea; the consumption of CO2 from the atmosphere by fossil fuel deposition. Chamberlin considered such interactions  
+    are responsible for the alternations of warm and cold periods in the earth’s history, thus explained the onsets and retreats of the Perm- 
+    ian and Quaternary glaciations. But Chamberlin’s hypothesis was ignored because of the general acceptance of the contemporaneous  
+    (1920) M. Milankovitch’s cyclic theory which considered the cold and warm cycles on the Earth’s surface are mainly the results of  
+    variations in the Earth’s orbital parameters. However, in the past couple of decades, the resolution of the past climatic change data has  
+    been improved remarkably as a result of the adoption of many new research technologies.  People find the Milankovitch cycles cannot  
+    explain all the processes behind the periodical changes of the climate, thus shift their attention to the Arrhenius effects, and the impact  
+    of geological processes on the global carbon cycle.Twenty-five years ago, the International Geosphere-Biosphere Programme (IGBP)  
+    initiated at ICSU (International Council for Science) noticed the carbon cycle in the terrestrial ecosystem, the atmospheric system,  
+    and the marine system, thus corresponding multilateral major cooperative projects were put into implementation, including the Global  
+    Change and Terrestrial Ecosystems (GCTE), the International Global Atmospheric Chemistry Project (IGAC), and the Land-Ocean  
+    Interactions in the Coastal Zone (LOICZ), a lot of scientific progress were achieved. However, the geological processes in the global  
+    carbon cycle were ignored because of the limitation of the then carbon cycle model, which took the geological processes as a pure  
+    inorganic processes, and their reaction rate are 1-2 order of magnitude less than the carbon cycle in the biological systems. Moreover,  
+    the stability of carbon sink in the geological processes was also questioned. In 1995, at the IGBP Scientific Board meeting, the writer  
+    made a suggestion to enhance the research on the carbon cycle in the geological processes. Although the suggestion was included in  
+    the recommendation of the meeting’s resolution, but no substantial step was followed up in IGBP. 
+
+8   Carbon and Boundaries in Karst 
+
+    Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 18-----------------------
+
+                                                                                                                                      y. DAoxiAn 
+
+In recent years, the fundamental and interdisciplinary researches on carbon cycle in the geological processes have made exciting prog- 
+ress. People find the catalytic function of microbial, especially the Carbonic Anhydrase (CA) can make the dissolution rate of CO2 in  
+the water one order of magnitude higher; it is also found that the photosynthesis process of aquatic algae, and the catalysis of peptides  
+on the carbonate deposition can solidify the carbon that enters the hydrosphere. All these discoveries have put a way out for the 2 main  
+puzzles that question the importance of geological processes in the global carbon cycle, i.e., the reaction rate and the stability. Follow- 
+ing this trend, the ideas of carbon cycle in the Earth System Science will be improved; the carbon cycle model that knocked together  
+inorganic and organic processes will give way to a more unified reaction process. That will finally renew the carbon cycle model. The  
+international carbon cycle community has enhanced the researches on the geological processes in global carbon cycle. A lot of relevant  
+papers have been published. In China, the National Natural Science Foundation of China (NNSFC), the Ministry of Science and Tech- 
+nology (MOST), and the Ministry of Land and Resources (MLR) have all increased funding in this direction. Investigations, survey,  
+and researches of relevance have been carried out. A monitoring network on the geological processes of carbon cycle that covers all  
+this country is on the way. New data, new discoveries, and new assessment are accumulating. A lot of papers that discuss the carbon  
+cycling in karst processes, in the weathering of silicate rocks, the carbon sink in soil, and CO2 outgassing from active tectonic zones  
+have been published. Among them, the evidences of enhancing carbon sink in southwest China’s karst rock desertification rehabilita- 
+tion areas could provide scientific background for some climate change mitigation measures in China. 
+
+                                                                                                                 Carbon and Boundaries in Karst       9 
+
+                                                                                                     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 19-----------------------
+
+     A. S. EnGEl  
+
+            miCroBiAl ACtiVitiES At GEoCHEmiCAl intErFACES in  
+                                     CAVE AnD KArSt EnVironmEntS 
+
+                                                           Annette Summers Engel 
+
+                    Department of Earth and Planetary Sciences, University of Tennessee –Knoxville, Knoxville, Tennessee 
+                                                                  aengel1@utk.edu 
+
+              eochemical interfaces at the air-water, water-rock, and air-rock transitions are colonized by microorganisms that influence  
+              and control low-temperature geochemical processes like mineral precipitation and dissolution, organic matter transforma- 
+              tions and reactions, and metal and contaminant speciation and transport in cave and karst settings. Understanding the effects  
+     G 
+     of microbial processing at geochemical interfaces in cave and karst environments can be done from evaluating microbial diversity  
+     and metabolic activities from different types of caves, and conducting experiments to test hypotheses related to rock type, fluid avail- 
+     ability and composition, the nature and behavior of organic matter, and habitat history. Microbes colonizing air-water geochemical  
+     interfaces are affected by the dynamic exchange of organic and inorganic gases, the formation of aerosols, and physical and molecular  
+     forces related to surface tension that create air-water surface microlayers based on the gravity of particles and hydrophobicity of cells.  
+     Floating mats and biofilms have been of interest in chemolithoautotrophic cave ecosystems, not only because these biofilms serve as  
+     food for higher trophic levels, but because the air-water surface microlayers affect gas exchange, particularly oxygen, with bulk fluids  
+     and sediments. Stratification of different anaerobic metabolic groups within the microlayers also affects the production of other gases,  
+     including hydrogen sulfide and methane. In contrast, biofilm development at air-rock interfaces in gas-filled passages is influenced by  
+    water availability, gas exchange, cell hydrophobicity and charge, and the solid surface charge and nutrient content. Air-rock interfaces  
+     are important because microbial processes can lead to cave wall corrosion, subaerial sediment formation, and degradation of surfaces,  
+     including Paleolithic cave paintings. Microbial colonization of water-rock interfaces in aquatic habitats reflects dynamic feedback  
+    processes associate with fluid geochemistry, ion exchange, and metabolic preferences with respect to carbon and other nutrients. These  
+    biofilms are ecosystem food sources, but also are hydrophobic barriers to solute diffusion, which changes water-rock reactions. 
+
+10   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 20-----------------------
+
+                                                                                                                                     C. FišEr 
+
+      intErACtionS BEtWEEn SurFACE AnD SuBtErrAnEAn  
+                                            AmPHiPoDS in SPrinGS 
+
+                                                               Cene Fišer 
+
+               Department of Biology, Biotechnical Faculty, University of Ljubljana, Ljubljana, Večna pot 111, Slovenia 
+                                                           cene.fiser@bf.uni-lj.si 
+
+       prings are an ecotone, a contact zone between subterranean and surface fauna. Subterranean species are common in springs  
+       – yet we know only little in what relationship are springs and their inhabitants. Some of them may be washed out from a larger  
+       subterranean population, and lost for this population. By contrast, some specialized subterranean species might enter springs  
+ S 
+for feeding. Finally, there are species living only in springs, not specialized for cave environment, but may benefit from relatively  
+stable environmental conditions in springs. All these species may interact with each other. Interspecific interactions determine the  
+composition of spring fauna and may indirectly regulate lateral input and output of organic carbon. In past years we systematically  
+investigated a spring region of Kolaški potok (SW Slovenia) where subterranean amphipod Niphargus timavi coexists with surface  
+Gammarus fossarum. We first showed that both species coexist for a year-round along upper course of the stream, suggesting that  
+neither of them is accidental in this habitat. A subject of the second study was exploration of interspecific interactions. We showed  
+that both species feed on the same food, but differ in habitat preferences. Surface gammarids predominantly live in decaying leaves,  
+whereas niphargids select either gravel or leaves. Laboratory observations suggests that both species may prey upon each other, but  
+also feed on own juveniles. Contrary to expectations, subterranean niphargids are more aggressive predators than surface gammarids;  
+their juveniles evolved avoidance from adult conspecifics. Proximal causes that underlie spatial separation of the two species were  
+the subject of our third study. Laboratory observations imply that niphargids are more sensitive to light than gammarids. Negative  
+phototaxis seems to be rather widespread trait among niphargids and may be a universal determinant that underlies the coexistence  
+of gammarids and niphargids in springs. 
+
+                                                                                                             Carbon and Boundaries in Karst     11 
+
+                                                                                                 Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 21-----------------------
+
+     l. J. FlorEA  
+
+         PrEliminAry CArBon SEquEStrAtion AnD DEnuDAtion  
+                                     rAtES WitHin tHE KArSt oF tHE  
+                                          CumBErlAnD PlAtEAu, uSA 
+
+                                                                  Lee J. Florea 
+
+                   Department of Geological Sciences, Ball State University, 2000 West University Avenue, Muncie, Indiana 
+
+                                                                   lflorea@bsu.edu 
+
+            he flux and sequestration of inorganic carbon in the Earth system are dynamically linked to Earth’s climate past and future.  
+            Carbonate aquifers, hosting 60% of the world’s proven petroleum reservoirs, 40% of known gas reserves, and influencing  
+     Tapproximately 25% of the world’s drinking water are particularly vital to our understanding of the carbon cycle. Chemical  
+    weathering of carbonates via carbonic acid sequesters CO2 into the aqueous system. Using the reactions of carbonate equilibrium it  
+     is possible to utilize geochemical data to estimate the rate of inorganic carbon that is sequestered from the atmosphere and liberated  
+     from the carbonate bedrock, and combining these data with the areal exposure of carbonate rocks can provide one approximation of  
+    the rate of landscape evolution.    
+
+     In this paper, monitoring data and water samples collected from the Redmond Creek Karst Aquifer along the margin of the Cum- 
+    berland Plateau are combined with GIS data on carbonate rock exposure to evaluate the flux of dissolved inorganic carbon within  
+    the Kentucky segment of the Upper Cumberland River. Water-level measurements collected every quarter hour are converted to  
+    values of discharge using a hydraulic rating curve. A linear relationship between specific conductance measured every quarter hour  
+     and bi-monthly values of pH and the concentrations of Calcium, Magnesium, and total Alkalinity allows ‘modeled’ values of these  
+    parameters. 
+
+     Geochemical modeling using the ionic species and the modeled discharge reveal a flux of 37 kg of bedrock through Redmond Creek  
+     during the 32-week-long study of which 88.5% was calcite and 11.5% was dolomite. This translates to a denudation rate of 6.5 mm/ka  
+    within the 10 km2                                                                          2 
+                         of carbonate bedrock exposure. More broadly, over the 3,730 km  of carbonate exposure within the Upper Cum- 
+    berland River of Kentucky, nearly 20,000 metric tonnes of CO2 are annually sequestered through karst processes into the aqueous  
+     system. 
+
+12   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 22-----------------------
+
+                                                                                               D. W. FonG, C. SEABolt, AnD K. C. ESSon 
+
+        DEtErminAntS oF mACroinVErtEBrAtE DiVErSity in  
+                                            KArSt SPrinGS oF tHE  
+                                        miD-AtlAntiC rEGion, uSA 
+
+                             Daniel W. Fong*, Christopher Seabolt, and Kaitlin C. Esson 
+
+                            Department of Biology, American University, Washington, District of Columbia 
+                                                           *dfong@american.edu 
+
+         arst springs are boundaries or ecotones between the subsurface and the surface environments. There is substantial variation  
+         in the diversity of macroinvertebrate communities of karst springs. Much research has focused on variations in the physical  
+Kand chemical properties of the spring water derived from the subterranean environment as correlates of macroinvertebrate  
+diversity. This study shows that species interactions also play a significant role on structuring the macroinvertebrate communities  
+in karst springs. The amphipod crustacean,  Gammarus minus, is the dominant macroinvertebrate in a series of karst springs in the  
+mid-Atlantic region of the eastern U.S. The body sizes of sexually mature  G. minus are significantly larger in springs where its fish  
+predator, Cottus bairdi, is present than in springs where it is absent, probably resulting from size-selective predation. Species richness  
+and the Shannon and Simpson diversity indices of macroinvertebrates, and especially the relative abundances of the insect orders  
+Ephemeroptera, Plecoptera and Trichoptera, are lower in springs with larger  G. minus than in springs with smaller  G. minus. These  
+results suggest that larger G. minus are better at competitively excluding other macroinvertebrates than smaller G. minus. Thus body  
+size variation of G. minus driven by size-selective predation by its fish predator is one important determinant of macroinvertebrate  
+diversity within the hydrogeological context. Future studies on the relative importance of the biological and physical determinants  
+of macroinvertebrate diversity will allow for an assessment of the sharpness of the boundary between the subterranean and surface  
+environments at karst springs. 
+
+                                                                                                             Carbon and Boundaries in Karst     13 
+
+                                                                                                 Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 23-----------------------
+
+     D. ForD  
+
+            BiCArBonAtE WAtEr CHEmiStry oF littlE limEStonE  
+              lAKE, A BEAutiFul mArl lAKE in mAnitoBA, CAnADA 
+
+                                                                         Derek Ford 
+
+                            School of Geography and Earth Sciences, McMaster University, Hamilton, Ontario, Canada 
+                                                                      dford@mcmaster.ca 
+
+              roadly defined, `marl lakes` are those accumulating fine-grained bottom sediments that include at least 15% CaCO . As such,  
+                                                                                                                                                  3 
+
+              marl lakes are found in a wide range of environments worldwide. The most visually attractive, however, have much higher  
+     Bproportions of CaCO3, with crystallites precipitating in the water to give it a rich and opaque duck-egg blue coloration. From  
+     the literature, such lakes are largely limited to recently glaciated carbonate rock terrains. Most are also shallow, with most or all of the  
+     water column being in the photic zone. 
+
+                                          o                  o 
+     Little Limestone Lake, (Lat. 53  47`N, Long. 99  19`W in the province of Manitoba) is the finest example that the author has seen.  
+     Located immediately NW of the northern end of Lake Winnipeg, it stands out sharply from the many neighboring lakes in summertime  
+     color satellite imagery due to the intensity and uniformity of its duck-egg blue color. The lake occupies a shallow glacial trough with  
+     local relief of 20-25 m that is scoured in a plain of flat-lying cyclothem dolomites.. It is ~12 km in length, 1-5 km wide, rarely >7 m  
+     deep. Including bordering wetlands, it occupies ~40% of the area of an elongated, narrow topographic basin. Recharge is through  
+     impoverished boreal forest with little soil cover; it discharges chiefly as springs and seeps along the shore. Mean annual temperature  
+     is ~0o C, and precipitation is ~475 mm/yr. 
+
+     Prior studies of springs in the surrounding region showed the ground waters to be of simple bicarbonate composition, with TDS =  
+     230-300 mg/L (Ca 40-60 mg/L, Mg 30-40 mg/L). The author’s grab sampling at 26 sites throughout the lake found the waters de- 
+     gassed to 120-200 mg/L, placing them in the mid-range of one hundred marl lakes investigated in more detail in the British Isles. Ca  
+     was reduced to 25-30 mg/L, while Mg was stable at 30-40 mg/L. There were 2-3 Mg/L of free CO  in two fully analyzed samples,  
+                                                                                                                         3 
+
+     indicating that some plankton photosynthesis was occurring. However, samples of the bottom marl were predominantly inorganic in  
+     their composition. 
+
+     Little Limestone Lake is visually spectacular because it is almost entirely groundwater-fed, with a ratio of recharge area to lake area  
+     that is low. It has no large, chemically equilibrated, surface streams entering it. In contrast, the dozens of nearby lakes (similar, larger  
+     or smaller in size) are regularly flushed by channelled storm water and, although they also produce some carbonate marl, cannot  
+     maintain high densities of crystallites in suspension. Little Limestone Lake was placed under legislated protection as a provincial park  
+     in June 2011. 
+
+14   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 24-----------------------
+
+                                                                                                                                 C. GriEBlEr 
+
+DynAmiCS AnD limitAtionS oF orGAniC CArBon turnoVEr  
+                                               in PorouS AquiFErS 
+
+                                                           Christian Griebler 
+
+                          Helmholtz Zentrum München - National Research Center for Environmental Health, 
+                    Institute of Groundwater Ecology, Ingolstaedter Landstrasse 1, D-85764 Neuherberg, Germany. 
+                                                christian.griebler@helmholtz-muenchen.de 
+
+        he turnover of organic carbon in porous aquifers is governed by a number of abiotic and biotic processes. In pristine aquifers, it  
+        is the low concentration (flux) of DOC and its limited availability and degradability. Typically only a few µg DOC L-1 are con- 
+
+Tsidered immediately available for maintenance and growth of heterotrophic bacterial biomass. Doubling times of suspended  
+communities are in the range of weeks to years. However, most of the bacterial biomass is found attached to sediment particles, and  
+sediments contain ≥ 1g OM kg-1 dw (0.1%), three orders of magnitude more organic carbon than is dissolved in groundwater. In or- 
+
+ganically contaminated systems biodegradation is controlled by the restricted hydrodynamic mixing, i.e. longitudinal and transverse  
+dispersion, bringing e-donors and e-acceptors together. Sediment heterogeneity is a key driver of mixing and therefore can substan- 
+tially improve biodegradation. Recently, transient hydraulic conditions were demonstrated to trigger unexpected temporal dynamics  
+of redox processes, a transient collapse of biodegradation activity, as well as profound rearrangements within plume microbiota and  
+contaminant degraders. This presentation will provide a closer look at controls of carbon turnover in pristine and contaminated porous  
+groundwater ecosystems, creating a link to the ecological concept of carrying capacity and seed banks as well as disturbance ecol- 
+ogy. 
+
+                                                                                                              Carbon and Boundaries in Karst      15 
+
+                                                                                                   Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 25-----------------------
+
+    J. S. HArDinG AnD t. WAtSon  
+
+        tHE lonGituDinAl rESPonSE oF BEntHiC inVErtEBrAtE  
+                                               CommunitiES to CAVES 
+
+                                               Jonathan S. Harding* and Troy Watson 
+
+                              School of Biological Sciences, University of Canterbury, Christchurch, New Zealand 
+                                                          *jon.harding@canterbury.ac.nz 
+
+            hallow cave systems feed by surface water streams are liable to receive important energy subsidies from the surface. In these  
+            systems the cave entrance is a strong ecotonal boundary where resources transition rapidly, and we would expect a marked  
+            response of cave invertebrate communities. We investigated the change in resources which occurred at this transition zone  
+     S 
+    in three surface stream-fed caves in Waitomo in the Central North Island of New Zealand. Caves were sampled in austral summer  
+     (February-March) during baseflow conditions. On each stream system a total of 12 sites were sampled longitudinally along the stream  
+     continuum. Of these, four sites (+128m, +32m, +8m, +4m) were upstream and outside the cave, one at the cave entrance (0m) and  
+     seven (-2m, -4m, -8m, -16m, -32m,-128m, -256m) inside the cave.  A range of physical, chemical and biological parameters were  
+    measured including; light intensity, discharge, water chemistry, physical in-stream habitat, aquatic and terrestrial invertebrates. Log- 
+    gers measured wind-run, air and water temperature for the duration of study. Not surprisingly marked changes occurred in several  
+    physico-chemical parameters (e.g., light intensity, air temperature). Algal biomass (chlorophyll a) decreased as light levels declined,  
+     and CPOM biomass also significantly declined along the gradient. Stream invertebrate taxonomic richness and density fluctuated at  
+    the cave mouths but decreased from the cave entrance into the cave.  Aquatic adult emergence was greatly reduced inside the cave,  
+    however stable isotope analysis of cave terrestrial invertebrate predators (e.g. glow-worms, spiders and harvestmen) showed a strong  
+    dependence of aquatic prey. Our results indicate that upstream subsidies play an important role in maintaining cave foodwebs in these  
+     shallow cave systems. Thus, changes in surface land use activities can have unforeseen consequences on the ecology of associated,  
+    recipient cave systems. 
+
+16   Carbon and Boundaries in Karst 
+
+    Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 26-----------------------
+
+                                                                                               K. K. HEnry, K. A. SAlAZ, AnD J. l. WilSon 
+
+  ExPErimEntAl DESiGn AnD inStrumEntAtion to oBSErVE  
+                                KArSt ConDuit HyPorHiEC FloW 
+
+                               Katrina K. Henry*, Kenneth A. Salaz, and John L. Wilson 
+
+                  Department of Earth and Environmental Science, New Mexico Institute of Mining and Technology,  
+                                                   801 Leroy Place, Socorro, New Mexico 
+                                                              *kkoski@nmt.edu 
+
+            e are finalizing plans for a field project to observe pressure driven conduit-matrix exchanges at the margin of phreatic con- 
+            duits in eogenetic karst.  The primary exchange of investigation is analogous to hyporheic flow in surface streams.  Thus,  
+Wwe call our targeted exchange “karst conduit hyporheic flow”.  As with surface streams we expect this exchange will play  
+a role in redox cycling, contaminant transformation, and a variety of biogeochemical reactions. 
+
+Our plan to observe karst conduit hyporheic flow requires sampling from narrow boreholes drilled (< 1m) into the matrix from the  
+conduit wall. This will require underwater coring and placing a multilevel water sampler in the core holes. We have developed both  
+sets of hardware for this application.   
+
+A reviewer of our field project test called it “some of the most delicate work I’ve seen proposed”. We would like to improve our  
+designs and are actively soliciting comments and suggestions. In this poster we outline the evolving experimental plan, and show  
+our computational fluid dynamics models, which we use to guide our experimental design. We detail the design of underwater coring  
+devices and the multilevel water sampler which has permeable packers.  We present our guiding computational fluid dynamics models  
+and detail our sampling and analysis plan.    
+
+                                                                                                              Carbon and Boundaries in Karst      17 
+
+                                                                                                   Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 27-----------------------
+
+     J. S. HErmAn, A. G. HounSHEll, r. B. FrAnKlin, AnD A.  l. millS  
+
+                BioloGiCAl Control on ACiD GEnErAtion At tHE  
+              ConDuit-BEDroCK BounDAry in SuBmErGED CAVES 
+
+                 Janet S. Herman*, Alexandria G. Hounshell, Rima B. Franklin, and Aaron L. Mills 
+
+                             Department of Environmental Sciences, University of Virginia, Charlottesville, Virginia 
+                                                                 *jherman@virginia.edu 
+
+              o-Mount Cave, located in Wekiwa Springs State Park in central Florida, is an aphotic, submerged, freshwater cave in which  
+              large colonies of sulfur-oxidizing bacteria live in filamentous microbial mats.  Upwardly discharging groundwater enters  
+    Nthe cave from the Upper Floridan Aquifer, specifically the Eocene-aged Ocala Limestone.  We undertook a combined field,  
+     laboratory, and modeling study in which we sought to determine the amount of calcite dissolution attributable to the generation of  
+     protons via microbially mediated sulfide oxidation.  Using information on the chemical composition of groundwater within the lime- 
+     stone formation and within the cave conduit, we used the reaction-path model PHREEQCI in order to quantify the amount of calcite  
+     dissolution possible due to bacterial sulfide oxidation.  Literature-based assumptions about energy yield for biomass production from  
+     sulfide oxidation were incorporated into the modeling effort, while the extent and rate of microbial growth in this context are currently  
+     under study in our laboratory. Using a mass balance on biomass production and on the transformation of the aqueous sulfur species,  
+     the modeling results indicated a maximum amount of 230 mg Ca2+ released to conduit water per liter of groundwater crossing the for- 
+
+     mation-conduit boundary, simulating the extent of calcite dissolution. Analogous laboratory experiments were conducted using flow- 
+     through columns packed with crushed limestone from the site.  Replicate columns were eluted with artificial groundwater containing  
+     dissolved H2 S in the absence of microbial growth.  No measurable calcite dissolution occurred, but abiotic sulfide oxidation under the  
+     experimental conditions of flow rate and residence time was also minimal.  Our modeling results indicate that significant cave devel- 
+     opment under these hydrogeochemical conditions depends upon microbially mediated sulfide oxidation as a source of acid. 
+
+18   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 28-----------------------
+
+                                                                                      B. t. HutCHinS, B. F. SCHWArtZ, AnD A. S. EnGEl 
+
+              EnVironmEntAl ControlS on orGAniC mAttEr  
+              ProDuCtion AnD trAnSPort ACroSS SurFACE- 
+         SuBSurFACE AnD GEoCHEmiCAl BounDAriES in tHE  
+                                  EDWArDS Aqui FEr, tExAS, uSA 
+
+                                                      1                                1                               2 
+                     Benjamin T. Hutchins* , Benjamin F. Schwartz , and Annette S. Engel 
+
+                1Department of Biology, Texas State University-San Marcos, 601 University Drive, San Marcos, Texas 
+                           2Department of Earth and Planetary Sciences, University of Tennessee-Knoxville,  
+
+                                                 1412 Circle Drive, Knoxville, Tennessee 
+                                                            *bh1333@txstate.edu 
+
+         arst aquifer phreatic zones are oligotrophic habitats supported by organic matter (OM) flow across physical and geochemical  
+         boundaries.  Photosynthetic OM enters the Edwards Aquifer of South-Central Texas via streams sinking along its north- 
+Keastern border. A rapid transition between oxygenated freshwaters and anoxic saline waters marks the southeastern bound- 
+ary where OM is produced by chemolithoautotrophic microbes.  Spatial and temporal heterogeneity in OM composition at these  
+boundaries was investigated using isotopic and geochemical analyses.  δ13C values for fine particulate OM (FPOM) (-11.47‰ to  
+-33.34‰) decreased during regional drought between fall 2010 and spring 2012 (t=5.02, df=16, p<0.01), and δ13C-FPOM in streams  
+
+and recharge zone groundwater sites were correlated with C:N ratios (quantile regression τ =0.9, 0.75, & 0.5, p<0.01), possibly due to  
+decreased terrestrial plant contribution, increased relative periphyton contribution, and greater microbial processing.  Average δ13C  
+composition of stream FPOM transported into the aquifer, weighted by discharge, was estimated at δ13C-FPOM=-21.75‰.  Along  
+the freshwater-saline water interface (FWSWI), δ13C-FPOMfwswi (-7.23‰ to -58.18‰) became enriched through time (t=8.65, df=10,  
+p<0.001) and was positively correlated with dissolved inorganic carbon (DIC) δ13C values (-0.55‰ to -7.91‰) (F=18.32, df=1 & 22,  
+p<0.01).  δ13C-DIC (F=35.15, df=1 & 26, p<0.01) and δ13C-FPOMfwswi (F=13.61, df=1 & 26, p<0.01) were correlated with longitude.   
+Reasons for the temporal trend in δ13C-FPOMfwswi may be due to environmentally driven recharge and aquifer level changes affecting  
+transport of chemolithoautotrophic OM across the FWSWI.  δ13C-FPOMfwswi was depleted relative to  δ13C-DIC by 29‰: within the  
+range of fractionation factors reported for carbon fixation by RubisCO, and correlation between δ13C-DIC and δ13C-FPOMfwswi sug- 
+gests that DIC is a substrate for chemolithoautotrophic production at the aquifer scale.  Spatial variability in δ13C-DIC is likely due  
+
+to local differences in the relative proportions of young and old waters, mixing with brines containing CH4, and variable sources of  
+acidity driving carbonate dissolution. 
+
+                                                                                                             Carbon and Boundaries in Karst     19 
+
+                                                                                                 Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 29-----------------------
+
+     P.-y. JEAnnin AnD m. HESSEnAuEr  
+
+         CArBon AnD Co  in tHE PHrEAtiC/EPiPHrEAtiC ZonE oF  
+                                               2 
+                                                       KArSt SyStEmS. 
+          SomE iDEAS, DAtA AnD quEStionS From tHE milAnDrE  
+                                 KArSt lABorAtory (SWitZErlAnD)  
+
+                                                                        1                                2 
+                                           Pierre-Yves Jeannin*  and Marc Hessenauer 
+
+                 1Swiss Institute for Speleology and Karst Studies, SISKA, P. Box 818, 2301 La Chaux-de-Fonds, Switzerland 
+                                        2MFR-Geologie SA, Rue de Chaux 9, 2800 Delémont, Switzerland 
+
+                                                           *pierre-yves.jeannin@isska.ch 
+
+              bservations along the last 22 years in Milandre karst system evidenced a significant increase (about 10%) in water hardness  
+              at the spring of the system (Fig. 1). This observation is validated by similar observations in 15 karst systems of the same  
+              region. 
+     O 
+
+     One possible explanation to this evolution is that temperature increase observed in the catchment area, induced an increase of the  
+     CO  production in the soils, and then an increase of the CO  concentration in the vadose zone of the system (cave) leading to a higher  
+        2                                                          2 
+
+     pCO2 at the top of the phreatic zone, then to higher hardness values. Another explanation is that the flux of organic carbone in the  
+     water increased along this period of time (soil erosion) leading much sediment and biological activity in the cave-system. The storage  
+     of sediment is significant in the epiphreatic zone (and possibly in the phreatic zone as well) and a significant biodegradation could be  
+     observed. High CO2 concentrations are correlated to periods of high biodegradation activity. This could thus also be a reason for the  
+     observed increase in water hardness. 
+
+     The Milandre karst laboratory provides data on CO2 productions, sedimentation and water characteristics at various locations within  
+     the karst system. Together with data from the literature, it will be used to sketch general concepts and suggest experiments as well as  
+     monitoring for improving our understanding of carbon in karst systems. 
+
+     Figure 1: Evolution of water electrical conductivity (black curve, left axis in µS/cm at 20°C) and of water temperature (grey curve, right  
+     axis in °C) in Milandre cave stream. Dots are annual mean values from 15 minutes measurements. 
+
+20   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 30-----------------------
+
+                                                                                       D. S. JonES, i. SCHAPErDotH, AnD J. l. mACAlADy 
+
+  SuBAEriAl miCroBiAl liFE in tHE SulFiDiC FrASASSi CAVE  
+                                                        SyStEm, itAly 
+
+                                                  1                             2                                       2 
+                          Daniel S. Jones* , Irene Schaperdoth , and Jennifer L. Macalady 
+
+                            1Department of Earth Sciences, University of Minnesota, Minneapolis, Minnesota 
+                       2Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania 
+
+                                                               *dsjones@umn.edu 
+
+        he sulfidic Frasassi cave system, Italy, hosts a subterranean chemotrophic ecosystem that includes numerous endemic in- 
+        vertebrates and diverse microbial life. At the cave water table, H2 S(g) flux from sulfidic springs provides energy for sulfide- 
+Toxidizing microbial communities that colonize cave walls and ceilings. On exposed limestone surfaces, mildly acidic (pH 6)  
+microbial communities inhabit anastomosing organic-rich sediments known as biovermiculations. Based on stable isotope ratios of C  
+and N, the organic material in Frasassi biovermiculations derives from the sulfidic cave ecosystem rather than from surface sources,  
+and molecular analyses indicate the presence of possible sulfur-oxidizing taxa. Biovermiculation formation is most rapid in sulfidic  
+cave zones, although they occur over extensive areas where no H2 S(g) is detectable. However, biovermulations are rare in immediate  
+proximity to sulfidic springs, likely due to the formation of gypsum wall crusts. Gypsum crusts form as corrosion residues and provide  
+a substrate for extremely acidic (pH 0-1) biofilms known as ‘snottites.’ Molecular and metagenomic analyses have shown that Fra- 
+sassi snottites are among the least diverse biological communities known, and are populated by a handful of acidophilic bacterial and  
+archaeal taxa. All snottite communities sampled to date are dominated by sulfur-oxidizing autotrophs of the genus Acidithiobacillus,  
+which are likely responsible for snottite formation. The microbial communities of the gypsum wall crusts themselves are underex- 
+plored, although preliminary data indicates that acidic gypsum residues (pH 2) are similar to snottite communities but with lower cell  
+densities and proportionally less Acidithiobacillus. Due to their extreme geochemistry and isolated subsurface location, sulfidic caves  
+are valuable settings for studies that address fundamental questions of microbial ecology and evolution. We report results of one such  
+study in which we used sulfidic cave snottites as natural experiments to test if and how dispersal restrictions and historical effects  
+influence the biogeography of microorganisms. 
+
+                                                                                                                 Carbon and Boundaries in Karst      21 
+
+                                                                                                     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 31-----------------------
+
+     W. K. JonES  
+
+                              PHySiCAl StruCturE oF tHE EPiKArSt 
+
+                                                                   William K. Jones 
+
+                                             Karst Waters Institute, PO Box 356, Warm Springs, Virginia 
+
+                                                                   wkj30@hotmail.com 
+
+             pikarst is a weathered zone of enhanced porosity on or near the surface or at the soil/bedrock contact of many karst landscapes.  
+             The epikarst is essentially the upper boundary of a karst system but is also a reaction chamber where many organics accumu- 
+     Elate and react with the percolating water.  The epikarst stores and directs percolating recharge waters to the underlying karst  
+     aquifers. Epikarst permeability decreases with depth below the surface.  The epikarst may function as a perched aquifer with a satu- 
+     rated zone that transmits water laterally for some distance until it drains slowly through fractures or rapidly at shaft drains or dolines.  
+     Stress-release and physical weathering as well as chemical dissolution play a role in epikarst development.  Epikarst may be found  
+     on freshly exposed carbonates although epikarst that develops below a soil cover should form at a faster rate due to increased carbon  
+     dioxide produced by vegetation.  The accumulation of soil within the fractures may create plugs that retard the downward movement  
+     of percolating water and creates a reservoir rich in organic material. The thickness of the epikarst zone typically ranges from a few  
+     meters to 15 meters, but vertical weathering of joints may be much deeper and lead to a “stone forest” type of landscape.  Some dolines  
+     are hydrologically connected directly to the epikarst while other dolines may drain more directly to the deeper conduit aquifer and  
+     represent a “hole” in the epikarst.  Water stored in the epikarst may be lost to evapotranspiration, move rapidly down vertical shafts  
+     or larger joints, or drain out slowly through the soil infillings and small fractures. 
+
+22   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 32-----------------------
+
+                                                                                           P. JunBinG, y. DAoxiAn, S. liCHEnG, AnD Z. HEPinG 
+
+ SEASonAl, DiurnAl AnD Storm-SCAlE PCo  VAriAtionS oF  
+                                                                                                                 2 
+                     CAVE StrEAm in SuBtroPiCAl KArSt ArEA,  
+                                                CHonGqinG, SW CHinA 
+
+                                            1,2                        1,2                       3                             1,2 
+                        Pu Junbing*           , Yuan Daoxian             , Shen Licheng  , and Zhao Heping 
+
+       1Karst Dynamics Laboratory, Institute of Karst Geology, Chinese Academy of Geological Sciences, Guilin 541004, China 
+                     2International Research Center on Karst under the Auspices of UNESCO, Guilin 541004, China 
+                              3School of Geography Sciences, Southwest University, Chongqing 400715, China 
+
+                                               *junbingpu@hotmail.com or junbingpu@karst.ac.cn 
+
+         O  in karst have been growing interest since the IGCP 379 project started in 1995. An open question is about the dynamics of  
+           2 
+
+         carbon in karst systems, and particularly carbon flux between the surface and subsurface and between different components  
+         in the karst subsurface. This research specially focuses on the variations of PCO 
+ C                                                                                                      (CO  partial pressures) in subtropical karst  
+                                                                                                      2      2 
+
+groundwater, using high−resolution auto-monitoring hydrochemical data (15 min intervals). Our study aim was to understand how  
+PCO2 in karst systems responds to recharge at different time scales, and further what the controlling factors are. An auto−monitoring  
+station on hydrochemistry was set in the channel of cave stream in Xueyu cave, a typical subtropical karst cave, about 300m away  
+from exit. Four−year high−resolution continuous pH, electrical conductivity (Ec), temperature and water stage of typical cave streams  
+were collected. A thermodynamic model was used to link the continuous data to monthly water quality data allowing the calculation  
+of CO2 partial pressures and calcite saturation (SIc) levels on a continuous basis. Seasonal, diurnal and strom−scale variations were  
+captured for PCO2 and calcite saturation indexes of the cave stream, indicating that cave stream are dynamic and variable systems. The  
+seasonal of these features (higher conductivity and lower pH in summer; lower conductivity and higher pH in winter) tend to covary  
+with temperature which influences the production of CO  in soils, thus being the driving force for the variations (soil CO  effect).  
+                                                                   2                                                                           2 
+
+Due to the buffer of the thick vadose zone and cave space, the diurnal variation is not obvious compared with other reported epikarst  
+springs in SW China. The storm-scale fluctuations occur during the summer rainy days due to the storm−events. The piston effect,  
+dilution effect and soil CO2 effect dominate the variations in different storm-events. At the beginning period of rainfall, the piston ef- 
+fect affects the variations, characterized by the increase in Ec, SIc and pH of cave stream and decrease in PCO2 . At heavy rainfall, the  
+decrease in Ec shows the control of dilution effect, while the decrease in SIc and pH and increase in PCO2 shows the influence of soil  
+CO  effect. At lower or medium rainfall intensity, soil CO  effect determines the variations, characterized by increase in CO  partial  
+    2                                                               2                                                                           2 
+
+pressure and Ec but decrease in pH and SIc. In a word, the hydrodynamic aspects, hydrobiogeochemical characteristics and cave space  
+need to be taken into account to correctly explain the PCO2 and hydrochemical variations of the subtropic cave stream. 
+
+                                                                                                                      Carbon and Boundaries in Karst        23 
+
+                                                                                                         Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 33-----------------------
+
+     J. E. KAuFmAnn AnD J. CrEWS  
+
+     StrAtiGrAPHiC Control on ConDuit DEVEloPmEnt in tHE  
+                                          oZArK KArSt, miSSouri, uSA 
+
+                                                                              1                           2 
+                                               James E. Kaufmann*  and Jeffery Crews 
+
+                                         1 U.S. Geological Survey, 1407 McCutchen Drive, Rolla, Missouri 
+          2Missouri Department of Natural Resources, Division of Geology and Land Survey, 1400 Fairgrounds Rd., Rolla, Missouri 
+
+                                                                 *jkaufmann@usgs.gov 
+
+         t has been recognized that caves and karst conduits in general tend to form at particular, localized stratigraphic positions. The  
+         controlling mechanisms for this phenomenon are poorly understood. Conduits in the Upper Cambrian and Lower Ordovician car- 
+     Ibonates on the Ozark Plateau in central and south-central Missouri, often form near the top of the formations and below units that  
+     are frequently, but not always, sandstone. One possibility is that the conduits form at that stratigraphic position because the overlying  
+     sandstone layer acts as an aquitard resulting in increased partial pressure of carbon dioxide and concomitant increased aggressive- 
+     ness. We propose that conduits are forming along zones of enhanced secondary hydraulic conductivity which occur near the top of  
+     shallowing-upward, third order Vail cycles. These zones have significant, extensive stromatolitic layers which have become silicified  
+     prior to dolomitization of the carbonate sequence. The silicification process is volume conserving while the dolomitization results in a  
+     decrease in volume thus enhancing secondary porosity and hydraulic conductivity. Furthermore, the facies occurring near the top of a  
+     shallowing- upward sequence exhibit numerous paraconformities due to subareal exposure and karstification during early diagenesis.  
+     These facies have very high vertical to horizontal hydraulic conductivity ratios, allowing for enhanced horizontal fluid flow. Zones of  
+     enhanced hydraulic conductivity focus flow through the bedrock and result in facies-dominated karst horizons. 
+
+24   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 34-----------------------
+
+                                                                                                  K. J. KniErim, E. PolloCK, AnD P. D. HAyS 
+
+uSinG iSotoPES oF DiSSolVED inorGAniC CArBon SPECiES  
+ AnD WAtEr to SEPArAtE SourCES oF rECHArGE in A CAVE  
+                              SPrinG, nortHWEStErn ArKAnSAS 
+
+                                                               1                    2                              3 
+                              Katherine J. Knierim* , Erik Pollock , and Phillip D. Hays 
+
+                           1Environmental Dynamics Program, University of Arkansas, Fayetteville, Arakansas 
+                       2 University of Arkansas Stable Isotope Lab, University of Arkansas, Fayetteville, Arkansas 
+                3Arkansas Water Science Center, U.S. Geological Survey, Fayetteville, and Department of Geosciences,  
+
+                                                University of Arkansas, Fayetteville, Arkansas 
+                                                        *katherine.knierim@gmail.com 
+
+          t Blowing Spring Cave in northwestern Arkansas stable isotopes of water (δ18O and δD) and inorganic carbon (δ13C) were  
+
+          used to quantify soil-water, groundwater, and precipitation contributions to cave-spring flow during storm events to under- 
+Astand controls on cave water quality.  Gaseous and aqueous phase samples in recharge-zone soils and from the cave were col- 
+lected from March to May 2012 to implement a multicomponent hydrograph separation approach; samples included gaseous carbon  
+dioxide (δ13C-CO ), aqueous dissolved inorganic carbon (δ13C-DIC), and δ18O and δD of water.  During baseflow, median δD and  
+                    2 
+δ18O values were -42.0‰ and -6.2‰ for soil-water and values were  36.9‰ and -5.5‰ for groundwater, respectively.  Median DIC  
+concentrations for soil-water and groundwater were 1.8 mg/L and 24.6 mg/L, respectively, and median δ13C-DIC values were -20.0‰  
+
+and  14.5‰, respectively.  During a March storm event, 12.14 cm of precipitation fell over 82 h and discharge increased from 0.01  
+to 0.65 m3/s in 59 h.  The isotopic composition of precipitation varied throughout the storm event because of rainout (50‰ and 10‰  
+for δD and δ18O, respectively); although, at the spring, δD and δ18O only changed by approximately 3‰ and 1‰, respectively.  The  
+
+isotopic compositions of precipitation and pre-event (i.e., stored) water were isotopically similar and a two-component hydrograph  
+separation either overestimated (>100%) or underestimated (<0%) the contribution from precipitation to the spring.  During the storm  
+event, DIC and δ13C-DIC decreased to a minimum of 8.6 mg/L and -16.2‰, respectively.  If the contribution from precipitation was  
+
+assumed to be zero, soil water was found to contribute between 38 to 68% of the total volume of discharge.  Although the assumption  
+of negligible contributions from precipitation is unrealistic, especially in karst systems where rapid flow through conduits occurs, the  
+hydrograph separation using inorganic carbon highlights the importance of considering vadose-zone soil-water when analyzing storm  
+chemohydrographs. 
+
+                                                                                                                 Carbon and Boundaries in Karst      25 
+
+                                                                                                     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 35-----------------------
+
+     A. J. KoWAlCZK  
+
+         quAntitAtiVEly moDElinG SourCE inFluEnCES on CAVE  
+                                          Air CArBon DioxiDE CHEmiStry 
+
+                                                                     Andrew J. Kowalczk 
+
+                                     SLR International Corporation, 2700 Gambell St, Suite 200, Anchorage, Alaska 
+                                       Department of Oceanography, Florida State University, Tallahassee, Florida 
+                                                                       akowalczk@gmail.com 
+
+              ong term, near continuous, in-situ monitoring of cave air chemistry in a NW Florida cave from October 2007 to February 2009  
+              allows investigations into the relationship between the δ13C signature and concentration of cave air CO , where these signatures  
+                                                                                                                                        2 
+
+      Lare derived, and the influence of the atmosphere on cave air CO . Cave air CO  in Hollow Ridge Cave is a simple two end- 
+                                                                                            2                 2 
+     member mixing system assumed to be conservative over short time periods, with soil gas (lower δ13C, higher CO ) and atmosphere air  
+                                                                                                                                            2 
+     (higher δ13C, lower CO ) as the end-members. A regression analysis of δ13CO  versus inverse [CO ] has a linear relationship similar  
+                                 2                                                                 2                        2 
+
+     to that found in atmospheric, soil, and snowpack CO2 . This relationship predicts both the soil and atmospheric end-members, which  
+     can be compared to field samples; in this study a predicted soil-gas δ13CO  of −22‰ and atmospheric δ13CO  of −7‰. (Kowalczk  
+                                                                                                2                                          2 
+
+     and Froelich, 2010). Atmospheric samples analyzed at 390 ppmv CO2 and -7.25‰, while soil gas samples analyzed at 3800 ppmv  
+     and -20.5‰, suggesting predicted CO2 values from the regression are accurate. This regression was applied to the continuous CO2  
+     time-series and modeled cave air δ13CO . These data, along with measured δ13C and CO  of soil and atmospheric samples, model the  
+                                                     2                                                         2 
+
+     quantitative influence of the atmosphere on cave air CO2 chemistry. Various locations in the cave show variable atmospheric influ- 
+     ence (36 to 98%) to strong stagnation (less than 25%) in the summer, while atmospheric influence in the winter ranges from 50-98%.  
+     These relationships could be applied to any cave air CO2 time series when both end-members are known or accurately estimated. This  
+     relationship may assist in determining whether the δ13C signature of cave air CO  or the δ13C signature of DIC in drip waters is more  
+                                                                                                      2 
+     significant in determining the δ13C of calcite in deposited speleothems. 
+
+26   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 36-----------------------
+
+                                                                                                              E. B. lArSon AnD J. E. mylroiE 
+
+ quAtErnAry GlACiAl CyClES: KArSt ProCESSES AnD tHE  
+                                                 GloBAl Co  BuDGEt 
+                                                                             2 
+
+                                              Erik B. Larson* and John E. Mylroie 
+
+                         Department of Geosciences, Mississippi State University, Mississippi State, Mississippi 
+                                                               *ebl47@msstate.edu 
+
+        xtensive research has been conducted looking at the relationship between karst processes, carbonate deposition and the global  
+        carbon cycle. However, little work has been done looking into the relationship between glaciations, subsequent sea level  
+Echanges, and aerially exposed land masses in relation to karstic processes and the global carbon budget. During glaciations  
+sea-level exposed the world’s carbonate platforms. With the sub-aerial exposure of the platforms, karst processes can occur, and the  
+dissolution of carbonate material can commence, resulting in the draw down of CO2 from the atmosphere as HCO3-. Furthermore, the  
+
+material on the platforms is primarily aragonite which is more readily soluble than calcite allowing for karst processes to occur more  
+quickly. During glaciations arctic carbonates and some of the temperate carbonates are blanketed in ice, effectively removing those  
+areas from karst processes. Given the higher solubility of aragonite, and the extent of carbonate platforms exposed during glaciations,  
+this dissolution balances the CO2 no longer taken up by karst processes at higher latitudes that were covered during the last glacial  
+maximum The balance is within 0.001 GtC / yr, using soil pCO  (0.005 GtC / yr using atmospheric pCO ) which is a difference of  
+                                                                        2                                             2 
+
+about 0.1% of the total amount of CO2 sequestered in a year by karst processes. Denudation was calculated using the maximum poten- 
+tial dissolution formulas of Gombert (2002). On a year to year basis the net amount of carbon sequestered through karstic processes  
+is equivalent between the last glacial maximum and the present day, however, the earth has spent more time in a glacial configuration  
+during the Quaternary which suggests that there is a net sequestration of carbon during glaciations from karst processes which may  
+serve as a feedback to prolong glacial episodes. This research has significance for understanding the global carbon budget during the  
+Quaternary. 
+
+                                                                                                                  Carbon and Boundaries in Karst      27 
+
+                                                                                                     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 37-----------------------
+
+     J. B. mArtin, m. KHADKA, m. KurZ, J. EZEll, AnD A. BroWn  
+
+                                   KArSt in tHE GloBAl CArBon CyClE 
+
+                          Jonathan B. Martin*, Mitra Khadka, Marie Kurz, John Ezell, Amy Brown 
+
+                       Department of Geological Sciences, University of Florida, 241 Williamson Hall, Gainesville, Florida 
+                                                                        *jbmartin@ufl.edu 
+
+                                                      7 
+               arbonate minerals contain 6 x 10  Gt of carbon or about 3 orders of magnitude more carbon than the oceans, 4 orders of  
+               magnitude more than the biosphere or buried fossil fuels, and 5 orders of magnitude more than the atmosphere.  Dissolution  
+               of CaCO 
+      C                    by carbonic acid produces two molecules of bicarbonate, one from atmospheric or soil CO  and a second from the  
+                         3                                                                                                           2 
+
+     mineral.  Precipitation of CaCO  releases CO  to the atmosphere.  These two processes are thought to be balanced over long time  
+                                           3                2 
+
+     periods and at global scales, resulting in zero net flux of atmospheric CO2 .  Recent work has proposed burial of organic carbon pro- 
+     duced from DIC originating from carbonate mineral dissolution represents a net sink of 0.5 to 0.7 Gt/yr of atmospheric CO2, thereby  
+     impacting the global carbon cycle.  The magnitude of this impact depends on linkages between primary productivity, organic carbon,  
+     and carbonate mineral dissolution and precipitation.  Studies of these linkages in karst streams in north-central Florida show primary  
+     productivity controls carbonate mineral saturation states at diel frequencies.  In addition, organic carbon discharged from wetlands to  
+     these streams is mineralized to CO2, decreasing pH, and leading to localized dissolution of carbonate rocks.  Approximately 10% of  
+     the dissolved inorganic carbon evades to the atmosphere, but the remainder discharges as bicarbonate to the ocean.  This bicarbonate  
+     may precipitate to form modern carbonate platforms, where organic carbon mineralization through sulfate reduction and oxidation of  
+     the produced sulfide dissolves carbonate minerals, providing a net source of CO2 to the atmosphere and limiting burial of carbonate  
+     minerals.  Carbonate minerals thus represent both short-term local sinks and sources for atmospheric CO2, which impact local carbon  
+     cycling.  Processes controlling these local sources and sinks are likely to be balanced over long time scales, thereby limiting their  
+     impacts on the global carbon cycle. 
+
+28   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 38-----------------------
+
+                                                                                                                                   i. n. mElEG 
+
+     SPAtio-tEmPorAl trEnDS in DiVErSity oF SuBSurFACE  
+               ASSEmBlAGES  From tHE VADoSE ZonE oF tHE  
+                                  CArPAtHiAn KArSt in romAniA 
+
+                                                            Ioana N. Meleg 
+
+        “Emil Racoviţă” Institute of Speleology, Department of Cluj, Clinicilor 5, PO BOX 58, 400006 Cluj-Napoca, Romania 
+                                                      ioana.meleg@hasdeu.ubbcluj.ro 
+
+         ecent studies highlighted the importance of the vadose zone as a particular ecosystem sustaining a highly specialized and  
+         unique fauna. When caves provide a limited access into the fissures within the vadose zone, samples from pools and drip water  
+Rare commonly used as an indirect method to assess the biological dynamics of the vadose zone system.  
+
+Copepods are the most diversified and abundant, probably the most characteristic taxon roaming the vadose voids of the Romanian  
+Carpathians. The spatial and temporal changes in copepod community composition in relation to the environmental features were  
+studied at local and regional scales.  
+
+Canonical Correspondence Analysis was performed to explore the relationships between temporal variation of fauna in pools and  
+drips and a series of environmental parameters over a period of 12 and 7 months respectively. Occurrence of the epigean species  
+underground was influenced by precipitation and the drip rates amount. The occurrence of the hypogean species was related with  
+electrical conductivity, which can be an indicator of the residence time of water in the vadose zone. It is shown that forest cover might  
+be one of the most important driving factor influencing the copepod diversity and abundance. 
+
+At regional scale, ArcGIS was used to develop habitat-based modelling in order to predict suitable areas for seven copepod taxa. Six  
+environmental features were selected from freely available sources to serve as model parameters. Ordinary least squares regression  
+and geographically weighted regression were used to identify the significant predictors for explaining copepod habitat suitability. The  
+most constant predictor was land cover, a measure of human impact, followed by precipitation and elevation. Hypogean taxa were  
+the main taxa correlated with land cover.  
+
+Both approaches substantiate the important role of sustainable management regarding the surface areas of karst landscape as a priority  
+in protecting and conserving the groundwater resources.  
+
+                                                                                                              Carbon and Boundaries in Karst     29 
+
+                                                                                                  Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 39-----------------------
+
+     A. l. millS, J. S. HErmAn,  AnD t. n. tySAll  
+
+        ComPAriSon oF WAtEr CHEmiStry in SuBmErGED CAVES  
+               WitH tHAt oF DiFFuSE GrounDWAtEr immEDiAtEly  
+                                              ProximAl to tHE ConDuit 
+
+                                    Aaron L. Mills*, Janet S. Herman, and Terrence N. Tysall 
+
+                             Department of Environmental Sciences, University of Virginia, Charlottesville, Virginia 
+                                                            *alm7d@eservices.virginia.edu 
+
+                 alls of submerged caves feeding Florida springs are often lined with a heavy mat of filamentous bacteria, many of which  
+                 are able to oxidize reduced sulfur in groundwater migrating from the porous rock into the cave conduit.  This oxidation  
+     Wproduces sulfuric acid. We posit that that acid production can accelerate the enlargement of the caves in a process we call  
+     biospeleogenesis. To determine changes in water chemistry as water passes through the microbial mat, a simple device made from  
+     well screen and sealed with a rubber stopper and controllable vents was installed in a hole drilled in the rock. The sampler was sealed  
+     in place with marine epoxy. We measured anions in water from the sampler and from the water-filled conduit taken just outside the  
+     sampler. Most anions measured, viz., Cl-          -          3- 
+                                                 , NO   , and PO    , did not differ significantly between the proximal and conduit waters. How- 
+                                                      3          4 
+     ever, traces of sulfide were measured in the water from the rock, but not in the cave. SO42- concentrations in the conduit were about  
+     twice that measured in the water from the sampler, about 22 and 11 mg SO42-  L-1, respectively, suggesting that sulfur oxidation is an  
+
+     important process in the mats attached to the limestone surfaces in these caves possibly resulting in biospeleogenesis. An additional  
+     use of the sampling device is to measure discharge from the local bedrock into the cave conduit, thereby supporting mixing calcula- 
+     tion for geochemical reaction modeling. 
+
+30   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 40-----------------------
+
+                                                                D. E. nortHuP, n. G. mArtinEZ, l. o. HEnDErSon, AnD E. t. montAno 
+
+    CArBon CyClinG in AriD-lAnD CAVES: imPliCAtionS For  
+                                             miCroBiAl ProCESSES 
+
+          Diana E. Northup*, Noelle G. Martínez, Lory O. Henderson and Elizabeth T. Montano 
+
+                              Department of Biology, University of New Mexico, Albuquerque, New Mexico 
+                                                             *dnorthup@umd.edu 
+
+       revious work that has been done on carbon cycling in caves has been conducted in karst regions that receive considerable  
+       precipitation and with caves that often have streams running through them.  Arid-land caves, such as those found in New  
+PMexico, exist under surface conditions that are considered semi-arid and surface moisture infiltrates very slowly into these  
+caves, sometimes taking decades to reach pools hundreds of feet below the surface. We have investigated the levels of organic car- 
+bon (and nitrogen and phosphorus) in surface soils above caves and in soils and rock deposits within the underlying caves.  Organic  
+carbon levels within the caves varied from 0.1 to 6%, with the highest levels being observed in some of more shallow lava caves or  
+the carbonate cave that floods, and the lowest levels being observed in the deepest carbonate caves (i.e. Lechuguilla Cave in Carlsbad  
+Caverns National Park).  However, organic carbon distribution within caves is highly variable.  Our studies show that sparse nutrients  
+in caves lead to the production of extracellular enzymes by microorganisms to break down complex nutrients and that extracellular  
+enzyme activities (EEA) are highly variable within and between caves.  Our initial studies of the degree to which organic carbon levels  
+correlate with antimicrobial activity observed in cultured isolates, do not show any strong trends.  These studies are providing a picture  
+of the organic carbon levels in arid-land caves and the possible implications for microbial inhabitants of these caves.  Future efforts  
+will continue to explore the implications of nutrient cycling on microbial communities in arid-land caves, with the eventual goal of  
+being able to compare these with studies done in higher precipitation environments. 
+
+                                                                                                               Carbon and Boundaries in Karst     31 
+
+                                                                                                   Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 41-----------------------
+
+     P. oromi AnD H. D. lóPEZ  
+
+        SHAlloW SuBtErrAnEAn HABitAtS in VolCAniC tErrAin 
+
+                                                                        1                                    1,2 
+                                                  Pedro Oromí*  and Heriberto D. López 
+
+                              1Department of Animal Biology, University of La Laguna, Tenerife, Canary Islands, Spain 
+                2Island Ecology and Evolution Research Group (IPNA–CSIC), 38206 La Laguna, Tenerife, Canary Islands, Spain 
+
+                                                                        *poromi@ull.es 
+
+               olcanic terrains have more abundant, widespread subterranean habitats than expected, often being suitable for adapted fauna.  
+               Deep habitats such as caves are found in basaltic pahoehoe lavas and more rarely in other type of rocks, occurring in terrains  
+     Vwithin a limited rank of geological ages. However, shallow subterranean habitats can originate in a variety of volcanic rocks  
+     and structures, and can evolve into different types as time goes on. The mesocavernous shallow substratum (MSS) is very widespread,  
+     occupying most of the subsurface areas with the exception of compact, impermeable acidic rocks, such as trachytic or pumitic tuffs.  
+     There are three types of MSS: a) that originated by rock meteorisation in early stages of pedogenesis, b) the colluvial MSS formed  
+     by scree at the base of cliffs, eventually covered by soil, c) the volcanic MSS structured by the clinker of recent and subrecent lavas  
+     covered by soil before being eroded. A particular type of subsurface habitat is that originated by drifts of cinders and lapilli, being  
+     occupied by subterranean animals up to a few centimeters below surface.  
+
+     The pedogenic and colluvial MSS’s have originated after long periods of time, are usually found in old terrains currently covered by  
+     forest, and have a higher input of organic matter. The volcanic MSS and the cinder fields are geologically much more recent, usually  
+     more exposed and with less availability of organic nutrients. The Canary Islands form a volcanic archipelago with seven islands rank- 
+     ing from 22 to 1 million years old, each with a long history of volcanic activity and calm periods, and with a diversity of volcanic  
+     rocks. All this has provided a good variety of subsurface habitats which have been occupied by a rich fauna, with different degrees of  
+     adaptation according to the age and food richness of the underground.  
+
+32   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 42-----------------------
+
+                                                                                                           r. l. PAylor AnD C. m. WiCKS 
+
+    PArtiCulAtE inorGAniC CArBon Flux in KArSt AnD itS  
+                         SiGniFiCAnCE to  KArSt DEVEloPmEnt  
+                                          AnD tHE CArBon CyClE 
+
+                                           Randall L. Paylor* and Carol M. Wicks 
+
+         Department of Geology and Geophysics, Louisiana State University, E235 Howe-Russell, Baton Rouge, Louisiana 
+
+                                                             *rpaylo1@lsu.edu 
+
+         arbonate bedrock weathering has been recognized as a significant component of the global atmospheric carbon sink. Studies  
+         of atmospheric carbon sink processes and landscape evolution in carbonate bedrock terrains have focused primarily on dis- 
+Csolved inorganic carbon flux. Particulate inorganic carbon (PIC) in the sediment load of karst waters is frequently dismissed as  
+insignificant for calculating denudation and carbon transport/sink rates, because chemical processes are assumed to greatly dominate.  
+PIC flux from carbonate terrains may be an important missing term in carbon cycle and denudation calculations because carbonate  
+sediment continues to dissolve in undersaturated water downstream of sampling points. The research objective is to quantify PIC  
+transport and loads in karst settings, and determine if PIC can be a significant variable in the karst carbon cycle. 
+
+Quantifying PIC loads is being accomplished by measuring sediment load entrainment and transport in karst stream conduits at Mam- 
+moth Cave, KY; Blowing Cave, KY; and Tumbling Creek Cave, MO. Bed load flux is being measured by RFID tagging and traps. Au- 
+tomatic samplers and data loggers are used to determine suspended load and water chemistry. The percentage of PIC within sediments  
+is being quantified by x-ray diffraction or differential titration (fine fraction) and visual analysis and separation (coarse fraction). The  
+mixing of new versus reworked suspended sediment in conduits is estimated by quantifying short-lived cosmogenic isotopes. The  
+PIC results will be compared to dissolved inorganic carbon measurements to determine the significance of each component of carbon  
+removal. 
+
+                                                                                                            Carbon and Boundaries in Karst    33 
+
+                                                                                                Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 43-----------------------
+
+     t. PiPAn AnD D. C. CulVEr  
+
+                       PAttErnS oF orGAniC CArBon in SHAlloW  
+                                    SuBtErrAnEAn HABitAtS (SSHS) 
+
+                                                                    1                             2 
+                                                  Tanja Pipan*  and David C. Culver 
+
+                                  1Karst Research Institute ZRC SAZU, Titov trg 2, SI-6230 Postojna, Slovenia 
+                        2Department of Environmental Science, American University, Washington, District of Columbia 
+
+                                                             *tanja.pipan@zrc-sazu.si 
+
+              rganic carbon is likely to be a limiting factor in shallow subterranean habitats (SSHs). Data on dissolved organic carbon  
+              (DOC) for hypotelminorheic and hyporheic SSHs are reviewed, and compared to nearby streams and springs, all on Nanos  
+              Mountain in Slovenia. These results are compared to extensive estimates of organic carbon in epikarst sites in Postojna Plani- 
+     O 
+     na Cave System (PPCS) in Slovenia and Organ Cave in the U.S.A. The four hypotelminorheic sites showed both spatial and temporal  
+     heterogeneity. Median DOC values ranged between 1.1 and 7.0 mg L-1. The most diverse hypotelminorheic habitat had a DOC value  
+     of 2.7 mg L-1                                                                 -1                                    -1 
+                   . Median DOC value for the one hyporheic site was 1.7 mg L  , and varied from 1.2 to 10.4 mg L   throughout the year.  
+     Two springs had median DOC values of 3.0 and 4.3 mg L-1, and a surface stream had a median DOC value of 4.0 mg L-1. SSH sites  
+
+     appear to be more variable but generally lower DOC values than surface habitats. A previous study of DOC in percolation water in  
+     PPCS resulted in a mean DOC value of 0.70+0.04 mg L-1, and measurements from Organ Cave indicated a mean value of 1.10+0.15  
+     mg L-1. These results suggest that organic carbon in aquatic SSHs is lowest in epikarst. 
+
+34   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 44-----------------------
+
+                                                                                                                         n. rAVBAr 
+
+       VAriABility oF GrounDWAtEr FloW AnD trAnSPort  
+                       ProCESSES in KArSt unDEr DiFFErEnt  
+                                      HyDroloGiC ConDitionS 
+
+                                                        Nataša Ravbar 
+
+                                      Karst Research Institute ZRC SAZU, Postojna, Slovenia 
+                                                     natasa.ravbar@zrc-sazu.si 
+
+         roundwater flow in karst aquifers is often characterized by strong variability of flow dynamics in response to different hy- 
+         drologic conditions within a short time period. Consequently, water table fluctuations are often in the order of tens of meters,  
+         differences in flow velocities between low- and high-flow conditions can reach ten or even more times. In dependence to  
+G 
+respective hydrologic conditions groundwater flow also results in variations of flow directions, and thus in contribution of different  
+parts of the aquifer to a particular spring. The described hydrological variability has many implications for contaminant transport and  
+groundwater vulnerability. Groundwater level rising reduces thickness of the unsaturated zone and decreases protectiveness of the  
+overlying layers. Higher water flow velocities reduce underground retention. Due to more turbulent flow transport and remobilization  
+of solute and insoluble matter is more effective. During high-flow conditions there is usually more surface flow and hence more con- 
+centrated infiltration underground. Particularly in karst systems that show very high hydrologic variability, this should be considered  
+to understand or predict karst aquifers hydrological behavior and to prepare proper protection strategies. 
+
+                                                                                                      Carbon and Boundaries in Karst  35 
+
+                                                                                           Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 45-----------------------
+
+     S. roCHEllE, m. n. SPilDE, AnD P. J. BoSton  
+
+       WHErE’S tHE FirE? An AnAlySiS oF CArBon PrECiPitAtES  
+                                   in BlACK AnD otHEr CAVES oF tHE  
+                        uPPEr GuADAluPE mountAinS, nEW mExiCo 
+
+                                                         1                            2                               1,3 
+                                   Sam Rochelle* , Michael N. Spilde , and Penny J. Boston 
+
+             1Earth & Environmental Sciences Department, New Mexico Institute of Mining and Technology, Socorro, New Mexico 
+                                   2Institute of Meteoritics, University of New Mexico, Albuquerque, New Mexico 
+                                             3National Cave and Karst Research Institute, Carlsbad, New Mexico 
+
+                                                                   *srochelle@nmt.edu 
+
+             he dark precipitates in Black Cave in the Guadalupe Mountains of New Mexico have, until now, remained a mystery.  After  
+             preliminary examination of speleothem samples on the scanning electron microscope and the ion microprobe at the Institute  
+     Tof Meteoritics at UNM, Albuquerque, the black coloring has, so far, been shown to be caused by particulate carbon. Due to  
+     its distribution within the cave, we reject the anecdotal interpretation that it has been transported into the cave by air currents during  
+     a fire event.  Rather, we hypothesize that it is hydrological in origin.  Given the significant width of the black banding within the spe- 
+     leothems that presumably represents a significant duration of infiltration and what appear to be plant fossils seen in SEM images, we  
+     further suspect that this particulate carbon is ash from previous forest fire episodes that has made its way into the cave through frac- 
+     tures in the limestone. Such a natural particulate tracer of flowpaths is plausible, but the details hinge on the transport process itself and  
+     limitations on particle sizes potentially mobilized by precipitation events.  A laboratory and field approach is necessary to demonstrate  
+     the feasibility of particulate infiltration of the sort that we suggest. Currently, research is being done to see if the black precipitates in a  
+     nearby cave, Hidden Cave, are similar to those found in Black Cave.  Later, Cottonwood Cave will also be examined.  Further, we are  
+     culturing microorganisms from samples to determine any presence of iron or manganese oxidizing bacteria in case metal oxidation is  
+     playing a role in the coloration.  Additionally, we are comparing the carbon isotopic ratios of the dark, presumptively organic, bands  
+     to the isotopic ratios of the lighter and lower carbon bands in an attempt to confirm or discount an incendiary origin of the carbon.   
+
+36   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 46-----------------------
+
+                                B. F. SCHWArtZ, S. SCHWinninG, B. GErArD, K. r. KuKoWSKi, C. l. Stinton, AnD H. C. DAmmEyE 
+
+            uSinG HyDroGEoCHEmiCAl AnD ECoHyDroloGiC  
+           rESPonSES to unDErStAnD EPiKArSt ProCESSES  
+       in SEmi-AriD SyStEmS, EDWArDS PlAtEAu, tExAS, uSA 
+
+               Benjamin F. Schwartz*, Susanne Schwinning, Brett Gerard, Kelly R. Kukowski, 
+                                        Chasity L. Stinson, and Heather C. Dammeye 
+
+                            Department of Biology, Texas State University, 601 University Drive, San Marcos, Texas 
+                                                              *bs37@txstate.edu 
+
+        he epikarst is a permeable boundary between the surface and subsurface environments and can be conceptualized as the vadose  
+        critical zone of epigenic karst systems. This epikarstic boundary is often thought of as being permeable in one direction only  
+T(down), but connectivity between the flow paths of water through the epikarst and the root systems of woody plants means  
+that water can move both up and down across the epikarst boundary. However, the dynamics of these flows are complex and highly  
+dependent on variability in the spatial structure of the epikarst, vegetation characteristics, as well as temporal variability in precipita- 
+tion and evaporative demand.   
+
+Here we summarize some insights gained from working at several sites on the Edwards Plateau of Central Texas, combining isotopic,  
+hydrogeochemical, and ecophysiological methodologies. 1) Dense woodland vegetation at sites with thin to absent soils (0-30 cm)  
+is in part supported by water uptake from the epikarst. 2) Despite the large total water storage capacity of epikarst, tree transpiration  
+typically becomes water-limited in summer, suggesting that evapotranspiration occurs only out of a fraction of the epikarst, such as the  
+top one or two meters, depending on local conditions. 3) Deeper flow paths, such as those feeding cave drips, quickly become discon- 
+nected from the evapotranspiration zone. 4) Without large or continuous precipitation, deep infiltration and recharge does not occur  
+in these systems, and recharge thresholds are strongly correlated with antecedent potential evapotranspiration and rainfall, suggesting  
+control by the moisture status of the epikarst evapotranspiration zone.  The deeper epikarst and unsaturated zone in this region can be  
+conceptualized as a variably saturated system with storage in fractures, matrix porosity, and in shallow perched aquifers, all of which  
+are inaccessible to the root systems of most trees, although woody vegetation may control recharge thresholds. 
+
+                                                                                                              Carbon and Boundaries in Karst     37 
+
+                                                                                                  Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 47-----------------------
+
+     K. S. Simon  
+
+                     CArBon Flux in tHE DorVAn-ClEyZiEu KArSt: 
+            lESSonS From tHE PASt to GuiDE FuturE rESEArCH 
+
+                                                                  Kevin S. Simon 
+
+                                         School of Environment, The University of Auckland, New Zealand 
+                                                               k.simon@auckland.ac.nz 
+
+                 hile availability of carbon has long been considered important for karst food webs, surprisingly little is known about the  
+                 spatial and temporal patterns of carbon flux in karst and its ecological consequences. The Dorvan-Cleyzieu karst was  
+     Wprobably the first karst ecosystem in which carbon transport was studied from an ecosystem and ecological standpoint.  
+     Data regarding dissolved (DOC) and particulate (POM) organic carbon flux and concentrations from the late 1970s and 1990s were  
+     synthesized to address large scale patterns in carbon flux and the role of biological processing of carbon. These patterns are then  
+     linked to more recent studies of organic carbon transport and biological processes in karst. Carbon flux and concentration displayed  
+     high temporal variation on both annual and event scales at Dorvan, but with little obvious seasonality. Variation in carbon flux was  
+     spatially variable throughout the aquifer. Floods represent particularly dynamic times for both carbon flux and als microbial activity  
+     in the aquifer. Patterns of DOC and nitrate in aquifers and more recent experimental microcosms suggest strong biological coupling of  
+     C and nitrogen cycles in karst aquifers.  There appears to be strong potential for advancing our understanding by linking hydrological  
+     models to data regarding organic carbon distribution, form and biological lability, and microbial processes. Such models may be used  
+     to then address multiple, interacting biogeochemical cycles in karst. 
+
+38   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 48-----------------------
+
+                                                                                                                                J. A. StAnForD 
+
+ GrounDWAtEr EColoGy oF AlluViAl riVEr FlooD PlAinS 
+
+                                                             Jack A. Stanford 
+
+                             Flathead Lake Biological Station, The University of Montana, Polson, Montana 
+                                                        jack.stanford@umontana.edu 
+
+       hallow alluvial aquifers of river flood plains represent the transition zone between deep, old (phreatic) and shallow, young  
+       ground waters.  Food webs in alluvial aquifers may be composed of a surprising number of invertebrates, including insects,  
+       that have riverine and terrestrial life history stages (amphibionts) and others that are typically found in cave streams or phreatic  
+ S 
+aquifers (stygobionts).  The ecosystem structure and function of shallow aquifer of the Nyack Flood Plain on the Middle Flathead  
+River in Montana has been studied for over three decades. The river loses 30% of its flow into the aquifer at the upstream end of the  
+flood plain but aquifer discharge downstream returns flow to the active channels and feeds spring brooks, ponds and wetlands within  
+the flood plain. The aquifer is characterized by extremely high hydraulic conductivity, related to the open framework nature of the  
+gravel-cobble substrata that reflects the legacy of cut and fill alleviation by the river.  The aquifer food web contains 46 invertebrate  
+species with an extremely diverse microbial assemblage as their trophic base.  Productivity is carbon limited but during late summer  
+portions of the aquifer are hypoxic.  Aquifer invertebrates are extremely tolerant of hypoxia and some apparently are methanotrophic,  
+based upon notably depleted 13C values in carcasses, presence of methane in some of the wells seasonally and positive methanogensis  
+assays.  The aquifer also strongly influences plant succession and woody plant growth interacts with flooding to influence sediment  
+scour and deposition. Thus the Nyack flood plain, and systems like it, may be described as a 3-dimensional shifting habitat mosaic that  
+produces a hot spot of biodiversity within the regional landscape.  Similar floodplain aquifers are described for rivers in Kamchatka,  
+Alaska, Washington and elsewhere in Montana and likely exist to some extent in all alluvial rivers.  However, river flood plains are  
+the most endangered landscapes on earth owing to dams, gravel mining, revetments and flow regulation. 
+
+                                                                                                                Carbon and Boundaries in Karst      39 
+
+                                                                                                    Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 49-----------------------
+
+     P. VAn BEynEn, D. ForD, AnD H. SCHWArCZ  
+
+           SEASonAl inFlux oF orGAniC CArBon into mArEnGo  
+                                                      CAVE, inDiAnA, uSA 
+
+                                                                 1                  2                               2 
+                                     Philip van Beynen* , Derek Ford  and Henry Schwarcz 
+
+                      1Department of Geography, Environment and Planning, University of South Florida, Tampa, Florida 
+                          2School of Geography and Earth Sciences, McMaster University, Hamilton, Ontario, Canada 
+
+                                                                  *vanbeyne@usf.edu 
+
+                 ater samples from forest soils and a shallow underlying cave were collected for the hydrological year 1996-1997. The soil  
+                 waters displayed little seasonal variability in their concentrations of organic substances compared to the cave drip-waters  
+     Wthat yielded highest levels in the spring and autumn seasons. The organic substances were separated in three fractions: par- 
+     ticular organic matter, fulvic acids and humic acids. The important controls on the amount of organic substances reaching the cave are  
+     the seasonal fluctuation in the volume of percolation waters and the soil’s ability to provide organic material to these waters. Fluores- 
+     cence measurements of the organic compounds isolated from these waters revealed shorter peak excitation and emission wavelengths  
+     for the cave waters than for the soil waters, a result of both the differences in concentration and significant changes in the proportional  
+     organic assemblages in the waters. Precipitation appears to affect the fluorescence in both waters, with the dry autumn producing the  
+     highest yields. Molecular size fractionation revealed the preferential removal of the larger hydrophobic compounds from the water  
+     before they reach the cave, resulting in the smaller hydrophilic compounds becoming the dominant fluorophore. 
+
+40   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 50-----------------------
+
+                                                                  m. P. VErnArSKy, B. m. HuntSmAn, J. P. BEnStEAD, AnD A. D. Huryn 
+
+tEStinG CArBon limitAtion oF A CAVE StrEAm ECoSyStEm 
+                  uSinG A WHolE-rEACH DEtrituS AmEnDmEnt 
+
+                                       1                               2                                  1                               1 
+        Michael P. Venarsky* , Brock M. Huntsman , Jonathan P. Benstead , Alexander D. Huryn 
+
+            1 University of Alabama, Dept. of Biological Sciences, 2099 Bevill Building, Box 870206, Tuscaloosa, Alabama 
+                   2 West Virginia University, Division of Forestry and Natural Resources, Morgantown, West Virginia 
+
+                                                         *mpvenarsky@crimson.ua.edu 
+
+         nergy limitation has long been considered the primary factor influencing in situ evolutionary and ecosystem processes in cave  
+         ecosystems. Few studies, however, have provided adequate data to test this hypothesis, either because they have focused on  
+Especific ecosystem processes (e.g., decomposition) or trophic levels (e.g., microbes), or because they involved factors (e.g.,  
+organic pollution) that confound data interpretation. In this study, the energy-limitation hypothesis in cave ecosystems was tested ex- 
+plicitly using a detrital manipulation experiment. From February 2010 to February 2011, a 100-m reach of a carbon-poor cave stream  
+was amended with corn-litter and the response in consumer biomass was followed relative to that of an upstream reference reach.  
+During one year of pre-manipulation (February 2009 to January 2010), mean standing crop organic matter was 19 to 34 g ash-free dry  
+mass [AFDM] m-2. The corn litter amendment significantly increased mean standing crop organic matter in the manipulation reach  
+to 423 g AFDM m-2. Total macroinvertebrate biomass increased by more than 5 times following the litter amendment. Stable isotope  
+
+analyses indicated that corn-derived carbon represented 16-73% of macroinvertebrate biomass depending on taxon, indicating that  
+increases in consumer biomass were driven by assimilation of corn-derived carbon. However, biomass of facultative surface species  
+significantly increased following the amendment, while the biomass of obligate cave species remained unchanged. Facultative spe- 
+cies are adapted to energy-rich surface streams (e.g. r-selected life histories), while obligate-cave species are adapted to survive in  
+the energy-poor cave environment (e.g. K-selected life histories). These differences in evolutionary history likely contributed to the  
+differential response to the corn litter amendment. While cave communities per se have the ability to exploit short-term increases in  
+energy availability, species-specific responses are dictated by differing selective pressures and resulting life-history traits. 
+
+                                                                                                                 Carbon and Boundaries in Karst      41 
+
+                                                                                                     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 51-----------------------
+
+     G. VEni  
+
+        tHE rolE oF KArSt ConDuit morPHoloGy, HyDroloGy,  
+                AnD EVolution in tHE trAnSPort, StorAGE, AnD  
+              DiSCHArGE oF CArBon AnD ASSoCiAtED SEDimEntS 
+
+                                                                    George Veni 
+
+                          National Cave and Karst Research Institute, 400-1 Cascades Avenue, Carlsbad, New Mexico 
+                                                                   gveni@nckri.org 
+
+              arst aquifers and conduits form by dissolution of carbonate minerals and the slow release of inorganic carbon to the surface  
+              environment. As conduits evolve in size, morphology, and position within the aquifer, their function and capacity change rela- 
+     Ktive to the storage and transport of inorganic and organic carbon as sediment. Conduits serve mostly as transport mechanisms  
+     for sediments. Quantified data are sparse, but for conduits to function effectively there must be at least equilibrium in the amount of  
+     sediment entering and exiting the aquifer. If sediment discharge exceeds input, little sediment will remain underground. When natural  
+     declines in base level cease removing sediments and deposit calcite speleothems, these materials are stored until the rock mass is  
+     denuded. 
+
+     While sediment storage is mostly transient in hydrologically active conduits, relative differences occur. Aquifers with conduits devel- 
+     oped at multiple levels or as floodwater mazes store proportionately greater volumes of sediment. Hypogenic systems should store  
+     greater volumes of sediment than epigenic aquifers because they mostly discharge a dissolved load as opposed to both dissolved and  
+     suspended clastic loads. However, some hypogenic aquifers are diffusely recharged and receive and store little sediment from the  
+     surface. 
+
+     The global volume of sediment and carbon stored in karst aquifers is estimated to be on the order of 2×104 km3                               3 
+                                                                                                                                  and 2×102 km ,  
+     respectively. The amount of carbon stored in paleokarst is not estimated, but paleokarst petroleum reservoirs might serve as efficient  
+     carbon sinks for global carbon sequestration. Hydrocarbon-depleted paleokarst reservoirs should provide substantially more storage  
+     per injection well than sequestration in non-paleokarstic rocks. 
+
+42   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 52-----------------------
+
+                                                                                                                                                W. B. WHitE 
+
+  CArBon FluxES in KArSt AquiFErS: SourCES, SinKS, AnD  
+                                        tHE EFFECt oF Storm FloWS 
+
+                                                                  William B. White 
+
+                        Department of Geosciences and Materials Research Institute, Pennsylvania State University,  
+                                                             University Park, Pennsylvania 
+                                                                      wbw2@psu.edu 
+
+         he dissolution of carbonate rocks by the action of carbonic acid, either lowering the surface landscape or creating cave pas- 
+         sages in the subsurface, consumes carbon dioxide.  Thus, superficially, it would appear that karst processes remove CO2 from  
+         the atmosphere and transport it from the karst drainage basin, first to the surface river system, and ultimately to the ocean.   
+T 
+More careful evaluation of the carbon flux through karst aquifer system reveals various sources and sinks along the flow path so that  
+only a fraction of the possible carbon load actually leaves the basin. 
+
+The ultimate source of CO  is the atmosphere.  However, much of the CO  that drives karst processes is derived from decaying organic  
+                               2                                                      2 
+
+matter in the epikarst.  The organic matter in turn was derived from vegetation that had sequestered CO2 from the atmosphere at some  
+earlier time.  Measurements of soil CO2 show values as much as 100 times the atmospheric value.  The vegetative cover of the karst  
+area is, therefore, an important amplifying factor in the CO2 flux. 
+
+The main reaction site is the bedrock/regolith interface in the epikarst where the CO2 from the overlying soil is consumed by reaction  
+with the carbonate rocks.  The carbon is carried as bicarbonate ions through the vadose zone to the water table.  The vadose waters that  
+intercept underlying cave passages can de-gas CO  into the cave atmosphere and precipitate speleothems.  The cave air CO , typically  
+                                                           2                                                                                      2 
+
+about ten times the surface atmosphere, by diffusion and by circulating air currents, looses the CO2 back to the surface atmosphere.   
+There are data on the chemistry of seepage waters but flow rate data are sparse making it difficult to calculate this contribution to the  
+overall carbon flux. 
+
+The load of inorganic carbon carried by seepage waters and cave streams is simply the sum of individual carbon species: 
+
+                                                                                            -          -2 
+                                                     C  =[CO (aq)] + [H CO ] + HCO  ] + [CO             ] 
+                                                     T        2            2    3          3          3 
+
+It is necessary only to assume equilibrium among the carbon-bearing species.  The saturation state of the water does not enter the  
+calculation.  The total carbon flux can then be calculated from pH, dissolved bicarbonate, and discharge. 
+
+                                               
+
+In the chosen units, FC is the carbon flux in kg/day, the bicarbonate ion concentration is in mg/L, and the discharge, Q, is in m3/sec. 
+
+The largest available collection of data is that for karst springs for which there are many chemical analyses, some with corresponding  
+discharges.  Carbon loads at the spring can be estimated and, assuming that half the carbon is released from dissolved limestone and  
+dolomite, the other half is an estimate of the CO2 that has been extracted from th atmosphere keeping in mind the cycling through the  
+vegetative system.  Storm flows typically dilute the dissolved carbonates but the increase in Q on the storm hydrograph more than  
+offsets the decrease in C         . 
+                             HCO3 
+
+Unfortunately, springs do not usually denote the downstream end of the karst system.  Many springs discharge into spring runs which  
+may flow for considerable distances before their confluence with rivers or the ocean.  Water chemistry can change significantly along  
+the spring run.  Typically, CO2 is de-gassed back to the atmosphere with a corresponding rise in pH.  Some springs and spring runs  
+de-gas sufficient CO2 to oversaturate the water and cause the precipitation of tufa.  Thus the carbon load that finally leaves the karst  
+basin is substantially smaller than might be estimated from the overall bulk chemistry of carbonate dissolution. 
+
+                                                                                                                          Carbon and Boundaries in Karst        43 
+
+                                                                                                             Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 53-----------------------
+
+      C. WiCKS  
+
+                  HyDroGrAPH intErPrEtAtion - CHAnGES in timE 
+
+                                                                     Carol Wicks 
+
+                          Department of Geology and Geophysics, Louisiana State University, Baton Rouge, Louisiana 
+                                                                    cwicks@lsu.edu 
+
+             emporal variations in the discharge and in water quality parameters of water at springs have been one of the main, if not the  
+             main, method by which karst hydrologists have attempted to gain insight about the functioning of springsheds.   Springs are  
+     Tideal locations for such monitoring as the variations in the lateral outputs integrate physical, geochemical, and biological pro- 
+     cesses that have occurred throughout a particular springshed.  The questions are, and have been, “How to interpret those records?”  
+     and “Can knowledge gained about processes occurring within one springshed be used to understand processes occurring in another  
+     basin?”.  This talk is an attempt to summarize how our use of hydrographs and our interpretations of hydrographs have changed since  
+     the 1960s. 
+
+44   Carbon and Boundaries in Karst 
+
+     Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 54-----------------------
+
+                                                                                                                                 J. l. WilSon 
+
+           KArSt ConDuit-mAtrix ExCHAnGE AnD tHE KArSt  
+                                                   HyPorHEiC ZonE 
+
+                                                             John L. Wilson 
+
+                       Department of Earth and Environmental Science, New Mexico Tech, Socorro, New Mexico 
+                                                             jwilson@nmt.edu 
+
+        he exchange of water and solute between karst conduits and surrounding matrix is poorly quantified, as is its related biogeo- 
+        chemistry. Existing qualitative studies of exchange focus on spatial scales of hundreds of meters to kilometers, and on transient  
+Tconduit floods. The physics of fluid flow suggest that conduit-matrix exchange should also exist at smaller scales caused by  
+conduit tortuosity on the scale of 10s of meters, conduit wall morphology on the scale of meters, and wall morphology and conduit  
+turbulence and transverse mixing on the scale of centimeters. When these smaller-scale processes occur for surface streams they are  
+referred to as “hyporheic exchange.” Borrowing the same name for karst aquifers, we refer to the matrix where these small-scale  
+exchange processes occur as the “karst hyporheic zone.”  Using quantitative models, computational fluid mechanics, and a review of  
+published qualitative studies we examine and characterize exchange processes ranging in scale from those caused by conduit floods  
+to hyporheic exchange created by steady-state pressure variations induced by wall morphology, and compare and contrast them to  
+analogous processes of exchange for surface streams. We focus on exchange for phreatic conduits in eogenetic karst, but comment on  
+processing of nutrients, organic carbon, and contaminants, and reflect on implications for speleogenesis, vadose conduits and streams,  
+and conduits and matrix in telegenetic karst. 
+
+                                                                                                              Carbon and Boundaries in Karst     45 
+
+                                                                                                  Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 55-----------------------
+
+    Z. qiAnG  
+
+             tHE StABility oF CArBon SinK EFFECt rElAtED to  
+                                  CArBonAtE roCK DiSSolution: 
+                               A CASE StuDy oF tHE CAoHAi lAKE  
+                                         GEoloGiCAl CArBon SinK 
+
+                                                             Zhang Qiang 
+
+                                   Institute of Karst Geology, Chinese Academy of Geological Sciences,  
+                          Karst Dynanics Laboratory, MLR/Guangxi. The International Research Center on Karst  
+                                          under the Auspices of UNESCO, Guilin, Guangxi, China 
+                                                         zhangq198203@163.com 
+
+        n recent years, there have been more and more debates concerning karst carbon sink or source, and the key problem is whether  
+        the bicarbonate from carbonate rock dissolution is stable. With the Caohai Lake basin as the study area, on the basis of previ- 
+     Ious research, and by utilizing the carbon isotope model, the authors conducted studies and found that 58.8% of the bicarbonate  
+    is utilized by aquatic plants. The Caohai basin geological carbon sink amount is 588.67 tC/a. Submerged plants of lakes along the  
+    middle and lower reaches of the Yangtze River can fix 370,602 tC/a of carbon, and this means that every year 750,000 tons of CO2 
+    from geological weathering will be stabilized by submerged plants. So carbon sink effect related to carbonate rock dissolution is quite  
+    stable and the new karst dynamic system is rational. 
+
+46  Carbon and Boundaries in Karst 
+
+    Karst Waters InstItute specIal publIcatIon 17 
+
+----------------------- Page 56-----------------------
+

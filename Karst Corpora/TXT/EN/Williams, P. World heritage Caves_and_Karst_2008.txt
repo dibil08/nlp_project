@@ -1,0 +1,680 @@
+﻿World Heritage Convention 
+IUCN World Heritage Studies 
+2008 Number Two 
+World Heritage Caves and Karst A Thematic Study 
+A global review of karst World Heritage properties: present situation, future prospects and management requirements 
+. 
+IUCN Programme on Protected Areas 
+IUCN, International Union for Conservation of Nature 
+Founded in 1948, IUCN brings together States, government agencies and a diverse range of non-governmental organizations in a unique worldwide partnership: over 1000 members in all, spread across some 140 countries. 
+As a Union, IUCN seeks to influence, encourage and assist societies throughout the world to conserve the integrity and diversity of nature and to ensure that any use of natural resources is equitable and ecologically sustainable. A central Secretariat coordinates the IUCN Programme and serves the Union membership, representing their views on the world stage and providing them with the strategies, services, scientific knowledge and technical support they need to achieve their goals. Through its six Commissions, IUCN draws together over 10,000 expert volunteers in project teams and action groups, focusing in particular on species and biodiversity conservation and the management of habitats and natural resources. The Union has helped many countries to prepare National Conservation Strategies, and demonstrates the application of its knowledge through the field projects it supervises. Operations are increasingly decentralized and are carried forward by an expanding network of regional and country offices, located principally in developing countries. 
+IUCN builds on the strengths of its members, networks and partners to enhance their capacity and to support global alliances to safeguard natural resources at local, regional and global levels. 
+This study is produced as part of IUCN’s role as advisory body to the UNESCO World Heritage Convention on natural heritage. 
+IUCN Programme on Protected Areas Rue Mauverney 28 CH-1196 Gland Switzerland www.iucn.org 
+© June 2008 
+Cover Image: Karst towers in the Ha Long Bay World Heritage site, Vietnam, have been flooded by a combination of geological subsidence and post-glacial sea level rise. The partly drowned tower karst results in a landscape of hundreds of islands (photo by P. Williams). 
+World Heritage Caves and Karst A Thematic Study 
+A global review of karst World Heritage properties: present situation, future prospects and management requirements 
+Author: Paul Williams 
+IUCN Programme on Protected Areas Rue Mauverney 28 CH-1196 Gland Switzerland www.iucn.org 
+© June 2008 
+. 
+Acknowledgements 
+The review benefited considerably from the constructive comments of members of the IUCN Secretariat, IUCN/WCPA Task Force on Caves and Karst, the International Speleological Union and the International Association of Geomorphologists. In particular the following are thanked by the author for their contributions: Bartolomé Andreo, Tim Badman, Bastian Bomhard, Steve Bourne, Arrigo Cigna, Brian Clark, Reuben Clements, Mick Day, Paul Dingwall, Derek Ford, John Gunn, Elery Hamilton- Smith, Julia James, Andrej Kranjc, Jose Aryton Labegalini, David Sheppard, Andy Spate and Hubert Trimmel. 
+IUCN wishes to record its thanks to the author for undertaking this review as part of the contribution of the World Commission on Protected Areas to the World Heritage Convention. 
+Disclaimer 
+The designation of geographical entities in this book, and the presentation of the material, do not imply the expression of any opinion whatsoever on the part of IUCN or other participating organizations concerning the legal status of any country, territory, or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries. 
+The views expressed in this publication do not necessarily reflect those of IUCN or its partners. 
+IUCN and other participating organizations disclaim any errors or omissions in the translation of this document from the original version in English, or from primary errors in any of the data interpreted within it. 
+World Heritage Caves and Karst A Thematic Study 
+List of Contents 
+PART 1: REVIEW OF KARST LANDSCAPES AND CAVES IN RELATION TO THE WORLD HERITAGE LIST 
+1.1 Introduction Nominations of Karst Properties to the World Heritage List 
+1.2 Purpose and Scope of this Review 
+1.3 Definitions Karst Landscapes Karst-like Landscapes 
+1.4 Conceptual Framework 
+1.5 Karst Landscapes and Caves on the World Heritage List 
+1.6 Karst Landscapes and Caves on the Tentative Lists of States Parties 
+1.7 Recommendations for Filling the Principal Remaining Gaps 
+1.8 Conclusions on Karst and the World Heritage List 
+PART 2: THE REQUIREMENTS FOR INTEGRITY AND MANAGEMENT THAT SHOULD APPLY TO KARST ON THE WORLD HERITAGE LIST 
+2.1 Conditions of Integrity 
+2.2 Requirements for Integrity that Apply to Karst The Unusual Characteristics of Karst Requirements for Integrity 
+2.3 Requirements for Management that Apply to Karst Responsibility of the State Party Management Structure Management Issues in Karst Management of Caves 
+2.4 Monitoring 
+2.5 Conclusions on Integrity 
+REFERENCES 
+PICTURES 
+TABLES 
+World Heritage Caves and Karst: A Thematic Study 
+PART 1: REVIEW OF KARST LANDSCAPES AND CAVES IN RELATION TO THE WORLD HERITAGE LIST 
+1.1 Introduction 
+Nominations of Karst Properties to the World Heritage List 
+Following IUCN’s evaluation report to the 31st World Heritage Committee in Christchurch (2007), the World Heritage Committee noted [Decision 31 COM 8B.13] 
+that karst systems (including caves) are relatively well represented on the World Heritage List. Worldwide there are a large number of protected karst landscapes with caves and at a detailed level every one of these can assert that it is in some way unique. Therefore in the interests of maintaining the credibility of the World Heritage List, IUCN considers that there is increasingly limited scope for recommending further karst nominations for inclusion on the World Heritage List. In particular, IUCN recommends that the World Heritage Committee should consider indicating clearly to States Parties that further karst nominations should only be promoted where: 
+• There is a very clear basis for identifying major and distinctive features of outstanding universal value that has been verified by a thorough global comparative analysis; 
+• The basis for claiming outstanding universal value is a significant and distinctive feature of demonstrable and widespread significance, and not one of many narrow and specialized features that are exhibited within karst terrains. IUCN recommends that States Parties considering karst nominations carry out an initial global comparative analysis prior to proceeding with the development of a full nomination, in order to minimize the possibilities of promoting a nomination that will not meet the requirements of the World Heritage Convention, including those concerning the conditions of integrity. 
+1.2 Purpose and Scope of this Review 
+The purpose of this review is to assist with the implementation of this decision and, in particular, to advise States Parties to the World Heritage Committee on: 
+1. The scope of karst landscapes and features, including caves, already represented on the 
+World Heritage List; 
+2. The potential and priorities for further future recognition of karst landscapes and features on 
+the World Heritage List in relation to the relevant World Heritage criteria; and 
+3. The requirements for integrity and management that should apply to karst landscapes and 
+features on the World Heritage List. 
+The geographical scope of this report is global, including, but not limited to, the territory of member states of UNESCO. The thematic scope of the study is on sites included, or with the potential to be included, on the World Heritage List in relation to their value as: 
+• Landscapes that are formed by the primary action of karst processes above and below ground; and 
+• Karst landscapes and caves of outstanding and universal importance in relation to geoscience, assuming their accessibility and comprehension by civil society.1 
+1 IUCN considers this does not include sites with interests that are only of a specialised scientific importance. 
+1 
+World Heritage Caves and Karst: A Thematic Study 
+1.3 Definitions 
+Karst Landscapes 
+The word karst can be traced back to pre-Indoeuropean origins (Gams 1973, 1991, 2003; Kranjc 2001). It stems from karra/gara meaning stone, and its derivatives are found in many languages of Europe and the Middle East. A stony limestone region known as Kras (later germanicised to Karst) on the border region of Slovenia and Italy was the place where it was first scientifically studied. The area is referred to as the ‘classical’ karst, but it is part of a larger limestone region with a similar style of landscape that extends continuously southeast along the Adriatic coast to Montenegro and beyond. This wider region attained international scientific prominence through the investigations and publications of Jovan Cvijić (1893, 1901, 1918), regarded by many as the father of modern karst science. This larger region is referred to as the Dinaric Karst (Gams 2003). It is the paramount karst of Europe and the type site2 of many karst features. Landforms in other parts of the world similar to those found in the Dinaric Karst are by extension known as karst phenomena. 
+Karst is found on particularly soluble rocks, especially limestone, marble, and dolomite (carbonate rocks), but is also developed on gypsum and rock salt (evaporite rocks). Carbonate rocks outcrop across about 15 million square kilometres of the ice-free continental area of the Earth (11% of the world’s land area), but subsurface carbonate rocks involved in karst groundwater circulation considerably extend the active karst realm, to perhaps 14% of the world’s land area. Maps and statistics of areas of carbonate rock outcrops are available from the following web address: 
+• http://www.sges.auckland.ac.nz/sges_research/karst.shtm 
+Karst landscapes are characterized by sinking streams, caves, enclosed depressions, dry valleys, gorges, natural bridges, fluted rock outcrops and large springs. Karst landforms are produced by rainwater dissolving rock (a process known as dissolution), but other natural processes often intervene, such as river erosion and glaciation, which modify the karst forms and produce intermediate landscape styles such as fluviokarst, glaciokarst, etc. Most caves form by dissolution by normal meteoric waters, although some are dissolved by thermal waters enriched by CO2 and occasionally acidified by oxidized H2S. Other caves form by dissolution at the interface of fresh and salt water along the coast. Important sources of information on the many features and varieties of karst and caves include encyclopedias by Gunn (2004) and Culver and White (2005) and texts by Ford and Williams (2007), Palmer (2007) and Salomon (2006). 
+Mammoth Cave National Park, a World Heritage property in Kentucky USA, has the world's longest natural cave network with more than 590 kilometres of surveyed passages. Another World Heritage property, Mulu National Park in Sarawak, contains the world’s largest underground cavity - Sarawak Chamber in Good Luck Cave. It has a floor space of 160 000 square metres and a volume of about 12 million cubic metres. The deepest limestone cave in the world is Voronja (Krubera) Cave in the western Caucasus Mountains, which is 2190 m deep. 
+Most caves are decorated with crystalline deposits such as stalactites and stalagmites (collectively known as speleothems). However, speleothem forms and mineralogy vary considerably according to the geological and hydrological context of their deposition. For an authoritative account of their crystal forms, evolution and mineralogy see Hill and Forti (1997). 
+Karst-like Landscapes 
+All rocks dissolve in rainwater to some extent, so small scale solution features such as flutes and rock pans are found on even the most insoluble rocks such as quartzite and basalt. Although such 
+2 A type site is generally interpreted as the typical, representative or classic location for a particular feature or phenomenon. Type sites can be regarded as the best (or best-known) places that best display a particular feature or phenomenon. They may be the site of the first known example of a newly discovered or newly described feature or phenomenon. They may also provide the namesake for a term. 
+2 
+World Heritage Caves and Karst: A Thematic Study 
+features are karstic because they were formed entirely by dissolution, the broader landscape of which they are part is not, because terrains made up of relatively insoluble rocks are dominated by landforms produced by other natural processes. 
+Quartzite fluviokarst: Landscapes developed on quartzites and dense siliceous sandstones occupy part of the continuum between karst and normal fluvial landscapes. In thermal waters the solubility of quartzose rocks approaches that of carbonate rocks and so solutional caves may form, but this is not the case at normal temperatures and pressures. In some quartzite terrains caves develop along the flanks of escarpments or gorges where deep fractures permit the ingress of water and hydraulic gradients are steep. But development of a permanently saturated zone with water filled caves and significant water storage (a typical characteristic of active karst) is generally precluded. The landforms and drainage characteristics of these siliceous rocks is therefore a style of fluviokarst, i.e., a landscape and subterranean hydrology that develops within the aerated zone as a consequence of the essential combined effects of dissolution and mechanical erosion and transport by running water. 
+Some distinctive and outstanding landscapes in quartzites or quartz sandstones and conglomerates feature on the World Heritage List, including Purnululu (Australia), Wulingyuan (China), Meteora (Greece) and Canaima (Venezuela) (see Table 1 at the end of this report). In addition, there are sandstone landscapes with impressive meshes of joint corridors, canyons and ruiniform towers elsewhere, such as the ‘Ruined City’ in Arnhemland (Australia). Wray (1997) provides a review. The most karst-like of these landscapes are developed on ancient, dense, hard quartzitic rocks. However, softer and usually younger quartzose rocks support related landscapes, such as Danxia landforms (named after a type site) in China, which are developed on ‘red beds’ (terrestrial sandstones and conglomerates usually of Cretaceous age). Although some quartz dissolution must undoubtedly occur, these are essentially joint directed fluvial landscapes, with structurally aligned corridors and canyons isolating pinnacles. 
+Pseudokarst: Karst-like landforms produced by processes other than dissolution or dissolution- induced subsidence and collapse are known as pseudokarst. A special case is vulcanokarst which comprises tubular caves within lava flows. The roofs of such caves often suffer mechanical collapse, which creates enclosed depressions and provides access underground. An outstanding example on the World Heritage List is Jeju Volcanic Island and Lava Tubes (Korea) (Table 1). 
+Glaciers also have sinking streams, caves, collapse depressions and large springs, but the karst- like features are produced by melting rather than dissolution, so the landscape is a glacial pseudokarst. Enclosed collapse depressions can be formed at the surface when patches of permafrost melt, the pitted karst-like landscape being termed thermokarst. This will become more prevalent with increased global warming. 
+1.4 Conceptual Framework 
+Karst landscapes and features have curious names that are often meaningless to those not familiar with the terrain. The evolution of karst is also unusual, since much of it goes on underground. A brief introduction to karst terms and ideas is therefore presented here in order to facilitate the comprehension of the rest of the document. 
+Karst is developed as rock is dissolved by water as it flows across the land surface, passes underground and later emerges at springs. In karst rocks the circulating water is able to develop caves by opening up fractures, in contrast to the behaviour of groundwater in other rocks where this does not occur. The main features of karst that result are illustrated conceptually in Figure 1. The primary division is into erosional and depositional zones. In the erosional zone there is net removal of the karst rocks by dissolution alone and by dissolution serving as the trigger mechanism for other processes, such as collapse. Some re-deposition of the dissolved rock occurs in the net erosion zone, mostly in the form of precipitates (such as stalactites in caves and tufa dams in 
+3 
+valleys). In the net deposition zone new karst rocks are created, although most deposition occurs offshore. 
+Karst landform development is closely associated with the hydrological cycle as water passes into, flows through, and emerges from karst terrains. The resulting landforms can therefore be assigned to input, throughput or output roles. Input landforms that discharge water into the underground predominate and their morphology differs distinctly from landforms created by fluvial or glacial processes because of this function. For example, blind valleys are a characteristic feature of the input boundary of karst. Some large enclosed valleys with flat-floors termed poljes convey water across a belt of karst (and sometimes other rocks) at the surface and so serve in a throughput role. Varieties of erosional gorges at spring heads and constructional landforms, such as tufa dams, may be created where karst groundwater is discharged at springs, i.e. they are output landforms. Residual karstic hills, sometimes of considerable height and abruptness and known as tower karst, may survive on the alluvial plains below receding spring lines and beside rivers. If found in a coastal context, these towers may be partly or wholly drowned by the sea. 
+World Heritage Caves and Karst: A Thematic Study 
+Figure 1. The comprehensive karst system schematically presents a full range of karst phenomena from input to output margins (from Ford & Williams 2007, fig. 1.2). 
+Most water circulating through karst rocks is of meteoric origin from rain or snow. It generally circulates at comparatively shallow depths, although the deepest aerated zone known is over 2 km deep in the Caucasus Mountains of Georgia, the location of Voronja (Krubera) Cave. Meteoric water usually has a residence time underground from a few days to a year, but more deeply circulating waters can remain underground for a decade or more. Cool meteoric waters sometimes mix with deep circulating waters that have been heated by contact with warm rocks or with waters originating in igneous rocks. Emerging warm waters at thermal springs often precipitate chemical deposits and build travertine terraces and dams. Such constructional features are output landforms. In this report travertine is used to describe dense crystalline calcite formed at hot springs or underground and generally lacking framing plant content; whereas tufa is used to describe grainy porous carbonate deposits accreting to algal filaments, plant stems and roots at cold water springs and seepages. 
+4 
+World Heritage Caves and Karst: A Thematic Study 
+The assemblage of landforms in a region constitutes, or is normally the key natural component of, a landscape. The precise character of karst landscapes varies around the world as a consequence of lithology (e.g. marble, limestone, chalk, coral, etc), geological structure, and climate. The climatic conditions under which karst evolves is particularly influential in determining the resulting landscape style (Salomon 2006; Ford & Williams 2007); water availability being a key climatic factor in karst evolution. Thus aridity and extreme cold place severe constraints on karst development, because both of these climatic conditions lead to a scarcity of water in its liquid state, thereby limiting dissolution and permitting other geomorphological processes to dominate landscape evolution, e.g. frost shattering in high mountains. 
+Many karst features in arid and cold zones are the legacy of times in the distant past when conditions were much wetter or warmer. Thus it is not always easy to separate the effects of modern processes from those of earlier times. There may be generations of landscape development superimposed and an inheritance of underlying landform characteristics from climatic conditions experienced millions of years ago. We see this particularly in modern, hot arid zones where evidence often remains in the landscape from more humid times in the geological past. Nevertheless, in spite of the complicating effects of inheritance, broad differences in karst landscape styles are recognized between the humid tropics/subtropics (e.g. karsts of monsoonal Southeast Asia), the hot deserts (e.g. karsts of arid and semi-arid Australia), the humid temperate zone (e.g. the Dinaric Karst), and cold high altitude or high latitude regions (e.g. karsts of Canadian Rockies and Siberia). 
+Thus in order to evaluate the coverage of karst on the World Heritage List, each site needs to be reviewed in the context of three components: 
+• its climatic environment and karst style, 
+• the comprehensiveness of its karst system, and 
+• its geology and landscape history. 
+Karsts around the world also have very unusual biological values, because of the interplay of surface and subsurface environments in the context of widely differing biogeographical zones. Karst often occurs by chance in World Heritage properties inscribed for other reasons. In these cases, it is necessary to consider if the karst is of regional, national, or international significance or even perhaps of outstanding universal value. Those karsts with potential or identified international value will be further considered in this report. 
+Although the focus of this report is on geodiversity, one must recognize that karsts are often associated with outstanding biodiversity above and below ground with markedly different species assemblages in different parts of the world; the case of East Asia, for example, being described by Vermeulen and Whitten (1999). Endemicity and diversity are the rule, especially in isolated karsts in the tropics (Clements et al. 2006). Karst has unusual habitat conditions and often experiences drought at the surface when there is abundant water underground. Although it is unlikely that the biodiversity values of karst would be regarded as the principal basis for recognizing outstanding universal value, important biological values should be identified when World Heritage recognition is being sought (see section 1.7 for biological criteria). 
+1.5 Karst Landscapes and Caves on the World Heritage List 
+Properties on the World Heritage List with karst of outstanding universal value are identified in Table 1 with an asterisk beside their site number. Other properties listed in the table are likely to contain karst of international significance, although often their values have not been fully scientifically evaluated. The properties listed include both sites in which karst values were the dominant characteristic considered by IUCN during nomination (e.g. South China Karst), as well as sites in which internationally significant karst is but one of a range of outstanding values (e.g. Lorentz National Park). Table 1 mainly features properties inscribed for their natural values, although some are inscribed for cultural values but happen also to contain important karst. There 
+5 
+World Heritage Caves and Karst: A Thematic Study 
+are also numerous other properties on the World Heritage List not identified on Table 1 that have karst of national rather than international significance. 
+In order to assess the adequacy of the coverage of existing World Heritage karst sites and to identify significant gaps in the global distribution, it is instructive to map the data. Figure 2 shows the asterisked (outstanding value) sites from Table 1 plotted by site number on a world map of carbonate rocks – the principal host rocks for karst. Figure 3 shows the same sites plotted on a graph that depicts their climatic context; what geomorphologists refer to as their morphoclimatic setting (this is relevant because landform styles reflect the climatic process environment that guided their evolution). 
+World Heritage is concerned with outstanding universal value. There is no reason why regions possessing this should occur evenly across the world; thus there is no imperative to seek a uniform coverage. Nevertheless, we see from Figure 2 that there are significant gaps in the geographical distribution of karst World Heritage sites, representation being particularly poor in the following areas: 
+the Southern Hemisphere, especially in 
+• South America, 
+• Africa, and 
+• Australasia and the South Pacific, 
+and also in parts of the Northern Hemisphere, notably 
+• North, Central and South Asia, and 
+• the Middle East. 
+Further, we see from Figure 3 that there are significant gaps in the natural environmental distribution of karst World Heritage sites, there being relatively poor representation in: 
+• arid, semi-arid, and periglacial environments. 
+Consequently, it is recommended that future nominations for World Heritage listing should give particular attention to outstanding karst areas in these regions and/or environmental settings. We might also note that most karst World Heritage properties are in the net erosion zone, not in the net deposition zone (see Figure 1). 
+Figures 2 and 3 show the distribution of karst developed on carbonate rocks, but karst is also found on other highly soluble rocks, notably gypsum and rocksalt (collectively known as evaporite rocks). These lithologies are highly soluble compared to limestone, and so significant landscapes in them occur in drier parts of the world (this is not the case in wet zones because evaporite outcrops are reduced there to almost no relief). This is particularly the case for rocksalt, which yields highly distinctive and spectacular karst landscapes in the arid zone, notably in parts of Iran. Gypsum is less soluble than rocksalt and underlies many karst landscapes in parts of the world that are relatively dry but not necessarily arid (Klimchouk et al. 1996). The second longest cave in the world, Optimistychna (214 km) in Ukraine, is developed in gypsum and a well developed landscape of doline karst is found across the surface above it. However, we must note here that: 
+• karsts on evaporite rocks are totally unrepresented on the World Heritage List. 
+In cases where karst features on evaporite rocks are demonstrably of outstanding universal value in relation to geoscience, and are not just of a specialised scientific importance, but are accessible and comprehensible by civil society, then such cases could merit consideration for World Heritage inscription. The same point must also be made in relation to pseudokarst because, although pseudokarst features such as lava caves are represented on the World Heritage List, they are not common, and so merit further consideration. 
+6 
+Figure 2. The geographical distribution of World Heritage properties with outstanding karst values (numbered * sites from Table 1) plotted on a world map depicting the distribution of carbonate rocks (the principal host rock for karst). Solid colour indicates that carbonates are relatively continuous; pale colour depicts areas in which carbonates are abundant but not continuous (modified from Williams & Ford 2006). 
+World Heritage Caves and Karst: A Thematic Study 
+7 
+World Heritage Caves and Karst: A Thematic Study 
+Figure 3. The climatic context of World Heritage properties with outstanding karst values (numbered * sites from Table 1). Plotting positions are approximate because some properties include a wide range of temperature and precipitation conditions. Nevertheless, the distribution reveals that there are relatively few World Heritage karst properties in arid and cold zones. 
+1.6 Karst Landscapes and Caves on the Tentative Lists of States Parties 
+States Parties have filed Tentative Lists of potential World Heritage sites in their territories. Therefore consideration should be given to whether properties identified in the Tentative Lists might fill some of the gaps in coverage noted in section 1.5. 
+Table 2 at the end of this report names 30 Tentative List properties that contain karst of probable international significance, although not necessarily of outstanding universal value. These are identified as a basis for preliminary screening of the karst values included within the Tentative Lists. The available information is at present insufficient to make possible full evaluations of the potential of these sites, and ultimately assessments of whether or not their karsts are of outstanding universal value can only be made if they are proposed for World Heritage. Tentative List properties containing karst judged to be of regional or national significance are not included. However, the table is almost certainly incomplete, firstly, because some countries known to contain important karst areas have not listed their sites and, secondly, because in some cases that have been listed the documentation available is insufficient to determine if significant karst is involved. This applies particularly to properties in Central Asia where carbonate rocks are widespread (Figure 2). Although most properties shown in Table 2 are included on Tentative Lists on the basis of natural values, some are mixed and others are cultural sites. There are also numerous important karsts that do not feature on either the World Heritage or the Tentative Lists. For example, huge areas of karst occur in the Middle East, but are seldom included in nominations because the States Parties concerned have focused on cultural sites; the well known Cockpit Country of Jamaica also does not feature, just to illustrate another case. 
+From the perspective of the conservation of important karst terrains, three points are significant when considering Tentative List properties: 
+8 
+World Heritage Caves and Karst: A Thematic Study 
+• Duplication: some properties on the Tentative List involve coral reefs and uplifted coral islands, e.g. Table 2: Phoenix Islands (Kiribati), Rock Islands-Southern Lagoon (Palau). These initiatives are to be welcomed but, in addition to their biodiversity value, it is also desirable to have a geodiversity organising theme for these properties (e.g. a series of sites that illustrate stages in the geological evolution and landscape development of coral reefs) that would provide a logical basis for their inclusion in a World Heritage nomination, because some coral and reef sites are already inscribed, e.g. Table 1: Aldabra Atoll (Seychelles), East Rennell (Solomon Islands), Henderson Island (UK), and duplication of values is unlikely to be acceptable. Transnational serial sites may be required to encompass all the desired features. 
+• Lack of recognition: Tentative Lists submitted by States Parties often do not include internationally outstanding karst sites within their territories possibly because their values have not been recognised. A mechanism to bring the conservation importance of sites such as these to the attention of States Parties is required (for example, by written communication by formally constituted and recognised international scientific unions). This applies particularly to countries whose territories include arid to semi-arid zones in a warm temperate to tropical context. 
+• Potential for gap filling: several properties on the Tentative List appear to have the potential to fill some of the gaps noted in section 1.5. Considering their karst geodiversity, the following merit further investigation: 
+(a) Band-E-Amir (Afghanistan), Canyon du Rio Peruaçu (Brazil), and Gewihaba (Botswana). The Lijiang River Scenic Zone (China) and Velebit Mountain (Croatia) might best be presented as parts of serial nominations within their respective regions. 
+(b) Some properties on the Tentative List are unlikely to be acceptable on the basis of physical karst features alone, perhaps because of duplication of values of ready inscribed properties, but may still justify World Heritage status when nominated in association with their outstanding biodiversity and their wider geodiversity values. Such sites include Great Desert Landscapes (Egypt), Phoenix Islands (Kiribati), Rock Islands – Southern Lagoon (Palau), Réserve de la Biosphère Selva El Ocote (Mexico), Parc Natural de Talassemtane (Morocco), Kahurangi National Park (New Zealand), Svalbard Archipelago (Norway), Lena Pillars Nature Park (Russian Federation). In addition, the three Tentative List properties proposed by Papua New Guinea (Huon Terraces, Kikori River, Sublime Karsts) could form the basis of a serial nomination of this kind. 
+(c) Other important karsts contribute to outstanding cultural landscapes, being the combined works of nature and man. The Hallstatt-Dachstein/Salzkammergut Cultural Landscape in Austria (Table 1) provides a good example already inscribed on the World Heritage List. Meriting further investigation in this context are Les Cevennes et les Grands Causses (France), the Burren (Ireland) and some sites in China that could form part of the South China Karst serial nomination. The Classical Karst (Slovenia) is of this type and could also contribute to a transnational karst nomination, as discussed in the next section. 
+Geopark status (see http://www.unesco.org/science/earth/geoparks.shtm), regional or national recognition may provide a more appropriate avenue for conservation of the remaining sites (UNESCO 2007) Recognition of geological and geomorphological heritage outside the World Heritage Convention is discussed by Dingwall et al. (2005). 
+9 
+World Heritage Caves and Karst: A Thematic Study 
+1.7 Recommendations for Filling the Principal Remaining Gaps 
+A natural property nominated for inclusion in the World Heritage List will be considered to be of outstanding universal value if the World Heritage Committee finds that it meets one or more of the following criteria, providing it also meets the conditions of integrity (UNESCO 2008, clauses 77 and 78): 
+(vii) to contain superlative natural phenomena or areas of exceptional natural beauty and aesthetic importance; 
+(viii) to be outstanding examples representing major stages of earth's history, including the record of life, significant on-going geological processes in the development of landforms, or significant geomorphic or physiographic features; 
+(ix) to be outstanding examples representing significant on-going ecological and biological processes in the evolution and development of terrestrial, freshwater, coastal and marine ecosystems and communities of plants and animals; 
+(x) to contain the most important and significant natural habitats for in-situ conservation of biological diversity, including those containing threatened species of outstanding universal value from the point of view of science or conservation. 
+Section 1.5 identified geographical and environmental regions in which karst World Heritage sites are distributed. It is evident from this that a wide range of karst landscape and cave values are already represented on the World Heritage List. It is also noted here that Part 2 of the South China Karst nomination is in process and so, if successful, further World Heritage sites from humid tropical to subtropical areas may be anticipated. Nevertheless, although karst is well represented in the humid zone, especially in the Northern Hemisphere, the sites currently included on the World Heritage List are not sufficient to represent karst values of the region of Europe from which karst took its name – the Dinaric Karst. The ad hoc process by which karst is represented in the region has failed to provide an adequate coverage of its karst features. In addition to this, karsts are poorly represented in: 
+• the arid to semi-arid zone of the tropics to subtropics, 
+• the periglacial zone, and 
+• the Southern Hemisphere. 
+All the above represent high priority areas for future recognition of karst landscapes and features, including biodiversity above and below ground. 
+However, one should note that in many karst areas biodiversity values have been damaged through a process of progressive devegetation and soil erosion, termed ‘rocky desertification’, which turns a region into an ecological wasteland (see case studies by Gams et al. and Yuan in Williams 1993). Thus inscription will most likely only be considered in relation to criteria (vii) and (viii) above, although exceptionally criteria (ix) and (x) may apply, especially underground. 
+Recommendation 1 
+That States Parties whose territories embrace the Dinaric Karst of Europe consider a transnational serial nomination that would include a representative range of karst values and features of all scales above and below ground from the mountains to the sea. Such a property should represent the international type-site of karst by illustrating a full range of the region’s karst features and by providing evidence for their evolution. Explicit inclusion of associated biodiversity values would also be important. 
+10 
+World Heritage Caves and Karst: A Thematic Study 
+The Earth’s two great type areas of karst (the Dinaric Karst and the South China Karst) need to be given the highest international level of protection. This is in process for the South China Karst, where only one State Party is involved and Phase 1 is successfully completed, but international cooperation is required to achieve an equivalent level of conservation of the type area of karst in Europe. Three World Heritage properties, Plitvice Lakes (Croatia), Škocjan Caves (Slovenia) and Durmitor National Park (Montenegro) (Table 1), are part of this wider area, but contain a limited range of features. The Tentative List properties of Velebit Mountain (Croatia) and Classical Karst (Slovenia) (Table 2) would make further contributions to the karst attributes covered, as might some other protected areas, such as Cerkniško Polje (Slovenia) which is a RAMSAR site, and some other properties on the Tentative List. 
+An international committee would be required to identify and rationalise the best set of complimentary areas that would together make up a serial transnational Dinaric Karst World Heritage property. The countries that would form the core of such an initiative are Slovenia, Croatia, Bosnia-Herzegovina and Montenegro. Such an approach would consider the contribution of the three existing World Heritage properties and could unite them (along with other new sites) as part of a serial nomination. 
+Recommendation 2 
+That States Parties whose territories include karst terrains located in arid to semi-arid environments of the tropics and subtropics consider the natural World Heritage potential of their sites, especially if such territories are located in the Middle East, Central Asia or the Southern Hemisphere. 
+Karst in tropical to subtropical arid to seasonally arid environments is widespread in the Middle East and Central Asia and in parts of Africa, Australia and Brazil. Some outstanding karsts are known in Western Australia (including the limestone ranges of the Kimberley which is an international type-site for seasonally arid karst) and from interior subtropical Brazil, with other examples at the more arid extreme from the Nullarbor Plain in southern Australia and from Yemen to Afghanistan, where there are extensive limestone terrains. Tentative List properties Band-E- Amir, Canyon du Rio Peruaçu, Gewihaba, Great Desert Landscapes, Parc Natural de Talassemtane (Table 2) could be considered further in this context, but there are areas mentioned above and not on the Tentative List that are of equal or sometimes greater conservation value, e.g. parts of the Kimberley and Nullarbor regions of Australia (the landscapes of both regions are discussed in Ford and Williams 2007). 
+Recommendation 3 
+That States Parties whose territories include karst terrains situated on continuous or semi- continuous permafrost consider the potential of their sites for natural World Heritage recognition. 
+Karst in periglacial environments is widespread within the Arctic Circle and some high mountain ranges. For example, huge areas of Siberia contain limestone karst developed on permafrost that is totally unrepresented and scientifically not very well known (see Pulina 2005). Likewise, large areas of karst in arctic Canada have the potential for nomination, notwithstanding the importance of the Nahanni National Park World Heritage site (Table 1). Because of the global distribution of land and sea, similar opportunities are lacking in the Southern Hemisphere. Tentative List properties Svalbard Archipelago and Lena Pillars Nature Park (Table 2) are important sites in this context, but there are sure to be other unlisted areas with karst in Alaska, Canada and Siberia that also merit consideration. 
+11 
+World Heritage Caves and Karst: A Thematic Study 
+Recommendation 4 
+That States Parties whose territories include karst terrains situated on evaporite rocks consider the potential of their sites for natural World Heritage recognition. 
+There are no examples on the World Heritage List of karst on evaporite rocks, possibly because they tend to support relatively unspectacular relief compared to limestone karst. Nevertheless, this is not the case for the salt ‘glaciers’ or namakiers of the Middle East (namakiers are the surface expression of salt domes as they are extruded by lithostatic pressure and flow across the surface), because they support impressive karst (with caves). This occurs, for example, in the namakiers of the Larsitan Desert in Iran, where a cluster of such sites could provide the basis for a serial World Heritage nomination, although they are not named on a Tentative List. 
+Gypsum outcrops in many places around the world and often lies buried at a shallow depth. It is less soluble in rainwater than salt, but much more soluble than limestone. Therefore it supports many caves and interesting surface landforms. It is sometimes also found in the permafrost zone (Pulina 1992). Occurrences are particularly extensive in the Russian Federation, Ukraine and North America (Klimchouk et al. 1996). However, with a few notable exceptions, the stratigraphic thickness of most gypsum (and anhydrite) deposits is usually less than 100 m, so relief is limited unless the rocks are folded. Svalbard Archipelago (Norway) (Table 2) includes both evaporite and carbonate karsts in a permafrost context, and contains many other outstanding natural features of the maritime polar environment. It would be a strong candidate for World Heritage inclusion. Evaporite karst also occurs in the Great Desert Landscapes site (Table 2) in Egypt. 
+Karst landscapes on evaporite rocks tend to be best expressed in the drier areas of the world; thus one or two outstanding sites would also help to reduce the bias of natural World Heritage properties towards the more humid environments. 
+Recommendation 5 
+That States Parties whose territories include outstanding examples of pseudokarst consider the potential of their sites for natural World Heritage recognition or for inclusion as one element within a nomination of wider scope. 
+Karst-like features such as caves, enclosed depressions and large springs are associated with volcanic, glacial and permafrost environments. Some of these features may be outstanding characteristics of the natural landscape of which they are part, even though by themselves they might not merit consideration for World Heritage listing. Their value could therefore be recognised by being explicitly included in a broader nomination. 
+Recommendation 6 
+That IUCN facilitates communication between international scientific unions and States Parties concerning advice about important sites worthy of consideration for inclusion on Tentative Lists. 
+Many sites of outstanding scientific importance have not been included on the Tentative Lists of States Parties, possibly because the significance of these sites has not been brought to the attention of the State Party concerned. 
+In cases where the features of an area are of outstanding importance to geoscience and are accessible and comprehensible by civil society and not just of a specialised scientific value, then 
+12 
+World Heritage Caves and Karst: A Thematic Study 
+such sites could merit inclusion on the Tentative List, as a precursor to consideration for World Heritage. International scientific unions (such as the International Geological Union, the International Association of Geomorphologists, the International Association of Hydrogeologists, the International Union of Speleology, and the International Union of Biological Sciences) are the best sources of objective authoritative scientific information on such sites, and these unions are well placed to judge impartially the importance of their scientific values compared to other properties on the World Heritage List and Tentative List. International scientific unions should therefore be encouraged to convey well-documented advice on potential Tentative List sites to the IUCN who, after evaluation of the case and the documentation, would convey the advice to the appropriate State Party for further consideration and possible implementation. A parallel process would be appropriate for cultural landscapes and should involve the International Geographical Union. International scientific unions would be expected to communicate fully with appropriate national scientific organisations prior to submitting their proposal to the IUCN. 
+1.8 Conclusions on Karst and the World Heritage List 
+There are numerous World Heritage properties with significant karst in humid temperate and tropical regions (Table 1, Figures 2 and 3). Thus there is little scope for inscribing new sites in those environments, especially with Phase 2 of the South China Karst serial nomination still to be completed, unless the karst forms part of a wider nomination. Many of the existing World Heritage properties include outstanding caves with rich and varied speleothem decoration and fossil-rich cave sediment accumulations, and the hydrogeological conditions under which they evolved encompasses a wide range of genetic conditions. Nevertheless, the process of nomination and inscription has been ad hoc and, as a result, has led to a suboptimal representation of karst values. This is apparent when considering the Dinaric Karst of Europe, the type region from which karst derives its name, the features and values of which are inadequately represented. 
+Consequently, and assuming that South China Karst Phase 2 will proceed, the highest priorities for completion of a comprehensive range of karst World Heritage sites are: 
+• to cover more adequately the karst type region of Europe, 
+• to fill gaps in coverage in cold regions, arid/semi-arid regions and tropical oceanic regions, and 
+• to identify evaporite karst sites of outstanding universal value. 
+Because karsts are already well represented in humid tropical and temperate regions, future nominations of sites from these zones will need to demonstrate that they are amongst ‘the best of the best’, i.e. of at least equal value to if not better than existing World Heritage properties, and it would also be desirable for them to have karst as just one of a range of outstanding universal values. 
+It should be recognised that of the many karsts of international value listed in Table 1 most are found in World Heritage properties that were not inscribed specifically for their karst attributes; karst was but one of many important values, biological as well as physical. The Lorenz National Park in Indonesia and Three Parallel Rivers of Yunnan are cases in point. Thus there remains scope for including new karst areas in future World Heritage sites nominated for a range of bio- and geo-diversity reasons. Some sites in Oceania, for example, could meet both geo- and bio- diversity criteria and include karst amongst several outstanding values. Other points to consider in this context are that: 
+• karst values could be identified in some existing World Heritage sites through re-nomination under criterion viii, 
+• karst values could be the basis for extensions of some existing World Heritage sites, including across international boundaries, and 
+• biodiversity values of karst could be better recognised. 
+13 
+World Heritage Caves and Karst: A Thematic Study 
+Many karst areas have a long history of human habitation and stable landscapes of outstanding special character have evolved and matured. Thus 
+• some karst areas could be recognised as World Heritage mixed properties and/or cultural landscapes under criterion v. 
+In spite of extreme human impact on karst having resulted in rocky desertification in some cases, there are many other karsts in which human interaction with the environment has attained an equilibrium and a cultural landscape of unique character has developed. 
+14 
+World Heritage Caves and Karst: A Thematic Study 
+PART 2: THE REQUIREMENTS FOR INTEGRITY AND MANAGEMENT THAT SHOULD APPLY TO KARST ON THE WORLD HERITAGE LIST 
+2.1 Conditions of Integrity 
+Paragraph 78 of the ‘Operational Guidelines for the Implementation of the World Heritage Convention’ (2008) requires that for a property to be deemed of outstanding universal value it must meet the conditions of integrity and must have an adequate protection and management system to ensure its safeguarding. 
+Integrity is defined in Paragraph 88 as a measure of the wholeness and intactness of the natural heritage and its attributes. However, it is appreciated (Clause 90) by the World Heritage Committee that no area is totally pristine, that activities of traditional societies often occur in natural areas, and that these activities may be consistent with the outstanding universal value of the area where they are ecologically sustainable. 
+The level of integrity is also an important consideration, because World Heritage is concerned with best that planet Earth has to offer. Thus inscribed properties are expected to meet the highest international standards. 
+2.2 Requirements for Integrity that Apply to Karst 
+The Unusual Characteristics of Karst 
+When compared to other landscape styles and ecosystems, karst has a number of unusual characteristics that must be taken into account when its integrity is assessed: 
+1) Karst is unusually complex because it comprises both surface and subterranean features and values and integrates surface and subterranean processes, both biological and physical. Karst also has natural archives of its own history, because palaeokarst features and cave deposits record stages in the evolution of the karst and of the environment and ecosystems around it. 
+2) Karst ecosystems are fragile because environmental conditions can be extreme. They are usually calcareous (or highly saline in evaporite rocks); periodically arid at the surface (because rainwater sinks quickly underground); and dark and remote from food sources underground while subject to periodic flooding. The subterranean ecosystem is particularly fragile being dependent mainly on energy flows transmitted by water, the quality of which is critically important for survival. 
+3) Karst integrity depends above all on hydrological conditions, because solar energy input is moderated mainly through the hydrological cycle which powers the karst system (by corroding rock, transporting organic detritus underground, nutrients to plants, etc) and integrates its various parts. 
+4) Most water passing through karst is introduced by sinking streams. Many of these are derived from impervious catchments that lie beyond the boundary of the karst area [these are termed allogenic streams, as opposed to autogenic streams that are derived entirely from karst rocks (see Figure 4)]. Consequently, conditions upstream beyond the karst boundary can have a critical influence on the integrity of the karst. Recharge zones are of critical importance and need to be identified and managed. River-borne pollution is a major threat to the viability of vertebrates and invertebrates living in and near rivers in the karst and to other animals that may depend on them for their food. Fragile subterranean species are particularly at risk, and serious damage can occur unwittingly because the major effects are underground and out of sight. 
+5) Karst drainage areas are not easily delimited. The drainage basins and routes followed by karst water are not obvious, because drainage paths are largely subterranean. Large springs are a feature of karst, but groundwater basins do not necessarily follow surface divides and headwaters 
+15 
+may be derived from sinking surface streams located many kilometres away. Groundwater divides are best considered as zones, because their plan position can shift between high and low water conditions. The flow-through time for water first sinking underground to its reappearance at a spring can vary from days to years depending on the size and nature of the groundwater system. 
+World Heritage Caves and Karst: A Thematic Study 
+Figure 4. Autogenic recharge is sourced entirely from rainfall that falls within the karst area. Allogenic recharge comes from runoff from non-karst rocks. The diagram on the left shows how allogenic water can be introduced vertically from overlying non-karst rocks; and the diagram to the right illustrates how it can be introduced laterally. Many karsts have a mixture of autogenic and allogenic recharge (from Ford & Williams 2007, figs 4.1 and 9.49). 
+Requirements for Integrity 
+There may be superb features and values in an area nominated as natural World Heritage site, but are the conditions of integrity met? To make that judgement requires an assessment of the following: 
+a) the wholeness and quality of the natural heritage and its attributes. In the nominated area, are the features above and below ground the best examples available? Does the range of features fully represent the karst of the region as a whole? Are the karst attributes so exceptional as to transcend national boundaries in their significance and be worthy of being designated as of outstanding universal value? Do they stand up readily to international comparison and could they be described as the ‘the best of the best’? 
+b) the intactness of the natural heritage and its attributes. To what extent has the property suffered from the adverse effects of human development or neglect, and does the impact now render the property unable to meet the condition of integrity? Is there on-going environmental rehabilitation that will lead to effective repair of any damage? Does on-going human activity in the area or in the region around it threaten the long-term sustainability of the natural ecosystem? 
+16 
+World Heritage Caves and Karst: A Thematic Study 
+c) the adequacy of the size of the property. Is the size of the nominated area sufficient to ensure that on-going natural processes will continue uninterrupted, so that the region’s significant features and values will be maintained for the foreseeable future? Is there a sufficient buffer zone that might absorb the impacts of human activities in the surrounding region? 
+d) the prospect of maintaining integrity into the future. Is the World Heritage area optimally delimited for management? Are the boundaries appropriate for effective protection of the important karst features of the area: both surface and underground; both physical and biological? Is the area adequately protected by effective legislation? 
+The boundaries of nominated properties require very careful consideration. In any given country sites may involve areas of different legal status – National Parks, Geoparks, MAB sites, etc. – and the already defined boundaries of these properties may be used as boundaries of core zones in areas nominated for World Heritage inscription. However, nature does not recognize administrative boundaries and sometimes areas of equal quality to the proposed core zone extend beyond it. Where possible boundaries should follow natural watersheds (including groundwater divides), because that will facilitate catchment management, especially through the control of water quality in recharge zones and the maintenance of high quality habitat for subterranean species. The largest area practicable should be demarcated to ensure living space for endangered species above and below ground. If necessary, legal boundaries should be adjusted to ensure high level legal status and protection of the core World Heritage area. This will help obviate future problems and so facilitate effective environmental management. 
+Mining and quarrying affects the intactness of the natural heritage and its attributes, and the prospect of maintaining integrity into the future. IUCN therefore considers that mining and quarrying is incompatible with natural World Heritage, and this position has been supported by the World Heritage Committee. Integrity issues may arise if mining and quarrying takes place in the zone of influence, or buffer zones, of karst properties. If management has power to influence the location of such activities, then quarries should be located on the downstream side of karst areas. They should definitely not be located in the upstream recharge zone, otherwise polluted water (including silt runoff) will affect karst aquatic ecosystems - often underground and unnoticed. Dust from quarries can also be a problem, so prevailing wind issues need to be taken into account. 
+2.3 Requirements for Management that Apply to Karst 
+“The purpose of management of a World Heritage property is to ensure the protection of its “outstanding universal value” for the benefit of the present generation, and its transmission unimpaired to future generations” (Thomas and Middleton 2003, p. 65). World Heritage status often brings considerable tourist pressure that may threaten the integrity of the site, but with good planning and appropriate practices tourism in protected areas can be managed sustainably, as explained by Eagles et al. (2002). 
+Responsibility of the State Party 
+The inscription of a property on the World Heritage List implies that the State Party will carry the ultimate responsibility for management of the site to the highest level of international conservation practice. It also has responsibility for honouring and implementing any transboundary agreements. 
+Management of World Heritage properties requires clear unambiguous authority. This does not necessarily sit readily with established interests that may operate at national, provincial (state) and local levels and may involve planning and environmental agencies sometimes with competing and conflicting interests and sensitivities. Thus when the World Heritage property is first nominated for inscription, the State Party should already have made it clear where final responsibilities will rest. 
+17 
+World Heritage Caves and Karst: A Thematic Study 
+Management Structure 
+Within any given country three interlinked levels of administration are usually required: 
+Policy level: one over-arching national authority ultimately responsible for all World Heritage properties with policy-making power that operates within the laws of the country and requires international standards to be applied even-handedly to all properties. 
+Planning level: a governing body charged with the implementation of national policies applying to all World Heritage sites in the country. It approves management plans for policy implementation at individual property level and delegates authority to individual site managers for their implementation. This body ensures that national policies and standards are applied to all World Heritage sites in the country; this being particularly important in the case of serial nomination sites in different provinces. 
+Management level: site managers of individual World Heritage properties are responsible for implementing management plans approved by the governing body and should have a role in the development of the plan. Effective implementation to appropriate standards requires strong leadership with clear authority and responsibility, as well as support from the governing body. Park management committees must include representatives of the local people who should also have a significant role in the development of the plan. 
+A review of options for effective management of protected areas, including assessing management effectiveness and guaranteeing protection, has been undertaken by Thomas and Middleton (2003) and Hockings et al. (2006). Specific guidelines for karst and cave protection are provided by Watson et al. (1997). Management planning starts with the present situation and asks the question: where are we now? It then proceeds to consider a vision for the area: where do we want to be? Management involves a sequential process of planning, implementation and outcome, at each step there being a process of evaluation. The management cycle is perpetually implemented with a view always to making improvements and getting closer to an ideal outcome. Figure 5 illustrates this process. 
+A management plan should consider such topics as: documentation of the present situation concerning principal values for conservation, land use, visitors and legislation; documentation of the scientific and aesthetic values of the World Heritage area, threats to them, and actions necessary to preserve them; strategic directions for the next 10 or 20 years; monitoring reserve values and the efficacy of management practices; visitor services, facilities and visitor management; communicating reserve values via interpretation and education; new proposals and their impact assessment; staff management and development; and measuring progress towards attaining goals. 
+Recognition for good management could be supplied by a process of certification in which individual protected areas are certified/verified against previously agreed basic standards. A certification process could create an important focus on management effectiveness, and achievement of a certificate of good management could provide important political recognition of protected areas and their managers. The Vth IUCN World Parks Congress at Durban 2003 recommended that the WCPA works with partners to investigate options for outlining benefits and costs of certification (see Appendix II in Hockings et al. 2006). 
+18 
+Figure 5. The management cycle proposed by the World Commission on Protected Areas. This illustrates a framework for assessing management effectiveness of protected areas (from Hockings et al. 2006). The cycle starts by reviewing the present context (where are we now?) and then considers management objectives (where do we want to be? and how are we going to get there?). The inputs refer to what is needed in terms of staff, assets and budget; and the management process asks: how do we go about achieving our aims? The delivery stage identifies outputs (what did we do or provide?) and then reviews outcomes (what did we achieve? For example, were the outstanding universal values of the site protected?). 
+Management Issues in Karst 
+The management of karst in general is discussed in such publications as Watson et al. (1997), Vermeulen and Whitten (1999), and Ford and Williams (2007). The focus here is more narrow: on karst in and around World Heritage properties. Issues in the maintenance of integrity and adequate management of values in World Heritage karst areas are discussed in the context of the Asia-Pacific region in Wong et al. (2001). 
+Runoff from Upstream Areas: It is not an overstatement to assert that water quality management of allogenic streams draining into karst is the key issue of environmental management in any karst area. It is critically important in natural World Heritage properties because so much is at stake. The deleterious effects of water pollution, particularly underground, can be widespread and insidious. Its effects can also be long-lived and difficult to remove, because the residence time of polluted water underground can be long and storage can occur in inaccessible places, not only below the water table (in the phreatic zone), but also just below the surface (in the epikarst). 
+The transport of water-borne pollutants by an allogenic river sinking at Škocjan Cave World Heritage property in Slovenia was once a very serious problem, but has been largely resolved. It is a potential problem requiring careful management at the Libo cluster of the South China Karst World Heritage property because of agricultural and urban land upstream. Only community education and involvement, agreement to work together, and strict enforcement of standards will ensure the problem is kept under control. Contaminated runoff from the land is affecting values in 
+World Heritage Caves and Karst: A Thematic Study 
+19 
+World Heritage Caves and Karst: A Thematic Study 
+the Ha Long Bay World Heritage site in Vietnam and shipping lanes through the Bay pose a continuing threat. 
+The difficulties confronting park managers in such areas are not to be underestimated, because pollution frequently comes from areas over which they have no direct jurisdiction. In terrestrial sites, the best way to deal with the problem is to ensure in the first place that the nominated area boundary is manageable by following the natural watershed. This leaves catchment supervision in the hands of park management. However, sometimes that is impractical because allogenic catchments can be very large and may contain agricultural, urban and industrial centres. In such cases, effective partnerships have to be established with authorities responsible for management of the upstream area with a view to reaching agreement on a total catchment plan of the highest possible standard, effectively enforced and monitored. The maintenance of high water quality is a common good that is in everyone's interests. This also applies to sea waters, as in the Ha Long Bay. 
+To reduce to acceptable levels the danger that uncontrolled allogenic runoff poses to the ecosystems of World Heritage sites, it is absolutely essential to enforce strict and effective water quality management in the catchments of streams and rivers flowing into inscribed areas. No untreated waste water from cities, towns and industries must be permitted to enter waterways that ultimately drain into World Heritage properties. High water quality standards must be set and regular monitoring must be undertaken, both of dissolved materials and aquatic indicator species of water quality. 
+Monitoring stations should be established at input and output points in the karst system, i.e. where rivers flow into inscribed areas and at springs, because spring water integrates the effect of all contributing water sources in the catchment. Monitoring plans should be public documents and results of monitoring should be published annually. 
+A Key Tool for the Management of Karst Areas: Because of the paramount importance of catchment management in karst areas, the most important tool for the manager is a hydrogeological map. It should cover the World Heritage property and any surrounding areas that impinge upon it, especially allogenic catchments draining to the karst. An excellent example of this is provided by the hydrogeological map of the Mammoth Cave World Heritage area in the USA. It maps all sinking streams and springs and shows proven paths (by water tracing and cave survey) followed by underground water through the National Park. Cave plans are superimposed on the map. Thus if there is an accidental spillage of a pollutant inside or outside of the park then managers can see where the pollution is likely to go and plan appropriate remedial action. 
+Every World Heritage property with karst of outstanding universal value should have a hydrogeological map of this kind. It may take several years to develop, but detail can be added progressively as the knowledge base is built up. A scale of 1: 50 000 to 1: 25 000 is appropriate, depending on the size of the protected area. Also highly desirable as management tools are vulnerability mapping and recharge mapping by Geographical Information Systems, because they help delimit protection zones, classify their importance, and thus show where most management attention is required. 
+Further information on water tracing methods; groundwater vulnerability, protection and risk mapping; and the preparation of hydrogeological maps for karst areas is provided in Ford and Williams (2007). 
+Restoration of Impoverished Ecosystems: Another important issue that arises in many karst sites is environmental rehabilitation, particularly restoration of natural vegetation and improvement of faunal habitat. Improvements of this sort also restore natural karst process conditions. Problems of biological restoration are not a major issue when inscription is on the basis of World Heritage criteria (ix) and (x), which are concerned with biodiversity, but may arise when inscription is on the basis of criteria (vii) and (viii), which deal mainly with geodiversity (UNESCO 2008), because outstanding physical landscapes may have suffered considerable human impacts on their 
+20 
+World Heritage Caves and Karst: A Thematic Study 
+ecosystems with the result that environmental rehabilitation may have become a high priority of management. 
+In the Dinaric Karst and the South China Karst, the world's two most important karst type areas, there have been thousands of years of human occupation. As population pressure has increased, demand for natural resources has exceeded the capacity of nature to renew itself; and so natural plant and animal systems have become progressively degraded. Nevertheless, World Heritage sites may be nominated for their geodiversity values, even when their biodiversity is damaged, provided the impact on vegetation is not too severe and there is real prospect of significant environmental restoration. Land should be retired from agriculture and the recovery of natural vegetation should be encouraged. Only very limited harvesting of natural resources by indigenous peoples should be permitted. The aim is to restore the core zone of the World Heritage area to as natural a condition as possible: to restore the damage inflicted in the past for the benefit of future generations. 
+In extreme cases human impact has led to an induced ecological desert, the process being called rocky desertification. Thousands of square kilometres are affected in this way in both the Dinaric Karst and the karst of southern China (Gams et al. 1993, Yuan 1993). Impact of the severity that leads to advanced rocky desertification renders it impossible to find large areas with recoverable ecosystems and the karst process system is severely damaged. Consequently, the best that can be done is to save what remains and actively encourage environmental rehabilitation. 
+Occasionally rocky desertification has occurred naturally with progressive biological adjustment as climatic zones shifted over geological time. Thus karst landscapes in the arid subtropics often show the legacy of development under more humid conditions in the geological past. These are important sites, because they contain a record of major stages in Earth’s history and may provide refugia of ancient endemic species, especially in the groundwater system. 
+Management of Caves 
+Tourist Caves: Cave management within World Heritage locations must be to international standards and should be a model for commercial tourist caves elsewhere. Special skill is required to develop a tourist cave to the standards worthy of a World Heritage location. A balance is required between the engineering required to facilitate access and the minimization of engineering for the sake of access. In a World Heritage site, this balance must err on the site of conservation: minimization of impact on natural conditions must take precedence over engineering for mass public access. Further, to maintain a cave in excellent condition, management is required not just of the cave but also of the area above and around it. 
+The main environmental objectives of cave management should be to keep temperature, humidity and atmospheric carbon dioxide (CO2) conditions within the natural range of variation, to minimize light available for photosynthesis, and to maintain water quality and quantity. This will safeguard the subterranean ecosystem. Natural vegetation conditions must be maintained directly above and around the cave to protect the quality of infiltrating water and the epikarst habitat (i.e. no buildings or car parks should be located there). Tourist cave lighting sources should be high efficiency lamps to minimize heat input into the cave atmosphere and to minimize light wavelengths suitable for photosynthesis. The duration and spectral quality of lighting should be such as to restrict the development of plant and algal growth (lampenflora) around light sources. A green halo around cave lights is a clear indicator of poor environmental management. In a World Heritage site, it is more appropriate to reveal natural colours than to impose artificial tints through coloured lights. 
+Tourist caves are particularly susceptible to damage both during development, when paths and lighting are installed, and during tourist operation. Decisions made during the development of the cave and during its operation for tourism should always try to ensure the maintenance of natural hydrological and ecological processes and the preservation of cave values and natural resources. If significant variation to measured baseline conditions occurs after tourist visitation commences, then maintenance of World Heritage values must take precedence over tourism, with tourist traffic 
+21 
+World Heritage Caves and Karst: A Thematic Study 
+being modified to reduce human impact to acceptable minimal and sustainable levels, even to the extent of closing the cave. A precedent for this is found at Lascaux World Heritage site in France. 
+Tourist routes through the cave should be designed to have minimum impact on delicate cave formations (speleothems) and on biological habitats within the cave. Cave sediment floors should be protected by raised pathways to preserve their habitat value, fossil record and sediment history. Cave entrances may be important archaeological sites, and so require special protection. Tourist guides should be aware of these special features, should help protect them, and should explain to visitors the significant features of the cave that led to its inscription on the World Heritage List. 
+Materials used for tourist infrastructure (paths, etc.) should be non-toxic to biota and largely removable, so that if necessary the cave can be returned almost unspoiled to nature. 
+There is considerable international experience on tourist cave development, cave conservation, management, ethics, and restoration of damage. A rich source of ideas on these topics is available in Hildreth-Werker and Werker (2006). 
+Wild Caves: Many natural (or ‘wild’) caves are found in World Heritage properties with abundant karst. Park managers need to recognize that even the most experienced, careful, and environmentally conscious cavers do inadvertent damage underground, especially in caves with abundant speleothem formations and fossil deposits. Damage caused by search and rescue activity, should that be needed, will make matters even worse. Thus cave exploration needs careful management. The most important principle here is to insist that an experienced speleologist leads the group and that party size is small, usually not more than six, but this depends on the nature and size of the cave. Only electric lights should be used and all rubbish must be carried out. 
+There is a need to manage access to wild caves to ensure that at least 50% of the known caves or parts of caves within a World Heritage property are protected from random recreational access – including recreational research. Access to special sites should only be for research that cannot be conducted elsewhere, and the research should explicitly contribute to the management of the protected area. 
+Results of cave exploration and survey are important sources of information for park managers as they help to complete part of the hydrogeological picture and provide data on natural resources within the area; thus careful exploration by experienced cavers should be encouraged provided impact is minimal and results of exploration are reported back to management. 
+Scientific sampling within the cave should be by permit only, having been well justified, and kept to a minimum. Speleothems may take tens to hundreds of thousands of years to grow but can be removed in minutes. The same approach should be taken to excavating archaeological and fossil deposits that are frequently found near cave entrances. They should only be excavated by experts and for good reason; only part of the deposit should be removed and taken to a mutually agreed safe repository; and results of the research should be reported back to park management. Ecological survey and sampling requires a similar approach and conditions. 
+2.4 Monitoring 
+To be reassured that management activities have been effective there needs to be a method of evaluating progress. Monitoring measures change over time; and it is required to provide objective evidence of the effectiveness of the implementation of management practices. Dudley et al. (2003) provide a review of options. Monitoring is an essential management tool and is designed to provide reliable information on the current situation that can be compared to ‘baseline’ conditions, i.e. to the situation that existed before management commenced. By monitoring before, during and after developments, changes can be recorded and there is objective evidence of impacts and improvements. 
+22 
+World Heritage Caves and Karst: A Thematic Study 
+Sensitive sites and sensitive indicators should be chosen for monitoring. In karst, for example, stream-sinks and springs (input and output sites) should be used as water quality monitoring stations. Apart from a range of chemical and physical measures (e.g. dissolved oxygen, temperature, suspended solids, etc), presence and abundance of sensitive species with a low tolerance to pollution should be monitored. For example, at the surface and in caves, endemic snails, arthropods and plants are examples of sensitive species that can be monitored. Invasive species should also be noted. 
+Water quality monitoring should cover a range of extreme conditions from drought to flood. Baseline climatological and ecological conditions should be established in the cave before development for tourism starts, a year being required to obtain reliable representative records. Climate and atmospheric measurement in tourist caves requires a professional weather station approach. Monitoring stations should be set up at sensitive sites and climatological and ecological surveys should be conducted regularly with results published annually. Automatic monitoring should be undertaken where possible. The objective of management should be to keep temperature, humidity and atmospheric CO2 conditions as close to the natural baseline values as possible, while at the same time keeping the cave free from invasive species, vandalism, rubbish, and wear and tear. 
+Photo-monitoring should be used extensively and regularly at established key sites, especially along tourist routes (above and below ground), because it is an effective way of showing up wear and tear from tourist pressure. 
+Methods and measures used in monitoring should be readily understood and applied by trained staff. Results of monitoring should be published annually. In a few years time, we will want to know if the World Heritage site is in at least as good a condition as when it was first inscribed. Objective monitoring will provide the evidence. Although tourist pressure creates the potential for environmental impact, it is park management that can prevent or at least limit serious impact - or permit it to occur. 
+2.5 Conclusions on Integrity 
+Managing a World Heritage site is a responsibility of global significance undertaken in trust for present and future generations. Therefore it must be carried out to the highest international standards and with the cooperation and support of the local people. 
+The State Party is ultimately responsible to UNESCO for the success or failure of management of World Heritage properties within its borders. Thus to assist managers and avoid competing or conflicting interests, legal authority and lines of responsibility must be clearly established. To ensure grass root support, local people must have a say in park planning and management, and should share in the benefits of having a World Heritage property in their neighbourhood. 
+The boundaries of natural World Heritage properties should capture all the outstanding universal values of the area that they represent. The boundaries should also be logical, manageable, and agreed to and respected by the local community. Thus, for example, if a property has been nominated for its natural beauty (criterion vii), then it is essential to maintain all areas essential for maintaining the aesthetics of the area. 
+Water quality management of allogenic streams draining into karst is the key issue of environmental management in any karst area. Hence, protected area boundaries in karst areas should follow natural watersheds wherever possible. In many cases allogenic stream catchments are required to be included in the managed zone to ensure that karst values are safeguarded. If this is not achievable, because of the large size of the allogenic basin, then an effective cooperative agreement for total catchment management must be achieved between park 
+23 
+World Heritage Caves and Karst: A Thematic Study 
+management and the wider community that will protect the World Heritage site from water-borne pollution. This is critical. 
+All decisions within natural World Heritage properties must be compatible with conservation, its value to posterity being more important than short-term economic gain. Thus most economic infrastructure should be located outside the World Heritage property rather than inside it, exceptions being those related to reasonable, low impact tourist access, especially in tourist caves. 
+Objective monitoring at key sites should be undertaken as frequently as necessary to assess the effectiveness of policies and management. Results of monitoring should be publicly available and published regularly. Publication should be by the State Party or its delegated authority. External reviews should be conducted periodically under the auspices of the IUCN to evaluate the state of conservation of the World Heritage property and the effectiveness of management. The overall objective will be to ensure that the property is in at least as good a condition as when it was first inscribed on the World Heritage List. 
+24 
+World Heritage Caves and Karst: A Thematic Study 
+References 
+Clements, R., Sodhi, N.S., Schilthuizen, M. and Ng, P.K.L. (2006) Limestone karsts of Southeast Asia: imperiled arks of biodiversity. BioScience 56(9), p. 733-742. 
+Culver, D.C. and White, W.B. (2005) Encyclopedia of Caves. Elsevier Academic Press, Amsterdam, 654 pp. 
+Cvijić, J. (1893) Das Karstphanomen. Versuch einer morphologischen Monographie, Geographische Abhandlungen herausgegeben von A. Penck, Bd., V.H, 3. Wien, p. 218-329. 
+Cvijić, J. (1901) Morphologische und glaciale Studien aus Bosnien, der Hercegovina und Montenegro: die Karst-Poljen. Abhandlungen der Geographie Gesellschaft Wien, 3(2), p. 1-85. 
+Cvijić, J. (1918) Hydrographie souterraine et evolution morphologique du karst. Hydrographie souterraine et evolution morphologique du karst, 6(4), p. 375-426. 
+Dingwall, P., Weighell, T. and Badman, T. (2005) Geological World Heritage: a Global Framework. IUCN Protected Area Programme, Gland, 51 pp. 
+Eagles, P.F.J., McCool, S.F. and Haynes, C.D.A. (2002) Sustainable Tourism in Protected Areas: Guidelines for Planning and Management. IUCN, Gland, Switzerland and Cambridge, UK, 183 pp. 
+Ford, D.C. and Williams, P.W. (2007) Karst Hydrogeology and Geomorphology. Wiley, Chichester, 562 pp. 
+Gams, I. (1973) Slovenska kraska terminologija (Slovene karst terminology). Zveza Geografskih Institucij Jugoslavije, Ljubljana. 
+Gams, I. (1991) The origin of the term karst in the time of transition of karst (kras) from deforestation to forestation. Proceedings of the International Conference on Environmental Changes in Karst Areas (IGU/UIS), Quaderni del Dipartimento di Geografia 13, Universita di Padova, p. 1-8. 
+Gams, I. (2003) Kras v Sloveniji v prostoru in času, Založba ZRC, ZRC SAZU, Ljubljana, 516 pp. 
+Gams, I., Nicod, J., Sauro, M., Julian, E. and Anthony, U. (1993) Environmental change and Human Impacts on the Mediterranean karsts of France, Italy and the Dinaric Region. In P.W. Williams (ed.) Karst Terrains: Environmental Changes and Human Impacts. Catena Verlag, Cremlingen-Destedt, p. 59-98. 
+Gunn, J. (ed.) (2004) Encyclopedia of Caves and Karst Science. Fitzroy Dearborn, New York, 902 pp. 
+Hildreth-Werker, V. and Werker, J.C. (eds) (2006) Cave Conservation and Restoration. National Speleological Society of America, Huntsville, AL, 600 pp. 
+Hill, C.A. and Forti, P. (1997) Cave Minerals of the World. 2nd Edition. National Speleological Society of America, Huntsville, AL, 463 pp. 
+Hockings, M., Stolton, S., Leverington, F., Dudley, N. and Courrau, J. (2006) Evaluating Effectiveness: A Framework for Assessing the Management of Protected Areas. 2nd Edition. Best Practice Protected Area Guidelines Series 14, IUCN, Gland, Switzerland and Cambridge, UK, 105 pp. 
+Klimchouk, A.B., Lowe, D., Cooper, A. and Sauro, U. (eds) (1996) Gypsum karst of the world. International Journal of Speleology, 25(3–4), 307 pp. 
+25 
+World Heritage Caves and Karst: A Thematic Study 
+Kranjc, A. (2001) About the name kras (karst) in Slovenia. Proceedings of the 13th International Congress of Speleology, Brazilia, Vol. 2, p. 140-142. 
+Palmer, A.N. (2007) Cave Geology. Cave Books, Ohio, 454 pp. 
+Pulina, M. (1992) Glacio-karsts gypseux de la zone polaire et périglaciaire: Exemple du Spitzberg et de Sibérie orientale. In J.-N. Salomon and R. Maire (eds) Karsts et Evolutions Climatiques. Presses Universitaire de Bordeaux, p. 266-283. 
+Pulina, M. (2005) Le karst et les phenomenes karstiques similaires des regions froides. In J.-N. Salomon and M. Pulina (eds) Les karsts des régions climatiques extrêmes. Karstologia Mémoires 14, p. 11-100. 
+Salomon, J.-N. (2006) Précis de karstologie. 2nd Edition. Presses Universitaire de Bordeaux, 289 pp. 
+Salomon, J.-N. and Pulina, M. (eds) (2005) Les karsts des régions climatiques extrêmes. Karstologia Mémoires 14, 220 pp. 
+Thomas, L. and Middleton, J. (2003) Guidelines for Management Planning of Protected Areas. IUCN, Gland, Switzerland and Cambridge, UK, 79 pp. 
+UNESCO (2007) Global Geoparks Network. Guidelines and Criteria for National Geoparks seeking UNESCO assistance to join three Global Geoparks Network. UNESCO, Paris, 10 pp. 
+UNESCO (2008) Operational Guidelines for the Implementation of the World Heritage Convention. UNESCO World Heritage Centre, Paris, 163 pp. 
+Watson, J., Hamilton-Smith, E., Gillieson, D. and Kiernan, K. (eds) (1997) Guidelines for Cave and Karst Protection. IUCN, Gland, 63 pp. 
+Vermeulen, J. and Whitten, T. (eds) (1999) Biodiversity and cultural property in the management of limestone resources: lessons from East Asia. Directions in Development Series, The World Bank, Washington D.C., 120 pp. 
+Williams, P.W. and Ford, D.C. (2006) Global distribution of carbonate rocks. Zeitschrift für Geomorphologie N.F., Suppl.-Vol. 147, p. 1-2. 
+Wong, T., Hamilton-Smith, E., Chape, S. and Friederich, H. (eds.) (2001) Proceedings of the Asia- Pacific Forum on Karst Ecosystems and World Heritage. 88 pp. [ISBN 0 642 548 307] 
+Wray, R.A.L. (1997) A global review of solutional weathering forms on quartz sandstones. Earth- Science Reviews 42, p. 137-160. 
+Yuan Daoxian (1993) Environmental Change and Human Impact on Karst in Southern China. In P.W. Williams (ed) Karst Terrains: Environmental Changes and Human Impacts. Catena Verlag, Cremlingen-Destedt, p. 99-107. 
+26 
+Photos 
+Photo 1 
+The concordant summit of forested cone karst hills in the Libo cluster of the South China Karst World Heritage property in Guizhou, China, clearly defines the elevation of an uplifted erosion surface (photo by P. Williams). 
+Photo 2 
+World Heritage Caves and Karst: A Thematic Study 
+Karst towers in the Ha Long Bay World Heritage property, Vietnam, have been flooded by a combination of geological subsidence and post-glacial sea level rise. The partly drowned tower karst results in a landscape of hundreds of islands (photo by P. Williams). 
+27 
+Photo 3 
+The tower karst beside the river Li (Lijiang) at Yangshuo, Guangxi, China, is one of the world’s great landscapes (photo by P. Williams). 
+Photo 4 
+World Heritage Caves and Karst: A Thematic Study 
+Tower karst landscape beside the river Li (Lijiang) between Guilin and Yangshuo, Guangxi. This is an iconic landscape in China and features on Chinese traditional art and even banknotes (photo by D. Ford). 
+28 
+Photo 5 
+The ‘tsingy’ of the Tsingy de Bemaraha World Heritage site in Madagascar present an almost impenetrable labyrinth of corridors and pinnacles in almost flat-bedded limestones. Dissolution-sharpened pinnacles up to 90-100 m high are crossed by vertical-walled, joint-aligned forested canyons (photo by A. Clarke). 
+Photo 6 
+World Heritage Caves and Karst: A Thematic Study 
+Pillars and cliffs up to about 100 m high in the Meteora World Heritage site in Greece are developed in quartz conglomerate. The rocks are fluted with vertical wall karren produced by a combination of quartz dissolution and mechanical runoff (photo by P. Williams). 
+29 
+Photo 7 
+Enormous wall karren are dissolved in marble in the extremely wet environment of the Isla Madre de Dios, Patagonia, Chile (photo by R. Maire). 
+Photo 8 
+World Heritage Caves and Karst: A Thematic Study 
+Limestone pavements in the alpine glaciated Pyrénées-Mount Perdu transboundary World Heritage site between France and Spain (photo by P. Williams). 
+30 
+Photo 9 
+These mountains in the Northwest Territories of Canada at about 65oN have been scoured almost bare by a continental glacier. The landscape is a glaciokarst in carbonate and evaporate rocks with karstically drained depressions occupying hollows that have been dissolutionally enlarged after glacial scouring. The region is at the boundary of continuous and discontinous permafrost (photo by D. Ford). 
+Photo 10 
+World Heritage Caves and Karst: A Thematic Study 
+A periglacial sinkhole located above permafrost in carbonate glaciokarst terrain near Norman Wells, Northwest Territories, Canada (photo by D. Ford). 
+31 
+Photo 11 
+Karst towers rising abruptly from a pediment surface cut across geometrically jointed limestones in the tropical semi-arid limestone ranges of the Kimberley region, Western Australia (photo by J. Jennings). 
+Photo 12 
+World Heritage Caves and Karst: A Thematic Study 
+The horizontal surface of the Nullarbor Plain in southern Australia is the uplifted floor of a Miocene sea. Marine sediments have consolidated into limestones and dissolution has formed caves, the ceilings of which sometimes collapse, permitting access from the surface. The subtropical to warm temperate environment is now arid, but the caves were mainly formed about 5-6 million years ago when the climate was wetter (photo by P. Williams). 
+32 
+Photo 13 
+Caves are traps for many animals and so frequently contain rich sheltered fossil sites. This cave in New Zealand contains the bones of a huge bird, the giant Moa (photo by G. Mason). 
+Photo 14 
+World Heritage Caves and Karst: A Thematic Study 
+Troglobic fish and many other organisms occupy caves and underground waterways in karst environments. Many are totally blind and have evolved in darkness for millions of years (photo by D. Elford). 
+33 
+Photo 15 
+Caves are a major feature of karst environments. The oldest caves are amongst the most ancient landforms of our planet, because of their formation in an underground environment protected from surface erosion. They provide a stable habitat for many organisms and accumulate sediments and speleothems that provide rich and long archives of environmental change. The photo illustrates a subterranean landscape in Guizhou Province, China (photographer unknown). 
+Photo 16 
+World Heritage Caves and Karst: A Thematic Study 
+A cultural landscape in karst near Xingyi in Guizhou Province, China. Paddy fields penetrate valleys amongst tower karst. The compact nucleated settlement rises only marginally above the floodplain surface (photo by P. Williams). 
+34 
+World Heritage Caves and Karst: A Thematic Study 
+Tables 
+Table 1. World Heritage properties with internationally significant karst features (*signifies contains karst of outstanding universal value). Many other World Heritage properties contain karst of national or regional significance but are not listed here. Criteria (i-vi) are cultural and (vii-x) are natural. Criteria categories are explained in UNESCO (2008). 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+1 Australia Tasmanian Wilderness 
+1982 ii,iv,vi,vii,viii 
+, ix,x 
+Many small areas of karst in limestone and dolomite, some in alpine zone. Caves often richly decorated with speleothems containing very long palaeoclimatic histories. Complete karst systems. 
+Many small areas of karst in limestone and dolomite, some in alpine zone. Caves often richly decorated with speleothems containing very long palaeoclimatic histories. Complete karst systems. 
+Many small areas of karst in limestone and dolomite, some in alpine zone. Caves often richly decorated with speleothems containing very long palaeoclimatic histories. Complete karst systems. 
+Cool temperate to alpine rain forest. Much of the area was glaciated in the Pleistocene. High geodiversity and biodiversity. 
+Cool temperate to alpine rain forest. Much of the area was glaciated in the Pleistocene. High geodiversity and biodiversity. 
+Cool temperate to alpine rain forest. Much of the area was glaciated in the Pleistocene. High geodiversity and biodiversity. 
+Cool temperate to alpine rain forest. Much of the area was glaciated in the Pleistocene. High geodiversity and biodiversity. 
+2 Australia Shark Bay 1991 vii,viii, ix,x Located within coastal karst net deposition 
+zone, with outstanding display of living stromatolites. 
+Warm temperate seasonally arid. 
+3 Australia Australian Fossil 
+Mammal Sites 
+1994 viii, ix These are vertebrate fossil sites. 
+Riversleigh’s fossil deposits are in Oligo- Miocene freshwater limestones set within Cambrian dolomitic limestone bedrock; Naracoorte has Pleistocene fossil deposits in caves in Oligo-Miocene limestones capped by Pleistocene dune limestones. Riversleigh has extensive low relief pinnacle karst and well developed karren, and gorges with rivers actively depositing tufa. It is mainly located on the output margin of the karst system. Naracoorte has numerous caves and collapse features. It is a small site in the karst input zone. 
+Riversleigh is in the seasonally arid tropics with monsoonal rains. Naracoorte is in the humid temperate zone 
+Riversleigh is in the seasonally arid tropics with monsoonal rains. Naracoorte is in the humid temperate zone 
+Riversleigh is in the seasonally arid tropics with monsoonal rains. Naracoorte is in the humid temperate zone 
+Riversleigh is in the seasonally arid tropics with monsoonal rains. Naracoorte is in the humid temperate zone 
+4 Australia Greater Blue 
+Mountains 
+2000 ix,x Many small areas of limestone with 
+complete karst systems. Includes extremely old sites such as Jenolan Caves. 
+Warm to cool humid temperate zone with extensive forest. 
+Warm to cool humid temperate zone with extensive forest. 
+Warm to cool humid temperate zone with extensive forest. 
+Warm to cool humid temperate zone with extensive forest. 
+World Heritage Caves and Karst: A Thematic Study 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+5* Australia Purnululu 2003 vii,viii Outstanding example of quartz sandstone 
+fluviokarst with beehive-shaped hills separated by narrow sinuous gorges. Developed on rocks of Devonian age. 
+Tropical savannah regime. 
+6* Austria Hallstatt- 
+Dachstein Salzkammergut Cultural Landscape 
+1997 iii, iv Dachstein massif of 574 km2 is an excellent 
+example of glaciokarst. It is a glacially scoured karstic plateau averaging 1850 m that rises to almost 3000 m. It contains hundreds of caves with three open to public, including Dachstein-Rieseneishöhle which is an ice cave. 
+Humid temperate rising to subalpine and alpine. 
+Humid temperate rising to subalpine and alpine. 
+Humid temperate rising to subalpine and alpine. 
+Humid temperate rising to subalpine and alpine. 
+7 Bulgaria Pirin National 
+Park 
+1983 vii,viii Rugged mountainous area to 2915 m partly modified by glaciation. Extensive karst with 113 known caves in Proterozoic marbles. 
+Humid continental Mediterranean climate becoming alpine in the highlands. Coniferous and deciduous forest. Experienced alpine glaciation in the Pleistocene. 
+Humid continental Mediterranean climate becoming alpine in the highlands. Coniferous and deciduous forest. Experienced alpine glaciation in the Pleistocene. 
+Humid continental Mediterranean climate becoming alpine in the highlands. Coniferous and deciduous forest. Experienced alpine glaciation in the Pleistocene. 
+8* Canada Nahanni National 
+Park 
+1978 vii,viii World’s foremost example of karst 
+development in cold climate conditions. Contains a spectacular karst landscape, including poljes, caves, and gorges, and hot spring with large tufa mound. Landscape is subject to active frost processes. 
+Cold continental climate with wide monthly variations in temperature and precipitation. Alpine tundra and mountainous taiga environments with discontinuous permafrost. Rich diversity of vegetation and wildlife. 
+Cold continental climate with wide monthly variations in temperature and precipitation. Alpine tundra and mountainous taiga environments with discontinuous permafrost. Rich diversity of vegetation and wildlife. 
+Cold continental climate with wide monthly variations in temperature and precipitation. Alpine tundra and mountainous taiga environments with discontinuous permafrost. Rich diversity of vegetation and wildlife. 
+Cold continental climate with wide monthly variations in temperature and precipitation. Alpine tundra and mountainous taiga environments with discontinuous permafrost. Rich diversity of vegetation and wildlife. 
+9* Canada Canadian Rocky 
+Mountain Parks 
+1984 vii,viii Includes large areas of limestones and 
+dolomites. Outstanding example of glaciokarst terrain. Many karren, subterranean streams, springs and caves. Columbia Icefield partly overlies and intrudes Castleguard Cave. 
+Located across continental divide between 1036 m to 3954 m. Continental cool temperate alpine climate with mountain permafrost. Rich diversity of vegetation and wildlife. 
+Located across continental divide between 1036 m to 3954 m. Continental cool temperate alpine climate with mountain permafrost. Rich diversity of vegetation and wildlife. 
+Located across continental divide between 1036 m to 3954 m. Continental cool temperate alpine climate with mountain permafrost. Rich diversity of vegetation and wildlife. 
+Located across continental divide between 1036 m to 3954 m. Continental cool temperate alpine climate with mountain permafrost. Rich diversity of vegetation and wildlife. 
+World Heritage Caves and Karst: A Thematic Study 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+10* China Huanglong 1992 vii Hot springs emerging from carbonate rocks 
+have precipitated extensive calcareous travertine deposits along valley floor with numerous rimstone pools. Represents depositional output landforms of deeply circulating karst groundwater system. 
+Warm temperate continental alpine environment.. Forested valleys surrounded by mountains to 5000 m. 
+11* China Jiuzhaigou Valley 1992 vii Extensive areas of limestone and dolomite. 
+Carbonate tufa deposits from cold springs have formed a series of tufa-dammed lakes and tufa-coated cascades along valley floor. Represents depositional output landforms of shallow karst groundwater system with significant epikarst water contribution. 
+Warm temperate continental alpine environment. Forested valleys surrounded by mountains to 4800 m. 
+12* China Wulingyuan 
+Scenic and Historic Interest Area 
+1992 vii A mixed quartz sandstone ( 66%) and 
+limestone (33%) area, most notable for 3100 sandstone pillars and peaks to 200 m high separated by ravines and gorges. Limestone part contains about 40 known caves with rich decoration and two natural bridges, one of which is 357m. high. Includes entire Suoxi karst catchment. Particularly outstanding for its spectacular sandstone fluviokarst relief. 
+Humid warm temperate climate with deciduous forest. Altitude range 450 m to 1264 m. 
+Humid warm temperate climate with deciduous forest. Altitude range 450 m to 1264 m. 
+Humid warm temperate climate with deciduous forest. Altitude range 450 m to 1264 m. 
+Humid warm temperate climate with deciduous forest. Altitude range 450 m to 1264 m. 
+13 China Three Parallel 
+Rivers of Yunnan 
+2003 vii,viii, ix, x 1.7 M ha site with actively glaciated peaks 
+to 6740 m and gorges in places 3000 m deep. Contains extensive area of glaciated alpine karst, caves to 27 km length, tufa dammed lakes and hot springs with travertine rimmed pools. 
+Subtropical continental alpine environment, Immensely rich biodiversity. 
+Subtropical continental alpine environment, Immensely rich biodiversity. 
+Subtropical continental alpine environment, Immensely rich biodiversity. 
+Subtropical continental alpine environment, Immensely rich biodiversity. 
+World Heritage Caves and Karst: A Thematic Study 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+14* China South China Karst 2007 vii, viii Three first phase sites of a serial 
+nomination. Wulong (Chongqing) is plateau karst with spectacular tiankeng, natural bridges and gorges; Shilin (Yunnan) comprises stone forests (Yunnan); and Libo has extensive forested cone karst (fengcong and fenglin), poljes, gorges and caves. These three areas provide type- sites for their principal karst features. 
+Continental humid subtropical plateau (Wulong and Shilin) to subtropical monsoonal (Libo). Extensive natural forest cover at Libo. 
+15* Croatia Plitvice Lakes National Park 
+1979, 2000 vii,viii, ix International type-site for tufa-dammed 
+lakes. Carbonate biolith barriers confine 16 lakes up to 0.8 km2 in area and up to 46 m deep. Mixed limestone and dolomitic limestone catchment area. 
+Continental humid warm temperate. Mixed coniferous and deciduous forested catchment. 
+Continental humid warm temperate. Mixed coniferous and deciduous forested catchment. 
+Continental humid warm temperate. Mixed coniferous and deciduous forested catchment. 
+16 Cuba Viñales Valley 1999 iv A cultural site set within a humid tropical 
+karst landscape notable as a type locality of mogote karst (tower and cone karst) in a wide flat-floored valley. The region also contains poljes and caves with a rich subterranean biodiversity. 
+Seasonally humid tropical. 
+17* Cuba Desembarco del 
+Granma National Park 
+1999 vii,viii Spectacular staircase of uplifted coral 
+terraces around Cabo Cruz that support ongoing development of karst landforms. Terraces extend from -180 m offshore to 460 m inland and reflect a combination of tectonic and glacio-eustatic processes. Excellent examples of littoral karst. Relatively recent uplift has permitted the commencement of karstification. 
+Moderately dry tropical with semi- deciduous forest. 
+Moderately dry tropical with semi- deciduous forest. 
+Moderately dry tropical with semi- deciduous forest. 
+Moderately dry tropical with semi- deciduous forest. 
+18 Cuba Alejandro de 
+Humboldt National Park 
+2001 ix, x A large inland plateau that includes both 
+limestone karst and pseudokarst, but awaits formal scientific evaluation. 
+Humid tropical forested environment with high biodiversity. 
+Humid tropical forested environment with high biodiversity. 
+Humid tropical forested environment with high biodiversity. 
+Humid tropical forested environment with high biodiversity. 
+World Heritage Caves and Karst: A Thematic Study 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+19 France Prehistoric Sites 
+and Decorated Caves of the Vézère Valley 
+1979 i, iii Some 147 identified and significant pre- 
+historic sites, with 25 decorated caves including Rouffignac and the famous Grotte de Lascaux. Caves much more important for their cultural rather than karstic value. 
+Humid temperate. 
+Humid temperate. 
+20* France/ Spain Pyrénées-Mount 
+Perdu 
+1997, 1999 iii, iv, v, vii, 
+viii 
+Outstanding example of alpine glaciated karst to 3352 m with extensive karrenfeld, deep canyons, deep caves and subterranean river systems. Incorporates complete karst systems. 
+Outstanding example of alpine glaciated karst to 3352 m with extensive karrenfeld, deep canyons, deep caves and subterranean river systems. Incorporates complete karst systems. 
+Outstanding example of alpine glaciated karst to 3352 m with extensive karrenfeld, deep canyons, deep caves and subterranean river systems. Incorporates complete karst systems. 
+Outstanding example of alpine glaciated karst to 3352 m with extensive karrenfeld, deep canyons, deep caves and subterranean river systems. Incorporates complete karst systems. 
+Humid maritime alpine climate to north and drier Mediterranean climate to south with associated complex vegetation zonation. 
+Humid maritime alpine climate to north and drier Mediterranean climate to south with associated complex vegetation zonation. 
+Humid maritime alpine climate to north and drier Mediterranean climate to south with associated complex vegetation zonation. 
+Humid maritime alpine climate to north and drier Mediterranean climate to south with associated complex vegetation zonation. 
+Humid maritime alpine climate to north and drier Mediterranean climate to south with associated complex vegetation zonation. 
+21 Greece Meteora 1988 i,ii,iv,v,vii Sheer towers and pillars 10 to >100 m high 
+developed in early Tertiary deltaic quartz conglomerate often fluted with closely spaced vertical karren (the towers support almost inaccessible monastery buildings). Fluviokarst. 
+Mean altitude 300 m rising to 1000 m. Mediterranean climate. 
+22* Hungary/ 
+Slovakia 
+Caves of Aggtelek and Slovak Karst 
+1995, 2000 viii Area contains 712 caves. Variety of cave types, including Dobšinská Ice Cave, and speleothem forms with stalagmites to 32.7 m high. Surface landscape is a temperate doline karst with some evidence of a prior humid tropical or subtropical influence, which has evolved intermittently since the Cretaceous. 
+1995, 2000 viii Area contains 712 caves. Variety of cave types, including Dobšinská Ice Cave, and speleothem forms with stalagmites to 32.7 m high. Surface landscape is a temperate doline karst with some evidence of a prior humid tropical or subtropical influence, which has evolved intermittently since the Cretaceous. 
+1995, 2000 viii Area contains 712 caves. Variety of cave types, including Dobšinská Ice Cave, and speleothem forms with stalagmites to 32.7 m high. Surface landscape is a temperate doline karst with some evidence of a prior humid tropical or subtropical influence, which has evolved intermittently since the Cretaceous. 
+Continental humid temperate. 
+Continental humid temperate. 
+Continental humid temperate. 
+23* Indonesia Lorentz National 
+Park 
+1999 viii, ix, x Largest protected area in SE Asia (2.35 M ha). Continuous transect from snow caps (5030 m) to tropical coast. World’s best example of tropical alpine glaciated karst. Extensive humid tropical karst occurs at lower elevations. Huge sinking rivers and springs. 
+From the mountains to the sea. Tropical glaciated alpine to lowland tropical rainforest. 
+From the mountains to the sea. Tropical glaciated alpine to lowland tropical rainforest. 
+From the mountains to the sea. Tropical glaciated alpine to lowland tropical rainforest. 
+World Heritage Caves and Karst: A Thematic Study 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+24* Korea Jeju Volcanic 
+Island and Lava Tubes 
+2007 vii, viii Oustanding example of vulcanokarst, a 
+special style of pseudokarst. This includes Geomunoreum lava tubes which are notable for spectacular decoration with carbonate speleothems, the carbonate being derived from overlying calcareous dune sands blown in from the coast. 
+Warm temperate monsoonal. 
+Warm temperate monsoonal. 
+25* Madagascar Tsingy de 
+Bemaraha Strict Nature Reserve 
+1990 vii, x Extensive areas of very sharp limestone 
+pinnacle karst known locally as ‘tsingy’ with joint corridors up to 80 m deep occupied by forest. Traversed by river gorges. May be the world’s most spectacular pinnacled terrain. 
+Tropical seasonally arid. 
+Tropical seasonally arid. 
+26* Malaysia Gunung Mulu 2000 vii, viii, ix, x The park has a significant area of karst in 
+Miocene limestone that contains large underground rivers and >290 km of explored caves, including Sarawak Chamber (700 m long, 300-400 m wide and up to 100m high) – the world’s largest underground room. Caves contain major speleothem deposits and 1.5 million year sediment sequences. Rich cave biota, especially notable for bats and swiftlets. Surface features include giant collapse dolines and spectacular razor-sharp pinnacle karst (ca 50 m high). 
+Humid tropical rainforest with 17 vegetation zones covering altitude range to 2377 m.. 
+27 Montenegro Durmitor National 
+Park 
+1980, 2005 vii, viii, x Alpine glaciokarst in south-eastern Dinaric 
+Alps with temperate karst features at lower elevations. Canyons induce deep karstification and some caves contain permanent subterranean ice. 
+Mediterranean alpine environment from 450 m to 2322 m. Dense pine and beech forests below alpine meadows. 
+Mediterranean alpine environment from 450 m to 2322 m. Dense pine and beech forests below alpine meadows. 
+Mediterranean alpine environment from 450 m to 2322 m. Dense pine and beech forests below alpine meadows. 
+Mediterranean alpine environment from 450 m to 2322 m. Dense pine and beech forests below alpine meadows. 
+World Heritage Caves and Karst: A Thematic Study 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+28 Mexico Sian Ka’an 1987 vii, x Situated on the coastal edge of the 
+emerged limestone plain of the cenote karst of the Yucatan Peninsula. Only a small part of this important karst, which contains long and complex flooded cave systems, is within the World Heritage area which was inscribed mainly for biological reasons. 
+Tropical seasonally humid with semi- evergreen, semi-deciduous forest. 
+29* Philippines Puerto-Princesa 
+Subterranean River National Park 
+1999 vii, x Spectacular tropical karst landscape in middle Miocene limestone on Palawan Island extending from mountains to the sea. Contains polygonal karst, towers and polje. Major underground river drains directly to the sea, lower portions of cave are tidal and navigable for 6 km. 
+Humid tropical rainforest environment. Most significant forest in Palawan Biogeographical Province. 
+Humid tropical rainforest environment. Most significant forest in Palawan Biogeographical Province. 
+Humid tropical rainforest environment. Most significant forest in Palawan Biogeographical Province. 
+30 Russian 
+Federation 
+Lake Baikal 1996 vii, viii, vii, x A major part of the watershed (Irkutsk 
+basin) surrounding Lake Baikal is located on karst, but its World Heritage value has not been scientifically evaluated. 
+Cool temperate extreme continental climate. 
+Cool temperate extreme continental climate. 
+Cool temperate extreme continental climate. 
+Cool temperate extreme continental climate. 
+31* Russian 
+Federation 
+Western Caucasus 
+1999 vii, x A geologically complex region rising to over 
+1999 vii, x A geologically complex region rising to over 
+3000 m. The northern section consists of alpine karst in Triassic limestones, much of it glaciated. Includes glaciokarst features, many deep gorges and deep caves. Incorporates complete karst systems. 
+3000 m. The northern section consists of alpine karst in Triassic limestones, much of it glaciated. Includes glaciokarst features, many deep gorges and deep caves. Incorporates complete karst systems. 
+Temperate to alpine continental climate. Largely undisturbed deciduous and coniferous forest and alpine meadows. 
+Temperate to alpine continental climate. Largely undisturbed deciduous and coniferous forest and alpine meadows. 
+Temperate to alpine continental climate. Largely undisturbed deciduous and coniferous forest and alpine meadows. 
+Temperate to alpine continental climate. Largely undisturbed deciduous and coniferous forest and alpine meadows. 
+Temperate to alpine continental climate. Largely undisturbed deciduous and coniferous forest and alpine meadows. 
+32 Seychelles Aldabra Atoll 1982 vii, ix, x Four large coral islands enclosing a shallow 
+lagoon. The islands rise to about 3 m above sea level and have well developed littoral karst forms. Inland are extensive areas of ‘makatea’ style pinnacled karren development. The islands represent the earliest stage of karst evolution. 
+Seasonally semi-arid tropical maritime climate. 
+World Heritage Caves and Karst: A Thematic Study 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+33* Slovenia Škocjan Caves 1986 vii, viii Located in the ‘classical’ karst of Europe. 
+The site comprises a sinking river at the end of blind valley, the exposed course of the underground river flowing across the base of deep collapse depressions, and a large river cave with a high canyon passage. It is representative of the input of an allogenic river into a karst system. 
+Continental Mediterranean climate. 
+34 Solomon 
+Islands 
+East Rennell 1998 ix The site involves the southern third of 
+Rennell Island, a particularly large coral atoll raised to 200 m with its former lagoon now a brackish lake with rugged limestone islands. Karst is scientifically unevaluated but likely to be of international significance in representing the early stage of karstification. 
+Humid tropical maritime climate (3000- 4000 mm) with short dry season. Densely forested environment of Papuan Biogeographical Province. 
+Humid tropical maritime climate (3000- 4000 mm) with short dry season. Densely forested environment of Papuan Biogeographical Province. 
+Humid tropical maritime climate (3000- 4000 mm) with short dry season. Densely forested environment of Papuan Biogeographical Province. 
+Humid tropical maritime climate (3000- 4000 mm) with short dry season. Densely forested environment of Papuan Biogeographical Province. 
+35* South Africa Fossil Hominid 
+Sites of Sterkfontein, Swartkrans, Kromdraai, and Environs 
+1999, 2005 iii, vi A cluster of karst sites in Proterozoic 
+dolomite bedrock that contain remains of some of the earliest hominids as well as many other species. The caves contain internationally outstanding examples of cave sediments and fossils that were deposited over an interval of several million years into very ancient karst systems. 
+Subtropical High Veldt savannah environmnent. 
+Subtropical High Veldt savannah environmnent. 
+Subtropical High Veldt savannah environmnent. 
+Subtropical High Veldt savannah environmnent. 
+36 Thailand Thungyai-Hua 
+Kha Khaeng Wildlife Sanctuaries 
+1991 vii, ix, x A large and geologically complex forested 
+mountainous region to 1500 m with savannah plains. Karst over part of the area, likely to be important but scientifically unevaluated. 
+Tropical monsoon climate. Evergreen and semi-deciduous forest in mountains with savannah in valleys and gallery forest along rivers. Outstanding biodiversity values. 
+Tropical monsoon climate. Evergreen and semi-deciduous forest in mountains with savannah in valleys and gallery forest along rivers. Outstanding biodiversity values. 
+Tropical monsoon climate. Evergreen and semi-deciduous forest in mountains with savannah in valleys and gallery forest along rivers. Outstanding biodiversity values. 
+Tropical monsoon climate. Evergreen and semi-deciduous forest in mountains with savannah in valleys and gallery forest along rivers. Outstanding biodiversity values. 
+World Heritage Caves and Karst: A Thematic Study 
+No. State Party World Heritage 
+Property 
+Inscribed Criteria Key Karst Features Environmental context 
+37 Thailand Dong Phayayen - 
+Khao Yai Forest Complex 
+2005 x Contains karst terrain in west of area with 
+gorges and caves, habitat of endemic species of reptiles and bats. Karst scientifically unexplored, but likely to be significant. 
+Tropical monsoon forest with long dry season. 
+38* Turkey Hierapolis- Pamukkale 
+1988 iii, iv, vii Extensive and 200 m high valleyside 
+travertine terrace with rimstone pools formed geothermal by carbonate water emerging deposition at 59from 
+oC. Used as a spa since 2nd century B.C. Possibly the world’s earliest karst tourist site still in use. Significant human impact. 
+Warm temperate Mediterranean environment. 
+39* UK: Pitcairn 
+Islands 
+Henderson Island 1988 vii, x Raised coral atoll 30 km2 in area with rough 
+karstified ‘makatea’ plateau surface at about 30 m above sea level with central depression that may have been former lagoon. Island is bounded by 15 m high cliffs and fringing reef to 200 m wide. Limestone considered late Tertiary in age. An outstanding example of early phase of karstification with intact natural processes, but scientifically unevaluated. Some caves. 
+Tropical humid maritime climate supporting thick cover of trees and dense undergrowth. The only raised and forested atoll with its ecology intact. 
+40 USA Grand Canyon 
+National Park 
+1979 vii, viii, ix, x Paleokarst and active karst development 
+occurs in Permian, Mississippian, Devonian and Cambrian limestones and dolomites exposed in the walls of the 1500 m deep Grand Canyon. Doline karst on 2700 m Kaibab plateau north of the eastern Grand Canyon. Tufa cascades mark karst spring sites on canyon walls. Although karst represents only a small proportion of the Park, its caves contain dated evidence for the evolution of the Grand Canyon so are of international significance. 
+Warm temperature semi-arid montane climate on plateau surface.

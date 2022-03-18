@@ -1,0 +1,724 @@
+﻿----------------------- Page 1-----------------------
+
+ International Journal of Speleology                        42 (3)          215-223        Tampa, FL (USA)                    September 2013 
+
+                          Available online at scholarcommons.usf.edu/ijs/  &  www.ijs.speleo.it 
+
+                              International Journal of Speleology 
+                                    Official Journal of Union Internationale de Spéléologie 
+
+Forty years of epikarst: what biology have we learned? 
+
+                    1                                   2 
+Tanja Pipan  and David C. Culver * 
+
+1 
+  Karst Research Institute at ZRC SAZU, Titov trg 2, SI-6230 Postojna, Slovenia 
+2 Department of Environmental Science, American University, 4400 Massachusetts Ave. NW, Washington DC, U.S.A. 
+
+      Abstract:       Epikarst  is  not  only  an  important  component  of  the  hydrogeology  of  karst  and  an  active  
+                      site  of  speleogenesis,  it  is  habitat  for  a  number  of  species  adapted  to  subterranean  life.  
+                      Water  in  epikarst,  with  a  residence  time  of  days  to  months,  is  a  highly  heterogeneous  
+                      habitat, and the animals are primarily sampled from continuously sampling dripping water  
+                      or collecting from residual drip pools. While the subterranean fauna of cracks and crevices  
+                      has  been  known  for  over  100  years,  it  is  only  in  the  past  several  decades  that  epikarst  
+                      has  been  recognized  as  a  distinct  habitat,  with  reproducing  populations  of  stygobionts.  
+                      Dissolved organic carbon in epikarst drip water is a primary and sometimes the only source  
+                      of organic matter for underlying caves, especially if there are not sinking streams that enter  
+                      the cave. Typical concentrations of organic carbon are 1 mg L-1 . The fauna of epikarst is  
+
+                      dominated  by  copepods,  but  other  groups,  including  some  terrestrial  taxa,  are  important  
+                      in  some  areas.  Most  of  the  diversity  is  β-diversity  (between  drips  and  between  caves).  
+                      In Slovenia, an average of nearly 9 stygobiotic copepod species were found per cave. In  
+                      studies in Romania and Slovenia, a number of factors have been found to be important in  
+                      determining species distribution, including ceiling thickness, habitat connectivity and habitat  
+                      size. In addition to eye and pigment loss, epikarst copepod species may show a number  
+                      of specializations for life in epikarst, including adaptations to avoid displacement by water  
+                      flow. Several geoscientists and biologists have challenged the uniqueness and importance  
+                      of epikarst, but on balance the concept is valid and useful. Fruitful future research directions  
+                      include development of better sampling techniques, studies to explain differences among  
+                      nearby epikarst communities, phylogeographic studies, and assessing the possible role of  
+                      copepods as tracers of vadose water. 
+
+    Keywords:         adaptation; cave ecology; Copepoda; stygobionts; subterranean biodiversity 
+
+                      Received 21 March 2013; Revised 7 July 2013; Accepted 15 July 2013 
+
+       Citation:      Pipan T. and Culver D.C., 2013. Forty years of epikarst:  what biology have we learned?  
+                      International  Journal  of  Speleology,  42  (3),  215-223.  Tampa,  FL  (USA)  ISSN  0392-6672   
+                      http://dx.doi.org/10.5038/1827-806X.42.3.5 
+
+                       INTRODUCTION                                          both  biological  and  hydrogeological,  that  have  be  
+                                                                             posed  to  the  importance  of  epikarst,  and  conclude  
+   Forty   years   ago,   in   1973,   Mangin   coined   the                 with some suggestions for future research. 
+phrase  “epikarst”  for  the  uppermost  layer  of  karst,  
+an  active  zone  of  transfer  between  karst  and  the                     The epikarst habitat 
+overlying soil. Since that time, epikarst has become                            Wherever there is soil covering base rock, there is a  
+recognized as an important zone of water storage, of                         zone of contact between the rock and the soil, typically  
+speleogenesis,  and  an  important  biological  habitat                      consisting  of  an  unconsolidated  layer  of  rock  mixed  
+(Pipan, 2005; Williams, 1983). It was the subject of                         with soil—the regolith. This zone often has spaces larger  
+an  interdisciplinary  symposium  organized  by  the                         than the soil above. When the base rock is water soluble  
+Karst  Waters  Institute  (Jones  et  al.,  2004),  and  a                   at the pH of water in the area, these spaces are greatly  
+review by Williams in this journal in 2008 provided                          enhanced by the dissolution of rock into small channels  
+a  hydrogeological  perspective  on  epikarst.  In  this                     and cavities. It is the shallow part of karst areas, 
+review we propose to provide a biological perspective                             where stress release, climate, tree roots, and  
+on epikarst, the fortieth anniversary of the coining of                           karst   processes   fracture   and   enlarge   rock  
+the term epikarst being an appropriate marker.                                    joints and cracks, creating a more permeable  
+  We  begin  with  an  overview  of  the  physical  and                           and  porous  zone  over  the  carbonate  rock  in  
+chemical aspects of the habitat, summarize what is                                which  only  a  few  vertical  joints  and  cracks  
+known of the biology of epikarst, evaluate challenges,                            occur (Bakalowicz, 2012). 
+
+*dculver@american.edu 
+
+----------------------- Page 2-----------------------
+
+216                                                          Pipan and Culver 
+
+  The  word  epikarst  came  into  widespread  use  in                       Clearly,   the   extent   of   the   long   residence   time  
+the 1990s following the definition by Mangin (1973)                        interval   depends   on   rainfall   variation.   Kogovšek  
+of an epikarst aquifer as a perched saturated zone                         (2010)   calculated   overall   residence   times   in   two  
+within the superficial part of the karst that stores                       drips  in  Postojnska  jama,  based  on  oxygen  isotope  
+a part of the infiltrated water (Bakalowicz, 2012).                        composition (Kogovšek & Urbanc, 2007) of 2.5 months  
+Typically  3  to  10  m  thick,  epikarst  overlies  the                   to over a year. 
+water infiltration zone. Participants in a workshop                          Epikarst  is  also  an  important  site  of  dissolution  
+on epikarst (Jones et al., 2004) decided upon the                          of  CaCO3 .  Ford  and  Williams  (2007)  point  out  that  
+following definition of epikarst:                                          about 70 percent of the dissolution takes place in the  
+     Epikarst      is   located     within     the    vadose               top 10 m of limestone, the typical extent of epikarst.   
+     zone  and  is  defined  as  the  heterogeneous                        Epikarst  acts  as  a  reservoir  for  the  accumulation  
+     interface  between  unconsolidated  material,                         of organic matter coming from the soil (Bakalowicz,  
+     including      soil,    regolith,    sediment,       and              2012). Organic carbon has a dual role in epikarst, as a  
+     vegetative  debris,  and  solutionally  altered                       source of food for heterotrophic organisms in epikarst  
+     carbonate  rock  that  is  partially  saturated                       and as source of CO  and ultimately H CO  (carbonic  
+                                                                                                     2                      2    3 
+
+     with water and capable of delaying or storing                         acid)  in  carbonate  dissolution.  Epikarst  thus  acts  
+     and  locally  rerouting  vertical  infiltration  to                   as  a  CO2  reservoir,  recharging  the  infiltration  zone  
+     the  deeper,  regional,  phreatic  zone  of  the                      as  water  moves  vertically  downward.  Consequently,  
+     underlying karst aquifer.                                             storage of CO2 in epikarst is an essential mechanism  
+  According  to  Williams  (2008),  the  typical  porosity                 for  karst  development  at  the  surface  as  well  as  at  
+(per  cent  open  space)  of  unweathered  limestone  is                   depth (Bakalowicz, 2012). 
+2 percent while that of epikarst typically exceeds 20                        Pipan   (2003,   2005)   provided   extensive   data   on  
+percent. More generally, water storage in epikarst is                      inorganic  chemistry  of  drips  in  her  study  of  the  
+the reason why cave streams typically have water for                       epikarst fauna of six Slovenian caves, summarized in  
+long periods of drought.                                                   Table  2.  As  expected,  conductivity  was  high,  largely  
+  What   we   know   about   epikarst   mostly   comes                     because   of   the   high   concentration   of   Ca2+   ions.   
+
+from  the  study  of  the  outflow  of  dripping  water  in                Meleg et al.  (2011b) did a similar analysis for three  
+caves. This outflow has a complex connection with                          Romanian  caves  for  pH,  conductivity,  and  NO2-  as  
+
+precipitation  (Kogovšek,  2010),  and  also  includes                     well as the concentrations of several heavy metals— 
+water from other parts of the vadose zone. Typically,                      Al3+, Cr3+,  and Fe3+ (Table 3). Compared to Slovenian  
+
+output   spikes   after   several   precipitation   events,                caves  (Table  2),  pH  was  consistently  higher  in  the  
+which   cumulatively   fill   the   cavities   in   epikarst,              Romanian caves, above 8.0; conductivity, except in  
+but  different  cavities  fill  at  different  rates.  Based               Peştera Vadu Crişului, was lower and nitrites were  
+on  continuous  monitoring  of  three  drips  for  three                   much higher in Romanian caves than in Slovenian  
+years  in  Postojnska  jama  (Slovenia),  Kogovšek  was                    caves. Differences in parent rock and anthropogenic  
+able to estimate total surface catchment area of an                        impacts  are  likely  the  reasons  for  the  discrepancy  
+individual drip using precipitation and drip rate data                     between the two countries. 
+(Table 1). Even the largest catchment area of a drip                         Two  consistent  themes  emerge  from  the  studies  of  
+(I in Table 1) was quite small, approximately 200 m2 .                     geochemistry of dripping water. One is that drip water  
+
+These catchment areas are to a certain extent virtual                      has  high  concentrations  of  the  ions  associated  with  
+since the actual connections between drips and the                         CaCO3 dissolution, e.g., Ca2+, the result of water being  
+
+surface are complex and likely to be overlapping.                          in contact with carbonate rock for significant periods of  
+  Bottrell   and   Atkinson   (1992)   found   by   direct                 time,  i.e., weeks to months. The second theme is that  
+observation of water soluble dye in White Scar Cave,                       there is considerable temporal and spatial variability in  
+England, that there were three flow components:                            geochemistry, even at scales on the order of 10 meters. 
+   1.   A rapid through-flow with a residence time of                        Organic carbon in drip water is especially interesting  
+       3 days                                                              because  the  fauna  of  epikarst  and  caves  is  likely  
+  2.   A short-term storage of 30 to 70 days, and                          carbon- rather than nutrient- (nitrogen or phosphorus)  
+  3.   A  long-residence  time  of  160  days  or  more,                   limited (Simon & Benfield, 2002; Simon et al., 2007).   
+       water flushed out only during periods of high                       The source of organic carbon in epikarst water is the  
+       flow.                                                               soil. Rainwater does not contain organic carbon, but  
+                                       3                                   because of biological activity in the soil, water leaching  
+Table 1.  Yearly volume of outflow, in m , through three drips (I, J,  
+and L) in Postojnska jama, with calculated catchment area, in m2 ,         from the soil into epikarst cavities has organic carbon.   
+defined by dividing outflow by annual precipitation for that year.           Simon  et  al.   (2007)  measured  dissolved  organic  
+Data from Kogovšek (2010).                                                 carbon  (DOC)  concentrations  in  both  Organ  Cave,  
+                  2003               2004                2005              West   Virginia,   U.S.A.   and   Postojna   Planina   Cave  
+                                                                           System  (PPCS)  in  Slovenia,  as  did  Ban  et  al.  (2008)  
+ Drip         m3        m2       m3        m2        m3       m2           in  Shihua  Cave,  China.  In  Organ  Cave,  mean  DOC  
+
+ I            299     244.8      175      158.5     216      204.9         concentrations  in  the  unsaturated  zone  were  1.10  
+ J           12.2      10.0      7.3       7.3      10.4      9.9          mg/L while in PPCS they were 0.70 mg/L (Table 4). The  
+                                                                           differences are likely the result of different land uses.   
+ L           0.16      0.1       0.06      0.1      0.186     0.2 
+                                                                           The land above Organ Cave is mostly pasture and the  
+ TOTAL       311.4     255      182.2      165      226.6     215          land above PPCS is forest. In addition to water entering  
+
+                             International Journal of Speleology, 42 (3), 215-223. Tampa, FL (USA) September 2013  
+
+----------------------- Page 3-----------------------
+
+                                                    Forty years of epikarst:  what biology have we learned?                                                                                217 
+
+Table 2. Average values and coefficients of variation (standard deviation X 100/mean) for pH, conductivity, and nine ions for six Slovenian caves.  
+Ionic concentrations are in mg/L. Data from Pipan (2003, 2005). 
+
+                                            Conductivity            +             +              2+             +              2+              -             -              2-            - 
+  Cave                             pH         (μS/cm)           NH4             K             Ca             Na             Mg             NO3           NO2            SO4             Cl 
+
+  Črna jama          Mean         7.84         376.67            0.08          0.39           36.64          0.94           0.71           0.64          0.004          4.91           1.14 
+
+                   Coeff. Var.    2.55          22.89           34.43          37.91          68.13         222.43         69.36          150.80        236.52          59.78         62.51 
+
+                       n           70            70              25             25             25             25             25             25            25             25             25 
+
+  Dimnice            Mean         7.70         330.04            0.11          0.42           36.86          2.16           0.95           3.16          0.001          5.17           5.54 
+
+                   Coeff. Var.    2.55          25.94           74.83          52.18          40.42         91.25          63.14          190.16        345.22          80.84         135.08 
+
+                       n           45            45              45             45             45             45             45             45            45             45             45 
+
+  Pivka jama         Mean         7.84         416.36            0.11          0.83           42.93          2.17           1.14          11.81          0.012          5.44           2.37 
+
+                   Coeff. Var.    3.39          27.73           69.95          50.41          61.69         94.82          60.56          122.62        399.73          46.81         69.84 
+
+                       n           69            69              24             24             24             24             24             24            24             24             24 
+
+  Postojnska         Mean         7.81         342.57            0.07          0.42           39.00          0.99           0.86           3.09          0.001          5.73           1.26 
+  jama 
+                   Coeff. Var.    2.38          27.28           52.63          32.31          36.42         42.80          31.25          74.57         433.17          47.79           36 
+
+                       n          219           219              69             69             69             69             69             69            69             69             69 
+
+  Škocjanske         Mean         7.87         308.40            0.12          0.45           23.64          1.40           0.88           1.05          0.004          6.40           0.37 
+  jame 
+                   Coeff. Var.    2.14          28.43          104.46          53.11          68.55         77.70          52.56          95.29         655.74          43.66          54.9 
+
+                       n           43            43              43             43             43             43             43            43             43             43             43 
+
+  Županova           Mean         7.65         371.29            0.10          0.46           47.83          0.88           1.09           0.31          0.001          8.74            1.4 
+  jama 
+                   Coeff. Var.    3.09         20.89            44.75          45.85          30.05         68.72          17.10          47.64         343.60          21.26         46.69 
+
+                       n           45            45              45             45             45             45             45            45             45             45             45 
+
+cave passages through percolating water, both caves                                                  Table 4. Estimates of dissolved organic carbon in mg/L from Organ Cave,  
+had  sinking  streams  (Fig.  1).  DOC  concentrations  in                                           West Virginia (USA) and Postojna Planina Cave System (Slovenia). From  
+                                                                                                     Simon et al. (2007). Used with permission of the National Speleological  
+sinking streams averaged at least five times higher than                                             Society (www.caves.org). 
+in percolating water (Table 4). However, many conduits  
+in both caves had no stream, and the only source of                                                                                                                      Postojna Planina  
+                                                                                                                                             Organ Cave                    Cave System 
+carbon was percolating water. The total amount of DOC  
+                                                                                                       Input:  sinking streams                7.67±1.03                      4.36±0.46 
+in cave streams depended in large part on the relative  
+                                                                                                       Input:  percolation water              1.10±0.15                      0.70±0.04 
+contribution  of  sinking  streams  and  epikarst  drips.   
+                                                                                                       In cave:  streams                      1.08±0.32                      4.75±1.57 
+In PPCS, the sinking stream was much larger than in  
+                                                                                                       Output:  resurgence                    0.90±0.17                      2.67±0.80 
+Organ Cave, and DOC concentrations were accordingly  
+higher (Table 4). 
+   An  equally  interesting  question  is  the  type,  or  
+quality,  of  organic  carbon  in  epikarst.  The  source  
+of  organic  carbon  in  the  epikarst  ultimately  comes  
+from the decomposition of material at or near the soil  
+surface, e.g., leaf litter, and in the soil, especially from  
+the  result  of  extra-cellular  enzymes  secreted  by  the  
+microbial community. 
+
+Table 3.  Average values and coefficients of variation (standard deviation X  
+                                          -   3+    3+          3+ 
+ 100/mean) for pH, conductivity, NO , Al  , Cr  , and Fe    in three caves in  
+                                         2 
+ Romania.  Ionic concentrations are in mg/L.  Data from Meleg et al. (2011b).   
+
+                                    Conductivity         3+        3+        3+         - 
+  Cave                       pH                       Al        Cr         Fe       NO2 
+                                       (μS/cm) 
+
+   Peştera  
+                  Mean      8.70       256.13         0.42      0.01      0.63      0.25 
+   Ungurului 
+
+                  Coeff.  
+                            4.02        28.88        169.05    200.00    115.87     96.00 
+                   Var. 
+
+                    n        12           12           12        12        12         12 
+
+   Peştera  
+  Vadu            Mean      8.36       380.84         0.11      0.01      0.31      0.46 
+  Crişului 
+
+                  Coeff.    2.75        15.88        63.64     100.00    203.23     76.09            Fig. 1.  A conceptual model of energy flow and distribution (as organic carbon) in  
+                   Var. 
+                                                                                                     a karst basin with estimates of fluxes and standing crops for Organ Cave, West  
+                    n        12           12           12        12        12         12             Virginia, USA.  Standing stocks are particulate (POM) and dissolved (DOM)  
+                                                                                                     organic matter in the water column and fine (FBOM) and coarse (CBOM)  
+   Peştera                                                                                           benthic organic carbon and microbial films on rocks (epilithon).  Solid and  
+                  Mean      8.49       265.31         0.54      0.01      2.94      0.44 
+  Ciur Izbuc                                                                                         dashed arrows represent fluxes.  Data are standing stocks of carbon except  
+                                                                                                     for respiration flux, shown by the wavy arrow.  Values for FBOM, CBOM and  
+                  Coeff.  
+                   Var.     2.59        32.24        135.19    200.00    211.22    261.36            microbial film are taken from Simon et al. (2003), the whole-stream respiration  
+                                                                                                     rate (wavy arrow) is from Simon and Benfield (2002); and the remaining values  
+                    n        12           12           12        12        12         12             are from Simon et al. (2007).  Modified from Simon et al. (2007).  Used with  
+                                                                                                     permission of the National Speleological Society (www.caves.org). 
+
+                                       International Journal of Speleology, 42 (3), 215-223. Tampa, FL (USA) September 2013 
+
+----------------------- Page 4-----------------------
+
+218                                                         Pipan and Culver 
+
+  Simon      et    al.  (2010)     measured       specific     UV        in Grotte de Sainte-Catherine was much too small to  
+absorbance (SUVA) at 254 nm, a standard measure                          constitute a viable population and concluded that there  
+of the frequency of aromatic compounds (McKnight et                      were  populations  in  perched,  i.e.,  epikarst,  aquifers.   
+al., 2001), for Organ Cave and Postojna Planina Cave                     Rouch had the advantage of collaborating with Mangin  
+System  (PPCS).  Higher  SUVA  values  tend  to  mean                    (1973), one of the discoverers of epikarst. Other French  
+the  compounds  are  less  reactive  and  less  easy  to                 biologists,  notably  Delay  (1968)  and  Gibert  (1986)  
+metabolize but there are numerous caveats (Weishaar                      studied the fauna of percolating waters, and included  
+et  al.,  2003).  The  pattern,  which  is  very  similar  for           terrestrial species in their study, but did not distinguish  
+both caves, is shown in Fig. 2. Soil, one of the sources                 different components of the zone of percolation. 
+of  DOC  in  epikarst,  had  relatively  high  SUVA  and                   Brancelj’s (2002) discovery of a rich copepod fauna  
+percolating water drips had relatively low SUVA. SUVA                    in  drip  pools  in  the  shallow  Slovenian  cave  Velika  
+values suggest that the organic carbon in epikarst is                    Pasica, which has no other water, but with relatively  
+more metabolically accessible than that of the soil, or                  few  reproducing  individuals,  led  him  to  conclude  
+at least with lower percentages of aromatic and humic                    that  reproduction  was  occurring  in  “small  cracks  
+compounds.                                                               around the cave”. Although he did not use the phrase  
+                                                                         epikarst,  the  cave  is  so  shallow  that  most  of  the  
+History of biological studies of epikarst                                ceiling  is  epikarst.  Unlike  Petkovski  and  Holsinger,  
+  Beginning   with   Racoviţă’s   1907   classic   “Essai                he  held  that  reproduction  was  not  occurring  in  the  
+sur  les  problèmes  biospéologiques”,  biologists  have                 cave  but  in  crevices  in  the  cave  ceiling  and  walls.  
+recognized that much of the fauna observed in cave                       Pipan  (2003,  2005)  championed  the  idea  that  there  
+passages  accessible  by  humans  often  occurs  more                    was an epikarst habitat and fauna distinct from other  
+frequently   in   cracks   and   crevices.   In   Racoviţă’s             subterranean   habitats,   and   developed   innovative  
+time, the epikarst zone was completely unknown to                        techniques  to  sample  dripping  water  continuously  
+hydrogeologists, and he can scarcely be faulted for not                  (Pipan  &  Brancelj,  2001).  Camacho  et  al.   (2006)  
+identifying it as a separate habitat. By the mid 20th                    extensively sampled epikarst pools (but not the drips  
+
+century, several biologists, such as Petkovski (1959),                   directly)  and  found  a  large  number  of  stygobiotic  
+became  aware  that  there  were  stygobiotic  copepods                  species  in  Ojo  Guareña  cave  in  Spain.  Culver  and  
+in caves with no streams and only percolating water.                     Pipan (2011) argued that epikarst was one of several  
+He  recognized  that  the  accumulation  of  water  from                 aquatic shallow subterranean habitats each of which  
+above depended on fractured rock, and that there was                     harbors a unique, troglomorphic, stygobiotic fauna. 
+water in tiny fissures and cracks which slowly flowed                      Moldovan, and her colleagues initiated an intensive  
+down from the ceiling. He believed that this habitat                     study    of   Romanian       caves     in  the    mid    2000’s,  
+was  the  realm  of  copepods  like  Speocyclops as  well                emphasizing       community       structure     and     diversity  
+as many harpacticoids. Thus he didn’t recognize the                      (Meleg  et  al.,  2011a,  2011b),  as  well  as  effects  of  
+infiltration zone as a habitat per se , but as a source of               habitat  fragmentation  and  quality  (Moldovan  et  al.,  
+water that filled small depressions in walls, the “realm                 2011).  During  the  same  time  period,  Simon  and  
+of Parastenocarida”. Holsinger (1971) came to similar                    colleagues   (2007,   2010)   integrated   epikarst   into  
+view  with  respect  to  a  population  of  the  amphipod                models of organic carbon flux in caves, and provided  
+Crangonyx antennatus living in Molly Waggle Cave in                      the first measurements of dissolved organic carbon. 
+Virginia. Part of the population was in an old trough  
+used for saltpetre mining during the American Civil                      Overview of the epikarst fauna 
+War. He concluded that the only way the individuals                        The epikarst fauna, best collected directly from dripping  
+could have gotten there was via what we would now                        water rather than pools (see below), is typically dominated  
+call epikarst, but he reviewed it more as a dispersal                    by  copepods  (Pipan,  2005;  Pipan  &  Culver,  2005;  
+corridor than a habitat.                                                 Meleg  et  al.,  2011b). Other groups may be present in  
+  In his study of copepods in the Baget karst basin in                   considerable numbers, including amphipods, ostracods,  
+France,  Rouch  (1968,  pers.  comm.)  recognized  that                  and even syncarids, depending on the location. Terrestrial  
+the  small  number  of  individuals  occurring  in  pools                species are also sometimes common in dripping water,  
+                                                                         presumably  having  been  flushed  out  of  their  air-filled  
+                                                                         cavity. Nonetheless, the bulk of biological studies have  
+                                                                         emphasized the copepod fauna. 
+                                                                           Not  all  species  found  in  epikarst  are  epikarst  
+                                                                         endemics,      or   even    stygobionts      (aquatic    species  
+                                                                         limited  to  subterranean  waters).  For  the  35  drips  
+                                                                         in  six  caves  studied  by  Pipan  (2005),  the  number  
+                                                                         of  (1)  epikarst  endemic  copepod  species,  (2)  non- 
+                                                                         epikarst  endemic  stygobiont  copepod  species,  and  
+                                                                         (3)  non-stygobiont  copepod  species  was  about  the  
+                                                                         same,  ranging  between  10  and  15  (Fig.  3).  For  all  
+                                                                         Slovenian records, non-epikarst endemic stygobionts  
+Fig. 2.   Specific UV absorbance (SUVA) for DOC samples from  
+soil extracts, epikarst drips, sinking streams, cave streams, and        and non-stygobiont species were approximately equal  
+resurgences at PPCS and Organ Cave karst aquifers in September           in  number,  while  the  number  of  epikarst  endemics  
+2007.  From Simon et al. (2010).                                         was  approximately  half  of  the  other  two  categories.  
+
+                            International Journal of Speleology, 42 (3), 215-223. Tampa, FL (USA) September 2013  
+
+----------------------- Page 5-----------------------
+
+                                          Forty years of epikarst:  what biology have we learned?                                                      219 
+
+The  reduced  relative  frequency  of  epikarst  endemic                         Table 5. ANOVA and comparison of mean abundance of copepod  
+species is not surprising since only seven caves have                            collected in 35 drips by Pipan (2003).  
+
+been thoroughly investigated.                                                      Sources               Sum of Squares   Mean Squares    F-ratio     p 
+   It is interesting to consider the relative abundance of                         Ecological Category       11648.73        5824.37      3.239     0.0516 
+the different categories of species—epikarst endemic,                              Error                    61141.70         1796.29 
+non-epikarst endemic stygobiont, and non-stygobiont,                               Total                    72790.43 
+because       one     could     hypothesize        that    the     three  
+categories  represent  different  stages  of  adaptation,  
+                                                                                   Ecological Category        Mean              n          SE 
+with non-stygobionts being the least adapted. For the  
+                                                                                   Epikarst endemic           20.1             15          10.9 
+six  caves  where  drips  were  sampled  directly  (Pipan,  
+                                                                                   Other stygobionts          52.9              9          14.1 
+2003, 2005), it is possible to test this directly. Using  
+                                                                                   Non-stygobionts             6.6             13          11.8 
+overall abundance of each species in drip samples as  
+the variable, the mean abundance of non-stygobionts                                 •    68   percent   (16.33   species)   of   total   species  
+was  the  lowest  of  the  three  groups,  as  expected                                  richness  was  among  cave  (a  component  of  
+(Table  5),  but  the  presumably  specialized  epikarst                                 β-diversity). 
+endemics were less than half as abundant as the other                               Meleg et al. (2011a, 2011b) report between 3 and 6  
+stygobionts.  Overall  however,  the  ANOVA  was  not                            epikarst copepod species per cave in drips and drip  
+significant (p=0.0516, Table 5), indicating no significant                       pools in Romania (Table 6) and a total of 11 species  
+differences in abundance among the ecological groups.                            among  their  five  study  caves,  lower  numbers  than  
+                                                                                 those  recorded  for  the  Slovenian  caves.  The  best  
+Copepod species diversity and richness in epikarst                               estimate  of  total  species  richness  was  16  species  
+   Malard et al. (2009) analyzed data on stygobiotic                             for  the  five  Romanian  caves  (Meleg  et  al.  2011a).  
+groundwater  species  on  a  European  wide  scale                               Based  on  this  limited  evidence,  it  seems  likely  that  
+and  found  that  local  α-diversity  (in  their  case  a                        Slovenia and perhaps the Dinaric karst in general is a  
+local  aquifer)  contributed  less  than  ten  percent  to                       hotspot for epikarst copepod species, as it is for other  
+overall species richness, and suggested that among                               subterranean aquatic groups (Sket 1999). 
+sites    β-diversity       was     characteristically         high     in           Not only are species numbers high in general in the  
+subterranean  systems.  Sampling  data  on  epikarst                             Dinaric karst of Slovenia, but nearly all the species  
+drips  allows  for  the  analysis  of  even  finer  spatial                      are  stygobionts,  in  contrast  to  well  studied  caves  
+scales. The same pattern of low α-diversity and high                             in  Romania  and  West  Virginia,  USA  (Table  7).  An  
+β-diversity  demonstrated  by  Malard  et  al.  (2009)                           interesting and unusual situation occurs in two non- 
+for the stygofauna as a whole on a European wide                                 Dinaric caves in Slovenia which had very low diversity  
+scale  was  found  for  epikarst  copepods  for  smaller                         (as  opposite  to  the  general  high  diversity  recorded  
+geographic scales—ranging from individual drips to                               for the Dinaric karst): in drips in both Huda luknja,  
+the south central region of Slovenia (Pipan & Culver,                            occurring in an isolated karst area and Snežna jama  
+2007a).  The  three  components  of  total  epikarst                             na  planini  Arto,  an  ice  cave  in  the  Kamnik-Savinja  
+copepod diversity were partitioned as follows:                                   Alps,  only  two  copepod  species  were  found  in  each  
+   •    12  percent  (3.20  species)  of  the  total  species                    cave, but they all were stygobionts. 
+        richness was within-drip diversity (α-diversity) 
+   •    20  percent  (5.47  species)  of  the  total  species                    Ecology of epikarst fauna 
+        richness was among drip diversity within a cave                             Pipan et al. (2006a) used Canonical Correspondence  
+        (a component of β-diversity), for an average of                          Analysis  to  search  for  patterns  and  connections  
+        8.67 species per cave                                                    between        individual       species      and      environmental  
+                                                                                 parameters.  In  this  study,  it  was  only  the  samples  
+                                                                                 with  copepods  that  were  used,  and  the  emphasis  
+                                                                                 was on niche differences among species. Figure 4 is a  
+                                                                                 two-dimensional plot of the 12 chemical and physical  
+                                                                                 parameters of epikarst drips from five Slovenian caves  
+                                                                                 (Postojnska jama was excluded because species were  
+                                                                                 rare and more than half of the drips had no fauna).  
+
+                                                                                 Table 6. Species richness of epikarst copepods for five Romanian  
+                                                                                 caves. The estimated total includes observed and unobserved species,  
+                                                                                 using Chao 1 estimate in EstimateS.  Data from Meleg et al. (2011a). 
+
+                                                                                   Cave                                         Number of Species 
+
+                                                                                   Peştera Ungurului                                    6 
+
+                                                                                   Peştera Vadu Crişului                                5 
+
+Fig. 3. Histogram of number of copepod species reported from                       Peştera cu Apă din Valea Leşului                     5 
+Slovenian caves (open bars) and copepod species reported from  
+                                                                                   Peştera Ciur Izbuc                                   5 
+epikarst habitats in six intensively studied caves (solid bars),  
+according to the categories stygophile, stygobiont, and epikarst                   Peştera Doboş                                        3 
+endemic. Epikarst endemics are also stygobionts, but are only listed               Total                                               11 
+under the epikarst endemic category. Data from Pipan (2005) and  
+                                                                                   Estimated total (Chao estimate)                    15.5 
+Culver et al. (2009).   
+
+                                International Journal of Speleology, 42 (3), 215-223. Tampa, FL (USA) September 2013 
+
+----------------------- Page 6-----------------------
+
+220                                                              Pipan and Culver 
+Table 7. Frequency of stygobiotic copepods taken from water in drips.          high concentrations of NO3- . These species were only  
+
+                                                                               found  in  Pivka  jama.  A  third  cluster  comprised  all  
+                                        Percent                                of  the  other  species.  Because  the  first  two  clusters  
+                          No. of    troglobionts and  
+          Site            species     stygoboints          Source              were related not only with particular environmental  
+  Črna jama, Slovenia       8             100        Pipan (2005)              conditions  but  also  with  a  particular  cave,  it  was  
+  Dimnice, Slovenia         8             100        Pipan (2005)              impossible   to   distinguish   which   factor   (physical- 
+  Huda luknja, Slovenia     2             100        Pipan et al. (2008)       chemical  or  geographic  separation)  was  important.  
+  Snežna jama na planini                                                       Nevertheless, each species occupied a distinct set of  
+ Arto, Slovenia             2             10         Papi and Pipan (2011)     sites, and even species within a cluster slightly differed  
+
+  Županova jama, Slovenia   14            93         Pipan (2005) 
+                                                                               in  their  preferential  conditions.  Given  the  highly  
+  Škocjanske jame,                                                             fragmented character of epikarst and the high levels  
+  Slovenia                  9             89         Pipan (2005) 
+
+  Postojnska jama, Slovenia 5             80         Pipan (2005)              of heterogeneity of physical and chemical conditions,  
+  Pivka jama, Slovenia      11            73         Pipan (2005)              there are many possibilities for niche separation, both  
+                                                                               along  geochemical  and  spatial  axes.  It  may  be  this  
+  Peştera Doboş, Romania    33            67         Meleg et al. (2011b) 
+                                                                               heterogeneity makes possible the high β-diversity of  
+  Peştera Ciur Izbuc,  
+  Romania                   5             60         Meleg et al. (2011b)      epikarst habitats (see above). 
+  Cave cu Apă din Valea                                                           Meleg et al.  (2011a) and Pipan et al. (2006b) report  
+  Leşului, Romania          4             50         Meleg et al. (2011b)      similar analyses for epikarst communities in Romania  
+  Organ Cave, W.Va., USA    10            40         Pipan et al. (2006b)      and     USA,      respectively.      Using     pH,     temperature,  
+  Peştera Ungurului,                                                           conductivity, and precipitation are predictor variables,  
+  Romania                   6             33         Meleg et al. (2011b) 
+  Peştera Vadu Crişului,                                                       Meleg et al. (2011a) produced correspondence plots for  
+  Romania                   5             20         Meleg et al. (2011b)      the  entire  epikarst  community,  including  amphipods,  
+                                                                               isopods, ostracods, and copepods, the latter being the  
+The most important parameters which separated the                              dominant taxa as number of species and individuals.  
+different  drips  were  NO3-  concentration  and  ceiling                      They found that, unlike Pipan et al. (2006a), differences  
+
+thickness.  Each  cave  formed  a  relatively  compact                         in  conductivity  were  correlated  with  abundance  of  
+cluster, with Županova jama both having the largest                            different  species  and  that  the  stygobiotic  taxa  were  
+cluster  and  being  the  most  distinct.  When  species                       usually found in water with higher conductivity. Higher  
+were  superimposed  on  the  two-dimensional  plot,                            conductivity implies longer residence time of the water  
+three clusters of species could be distinguished. One                          in epikarst as the water becomes saturated with CaCO3  
+is represented by the single species Parastenocaris cf.                        (Covington et al., 2012). 
+andreji, and largely separated by low concentrations                              Moldovan et al. (2011) have made important steps  
+of NO -                                              +          -              in understanding why different epikarst communities  
+        3  and high concentrations of Na               and Cl , and  
+was only found in Dimnice drips. A second cluster —                            are different, not just that they are different. Working  
+Moraria varica, Maraenobiotus cf. brucei, Bryocamptus                          in  Peştera  Ciur  Izbuc  in  Romania,  they  used  a  
+dacicus,  and  Bryocamptus  sp.—  was  separated  by                           combination   of   stable   isotopes,   drip   rates,   and  
+                                                                               species  composition  in  abundance,  to  understand  
+                                                                               differences between the epikarst community in two  
+                                                                               sections  of  the  cave  300  m  apart.  They  concluded  
+                                                                               that  the  downstream  epikarst  section  had  smaller,  
+                                                                               well connected voids that allowed for rapid transport  
+                                                                               of animals and water from the surface. The upstream  
+                                                                               section  had  lower  secondary  porosity  but  larger  
+                                                                               spaces   (and   larger   animals).   Finally,   they   also  
+                                                                               demonstrated   that   the   surface-dwelling   copepod  
+                                                                               Bryocamptus  caucasicus  was  able  to  penetrate  the  
+                                                                               epikarst and had a negative impact on the stygobiotic  
+                                                                               copepods, even though  B. caucasicus  likely did not  
+                                                                               maintain  permanent  populations  in  subterranean  
+                                                                               habitats. 
+                                                                                  An analysis of the relationship between geographic  
+                                                                               distance  and  community  structure  in  the  Organ  
+                                                                               Cave      (West      Virginia,     U.S.A.)      drip     community  
+                                                                               highlights  the  importance  of  spatial  heterogeneity  
+                                                                               and  patchiness.  The  highly  dissected  nature  of  
+                                                                               epikarst may constrain dispersal. If this is the case,  
+                                                                               then  community  similarity  should  decline  rapidly  
+                                                                               with  distance.  Using  the  Jaccard  index,  Pipan  et  
+Fig. 4. Ordination diagram based on species composition and                    al.  (2006b)  showed  a  striking  relationship  between  
+abundance data in drips in five Slovenian caves.  Lines indicate the           community differences and distance (Fig. 5). There  
+environmental variables and their orientation on the canonical axis.   
+                                                                               is   an   increase   in   community   dissimilarity   with  
+Triangles indicate different species and dots represent individual  
+drips.  Convex hulls enclose the drips for individual caves.  From             distances up to 100 m, after which point there is an  
+Pipan et al. (2006a).                                                          increase in the variability of community dissimilarity.  
+
+                               International Journal of Speleology, 42 (3), 215-223. Tampa, FL (USA) September 2013  
+
+----------------------- Page 7-----------------------
+
+                                     Forty years of epikarst:  what biology have we learned?                                           221 
+
+Thus, drips within several hundred meters of each                        Faunal differences between drips and drip pools 
+other  tend  to  have  similar  composition  and  there                    Most data on epikarst fauna comes from collections  
+is  an  expected  decline  in  similarity  with  distance.               of  individuals  from  drip  pools.  Drip  pools  are  not  
+This relationship between distance and dissimilarity                     necessarily passive collectors of the epikarst fauna in  
+breaks  down  when  drips  greater  than  1  km  apart                   drips, and Pipan et al. (2010) specifically addressed the  
+were  considered,  and  communities  are  substituted                    question of whether the fauna of drip pools reflected the  
+by  new  ones.  The  “new”  communities  may  or  may                    drip community. Overall, the frequency of stygobionts  
+not  be  similar  to  the  adjoining  communities,  as                   was 1.5 times higher in drips than in pools, and the  
+evidenced  by  the  high  variability  of  the  Jaccard                  frequency of stygobionts that were epikarst specialists  
+coefficients.  Epikarst  copepod  communities  thus                      was three times higher in drips compared with pools.  
+form a patchwork of communities, with variation on                       The frequency of immature individuals, suggestive of  
+a scale of 100 m.                                                        reproduction at the site, was also higher in drips than  
+                                                                         in pools, with the exception of one artificially enlarged  
+Morphological characteristics                                            pool in Škocjanske jame. Pipan et al.  (2010) suggest  
+  Brancelj (2007, 2009) gave a number of intriguing                      that there is increased juvenile mortality in pools and  
+suggestions      about     uniquely     convergent      features         reduced  reproduction,  indicating  that  pools  are  not  
+of   epikarst   copepods.   Working   with   the   genera                “source populations”, i.e., populations that are self- 
+Morariopsis      and    Paramoriopsis,       he   pointed     out        sustaining in the absence of migrants (Pulliam, 1988).  
+that animals living in the epikarst must have some  
+morphological  adaptations  to  prevent  or  minimize                               CRITIQUES AND CHALLENGES 
+their  transport  downward.  Combined  with  what  he  
+considers a low supply of organic carbon, he proposes                      Several criticisms and challenges have been posed  
+that  the  following  convergent  features  are  present                 to  the  reality  and  utility  of  the  concept  of  epikarst.  
+in  specialized  epikarstic  copepods  to  avoid  being                  Two of them are hydrogeological, those of Šušteršič  
+displaced by water flow                                                  (1999) and Kresic (2013), and one is biological, that of  
+   •   Reduction in endopodal segmentation to two or                     Sket et al. (2004). 
+       one;                                                                Based on his geological studies of the Dinaric karst  
+   •   Reduction  in  number  of  spines  and  setae  on                 where there is both rapid uplift and rapid denudation  
+       the  terminal  segments  of  both  endopods  and                  of karst, Šušteršič (1999) sees epikarst as a zone of  
+       exopods;                                                          destruction  of  karst,  which  he  calls  speleothanatic  
+   •   Reduction in number of spines and setae on the                    space. There is little doubt that in circumstances of  
+       caudal rami to one terminal seta;                                 both rapid uplift and erosion, caves become unroofed  
+   •   Tips of the terminal setae of the caudal rami are                 and  a  destruction  zone  can  be  identified.  Even  in  
+       far apart;                                                        this case, epikarst can still have major hydrological  
+   •   Short and robust setae on the endopodal lobe of                   function  for  water  storage,  a  point  that    Šušteršič  
+       fifth leg (P5) as well as very strong spinules at                 did  not  address.  Šušteršič’s  work  does  point  out  
+       the base of the caudal rami.                                      the  transitory  nature  of  epikarst,  more  so  than  the  
+  Brancelj     (2009)    demonstrated        that   the    genus         underlying caves. 
+Elaphoidella      shows     similar    convergent      features,           Kresic (2013) offers two objections to the widespread  
+especially the last two. He also proposed that there                     use of the term epikarst. First, he argues that epikarst  
+is convergent reduction on length of the antennules                      is absent in many places. This is an empirical question,  
+and that robust setae are probably an adaptation for                     and its presence or absence in flank margin caves and  
+moving through small spaces in fractured rock as well                    hypogenic  caves,  for  example,  is  unknown  (Jones,  
+as a protection against washout.                                         2013). Curiously, Kresic (2013) uses the presence of  
+                                                                         vertical shafts and sinkholes as evidence for epikarst,  
+                                                                         but  they  are  not  an  integral  part  of  epikarst,  and  
+                                                                         Bakalowicz (2004) even argues that they are not even  
+                                                                         part of epikarst, since it represents rapid transmission  
+                                                                         routes through upper karst layers. Secondly, Kresic  
+                                                                         (2013) quite correctly points out that epikarst is not a  
+                                                                         usable aquifer by humans, but that speaks to its size,  
+                                                                         not its presence. 
+                                                                           Sket et al. (2004) hold that there is no distinct epikarst  
+                                                                         fauna, and consider it part of the upper vadose fauna,  
+                                                                         which is also called the percolation zone. The method  
+                                                                         of collecting epikarst water necessarily means that it  
+                                                                         includes water in both epikarst and the percolation zone  
+                                                                         below it. However, it is likely that most of the animals  
+                                                                         are in the epikarst rather than the percolation zone, for  
+                                                                         two reasons, one hydrological and the other based on  
+Fig. 5.  Semilog plot of geographic distance (in m) against (1-J), where  species occurrence patterns. As the pioneering work of  
+J’s are Jaccard indices.  Closed circles are pairs of drips on the same  
+side of the syncline that is the major structure determinant of cave     the hydrogeologists Bakalowicz, Mangin, and Williams  
+passage position; open circles are on opposite sides of the syncline.    demonstrates, most of the water is stored in the epikarst  
+
+                            International Journal of Speleology, 42 (3), 215-223. Tampa, FL (USA) September 2013 
+
+----------------------- Page 8-----------------------
+
+222                                                          Pipan and Culver 
+
+zone.   This   volumetric   relationship   suggests   most                 Bakalowicz M., 2012 -  Epikarst.  In: White WB & Culver  
+individuals are in the epikarst rather than other areas,                     DC.  (Eds.)  -  Encyclopedia  of  caves,  second  edition.   
+especially since the upper vadose zone is a region of                        Amsterdam, The Netherlands: Elsevier Press: 284-288.   
+vertically moving water. In addition, Pipan et al. (2006a)                   http://dx.doi.org/10.1016/B978-0-12-383832-2.00038-4 
+found  that  the  abundance  of  all  stygobiotic  copepod                 Ban R., Pan G., Zhu J., Cai B. & Tan M., 2008 - Temporal  
+                                                                             and  spatial  variations  in  the  discharge  and  dissolved  
+species  except  Elaphoidella  cvetkae  was  negatively  
+                                                                             organic carbon of drip waters in Beijing Shihua Cave,  
+correlated  with  ceiling  thickness  (see  Fig.  4).  If  the               China.  Hydrological Processes, 22: 3749-3758.  
+upper vadose zone were the major habitat, then most                          http://dx.doi.org/10.1002/hyp.6979 
+species should have a pattern like that of E. cvetkae.                     Bottrell  S.H.  &  Atkinson  T.C.,  1992  -  Tracer  study  and  
+If the upper vadose zone were the major habitat, it is                       storage  in  the  unsaturated  zone  of  a  karstic  limestone  
+difficult to explain the high diversity in Velika Pasica                     aquifer. In:  Hotzl H. & Werner H. (Eds.) - Tracer hydrology.   
+and other caves with thin ceilings and essentially no                        Rotterdam, The Netherlands: Balkema: 207-211.   
+upper vadose zone. Because all sampling is indirect, it                    Brancelj A., 2002 -  Microdistribution and high diversity  
+                                                                             of  Copepoda  (Crustacea)  in  a  small  cave  in  central  
+cannot be known with certainty what the distribution  
+                                                                             Slovenia.  Hydrobiologia, 477: 59-72.  
+of species in the epikarst and upper vadose is. While  
+                                                                             http://dx.doi.org/10.1023/A:1021043014879 
+it is highly likely that, for the reasons given above, the                 Brancelj A., 2007 -  The epikarst habitat in Slovenia and  
+major habitat is epikarst, many species may well occur                       the description of a new species.  Journal of Natural  
+in other part of the upper vadose zone. Thus, strictly                       History, 40: 403-413.  
+speaking, it is likely that most epikarst species occur,                     http://dx.doi.org/10.1080/00222930600646608 
+albeit in much smaller numbers, in the upper vadose,                       Brancelj A., 2009 - Fauna of an unsaturated karstic zone  
+percolation zone. Nevertheless, epikarst endemic is a                        in central Slovenia:  two new species of Harpacticoidea  
+very useful phrase to describe these species, just as                        (Crustacea:    Copepoda),  Elaphoidella  millennii  n.sp.  
+                                                                             and E. tarmani n.sp., their ecology and morphological  
+riparian  species  may  occasionally  occur  away  from  
+                                                                             adaptations.  Hydrobiologia, 621: 85-104.  
+stream margins.                                                              http://dx.doi.org/10.1007/s10750-008-9634-3 
+
+                                                                           Camacho A.I., Valdecasas A.G., Rodríguez, J., Cuezva,  
+     DIRECTIONS FOR FUTURE RESEARCH                                          S.,  Lario,  J.  &  Sánchez-Moral  S.,  2006  -  Habitat  
+                                                                             constraints in epikarstic waters of an Iberian Peninsula  
+  So much is not known about epikarst that it is difficult to                cave system.  International Journal of Limnology, 42:   
+prioritize research needs. However, the following directions                 127-140. http://dx.doi.org/10.1051/limn/2006009 
+seem to be most promising. First, part of the difficulty of                Covington M.D., Luhmann A.J., Wicks C.M. &Saar M.,   
+                                                                             2012 -  Process length scales and longitudinal damping  
+studying epikarst is that all sampling is indirect, and we  
+                                                                             in karst conduits.  Journal of Geophysical Research –  
+can  only  infer  habitat  structure  and  subdivision.  Any                 Earth Surface, 117.  
+method of direct observation or direct sampling, perhaps                     http://dx.doi.org/10.1029/2011JF002212 
+through pumping, should yield important results. Second,                   Culver D.C. & Pipan T., 2011 - Redefining the extent of the  
+understanding the reasons for the differences in species                     aquatic  subterranean  biotope—shallow  subterranean  
+composition   and   richness   of   epikarst   communities,                  habitats.  Ecohydrology, 4: 721-730.  
+especially in small scale, is an obvious next step forward.                  http://dx.doi.org/10.1002/eco.243 
+The promising start of Moldovan et al.  (2011), one that                   Culver D.C., Pipan T. & Schneider K., 2009 - Vicariance,  
+                                                                             dispersal, and scale in the aquatic subterranean fauna  
+combines hydrological, biological, and stable isotope data,  
+                                                                             of karst regions.  Freshwater Biology, 54: 918-929.  
+should be expanded. Third, none of the epikarst fauna                        http://dx.doi.org/10.1111/j.1365-2427.2007.01856.x 
+has been put in a phylogenetic context. Are these species                  Delay B., 1968 -  Donnees sur le peuplement de la zone de  
+basal to species in deeper subterranean habitats, or do                      percolation temporaire.  Annales de Spéologie, 23: 705-733. 
+they tend to form distinct clades? Phylogeographic studies                 Ford D. & Williams P., 2007 -  Karst hydrogeology and  
+would  also  provide  some  initial  estimates  of  the  age  of             geomorphology.  John Wiley & Sons, New York, 576 p.  
+the epikarst fauna. Fourth, the suggestion of Pipan and                      http://dx.doi.org/10.1002/9781118684986 
+Culver (2007b) that copepods could be used as epikarst                     Gibert J., 1986 - Ecologie d‘un systeme karstique jurassien.  
+                                                                             Hydrogéologie,  dérive  animale,  transits  de  matières,  
+water tracers should be pursued. 
+                                                                             dynamique  de  la  population  de  Niphargus  (Crustacé  
+                                                                             Amphipode). Mémoires de Biospéologie,  13: 1-379. 
+                ACKNOWLEDGEMENTS                                           Holsinger  J.R.,  1971  -  Observations  on  a  population  of  
+                                                                             the   cavernicolous     amphipod      crustacean     Crangonyx  
+  This  paper  was  modified  and  adapted  from  a  chapter                 antennatus Packard. Virginia Journal of Science, 22: 97. 
+on  “Epikarst”  for  a  book  by  Culver  and  Pipan,  Shallow            Jones  W.K.,    2013  -  Physical  structure  of  the  epikarst.   
+Subterranean Habi tats. Ecology, Evolution, and Conservation,                Acta Carsologica, 42.   
+to  be  published  by  Oxford  University  Press.  Several                Jones W.K., Culver D.C. & Herman J.S., (Eds.)  2004 - Epikarst.   
+                                                                             Proceedings of the symposium held October 1 through 4, 2003  
+anonymous reviewers offered very useful comments. 
+                                                                             Sheperdstown, West Virginia, USA.    Karst Waters Institute,  
+                                                                             Charles Town, West Virginia, U.S.A., 160 p. 
+                       REFERENCES                                          Kogovšek J.,  2010 - Characteristics of percolation through  
+                                                                             the  karst  vadose  zone.    ZRC  Publishing,  Ljubljana,  
+Bakalowicz M.,  2004 - The epikarst, the skin of karst.  In:                 Slovenia: 168 p.  
+  Jones WK, Culver DC & Herman JS. (Eds.) -  Epikarst.                     Kogovšek   J.   &   Urbanc   J.,   2007   -   Ocena   dinamike  
+  Proceedings of the symposium held October 1 through 4,                     premikajoče vode skozi vadozno cono Postojnske jame na  
+  2003 Shepherdstown, West Virginia, USA.  Charles Town,                     osnovi izotopskih značilnosti.  Geologija, 56: 477-486.  
+  West Virginia, U.S.A.: Karst Waters Institute: 16-22.                      http://dx.doi.org/10.5474/geologija.2007.033 
+
+                             International Journal of Speleology, 42 (3), 215-223. Tampa, FL (USA) September 2013  
+
+----------------------- Page 9-----------------------
+
+                                      Forty years of epikarst:  what biology have we learned?                                            223 
+
+Kresic  N.,    2013  -  Water  in  karst.   McGraw-Hill,  New             Pipan T. & Culver D.C., 2007b - Copepod distribution as an  
+  York, 736 p.                                                              indicator of epikarst system connectivity.  Hydrogeology  
+Malard F., Boutin C., Camacho A.I., Ferreira D., Michel                     Journal,  15: 817-822.  
+  G., Sket B. & Stoch F., 2009 -   Diversity patterns of                    http://dx.doi.org/10.1007/s10040-006-0114-4 
+  stygobiotic crustaceans across multiple spatial scales in               Pipan T., Holt N. & Culver D.C., 2010 - How to protect a  
+  Europe.  Freshwater Biology, 54: 756-776.                                 diverse, poorly known, inaccessible fauna:  identification  
+  http://dx.doi.org/10.1111/j.1365-2427.2009.02180.x                        of  source  and  sink  habitats  in  the  epikarst.    Aquatic  
+Mangin A.  1973 -  Sur la dynamique des transferts en                       Conservation:    Marine  and  Freshwater  Ecosystems,  
+  aquifer karstique.  Proceedings of the Sixth International                20: 748-755. http://dx.doi.org/10.1002/aqc.1148 
+  Congress of Speleology, Olomouc. 4: 157-162.                            Pipan T., Navodnik V., Janžekovič F. & Novak T., 2008  
+McKnight D. M., Boyer E. W., Westerhoff P. K., Doran P.T.,                  -  First  studies  on  the  fauna  of  percolation  water  in  
+  Kulbe, T. & Andersen, D. T., 2001 – Spectrofluorometric                   Huda Luknja, a cave in the isolated karst in northeast  
+  characterization      of   dissolved    organic     matter    for         Slovenia.  Acta Carsologica, 37: 141-151.  
+  indication of precursor organic material and aromaticity.               Pulliam  H.R.,  1988  -  Sources,  sinks,  and  population  
+  Limnology and Oceanography 46: 38-38.                                     regulation.  American Scientist, 132: 652-661. 
+  http://dx.doi.org/10.4319/lo.2001.46.1.0038                             Racoviţă E.G. 1907 - Essai sur les problèmes biospéologiques.   
+Meleg I.N., Fiers F. & Moldovan O.T., 2011a - Assessing                     Archives de Zoologie Expérimentale et Générale, 6: 371-488. 
+  copepod  (Crustacea:  Copepoda)  species  richness  at                  Rouch  R.,  1968  -  Contribution  a  la  connaissance  de  
+  different   spatial   scales   in   northwestern   Romanian               Harpacticides      hypogés      (Crustacés     –   Copépodes).   
+  caves.  Subterranean Biology, 9: 103-112.                                 Annales de Spéléologie, 23: 9-167. 
+  http://dx.doi.org/10.3897/subtbiol.9.2513                               Simon K.S. & Benfield E.F., 2002 - Ammonium retention  
+Meleg I.N., Moldovan O.T., Iepure S., Fiers F. & Brad T.,                   and     whole-stream      metabolism      in   cave    streams.   
+  2011b -  Diversity patterns of fauna in dripping water                    Hydrobiologia, 482: 31-39.  
+  of caves  from Transylvania.    Annales  de  Limnologie/                  http://dx.doi.org/10.1023/A:1021257822591 
+  International   Journal   of   Limnology,   47:   185-197.              Simon K.S., Benfield E.F. & Macko S.A., 2003 - Food web  
+  http://dx.doi.org/10.1051/limn/2011014                                    structure and the role of epilithic films in cave streams.   
+Moldovan   O.T.,   Meleg   I.N.   &   Perşiou   A.,   2011   -              Ecology, 84: 2395-2406.  
+  Habitat  fragmentation  and  its  effects  on  groundwater                http://dx.doi.org/10.1890/02-334 
+  populations.  Ecohydrology, 5: 445-452.                                 Simon K.S., Pipan T. & Culver D.C., 2007 - A conceptual  
+  http://dx.doi.org/10.1002/eco.237                                         model of the flow and distribution of organic carbon in  
+Papi F. & Pipan T., 2011 - Ecological studies of an epikarst                caves.  Journal of Cave and Karst Studies, 69: 279-284. 
+  community in Snežna jama na planini Arto – an ice cave                  Simon K.S., Pipan T., Ohno T. & Culver D.C., 2010 - Spatial  
+  in north central Slovenia.  Acta Carsologica, 40: 505-513.                and   temporal   patterns   in   abundance   and   character  
+Petkovski T.K., 1959 -  Fauna Copepoda pećine “Dona Duka”                   of   dissolved   organic   matter   in   two   karst   aquifers.   
+  kod rašča—Skopje.  Fragmenta Balcanica, 2: 107-123.                       Fundamental and Applied Limnology 177: 81-92.  
+Pipan T., 2003 -  Ekologija ceponožnih rakov (Crustacea:                    http://dx.doi.org/10.1127/1863-9135/2010/0177-0081 
+  Copepoda)  v  prenikajoči  vodi  izbranih  kraških  jam.                Sket B., 1999 - The nature of biodiversity in subterranean  
+  Ph.D. Dissertation, University of Ljubljana, Ljubljana,                   waters  and  how  it  is  endangered.    Biodiversity  and  
+  Slovenia: 130 p.                                                          Conservation, 8: 1319-1338.  
+Pipan T., 2005 - Epikarst – a promising habitat.  Založba                   http://dx.doi.org/10.1023/A:1008916601121 
+  ZRC, Ljubljana, Slovenia: 101 p.                                        Sket  B.,  Trontelj  P.  &  Žagar  C.,    2004  -  Speleobiological  
+Pipan  T.,  Blejec  A.  &  Brancelj  A.,  2006a  -  Multivariate            characterization   of   the   epikarst   and   its   hydrological  
+  analysis of copepod assemblages in epikarstic waters of                   neighborhood:  its role in dispersion of biota, its ecology and  
+  some Slovenian caves. Hydrobiologia, 559: 213-223.                        vulnerability.  In:    Jones  W.K,  Culver  D.C.  &  Herman  J.S.  
+  http://dx.doi.org/10.1007/s10750-005-0920-z                               (Eds.) -  Epikarst.  Proceedings of the symposium held October 1  
+Pipan T. & Brancelj A., 2001 -  Ratio of copepods (Crustacea:               through 4, 2003 Shepherdstown, West Virginia, USA.  Charles  
+  Copepoda) in fauna of percolation water in six karst caves                Town, West Virginia, U.S.A.: Karst Waters Institute: 104-113. 
+  in Slovenia.  Acta Carsologica, 30: 257-266.                            Šušteršič F., 1999 - Vertical zonation of the speleogenetic  
+Pipan   T.,   Christman,   M.C.   &   Culver   D.C.,   2006b   -            space.  Acta Carsologica, 28: 187-201. 
+  Dynamics   of   epikarst   communities:      microgeographic            Weishaar J.L., Aiken G.R., Bergamaschi B.A., Fram M.S.,  
+  pattern   and   environmental   determinants   of   epikarst              Fujii  R.  &  Mopper,  K.,  2003  -    Evaluation  of  specific  
+  copepods in Organ Cave, West Virginia. American Midland                   ultraviolet  absorbance  as  an  indicator  of  the  chemical   
+  Naturalist, 156: 75-87. http://dx.doi.org/10.1674/0003-                   composition  and  reactivity  of  dissolved  organic  carbon.   
+  0031(2006)156[75:DOECMP]2.0.CO;2                                          Environmental Science and Technology, 37: 4702-4708.  
+Pipan T. & Culver D.C., 2005 - Estimating biodiversity in                   http://dx.doi.org/10.1021/es030360x 
+  the epikarstic zone of a West Virginia cave.  Journal of                Williams  P.W.,    1983  -  The  role  of  subcutaneous  zone  
+  Cave and Karst Studies, 67: 103-109.                                      in karst hydrology.  Journal of Hydrology, 61: 45-67.  
+Pipan T. & Culver D.C., 2007a - Regional species richness                   http://dx.doi.org/10.1016/0022-1694(83)90234-2 
+  in  an  obligate  subterranean  dwelling  fauna—epikarst                Williams P.W.,  2008 - The role of the epikarst in karst and cave  
+  copepods.    Journal  of  Biogeography,   34:  854-861.                   hydrogeology:  a review.  International Journal of Speleology,  
+  http://dx.doi.org/10.1111/j.1365-2699.2006.01667.x                        37: 1-10. http://dx.doi.org/10.5038/1827-806X.37.1.1 
+
+                             International Journal of Speleology, 42 (3), 215-223. Tampa, FL (USA) September 2013 

@@ -1,0 +1,64 @@
+﻿
+SADRŽAJ
+
+
+1. UVOD	1
+2.  TEORIJSKA OSNOVICA	3
+ 2.1. Klimatske promjene	3
+  2.1.1. Varijacije omjera kisikovih izotopa 18O i 16O	9
+  2.1.2. Nomenklatura razdoblja i događaja	11
+ 2.2. Promjene morske razine	15
+ 2.3. Promjene okoliša	21
+ 2.4. Geološka osnova i okršavanje	24
+  2.4.1. Speleogeneza i taloženje siga	28
+  2.4.2. Morem preplavljeni speleološki objekti	32
+ 2.5. Određivanje starosti siga	38
+3.  PRETHODNA ISTRAŽIVANJA	41
+ 3.1. Promjene morske razine na istočnoj obali Jadrana	41
+ 3.2. Globalne promjene morske razine	44
+ 3.3. Datiranje podmorskih siga	46
+ 3.4. Paleoklimatske promjene i promjene okoliša na istočnoj obali Jadrana	49
+4.  METODE ISTRAŽIVANJA	54
+ 4.1. Terenski rad i uzorkovanje	54
+ 4.2. Laboratorijske metode	57
+  4.2.1. Određivanje marinskog obraštaja siga	57
+  4.2.2. Mehanička obrada uzoraka siga	57
+  4.2.3. RTG difrakcija	61
+  4.2.4. Metode datiranja	63
+  4.2.4.1. 230Th/234U datiranje na MC-ICPMS	63
+ 4.2.4.1.1. Kemijska priprema uzoraka za 230Th/234U datiranje na MC-ICPMS	68
+ 4.2.4.1.2. Mjerenje 230Th/234U aktivnosti na MC-ICPMS	70
+  4.2.4.2. 14C datiranje	73
+ 4.2.4.2.1. Kemijska priprema uzoraka za 14C datiranje	77
+ 4.2.4.2.2. Mjerenje 14C aktivnosti	79
+  4.2.5. Određivanje 418O i O13C metodom masene spektrometrije	81
+5.  REZULTATI	83
+ 5.1. Istraženi speleološki objekti – opis i nacrti	83
+  5.1.1. Jama U vode	84
+  5.1.2. Medvjeđa spilja	87
+  5.1.3. Spilja u uvali Tihovac	91
+  5.1.4. Vrulja Zečica	94
+  5.1.5. Spilja kraj Mrtovnjaka	97
+  5.1.6. Zmajevo uho	105
+  5.1.7. Jama u uvali Lučice	108
+ 5.2. Opis uzoraka i prikaz analiziranih dijelova siga	111
+ 5.3. Marinski biogeni obraštaj	129
+ 5.4. Mineralni sastav siga	132
+ 5.5. 230Th/234U i 14C starost analiziranih dijelova siga	140
+ 5.6. Omjeri stabilnih izotopa 18O/16O i 13C/12C u sigama	152
+6.  RASPRAVA	156
+ 6.1. Promjena morske razine tijekom mlađeg pleistocena i holocena	157
+ 6.2. Promjene klime i okoliša tijekom mlađeg pleistocena i holocena	170
+7.  ZAKLJUČAK	182
+8.  PROŠIRENI SAŽETAK	185
+9.  SUMMARY	189
+10.  LITERATURA	193
+11. DODATAK	VIII
+12. ŽIVOTOPIS	XVIII
+13. POPIS RADOVA	XIX
+
+1. UVOD
+     	  
+      Ovaj je rad nastavak istraživanja započetih u okviru izrade magistarskog rada Gornjopleistocensko-holocensko kolebanje morske razine na istočnoj obali Jadrana, obranjenog u travnju 2002. na Prirodoslovno-matematičkom fakultetu u Zagrebu, te se jednim dijelom oslanja na tu građu, uspoređuje i upotpunjava saznanja o uvjetima i promjenama u okolišu tijekom mlađeg pleistocena i holocena na području istočne obale Jadrana. Kombinacijom rezultata novih istraživanja i mjerenja, te usporedbom s rezultatima ranijih istraživanja na području Sredozemlja, detaljnije je razrađena krivulja kolebanja morske razine, paleogeografske i hidrogeološke promjene te uvjeti u okolišu u razdoblju od prije 220 tisuća godina (ka) do danas. Ovaj vremenski interval, osim holocena, obuhvaća dio srednjeg (Middle) i cijeli kasni (Late) pleistocen (što prema stratigrafskoj razdiobi ICS-a /International Commission on Stratigraphy/ obuhvaća naslage gornjeg dijela srednjeg (Middle) i naslage gornjeg (Upper) pleistocena; URL 1). Za to razdoblje (od prije ~220 ka do holocena) u radu će najčešće biti korišten izraz mlađi pleistocen.
+      Kako se radi o priobalnom prostoru, najvažniji utjecaj na uvjete u okolišu ima more, tj. prostorni raspored mora i kopna koji se u izučavanom razdoblju u više navrata mijenjao, u najvećoj mjeri zbog globalnih promjena morske razine uzrokovanih klimatskim promjenama. Fluktuacije morske razine, osim što uzrokuju geografske promjene u prostoru (promjene površine kopnenog i morskog područja), posredno utječu i na klimatske prilike užeg i šireg područja (a time i na biljne i životinjske zajednice), kao i na hidrogeološke odnose u priobalju.
+      U sigama iz morem preplavljenih speleoloških objekata zabilježene su sve ove promjene. Kako je njihovo taloženje isključivo vezano za vadozne uvjete, njihov je rast bio prekinut usl

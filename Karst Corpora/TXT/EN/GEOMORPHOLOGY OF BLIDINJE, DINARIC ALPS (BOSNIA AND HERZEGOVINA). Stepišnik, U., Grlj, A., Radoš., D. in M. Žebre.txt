@@ -1,0 +1,412 @@
+﻿----------------------- Page 1-----------------------
+
+       Journal of Maps 
+
+        ISSN: (Print) 1744-5647 (Online) Journal homepage: https://www.tandfonline.com/loi/tjom20 
+
+Geomorphology of Blidinje, Dinaric Alps (Bosnia 
+and Herzegovina) 
+
+Uroš Stepišnik, Aleš Grlj, Denis Radoš & Manja Žebre 
+
+To cite this article: Uroš Stepišnik, Aleš Grlj, Denis Radoš & Manja Žebre (2016) Geomorphology 
+of Blidinje, Dinaric Alps (Bosnia and Herzegovina), Journal of Maps, 12:sup1, 163-171, DOI: 
+10.1080/17445647.2016.1187209 
+
+To link to this article:  https://doi.org/10.1080/17445647.2016.1187209 
+
+         © 2016 Uroš Stepišnik 
+
+        View supplementary material  
+
+         Published online: 23 May 2016. 
+
+         Submit your article to this journal  
+
+        Article views: 581 
+
+        View Crossmark data 
+
+                        Full Terms & Conditions of access and use can be found at 
+              https://www.tandfonline.com/action/journalInformation?journalCode=tjom20 
+
+----------------------- Page 2-----------------------
+
+JOURNAL OF MAPS, 2016 
+VOL. 12, NO. S1, 163–171 
+http://dx.doi.org/10.1080/17445647.2016.1187209 
+
+SCIENCE 
+
+Geomorphology of Blidinje, Dinaric Alps (Bosnia and Herzegovina) 
+
+                   a                b                  c                           d 
+Uroš Stepišnik         ,  Aleš Grlj  ,  Denis Radoš          and  Manja Žebre 
+
+aDepartment of Geography, University of Ljubljana, Ljubljana, Slovenia; bHarpha Sea Itd., Koper, Koper, Slovenia; cDepartment of 
+Geography, University of Zadar, Zadar, Croatia; dGeological Survey of Slovenia, Ljubljana, Slovenia 
+
+    ABSTRACT                                                                                                       ARTICLE HISTORY 
+    Blidinje is tectonically derived lowland in the Dinaric Alps within Bosnia and Herzegovina. It is              Received 12 February 2016 
+    surrounded by Vran, Čvrsnica and Čabulja Mountains. The Blidinje study area is predominantly                   Accepted 4 May 2016 
+    built  of  carbonates,  where  karst,  ﬂuvial  and  glacial  geomorphological  systems  interact.  We 
+                                                                            2                                      KEYWORDS 
+    present  a  1:25,000  geomorphological  map  covering  a  100 km          with  an  elevation  range  of 
+                                                                                                                   Karst; glaciation; 
+    1200–1900 m. The map results from a combination of a ﬁeldwork mapping, interpretation of                       geomorphological map; 
+    orthophotos and an analysis of a digital elevation model. This map presents a distribution of                  Dinaric Alps; Blidinje 
+    landforms    and  sediments    associated   with   the  past  and   present   karst, glacial and  ﬂuvial 
+    processes,   such  as  different  varieties  of  karst depressions,    conical  hills, erosional  gullies, 
+    alluvial  fans  and  large  amphitheatre-like  moraines.  The  focus  of  the  presented  map  is  to 
+    assist ongoing studies in this part of the Dinaric Alps that seek to understand the dynamics 
+    of former glaciers and associated palaeoclimate. 
+
+1. Introduction 
+                                                                          numerous folds, faults and thrusts (Šimunović & Bog- 
+The Dinaric Alps are a range of the Alpine orogen par-                    nar, 2005). The Blidinje area between Vran, Čvrsnica 
+allel  to  the  eastern  Adriatic  coast  from  Slovenia  to              and Čabulja Mountains is a tectonically derived low- 
+northern Albania. They extend across western Croatia,                     land.  The  study  area  is  predominantly  built  of  more 
+and the majority of Bosnia and Herzegovina, and Mon-                      or  less  permeable  Cretaceous  and  Jurassic  carbonate 
+tenegro. The study area is located in the centre of this                  rocks and their Quaternary re-depositions, that retain 
+mountain range in southwestern Bosnia and Herzego-                        surface   water    in  the  form    of  the   above   mentioned 
+vina. It consists of three interconnected lowered relief                  extensive but shallow Blidinje lake, and some intermit- 
+units which are predominantly built of carbonate bed-                     tent  streams  in  the  Brčanj  area  (Raić  &  Papeš,  1968; 
+rock:   Svinjača    in  the  southwest,     Dugo     Polje  in  the       Šimunović & Bognar, 2005; Soﬁlj & Živanović, 1979). 
+centre    and   Brčanj    in  the   northeast.    The    area  also          The  initial  geomorphological  research  of  Čvrsnica 
+includes     the   southern     slopes    of   Vran     Mountain          Mountain and the surrounding areas was carried out 
+(2074 m a.s.l.), northwestern slopes of Čvrsnica Moun-                    by Cvijić (1899). He studied karst and mass movement 
+tain  (2226 m     a.s.l.) and    northern     slopes   of  Čabulja        landforms  in  the  entire  area  of  Čvrsnica  and  found 
+Mountain (1776 m a.s.l.) (Figure 1). The investigated                     traces   of  glacial   action    around    the   highest    peaks. 
+area has several names; local people call it Polja (plural                According to  Cvijić  (1899), the lowest terminal mor- 
+of  polje),  while  in  the  literature  the  toponyms  Dugo              aines  are  present  at  an  elevation  of  1900 m.  Grund 
+Polje, Blidinje Polje and Blidinje are to be found. The                   (1902) identiﬁed glacial deposits at Dugo Polje and ter- 
+latter  has   its  origin   in  Blidinje   Lake    (Figure    2(a)),      races  of  at  least  three  separate  glacial  phases  on  the 
+located in the southern part of Dugo Polje. Also the Bli-                 slopes  of  Vran  Mountain.  Milojević  (1935)  partially 
+dinje Nature Park, established in 1995, was named after                   conﬁrmed      the   earlier  ﬁndings     of  Cvijić   (1899)  and 
+the lake. Therefore, our study area is referred to as Bli-                Grund  (1902),  but  misinterpreted  moraine  ridges  on 
+dinje after Blidinje Nature Park.                                         the eastern side of Dugo Polje as ﬂuvioglacial deposits. 
+    The Blidinje study area, along with its surrounding                   Moreover, he identiﬁed moraine ridges on the eastern 
+mountains      Vran,    Čvrsnica    and    Čabulja,    belongs    to      side of Svinjača. Traces of glaciation in the area of Bli- 
+the  structural  belt  of  the  Outer  Dinarides  of  Bosnia,             dinje were studied in detail by Roglić (1959) who noted 
+speciﬁcally    to  the   zone   of  Bosnia    and    Herzegovina          that the distribution of moraines east of Svinjača was a 
+high karst (Buljan, Zelenika, & Mesec, 2005). Čvrsnica                    result  of  at  least  two    separate   glacial   phases,   while 
+Mountain is a syncline, disturbed by young fault lines,                   younger  phase  deposits  covered  the  eastern  part  of 
+positioned     transverse     to  the   dominant      northwest–          Dugo Polje (Roglić, 1959). He also identiﬁed extensive 
+southeast direction of the main structure. Vran Moun-                     glacial   accumulations       on   the   northern     plateau    of 
+tain is a similar morphostructural feature dissected by                   Čvrsnica    Mountain       and   outwash     deposits    covering 
+
+CONTACT    Uroš Stepišnik   uros.stepisnik@gmail.com    Department of Geography, University of Ljubljana, Aškerčeva 2, Ljubljana, Slovenia 
+
+© 2016 Uroš Stepišnik 
+
+----------------------- Page 3-----------------------
+
+164        U. STEPIŠNIK ET AL. 
+
+Figure 1. Location of Blidinje in a regional and local context. Study area is marked with a black line. 
+
+part of  Brčanj.  Šimunović  and  Bognar (2005) argued                 Albania (Milivojević, Menković, & Ćalić, 2008), Mon- 
+that   glaciers   from    Čvrsnica     Mountain      descended         tenegro  (Hughes,  Woodward,  van  Calsteren,  &  Tho- 
+towards the south and southeast towards deeply incised                 mas,    2011;    Žebre     &    Stepišnik,    2014),    Croatia 
+valleys. The authors ascribed upper and lower Würm                     (Marjanac & Marjanac, 2004) and Slovenia (Žebre & 
+age   to  the   identiﬁed    palaeoglaciers.    Milićević    and       Stepišnik,  2015a;  Žebre,  Stepišnik,  Colucci,  Forte,  & 
+Prskalo (2014) mentioned a total of 26 preserved cir-                  Monegato, 2016). They not only hosted cirque and val- 
+ques on the Čvrsnica massif.                                           ley glaciers, but also large ice caps, which were some of 
+    Besides Vran, Čvrsnica and Čabulja, other mountai-                 the largest in the Mediterranean owing to a sustained 
+nous areas in Bosnia and Herzegovina were affected by                  moisture supply during cold stages (Adamson, Wood- 
+Quaternary glaciations (e.g. Cvijić, 1899; Grund, 1902;                ward, & Hughes, 2014). Although a great progress has 
+Milojević, 1935; Žebre & Stepišnik, 2015b), as well as                 been made on the palaeoglaciation studies, the Dinaric 
+other  elevated  sections  of  the  Dinaric  Mountains  in             Alps   still lack  a   precise   glacial  chronology     and    a 
+
+----------------------- Page 4-----------------------
+
+                                                                                                            JOURNAL OF MAPS           165 
+
+Figure 2. (a) Blidinje Lake located in the lowest part of Dugo Polje. The view towards the NE. (b) The karst polje Brčanj in the NE side 
+of the Blidinje area. The view towards the NE. (c) Slightly elevated karst surface between Brčanj and Dugo Polje covered by doline- 
+sized depressions. 
+
+comprehensive palaeoclimate interpretation. The only                   four glacial phases, with the largest glaciers occurring 
+glacial chronology in the Dinaric Alps has been pro-                   before  350 ka,  being  signiﬁcantly  larger  than  during 
+vided for coastal (Hughes, Woodward, van Calsteren,                    the Last Glaciation. 
+Thomas, & Adamson, 2010) and central Montenegro                            The aim of this map is to present the geomorpholo- 
+(Hughes, 2010), using uranium series dates from sec-                   gical complexity of the Blidinje area (Main Map). Many 
+ondary    carbonates     of  tillites. These   studies  indicate       studies    have   already    described     this  area   from     a 
+
+----------------------- Page 5-----------------------
+
+166        U. STEPIŠNIK ET AL. 
+
+geographical,    geological    and   geomorphological       per-      northeast direction. It consists of three detached, pre- 
+spective; however, their cartographic presentations do                dominantly  ﬂat  areas  that  are  separated  by  zones  of 
+not offer a comprehensive insight into ﬂuviokarst, gla-               slightly elevated relief. The three ﬂat areas are engulfed 
+ciokarst  and  karst  landscape  interactions.  With  this            within surrounding high mountain massifs. The most 
+map  we  aim  to  present  the  results  obtained  through            dominant      one   is  Čvrsnica    Mountain      towards    the 
+exact  and  thorough ﬁeldwork as  well  as  the  study  of            southeast. To the north is Vran Mountain and to the 
+the aforementioned literature.                                        south is the western part of Čabulja Mountain. 
+                                                                          General  relief  outlines  are  strongly  inﬂuenced  by 
+                                                                      geological  structure.  The  whole  area  of  Blidinje  with 
+2. Methods 
+                                                                      the  surrounding     high  mountain  plateaux  is  part  of 
+The geomorphological map of the Blidinje area (Main                   one  overthrust  nappe.  The  nappe  is  dissected  by  a 
+Map) is a result of a ﬁeldwork mapping, accompanied                   number of regional faults into separate uplifted areas 
+by  the  analysis  of  a  20 m-resolution  digital  elevation         within   compression      zones.   The   central   part  of  the 
+model (DEM), orthophotos ( ‘Geoportal Web Pregled-                    study area  is lowered relief,  which was  formed along 
+nik’, 2016), GoogleEarth images and topographic maps                  extension zone. The entire area consists of carbonate 
+at  a  scale  of  1:  25,000  (‘Geoportal  Web  Preglednik’,          bedrock    or   carbonate-derived      Quaternary      deposits. 
+2016).                                                                Geomorphological processes and features on the sur- 
+   The methods used in this research follow the con-                  face  are  diverse,  regardless  of  the  relatively  uniform 
+cept   of  morpholithostratigraphy        (Hughes,    2010).   A      lithological settings. Local variations in surface gradi- 
+100 km2  study area was mapped in detail during ﬁeld-                 ents,   type   of  bedrock,    tectonic    settings   and   past 
+
+work  campaigns  over  the  course  of  the  summers  of              environments of colder climates inﬂuence the typical 
+2014 and 2015. Geomorphological mapping was sup-                      functioning of different areas as karst, ﬂuviokarst and 
+ported  by  the  use  of  topographic  maps  and  a  global           glaciokarst. 
+positioning  system  navigation  device.  Maps  of  land-                Karst   landscape     is located   within   limestone    and 
+mine  contamination from  the  1992– 1995 war,  which                 some dolostone areas that have moderate surface gradi- 
+were  provided  by  the  Bosnia  and  Herzegovina  Mine               ents.  A   well-developed      subsurface    drainage    within 
+Action  Centre,  were  also  essential  while  performing             karst results in vertical runoff of precipitation, chemical 
+ﬁeld  surveys.  Fieldwork  data  accompanied  with  the               weathering     and   the   formation     of  typical   rounded 
+analysis   of  Yugoslavian     basic   geological   maps    at  a     depressions    on   the  surface   (Gams,     2003;   Williams, 
+scale of 1:100,000 (Papeš, 1972; Raić, Ahac, & Papeš,                 2003). Fluviokarst landscape is typical for tectonically 
+1976;   Soﬁlj   &  Živanović,    1979)    assisted  us   in  dis-     deformed  limestone  areas  as  well  as  for  the  majority 
+tinguishing  between  different  geomorphological  sys-               of dolostone areas. This type of landscape is generally 
+tems. Apart from geomorphological mapping, special                    functioning as karst with subsurface drainage. Never- 
+attention was placed in describing glacial and alluvial               theless, intense mechanical weathering of the surface, 
+deposits. The latter are of very diverse origin in the Bli-           owing to intense frost action in colder climate periods 
+dinje area owing to the interchanging characteristic of               or  tectonic  deformation,  has  caused  thicker  regolith 
+karst,  glaciokarst    and   ﬂuviokarst     geomorphological          cover to develop. As a result, temporary local surface 
+systems and related processes. The ﬁnal morphogenetic                 streams  appear,  causing  local  erosion  and  deposition 
+interpretation  of  the  mapped  geomorphological  fea-               of  material.   Active   and   non-active    erosional   gullies 
+tures was made taking into account the scarce geomor-                 on  carbonate  slopes  with  high  gradients  and  alluvial 
+phological and geological bibliography about this area                fans further down the gullies are typical features of a 
+(Milojević,   1935;  Milićević    &   Prskalo,   2014;   Roglić,      well-developed  ﬂuviokarst  (Field,  1999;  Gunn,  2004; 
+1959).                                                                Roglić, 1958). Glaciokarst areas are actually just de-gla- 
+   The Main map was prepared using ArcGIS 10.3.1,                     ciated  karst  areas,  where  the  functioning  of  geomor- 
+utilising   shaded    relief and    50 m    interval   contours       phological  processes  is  generally  limited  to  chemical 
+derived from the 20 m DEM as a base layer. Yugosla-                   weathering of the surface and almost complete subsur- 
+vian basic geological maps at a scale of 1:100,000 served             face drainage. As a result, geomorphological features, 
+as a source for cartographic presentation of a simpliﬁed              products     of   past    glaciations,   are    well-preserved 
+distribution of lithological units in the Main map. The               (Smart, 2004; Žebre & Stepišnik, 2015a, 2015b). Glacial 
+geographic datum used is WGS 1984 and the projec-                     deposits,  mostly  carbonate-derived  till  and  tillite,  are 
+tion of a Transverse Mercator.                                        widespread in the study area. They commonly consist 
+                                                                      of matrix-supported diamicton with subangular to sub- 
+                                                                      rounded     clasts. They    form   large  terminal    moraines 
+3. Results 
+                                                                      likely  of  different  generations.  Some  of  the  moraines 
+The    Blidinje   area  can   be   divided   into   four   main       resemble  a  regular  amphitheatre-like  shape,  hosting 
+morphographic  units.  The  central  unit  is  the  area  of          up to 150 m deep depressions. Even though they are 
+lowered    relief, which    is  elongated    in  a  southwest–        deposited within karst and behave as a karst surface, 
+
+----------------------- Page 6-----------------------
+
+                                                                                                  JOURNAL OF MAPS        167 
+
+streams  sporadically  appear  due  to  their  thick  semi-     from  ∼1240 m  a.s.l.  in  northeast  to  1180 m  a.s.l.  in 
+permeable    layer. These   streams,   which   were  active     southwest,  where  Blidinje  Lake  inundates  lower  sec- 
+during  glacial  retreat  or intense  weather  events, con-     tions. These are covered with ﬁne-grained sediments. 
+ditioned the formation of gullies and dry riverbeds.            Stretches  of  abrasion  terraces  close  to  the  southern 
+   The Blidinje study area is an elongated depression           and  eastern  shores  are  positioned  up  to  7 m  above 
+between  Čvrsnica,  Vran  and  western  Čabulja  Moun-          the  mean  lake  level  and  indicate  the  larger  extent  of 
+tains. It is oriented in a southwest–northeast direction        the  ﬂooded  area  during  past  periods.  Upper  sections 
+and  is  ∼20 km  long  and  2−5 km  wide.  The  Blidinje        of  the  Dugo  Polje  ﬂoor  to  the  northeast  and  north 
+depression is further divided into three lowered relief         are completely covered with ﬂuviokarstic and progla- 
+units,  inﬁlled  by  various  sediments  derived  from  the     cial fans. Northern slopes above Dugo Polje are built 
+surrounding    slopes.  The    northeasternmost     unit  is    of  limestone  and  dolostone  bedrock.  The  limestone 
+known  as  Brčanj  (Figure  2(b)).  It  has  a  completely      slopes have a steeper gradient and are dissected by gul- 
+level ﬂoor, surrounded by Vran Mountain in the west             lies that are predominantly present within tectonically 
+and Čvrsnica Mountain in the east. It limits are an elev-       deformed bedrock. The density of gullies in dolostone 
+ated,  slightly  levelled  karst  area  towards  south,  while  is  much  higher  and  the  slopes  are  completely  remo- 
+towards north a narrow ridge separates Brčanj from a            delled  by  gullying.  Slopes  in  the  south  and  east  are 
+deeply  entrenched  canyon  of  the  Doljanka  River,  a        also made of limestone, but are dissected by fewer gul- 
+right  tributary  of  the Neretva    River. The   ﬂattened      lies. Nevertheless, the majority of the Dugo Polje area is 
+ﬂoor of Brčanj is situated at an elevation of ∼1200 m           covered  with  extensive  glacial  deposits.  Three  major 
+and  is  ∼3 km  long and  nearly 1 km  wide. It  consists       moraine  complexes  cover  this  area.  The  easternmost 
+mostly   of  ﬁne-grained    sediments.   Its  eastern  and      is  the  most  extensive  terminal  moraine  complex.  It 
+southern  slopes  are  comprised  of  limestone  bedrock        forms a large amphitheatre-like shape of parallel mor- 
+covered by characteristic karst features. The northern          aine ridges, with a total diameter of ∼3 km. These mor- 
+slopes are  composed  of dolostone, and  therefore dis-         aines were not disturbed by any signiﬁcant postglacial 
+sected by a number of non-active gullies. The eastern           process  owing  to  a  glaciokarst  environment,  and  are 
+slopes  are  covered   with  an  extensive  proglacial  fan     therefore   well-preserved   (Figure   3(a)). In  addition, 
+(∼2.2 km2)  that is situated below an  extensive  (∼4.4         the  outer  rim   of the  moraine    loop  is dissected  by 
+
+km in diameter) terminal moraine complex, deposited             non-active riverbeds, formed by proglacial or postgla- 
+from  the  northern  Čvrsnica  Mountain.  A  number  of         cial  streams.  Below  them  are  extensive  fans  covering 
+small  streams  emerge from  the  foot of  the  fan.  They      parts  of  Dugo  Polje.  The  largest  fan  has  an  area  of 
+meander towards the southeast margin of the ﬂattened            3.4 km2.  Two  similar,  but  smaller  loops  of  terminal 
+
+ﬂoor,  where   streams   are  submerging    inside  ponors      moraines cover Dugo Polje to the west. The depression 
+situated  on  the  contact  with  limestone  bedrock.  The      of Dugo Polje can be deﬁned as a karst polje regarding 
+entire area of Brčanj is ﬁlled with ﬂuvioglacial deposits       its morphometry and hydrological function. It can be 
+from  the  fan  and  possibly  periglacial  deposits  from      further  classiﬁed   as a  border-type   polje  because   of 
+inert  gullies on  the  northern   ﬂuviokarst   slope, and      inﬂows  from ﬂuviokarst  areas  or  as  a  piedmont-type 
+can be thus considered a piedmont-type polje accord-            polje  due   to  former   inﬂows    from   glaciated  areas 
+ing  to  the  hydrological  function  classiﬁcation  system     (Ford & Williams, 2007; Gams, 1978). 
+(Bonacci, 2004a, 2004b, 2013; Ford & Williams, 2007;               The elevated area southwest of Dugo Polje that sep- 
+Gams, 1978; Williams, 2003).                                    arates  it from   the  southwesternmost      depression   is 
+   South of Brčanj, a levelled karst area, is situated ∼60      referred to as Svinjača. Svinjača is surrounded by foot- 
+m above the polje ﬂoor. This limestone surface is com-          hills of  Vran   Mountain    to  the  north   and  western 
+pletely   covered     by   various    doline-sized    karst     Čabulja  Mountain  to  the  south.  It  is  ∼3.5 km  long 
+depressions  and  non-distinct  conical  hills  (Figure  2      and   up  to  1.5 km   wide,  having   a  ﬂat  ﬂoor   at an 
+(c)).  Towards  the  east  and  west,  there  are  a  limited   elevation   of  ∼1170 m.    The   lowest   section  of  this 
+number of proglacial and ﬂuviokarst fans that are situ-         depression in the northwest is ﬁlled with ﬁne-grained 
+ated   at  the  footslope   of  surrounding    mountains.       sediments,  while  other  parts  of  the  ﬂoor  are  built  of 
+Southern  limits  of  this  area  present  extensive  glacial   coarser   deposits,  such   as  sands   and   gravels.  The 
+deposits that are part of a central depression of the Bli-      majority of the surrounding slopes are built of dolos- 
+dinje area, which is referred to as Dugo Polje. Its ﬂoor is     tone  hosting  a  ﬂuviokarst  landscape  with  well-devel- 
+elongated   in  a  northeast–southwest     direction.  The      oped  gullies  and  alluvial  fans.  All  fans  beneath  the 
+polje is enclosed by the steep slopes of Vran Mountain          northern slopes are merged into one compound allu- 
+to the north and by large moraines covering the foot-           vial fan with an area of 3.7 km2. The northwestern sec- 
+
+slopes of Čvrsnica Mountain to the south. The south-            tion   of  this large   fan  is  predominantly     built  of 
+west margin of  Dugo Polje, separated  by  a couple of          cemented    alluvial  deposits  with   dry  riverbeds   and 
+ridges from the prolongation of the Blidinje lowland,           dolines on the surface (Figure 4(a)–(c)). This type of 
+is less clear. The ﬂoor of Dugo Polje gradually descends        fan  can   be  termed   a  relict alluvial fan  (Stepišnik, 
+
+----------------------- Page 7-----------------------
+
+168        U. STEPIŠNIK ET AL. 
+
+Figure 3. (a) Amphitheatre-shaped terminal moraine on the eastern side of Dugo Polje below Čvrsnica Mountain. (b) Hummocky 
+moraines east of Svinjača. View towards the north. (c) Lateral moraine east of Svinjača. 
+
+2010) where deposition of alluvium along with erosion                    of a piedmont and border-type polje owing to the pres- 
+in the hinterland of the fan is inert. The southeastern                  ence  of  ﬂuviokarst  and  proglacial  deposits  ﬁlling  the 
+slopes are built of typical hummocky moraines, orig-                     polje (Ford & Williams, 2007; Gams, 1978). 
+inating  from  Čvrsnica  Mountain  (Figure  3(b)  and  3 
+(c)).  Below  them  is  a  proglacial  fan,  covering  a  large 
+                                                                         4. Discussion and conclusions 
+section   of  the   Svinjača   ﬂoor.    There   are   no   surface 
+streams  in  the  Svinjača  depression.  Even  though  we                The Blidinje area was occupied by piedmont-type gla- 
+can  deﬁne  its  hydrological  function  in  the  same  way              ciers (Figure 5) as can be recognised from the palaeo- 
+as in the case of Dugo Polje, Svinjača is a combination                  glacial  landform      morphology,       which    exhibit    large 
+
+----------------------- Page 8-----------------------
+
+                                                                                                                                                JOURNAL OF MAPS                    169 
+
+Figure 4. (a) Orthophoto (Geoportal Web Preglednik, 2016) and (b) photo of relict alluvial fan in the NW part of Svinjača, dissected 
+by dolines (c). 
+
+                                                               ′                        ′ 
+Figure 5. Cross section from the upper (Y–Y ) and lower (X–X ) part of large lobate moraine ridges and a sketch of the palaeo- 
+piedmont glacier thickness (in blue) in Blidinje. For locations of the two cross-sections, refer to the Main map. 
+
+----------------------- Page 9-----------------------
+
+170        U. STEPIŠNIK ET AL. 
+
+lobate  moraine  ridges  or  hummocky  moraines  on  a                   ORCID 
+predominantly        levelled   surface.    The    exceptionally 
+                                                                         Uroš Stepišnik      http://orcid.org/0000-0002-8475-8630 
+well-preserved moraines indicate that the largest pied- 
+                                                                         Denis Radoš        http://orcid.org/0000-0002-5706-6663 
+mont glacier lobe was ∼3 km wide and more than 100 
+m thick. Piedmont glaciers in Blidinje formed due to an 
+unconﬁned  plain,  adjacent  to  the  mountain  (Barr  & 
+                                                                         References 
+Lovell, 2014). However, the majority of moraines sur- 
+rounding      Čvrsnica     and    Čabulja     Mountains       were       Adamson, K. R., Woodward, J. C., & Hughes, P. D. (2014). 
+deposited  by  steep  outlet  glaciers,  which  drained  the                Glaciers   and    rivers:  Pleistocene    uncoupling      in   a 
+ice ﬁelds into narrow basins, preventing the develop-                      Mediterranean      mountain      karst.   Quaternary     Science 
+                                                                           Reviews, 94, 28–43. doi:10.1016/j.quascirev.2014.04.016. 
+ment of extensive glacier lobes. These moraines are sig-                 Barr, I. D., & Lovell, H. (2014). A review of topographic con- 
+niﬁcantly  less  preserved  than  the  lobate  moraines  in                trols  on   moraine   distribution.   Geomorphology.     doi:10. 
+Blidinje,  because  they  were  reworked  or  completely                    1016/j.geomorph.2014.07.030. 
+washed away by ﬂuvial erosion. This situation is par-                    Bonacci, O. (2004a). Poljes. In J. Gunn (Ed.), Encyclopedia of 
+ticularly common for the mountains in southwestern                          caves  and  karst  science  (pp.  599–600).  New  York,  NY: 
+                                                                            Fitzroy Dearborn. 
+Bosnia  and  Herzegovina,  where  non-carbonate  rocks 
+                                                                         Bonacci, O. (2004b). Ponors. In J. Gunn (Ed.), Encyclopedia 
+underlie carbonate massifs, forming ﬂuvial relief with                      of caves and karst science (pp. 600–601). New York, NY: 
+restricted space for the formation of a piedmont-type                       Fitzroy Dearborn. 
+glacier. However, several past glaciated high plateaux                   Bonacci, O. (2013). Poljes, ponors and their catchments. In 
+in the Dinaric Alps are surrounded by karst poljes, con-                   A.  Frumkin  (Ed.),  Treatise  on  geomorphology  (pp.  112– 
+taining some of the thickest and best-preserved glaci-                      120). Amsterdam: Elsevier. 
+                                                                         Buljan,  R.,  Zelenika,  M.,  &  Mesec,  J.  (2005).  Park  prirode 
+genic deposits in the Mediterranean (Adamson et al.,                        Blidinje, prikaz   geološke   građe   i stukturno-tektonskih 
+2014; Žebre et al., 2016). An example of well-preserved                     odnosa  [Geologic  and     tectonic  settings  of  the  park  of 
+outwash and till deposits is Orjen Mountain in Monte-                      nature   Blidinje].  In  I. Čolak   (Ed.),  Prvi  međunarodni 
+negro (Adamson et al., 2014; Hughes, 2010).                                znanstveni  simpozij  Blidinje  2005     (pp.  11–24).  Mostar: 
+    The presented geomorphological map illustrates the                      Građevinski fakultet Sveučilišta u Mostaru. 
+                                                                         Cvijić, J. (1899). Glacijalne i morfološke studije o planinama 
+distribution of landforms related to glaciations, ﬂuvial 
+                                                                           Bosne, Hercegovine i Crne Gore  [Glacial and morphologi- 
+action and karst processes in Blidinje, located in the cen-                 cal studies about mountains of Bosnia, Herzegovina and 
+tral Dinaric Alps. This map provides a framework for                       Montenegro]. Beograd: Srpska kraljevska akademija. 
+ongoing geomorphological investigations in the wider                     Field,  M.  S.  (1999). Lexicon  of  cave  and  karst  terminology 
+Blidinje  area,  including  Vran,  Čvrsnica  and          Čabulja           with  special  reference  to  environmental  karst  hydrology. 
+Mountains. The acquired data suggest a complex nature                      Washington,       DC:     U.S.   Environmental       Protection 
+                                                                           Agency,  Ofﬁce  of  Research  and  Development,  National 
+of  the  study  area,  characterised  by  the  interchanging                Center   for   Environmental      Assessment,     Washington 
+karst,   ﬂuvial   and   glacial   geomorphological        systems           Ofﬁce. 
+that  are  worthy  to  be  investigated  further.  Especially            Ford, D., & Williams, P. D. (2007). Karst hydrogeology and 
+large amphitheatre-like moraine complexes and alluvial                     geomorphology . Chichester: Wiley. Retrieved from http:// 
+fans identiﬁed in the study area are noteworthy for stor-                  books.google.si/books?id=oxsa9nbQxuEC. 
+                                                                         Gams, I. (1978). The polje: The problem of deﬁnition: With 
+ing a sedimentological record of past glaciations that can 
+                                                                            special  regard   to   the  Dinaric    karst.  Zeitschrift  Für 
+be  used  for  dating,  glacier  reconstruction  and  impli-                Geomorphologie, 22(2), 170– 181. 
+cations for palaeoclimate in this part of the Dinaric Alps.              Gams, I. (2003). Kras v Sloveniji v prostoru in času [Karst of 
+                                                                            Slovenia in space and time]. Ljubljana: Založba ZRC. 
+                                                                         Geoportal  Web  Preglednik.  (2016).  Retrieved  from  http:// 
+Software                                                                   www.katastar.ba/. 
+                                                                         Grund, A. (1902). Neue Eiszeitspuren aus Bosnien und der 
+ESRI  ArcGIS  10.3.1.  was  used  for  map  production,                     Hercegovina. Globus, 78(9), 173– 174. 
+including     digitising,   georeferencing,      DEM      analysis       Gunn, J. (2004). Fluviokarst. In J. Gunn (Ed.), Encyclopedia 
+and the ﬁnal layout.                                                        of caves and karst science (pp. 751–753). New York, NY: 
+                                                                            Fitzroy Dearborn. 
+                                                                         Hughes, P. D. (2010). Geomorphology and quaternary stra- 
+                                                                           tigraphy: The roles of morpho-, litho-, and allostratigra- 
+                                                                           phy.    Geomorphology.      doi:10.1016/j.geomorph.2010.07. 
+Acknowledgements                                                            025. 
+
+We express gratitude to referees O. Bonacci, P. D. Hughes                Hughes,  P.  D.,  Woodward,  J.  C.,  van  Calsteren,  P.  C.,  & 
+and B. Cattoor for constructive comments which helped us                   Thomas,     L.   E.  (2011).   The    glacial  history   of  the 
+improve the quality of this paper.                                          Dinaric  Alps,  Montenegro.  Quaternary  Science  Reviews, 
+                                                                           30(23–24),     3393–3412.    doi:10.1016/j.quascirev.2011.08. 
+                                                                            016. 
+Disclosure statement                                                     Hughes,   P.  D.,  Woodward,      J. C.,  van  Calsteren,   P.  C., 
+                                                                           Thomas, L. E., & Adamson, K. R. (2010). Pleistocene ice 
+No potential conﬂict of interest was reported by the authors.               caps  on   the  coastal   mountains    of  the   Adriatic  Sea. 
+
+----------------------- Page 10-----------------------
+
+                                                                                                          JOURNAL OF MAPS          171 
+
+   Quaternary     Science  Reviews,   29(27–28),    3690–3708.          Mountains     near   Middle    Neretva   River].   Geografski 
+   doi:10.1016/j.quascirev.2010.06.032.                                 Glasnik, 21(1), 9–34. 
+Marjanac, L., & Marjanac, T. (2004). Glacial history of the          Smart,  C.  C.  (2004).  Glacierized  and  glaciated  karst.  In  J. 
+   Croatian Adriatic and coastal dinarides. Developments in             Gunn (Ed.), Encyclopedia of caves and karst science  (pp. 
+   Quaternary Science, 2(1), 19–26. doi:10.1016/S1571-0866              804–809). New York, NY: Fitzroy Dearborn. 
+   (04)80053-8.                                                      Soﬁlj,  J.,  &  Živanović,  M.  (1979).  Osnovna  geološka  karta 
+Milićević, M., & Prskalo, M. (2014). Geomorfološki tragovi              SFRJ.  K  33-12,  Prozor  [Basic  geological  map  of  SFRJ.  K 
+   pleistocenske  glacijacije  na  Čvrsnici  [Geomorphological          33-12, Prozor]. Beograd: Savezni geološki zavod. 
+   traces  of  Pleistocene  glaciation  of  the  Čvrsnica  Massif].  Stepišnik, U. (2010). Relict alluvial fans of Matarsko podolje 
+   E-Zbornik  –  Elektronički  Zbornik  Radova  Građevinskog            and     Vrhpoljska     brda,   Slovenia.    Zeitschrift   Für 
+   Fakulteta.    Retrieved     from     http://www.gfmo.ba/e-           Geomorphologie, 54(1), 17–29. 
+   zbornik/e_zbornik_07_07.pdf.                                      Šimunović,    V.,   &   Bognar,   A.   (2005).  Geomorfološke 
+Milivojević, M., Menković, L., & Ćalić, J. (2008). Pleistocene          značajke    Parka    prirode    Blidinje   [Geomorphologic 
+   glacial relief of the central part of Mt. Prokletije (Albanian       features of the Natural Park Blidinje].  In I.  Čolak (Ed.), 
+   Alps). Quaternary International, 190(1), 112– 122. doi:10.           Prvi međunarodni znanstveni simpozij Blidinje 2005 (pp. 
+   1016/j.quaint.2008.04.006.                                           25–40).    Mostar:     Građevinski     fakultet    Sveučilišta 
+Milojević,   B.  Ž.  (1935).  Čvrsnica.   Hrvatski   Geografski         u Mostaru. 
+   Glasnik, 6(1), 17–23.                                             Williams,    P.  D.  (2003).   Doline.  In   A.  Goudie    (Ed.), 
+Papeš, J. (1972). Osnovna geološka karta SFRJ. K 33-11, Livno           Encyclopedia     of    Geomorphology       (pp.    266–270). 
+   [Basic geological map of SFRJ. K 33-11, Livno]. Beograd:             New York, NY: Routledge. 
+   Savezni geološki zavod.                                           Žebre,  M.,  &  Stepišnik,  U.  (2014).  Reconstruction  of  Late 
+Raić,  V.,  Ahac,  A.,  &  Papeš,  J.  (1976).  Osnovna  geološka       Pleistocene   glaciers  on   Mount    Lovćen,   Montenegro. 
+   karta  SFRJ.   K  33-23,  Imotski   [Basic   geological  map         Quaternary    International,  353,  225–235.   doi:10.1016/j. 
+   of SFRJ.  K   33-23,  Imotski].  Beograd:  Savezni   geološki        quaint.2014.05.006. 
+   zavod.                                                            Žebre, M., & Stepišnik, U. (2015a). Glaciokarst geomorphol- 
+Raić,  V.,  &   Papeš,  J.  (1968).  Osnovna    geološka   karta        ogy of the Northern Dinaric Alps: Snežnik (Slovenia) and 
+   1:100.000 – Tumač za list Imotski K 33-23  [Basic geologi-           Gorski Kotar (Croatia). Journal of Maps, 1–9. doi:10.1080/ 
+   cal map 1:100.000 – booklet for sheet Imotski K 33-23].              17445647.2015.1095133. 
+   Beograd: Savezni geološki zavod.                                  Žebre,  M.,  &  Stepišnik,  U.  (2015b).  Glaciokarst  landforms 
+Roglić,  J. (1958).  Odnos   riječne  erozije i krškog   procesa        and   processes   of  the  southern    Dinaric   Alps.  Earth 
+   [Relationship     between     river   erosion    and    karst        Surface   Processes  and   Landforms,   40(11),   1493– 1505. 
+   process].  V. Kongres  Geografa  FNR  Jugoslavije.  Cetinje:         doi:10.1002/esp.3731. 
+   Savez geografa Jugoslavije.                                       Žebre,   M.,  Stepišnik,  U.,  Colucci,   R.  R., Forte,  E.,  & 
+Roglić,  J. (1959). Prilog  poznavanju    glacijacije i evolucije       Monegato, G. (2016). Evolution of a karst polje inﬂuenced 
+   reljefa  planina  oko  srednje  Neretve  [Supplement  to  the        by  glaciation: the  Gomance     piedmont    polje (northern 
+   knowledge    of  glaciation  and   relief evolution   of  the        Dinaric Alps). Geomorphology, 257, 143– 154. 

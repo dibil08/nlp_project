@@ -1,0 +1,946 @@
+﻿UNIVERSITY OF NOVA GORICA GRADUATE SCHOOL 
+THE CULTURAL IMPORTANCE OF KARST AND CAVES 
+DISSERTATION 
+Luiz Eduardo Panisset Travassos 
+Mentor/s: Dr. Andrej Kranjc 
+Dr. Oswaldo Bueno Amorim Filho 
+Nova Gorica, 2011 
+UNIVERZA V NOVI GORICI FAKULTETA ZA PODIPLOMSKI ŠTUDIJ 
+KULTURNI POMEN KRASA IN JAM 
+DOKTORSKA DISERTACIJA 
+Luiz Eduardo Panisset Travassos 
+Mentorja: Dr. Andrej Kranjc 
+Dr. Oswaldo Bueno Amorim Filho 
+Nova Gorica, 2011 
+Izjavljam da je doktorko delo v celoti moje avtorsko delo. I declare that this thesis is my author work exclusively. 
+I dedicate this work especially to my companion Isabela and to who I consider to be my son Bruno, due to the many times when I was absent. Of the several times I have been out, I was asked by my Slovenian friends where was Isabela! And my answer was always that this “holy” companion was not with me in person, but was always by my side in thought. 
+On the first trip we did together to Slovenia, we experienced a native fruit from the region which is called Izabela. Since then, whenever I was in that wonderful country, I remembered her by the coincidence of the name and, certainly, by her constant sweetness towards me. 
+I also dedicate this work to my family, represented here by my grandparents, my parents and my brother due to the good examples that were set to me and I hope I had followed. 
+I make here special mention to my grandfather Ulysses de Oliveira Panisset, whose the name from the Brazilian Army I carry with pride, being also his brother in arms of the Mighty Artillery. By his example and your love to the family I dedicate this work. 
+It is also important to remember my other grandfather Dr. João Soares Travassos, medical doctor of the underground workers at the Morro Velho Mine, in Nova Lima, Minas Gerais. While checking some books I came in touch with this picture from May 1980, where I appear with him in the “darkness” of the Maquiné Cave, Cordisburgo, Minas Gerais, the region where I did my Masters 
+Here I register my happy record my memories of this and many other happy moments next to him and dedicate this work based also in the underground 
+ACKNOWLEDGEMENTS 
+Some undergraduates learn that, according to the technical guidelines for 
+preparing monographs, the acknowledgment is regarded as an optional item. However, I 
+believe that for completing researches, dissertations and thesis we are always helped 
+directly or indirectly by different institutions and various professionals. Others say that 
+it is the duty of the supervisors to help and we should not thank them. However, the way 
+I have been oriented by my advisors deserves to be point out. So, I take this as an 
+opportunity to register and thank everyone who, in some way, helped me in this 
+academic journey: 
+First I thank my Masters Degree advisor, Dr. Heinz Charles Kohler, for his 
+teaching about karst and for his friendship and confidence in my work from the moment 
+we started our academic journey. 
+To Dr. Oswaldo Bueno Amorim Filho I express my gratitude for the constant 
+teaching and professional counseling as well as his solid friendship. I told him once and 
+I would like to make public that if Alexander von Humboldt is considered the father of 
+geography, certainly I think professor Oswaldo as the father of ―my Geography‖; the 
+wider Geography such as Karstology that should always seek to integrate knowledge of 
+various branches of activity. 
+To my Slovenian advisor, Dr. Andrej Kranjc, of the Karst Research Institute my 
+sincere recognition and gratitude for all the opportunities given to me, the knowledge 
+always shared and, above all, his friendship. His help and support were fundamental to 
+complete this thesis and particularly in my instruction as a Kasrtologist. 
+To his wife Maja Kranjc, former librarian of the Karst Research Institute, I 
+believe that my words here won‘t be totally sufficient to express my gratitude for her 
+attention, dedication and commitment in assisting me whenever I needed to ―quarry‖ 
+precious books in the Institute‘s library. I also record that, often, this help came from 
+her initiative. For this and many other things I am extremely grateful. 
+I thank Prof. João Francisco de Abreu (PhD) by his constant support of my 
+actions. Your enthusiasm in seeing the name of the Graduate Program in Geography for 
+the first time in an important research center help me to continue this journey 
+To Dr. José Irineu Rangel Rigotti, coordinator of the Graduate Program in 
+Geography and its professors I thank for the support that was always given. 
+II 
+To Dr. José Flávio my gratitude for the valuable tips in the field of cartography 
+that helped me in making the maps presented in the research. His enthusiasms for 
+academic research have always shown me the path to be followed. 
+Regarding the friends of the Karst Research Institute I can assure that everyone 
+had and still has, within their specialties, some degree of contribution in my 
+kasrtological education even before our first contact in 2007. They are Dr. Metka Petrič, 
+Dr. Franci Gabrovšek, Dr. Nataša Ravbar, Dr. Janez Mulec, Dr. Bojan Otoničar, Dr. 
+Stanka Šebela, Dra. Janja Kogovšek, Dr. Tanja Pipan, Dr. Nadja Zupan Hajna, Dr. 
+Martin Knez, Dr. Trevor Shaw, Dr. Mitja Prelovšek and the Doctorate student Andreea 
+Oarga. To Dr Trevor Shaw, my special gratitude for revising the English language of 
+this dissertation. I am very thankful for his effort to help me. 
+To Dr. Tadej Slabe, Head of the Karst Research Institute, my special 
+appreciation and recognition for the support to all my projects. 
+To Dr. Andrej Mihevc, I would like to acknowledge his willingness of sharing 
+his ideas, thoughts and the Slovene history in the field works we made together. His 
+enthusiasm and consideration to my work certainly deserve to be mentioned. 
+To the secretary of the Karst Research Institute, Sonja Stamenković, my thanks 
+for her assistance that went beyond her daily obligations at the Institute. 
+I also must remember Franjo Drole, for his willingness to take me to areas where 
+the karst waters flooded places and rose so much as in 2000. This allowed me to see 
+Slovenian geography in its richness! I also thank him for putting me in touch with the 
+geologist Franc Malečkar, member of the SpeleoClub ―Dimnice‖ from Koper, Slovenia. 
+Franc has become a good friend since then and guided me to Dimnice Jama and Sveta 
+Jama, as well as to other surface and underground sites of historical and cultural 
+importance. 
+To Dr. Arthur Palmer and Dr. Margaret V. Palmer, my sincere gratitude for the 
+suggestions given when reading some of my papers and for his generous considerations 
+in the letter of recommendation that helped me to be enrolled in the Karstology Program 
+at the University of Nova Gorica. 
+I thank the friends from the Brazilian Speleological Society (SBE) for the 
+support of my projects in the Section of History of Speleology (SHE) and the colleagues 
+from the Journal of Research in Tourism and Karst Landscapes from the Tourism 
+Section of the SBE for exchange of experiences. 
+III 
+Last but not least, I thank the financial assistance received by the Fundo de 
+Incentivo à Pesquisa from PUC Minas University for the researches in Brazil and the 
+Ministry of Higher Education, Science and Technology of the Republic of Slovenia 
+(Ministrstvo za visoko šolstvo, znanost in tehnologijo Republike Slovenije) and the 
+National Scientific Research Center of the Slovenian Academy of Sciences and Arts 
+(Znanstvenoraziskovalni Center Slovenske Akademije Znanosti in Umetnosti) for 
+scholarships in the country. To the Karst Research Institute (Inštitut za raziskovanje 
+krasa) I am extremely grateful for being allowed to be hosted in the Institution, sharing 
+its facilities while in Slovenia. 
+IV 
+The cultural importance of karst and caves 
+Abstract: The karst landscape and caves can be perceived by several people in an equally varied way. From laymen to scientists, caves especially assume different meanings according to the historical and cultural conditions of a particular society. Therefore, one can say that the human relationship with caves is not really new in the history of mankind. Also no less new is the motivation for their use as shelters, safe houses and sacred places. Thus caves and karst are important historical and geographic records of specific regions. Often they present common features of various cultures as shown throughout this work. As a general objective of this research, is the investigation of the cultural use of karst and caves based on Cultural Tourism. Through extensive literature review, study of the areas protected by UNESCO, the analysis of the sites visited by Hayes (2005-2009) and the study of four specific cave shrines (two in Brazil, in Minas Gerais) and two in Slovenia-Italy the objective is to undertake a study that helps to promote the dissemination of the cultural use of karst and caves. It is also intended mapping the information and contribute to discussions on the religious use of caves and to insert this topic in the studies of the geography of religion in particular and of the Cultural Geography in general. Sacred and cultural sites occur in a variety of landscapes and, thus, the research should help to start discussions throughout national karstology in a field of study which is still very little researched systematically in Brazil. It is also intended to make a contribution to the union between the preservation of cultural heritage and the conservation of the karst geological heritage and its caves. The work is also based on deeper theoretical issues related to karst landscapes and their relation to the cultural and religious tourism, based on a bibliographical review highlighting the importance of the work of several important geographers who combined the physical and human studies. They were Humboldt, Malte-Brun, Reclus, Nicod, and Gauchon. Thus a timeline was established to the present day. Other naturalists are also mentioned, giving a greater meaning to the cultural importance of karst and caves. The literature review aimed to demonstrate and discuss the applicability of concepts, such as topophilia, topophobia, sacred and profane applied to the karst, linking them to national and international examples. This step was important for the construction of a theoretical base which was essential for the development of the research theme. While developing the work, the researcher introduced the methodology of inventory and quantification for the evaluation of the geomorphological patrimony used by Pereira (2006), and then first applied to the Portuguese karst by Forte (2008) to the Brazilian sacred sites. The results indicate that the cultural heritage of the karst landscape has become a source of distinction in the international and national scientific community, though, little work on the theme is yet made nationally. Equally recent are the works that present the cultural importance of karst and caves. Thus, the issues that were treated in the research should be seen as a contribution to Geography and Karstology, both considered as plural sciences. 
+Keywords: Karst, Caves, Cultural Geography, Geography of Religion. 
+V 
+Kulturni pomen krasa in jam 
+Izvleček: Različni ljudje tudi dojemajo kraško pokrajino in jame različno. Tako za laike kot strokovnjake imajo posebno jame lahko različen pomen glede zgodovinske in kulturne razmere določene druţbe. Lahko rečemo, da odnos človeka do jame ni nekaj novega v zgodovini človeštva. Prav tako ni nova ţelja, da bi človek uporabljal jame za zatočišča, pribeţališča in svetišča. Tako predstavljajo kras in jame pomemben zgodovinski in geografski zapis določene regije. Kot je razloţeno v tem delu, so to pogosto običajni pojavi v raznih kulturah. Splošna tema tega dela je raziskava o uporabi krasa in jam v kulturne namene na osnovi kulturnega turizma. Na osnovi pregleda obseţne literature, preučevanja področij, ki so pod zaščito UNESCO, analize krajev, ki jih je obiskal Hayes (2005-2009) in preučevanja štirih jamskih svetišč, dveh v Braziliji (Minas Gerais) in dveh v Sloveniji ter Italiji, nameravamo napraviti študijo, ki bo pomagala osvetliti in seznaniti z uporabo krasa in jam v kulturne namene. Nameravamo se tudi poglobiti v prostorske informacije in s tem prispevati k razpravam o uporabi jam v religiozne namene in vključiti to snov v študij posebne geografije religije in splošni študij kulturne geografije. Kraji, ki so sveti ali uporabljani v kulturne namene, so v najrazličnejših pokrajinah in to delo naj bi vzpodbudilo razpravo v krasoslovnih krogih po vsej drţavi o tem področju študija, ki je zaenkrat v Braziliji še precej neupoštevano. Namen študije je tudi prispevati k medsebojnemu razumevanju med ohranjanjem kulturne dediščine in kraške geološke dediščine ter jam. To delo temelji tudi na poglobljenih teoretičnih spoznanjih o kraški pokrajini in njenem odnosu do kulturnega in verskega turizma, dobljenih s pomočjo pregleda literature, predvsem del pomembnih geografov, ki zdruţujejo tako fizično kot druţbeno geografijo. To so Humboldt, Malte- Brun, Reclus, Nicod in Gauchon. S tem je tudi vzpostavljena povezava med preteklostjo in sedanjostjo. Omenjamo tudi druge naravoslovce s poudarkom na kulturnem pomenu krasa in jam. Namen pregleda literature je tudi pokazati in razpravljati o moţnosti uporabe na krasu konceptov, kot so topofilija, topofobija, sveto in profano ter jih povezati s primeri iz domovine in tujine. Ta korak je bil pomemben za vzpostavitev teoretičnih osnov, na katerih sloni ta raziskava. V pripravo doktorskega dela smo vključili tudi inventarizacijo in kvantificiranje, s čimer je bilo mogoče ovrednotiti geomorfološko dediščino po metodologiji, ki jo je uvedel Pereira (2006) in jo je prvič uporabil Forte (2008) na portugalskem krasu ter za brazilske svete kraje. Rezultati kaţejo, da je kulturna dediščina na krasu vedno pomembnejša v narodnih kot tudi mednarodnih znanstvenih krogih, čeprav je bilo v Braziliji na tem področju šele malo narejenega. Pravtako so šele novejšega datuma dela, ki potrjujejo kulturni pomen krasa in jam. Tako je treba tudi na rezultate naših raziskav gledati kot na prispevek h Geografiji in Krasoslovju kot multidisciplinarnima vedama. 
+Ključne besede: kras, jame, kulturna geografija, geografija religije. 
+VI 
+VSEBINA / CONTENT 
+INTRODUCTION ..................................................................................................... 001 Object of study ............................................................................................................. 001 Brazilian and Slovene karst areas ................................................................................ 011 Objectives and work relevance .................................................................................... 015 Methodological procedures of the research ................................................................. 016 
+Chapter 1 – THEORETICAL BASIS ...................................................................... 019 1.1 Alexander von Humboldt and his physical and humanistic studies of caves 019 1.2 Other important travelers of karst and classical geographers ....................... 031 1.2.1 Conrad Malte-Brun ........................................................................................... 035 1.2.2 The Universal Geography of Elisée Reclus ....................................................... 040 1.2.2.1 Southern Europe (Greece, Turkey in Europe, Rumania, Serbia, Italy, 
+Spain and Portugal) ..................................................................................... 041 1.2.2.2 France and Switzerland .............................................................................. 045 1.2.2.3 Austria-Hungary, Germany, Belgium, and the Netherlands ................... 048 1.2.2.4 The British Isles .......................................................................................... 053 1.2.2.5 The northeast Atlantic. Islands of the North Atlantic, Scandinavia, 
+Europeanislands of the Arctic ocean, Russia .......................................... 055 1.2.2.6 Asiatic Russia ............................................................................................... 057 1.2.2.7 East Asia ....................................................................................................... 058 1.2.2.8 India and Indo-China .................................................................................. 059 1.2.2.9 South-Western Asia ..................................................................................... 063 1.2.2.10 Northeast Africa .......................................................................................... 066 1.2.2.11 Northwest Africa .......................................................................................... 067 1.2.2.12 West Africa ................................................................................................... 070 1.2.2.13 South and East Africa ................................................................................. 073 1.2.2.14 Australasia .................................................................................................... 076 1.2.2.15 North America and United States .............................................................. 077 1.2.2.16 Mexico, Central America and West Indies ............................................... 081 1.2.2.17 South America (The Andes regions) .......................................................... 084 1.2.2.18 Amazonia and La Plata ............................................................................... 086 1.2.3 The modern contribution of Jean Nicod and Christophe Gauchon ................... 090 1.3 The concepts of Space and Place ....................................................................... 095 1.4 Imaginary, topophilia, topophobia and the human relationship with caves . 097 1.5 The Geography of Religion and the concepts of Sacred versus Profane 
+related to karst and caves .................................................................................. 108 
+Chapter 2 – KARST AND CAVES OF CULTURAL IMPORTANCE ............... 119 2.1 Important World and Brazilian examples ....................................................... 122 2.1.1 North America and Canada ............................................................................... 123 2.1.2 Central America ................................................................................................ 126 2.1.3 South America .................................................................................................... 131 
+VII 
+2.1.4 Europe ............................................................................................................... 139 2.1.4.1 Portugal ......................................................................................................... 139 2.1.4.2 Spain .............................................................................................................. 141 2.1.4.3 France ............................................................................................................ 144 2.1.4.4 Italy ................................................................................................................ 154 2.1.4.5 Slovenia .......................................................................................................... 170 2.1.4.6 Croatia ........................................................................................................... 182 2.1.4.7 Hungary ......................................................................................................... 185 2.1.4.8 Bulgaria ......................................................................................................... 189 2.1.4.9 Greece ............................................................................................................ 191 2.1.5 Africa ................................................................................................................. 195 2.1.6 Asia and Middle East ......................................................................................... 197 2.1.6.1 Turkey ............................................................................................................ 198 2.1.6.2 Syria ............................................................................................................... 201 2.1.6.3 Israel .............................................................................................................. 202 2.1.6.4 Jordan ............................................................................................................ 206 2.1.6.5 India ............................................................................................................... 208 2.1.6.6 China .............................................................................................................. 212 2.1.6.7 Thailand ......................................................................................................... 214 2.1.6.8 South Korea ................................................................................................... 216 2.1.6.9 Japan .............................................................................................................. 216 2.1.7 Australasia ......................................................................................................... 218 2.1.8 Section conclusions ..................................................................... 219 
+Chapter 3 – CASE STUDIES ................................................................................... 221 3.1 The Cultural importance of Sveta Jama and Landarska Jama ....................... 223 3.1.1 Sveta Jama ...................................................................................................... 223 3.1.2 Landarska Jama .............................................................................................. 231 3.2 The Lapa de Antônio Pereira (Gruta de Nossa Senhora da Conceição da 
+Lapa) ................................................................................................................... 234 3.3 The cult of Our Lady of Lapa in Vazante, Minas Gerais ............................... 256 3.4 Comparison between the cults of Our Lady of Lapa at Antonio Pereira 
+and Vazante, Minas Gerais, Brazil ................................................................... 259 3.5 Evaluation of sacred caves as Places of Geomorphological Interest 
+(LIGeom): a first proposal ................................................................................. 262 
+FINAL CONSIDERATIONS ................................................................................... 273 
+REFERENCES .......................................................................................................... 284 
+APPENDICES ........................................................................................................... 309 
+VIII 
+LIST OF FIGURES 
+Figure 1. Spatial distribution of carbonatic rocks according to Williams and 
+Fong (2008) ..................................................................... 002 Figure 2. Section of the Table of Peutinger representing the regions of 
+Noricum, Pannonia, Picenum, Etruria, Roma and Africa ............... 004 Figure 3. Entrance of the Šemonovo brezno (Šemonovo shaft)........................... 008 Figure 4. Small chapel dedicated to St. Lucia at the village of Jakovica, 
+Slovenia ........................................................................ 010 Figure 5. Main speleological provinces in Brazilian territory.............................. 012 Figure 6. Main speleological provinces inMinas Gerais ............................ 013 Figure 7. Simplified geological map of Slovenia ............................................... 014 Figure 8. Map of some localities cited in Humboldt ́s texts mentioned in the 
+text .............................................................................................. 031 Figure 9. Detail of Proteus anguinus in the Cave of Postojna ........................... 032 Figure 10. Location map of some relevant regions which were visited by Spix 
+& Martius in Europe ..................................................................... 035 Figure 11. Panoramic view of part of Lake Cerknica. B-C) One of the many 
+fissures (ponors) of the Lake ............................................. 038 Figure 12. Chapel of Agios Ioannis Spiliotis located to the right of the entrance 
+of the Cave of Antiparos....................................................................... 042 Figure 13. View of the Cave of Melidoni entrance and the tomb in honor of 
+those who perish .................................................................................. 043 Figure 14. Map of some localities described by Reclus in Volume 1 of his 
+Universal Geography .......................................................................... 044 Figure 15. A) Detail of the limestone outcrops of the Ussat region and the view of the cave entrance from the outcrop base. B) Entrance to the Lombrives Cave ................................................................................... 045 Figure 16. A) Detail of the carbonate outcrops of the region of Niaux. B) Entrance to the Cave of Niaux. C) General overview of the panel of bison and goats. D) detail of one bison from the panel # 6. It is dated from 12.890 years B.P. .................................................................... 046 Figure 17. Map of some localities described by Reclus in Volume 2 of his 
+Universal Geography .......................................................................... 047 Figure 18. Pictures that illustrate what the ―sudden floods‖ mentioned by Reclus would be. Both pictures were taken from the same viewpoint in a parking place near the Cave of Postojna, Slovenia ..................... 050 Figure 19. Map of some localities described by Reclus in Volume 3 of his 
+Universal Geography .......................................................................... 052 Figure 20. Map of some localities described by Reclus in Volume 4 of his 
+Universal Geography............................................................................ 054 Figure 21. A) The Grottoes of Chufut-Kale (Reclus 1876-1894e:447). 
+B) General overview of the region ....................................................... 055 Figure 22. A) The outcrops of Chufut-Kale. B) View of the Church of the 
+Assumption ......................................................................... 056 Figure 23. Map of some localities described by Reclus in Volume 5 of his 
+Universal Geography............................................................................ 056 Figure 24. Map of some localities described by Reclus in Volume 6 of his 
+Universal Geography ..................................................................... 058 
+IX 
+Figure 25. Map of some localities described by Reclus in Volume 7 of his 
+Universal Geography ........................................................................... 059 Figure 26. Map of some localities described by Reclus in Volume 8 of his 
+Universal Geography............................................................................ 062 Figure 27. Map of some localities described by Reclus in Volume 9 of his 
+Universal Geography ........................................................................... 066 Figure 28. One cave-house in Matmata, Tunis ................................................. 068 Figure 29. The Roman cisterns viewed from the top. Tunis, Tunisia ................... 069 Figure 30. Map of some localities described by Reclus in Volumes 10 and 11 of 
+his Universal Geography ..................................................................... 070 Figure 31. Map of some localities described by Reclus in Volume 12 of his 
+Universal Geography ........................................................................... 073 Figure 32. Map of some localities described by Reclus in Volume 13 of his 
+Universal Geography .......................................................................... 075 Figure 33. Map of some localities described by Reclus in Volume 14 of his 
+Universal Geography .......................................................................... 077 Figure 34. Cliff dwellings of Anasazi Indians, Mesa Verde National Park, 
+United States......................................................................................... 079 Figure 35. Map of some localities described by Reclus in Volumes 15 and 16 of 
+his Universal Geography............................................................. 080 Figure 36. Map of some localities described by Reclus in Volume 17 of his 
+Universal Geography ........................................................................... 084 Figure 37. Map of some localities described by Reclus in Volumes 18 and 19 of 
+his Universal Geography ..................................................................... 089 Figure 38. General overview of Predjama Castle................................................... 091 Figure 39. View from the inside of Osp Cave ....................................................... 092 Figure 40. Detail of the Ancient protective wall viewed from the exterior .......... 093 Figure 41. A) Traces of the tower of one fortification. B) The author in front of 
+the Šišca cave, near to Gradišica, Slovenia ......................................... 093 Figure 42. Another example of a fortified cave (Šmajdov Grad) near the city of 
+Kranj, Slovenia ................................................................. 094 Figure 43. Location map of some caves mentioned by Gauchon (1997) .............. 095 Figure 44. Illustration of the legend of the dragon from the Cave of Postojna 
+printed in a wooden plate from a Slovenian apiary ........................... 103 Figure 45. Illustration taken from the book ―Mundus Subterraneaus‖ which shows types of dragons, dragons in the rocky landscape and the classic struggle between man and the creature ................................... 104 Figure 46. A) image that reminds visitors of the Devil's Cave, the image of the devil B) The rocks above the entrance to the Hell‘s Cave also reminded the local people the image of the devil ............................... 107 Figure 47. A) The ―Holy Sepulcher‖ in engraving by Döbler in Hohenwart (1832. This was based in a watercolor by Schaffenrath between 1821 and 1824. B) The ―Holy Sepulcher‖ in a photograph from 1910 ........ 109 Figure 48. At Christmas and New Year, there are representations of the Nativity 
+in the Cave of Postojna ........................................................ 109 Figure 49. View of the Chapel of S. Michele dei Pagani at Braulins, 
+municipality of Trasaghis, region of Friuli, Italy ................................. 114 Figure 50. Drawing of the ―Grand Cavern‖, named as Grotto of St. Francis ... 114 Figure 51. Church of "Madonna Comabusa" in the Bergamasco pre-Alps, 
+Piedmont region, province of Alessandria, Italy ................................. 118 
+X 
+Figure 52. Location map of UNESCO World Cultural Heritage sites and karst 
+areas ..................................................................................................... 122 Figure 53. Ruins of native Americans houses at Tonto National Monument, 
+Arizona, United States ......................................................................... 124 Figure 54. Location map of the sites mentioned in the North America-Canada 
+section .................................................................................................. 126 Figure 55. The sacred cenote of Chichén Itzá, Mexico ......................................... 129 Figure 56. Location map of the sites mentioned in the Central America section.. 131 Figure 57. Toca do Boqueirão da Pedra Furada. A) Painting chosen for the logo of the National Park. B) Examples of various polychromatic zoomorphs and antrhopomorphs ......................................................... 132 Figure 58. A) The entrance of the Lapa dos Brejões. B) The cross and votive altar inside the Lapa dos Brejões. C) Pathway of the pilgrims to the Patamuté Cave at Curaçá-BA ............................................................. 134 Figure 59. Details of the main altar in the Lapa de Santo Antonio ................... 135 Figure 60. Detail picture of Priest Cicero inside the Lapa do Padre Cicero ......... 135 Figure 61. View of the small grotto of Our Lady of Lourdes in Saquarema, Rio 
+de Janeiro ...................................................................... 136 Figure 62. Altar of Xangô, the  ̳Orixá‘ of lightning, thunders and fire ................. 137 Figure 63.  ̳Pontos riscados‘ outside the Gruta do Feitiço .................................... 137 Figure 64. Location map of the sites mentioned in the South America section .... 138 Figure 65. Internal view of the Church of Lapa, Portugal ............................ 140 Figure 66. Location map of the sites mentioned in the Portugal section ........... 140 Figure 67. Images of the paintings in Altamira Cave, Spain ................................ 141 Figure 68. A) General overview of the Region of Montserrat. B) View of the 
+Sanctuary over the Santa Cova .............................................. 141 Figure 69. Details of the Santa Cova in Covadonga. From left to right, overview of the Santa Cova and the visit of Pope John Paul II in the region in 1989 ...................................................................................................... 143 Figure 70. Location map of the sites mentioned in the Spain section ............... 143 Figure 71. A) The entrance to the Cave of Lascaux II, at 200 m from the 
+original Cave of Lascaux. B) Detail of the rock images of Lascaux ... 144 Figure 72. Entrance of the Grotto of Gargas. ........................................................ 145 Figure 73. A-B) General aspects of the anthropogenic interaction with the karst of Cabrerets-Lot. C) Information sign regarding the Management plan of the cave. D) General aspects of the Pech Merle Museum. E) Archaeological vestiges in exhibition at the Museum. F) Photographic reproduction o one of the paintings of Pech Merle. G) Structure that protects the access to the Cave. H) Detail of the stairs that lead the tourist to the cave interior .............................. 146 Figure 74. Image of a Mammoth in the interior of Pech-Merle ..................... 147 Figure 75. A) The first sight of the pilgrim when entering the Sanctuary of Lourdes. B) Detail of the Cathedral built on top of the grotto. C) Detail of the Grotto of Lourdes and the line of pilgrims that touch its walls in searching for Grace and in thanks for those achieved ......... 148 
+XI 
+Figure 76. A) The massif of Sainte Baume with its centenary forest, the chapel of Saint-Pilon (in the top of the massif at the right of the picture), the entrance of the Sainte Baume and the Dominican Monastery. B) Entrance to the trails of the Sainte Baume Forest. C) Source of water considered to be sacred found on the way to the cave. D-E) Two of the four oratories which exists on the path to the cave. Originally there were seven structures which represent an important event in the life o Mary Magdalene F) Oratory in a postcard as it was centuries ago ................................................................................................. 151 Figure 77. A) Detail of the cave entrance and the Dominican Monastery of the Sainte Baume in relation to its position at the limestone massif. B) Stairs of Access to the Sainte Baume. C) View of the main altar of the Cave of Saint Maria Magdalene. D) Panoramic view of a karst plan from the entrance of the Sainte Baume......................................... 152 Figure 78. Location map of the sites mentioned in the France section ................. 153 Figure 79. A) Detail o one section of the Palatine in Roma, with the Coliseum 
+in the back. B) Ruins of the Palatine ................................................... 155 Figure 80. A) The Hermitage of San Cassiano in drawing of G. da Schio B) The 
+site as it is today .............................................................................. 156 Figure 81. A) General overview of the Sanctuary of the Madonna della Corona. 
+B) A modest oratory erected at the Grotto of San Lucano .................. 157 Figure 82. A) General view of the location of the Sanctuary in relation to the limestone massif. B) Detail of the stairs which leads to the oratory dedicated to Our Lady. C) Detail of the oratory in the interior of the small chapel with the image of Santa Maria Infra Saxa. D) Detail of the image of Our Lady .................................................................... 158 Figure 83. General view of the Sanctuary with the Chapel in the back and the 
+octagonal temple to the left .................................................................. 159 Figure 84. The Cave of Saint Michael the Archangel. at Mount Sant‘Angelo, 
+Puglia, Italy. ............................................................................. 160 Figure 85. Interior of the Cave-church of Santa Rosalia, Palermo, Italy ............. 161 Figure 86. Profile and plan of the Grotta delle Sete Chiese. ................................. 162 Figure 87. A) General view of the St. Benedict Monastery in the Mount Taleo. B) Entrance to the Monastery. C) View of the interior of the Sacro Speco, considered to be the most sacred place of the Monastery ...... 163 Figure 88. A) Location of the Sanctuary in relation to the rock massif. B) Original Chapel dated from 1300 e C) ―La prima grotta‖, place where Our Lady would have appeared according to the regional legend. D-E) details of the second church dated from 1700 F) Detail of the ―Miraculous Image‖ (Miraculous Image) of Santa. G) Panoramic view of the valley in front of the Hermitage ................ 165 Figure 89. A - B) Entrance of the Sanctuary Eremo delle Carceri. C) View of the Eremo delle Carceri with the traditional tree of the birds of St Francis. D) Outside the Cave of St. Francis exists the ―Devil‘s Hole‖, place where St. Francis would have thrown the Devil. Many visitors throw coins in this place .............................................. 166 Figure 90. View of the entrance of the Cave of Saint Francis of Assisi ............... 166 Figure 91. View of the altar at the Cave Sanctuary of Santa Lucia ...................... 167 
+XII 
+Figure 92. It is common to find numerous oratories like these by European roads, specially the Italian ones. Like those in Brazil, these oratories are also called ―grottoes‖ and are build to house the images. A) Oratory in a Road near Subiaco. B) Oratory in the road that goes to the Monte Cassino Abbey. C) Oratories in a Road in the Apulian Alps. D-E) It is worthy to mention the existence of other artificial ―grottoes‖ in the backyards of houses ........................................ 168 Figure 93. Location map of the sites mentioned in the Italy section ..................... 169 Figure 94. A) Entrance of the Cave Betalov Spodmol, important site from the 
+Pleistocene B) The entrance of the cave in 2007. C) Cave profile ...... 171 Figure 95. Longitudinal session of the Mušja Jama in a drawing of the French 
+speleologist E.A.Martel in 1894 .......................................................... 172 Figure 96. Picture of Mušja Jama and the location map that shows its regional 
+importance .............................................................................. 172 Figure 97. Artistic reconstitution of a ceremonial burial (1200 – 800 BC) in the 
+shaft of Mušja Jama ............................................................................. 173 Figure 98. Location map of the Tominc‘s Cave (Tominčeva Jama) in the 
+Škocjan Caves System ......................................................................... 174 Figure 99. A) Entrance of the Tolminc‘s Cave in a drawing of Pazze (1893) mentioned by Turk e Velušček (1997:138). B) Entrance of the cave nowadays ..................................................................................... 174 Figure 100. A) Panoramic view of a plateau which leads to the summit of Mount Mrzli Vrh. B) Entrance of the cave-church of the Mt. Mrzli Vhr C) Detail of the Austro-Hungarian altar dedicated to Our Lady of Lourdes ......................................................................... 176 Figure 101. Detail of an underground temple dedicated to Mithra, next to Trieste, 
+Italy .............................................................................. 176 Figure 102. Oratory dedicated to Our Lady of Lourdes ........................................ 177 Figure 103. Oratory dedicated to Sv. Anton (St. Antony), next to the city of 
+Kobarid ................................................................................................ 177 Figure 104. Cave of St. Anthony the Hermit (Sv. Anton puščavnik) located in 
+Kopanj, about 25 km from the capital Ljubljana ................................ 178 Figure 105. A) Picture of one oratory dedicated to Our Lady of Lourdes. 
+B) Detail of the decoration made with speleothems ........................ 178 Figure 106. Illustration of the location of Coprniška Jama (Witches‘ Cave) at 
+Mount Silvinica, as perceived by Valvasor (1689) .............................. 179 Figure 107. Location map of the sites mentioned in the Slovenia section .............. 181 Figure 108. Detail of a cave that served as shelter for hermits during the Turkish 
+invasion of Croatia .............................................................................. 182 Figure 109. Detail of the room where is located the stalagmite, Center of the 
+rituals ................................................................................................... 183 Figure 110. Location map of the sites mentioned in the Croatia section ................ 184 Figure 111. Location map of the sites mentioned in the Hungary section ......... 185 Figure 112. General aspect of the Gellert Hill to the left and a view of the Buda 
+Castle at the back of the Picture ........................................................... 186 Figure 113. Aspects of the monastic constructions in the outcrops of the Gellert 
+Hill ........................................................................................................ 186 
+XIII 
+Figure 114. A) General view of the outcrop where is located the cave-church. B) Entrance to the Cave-church of Budapest. It is possible to identify the marks of the concrete wall which closed the cave in the past. C) Images in the entrance of the cave-church ................................... 187 Figure 115. Details of the interior of the Cave of Saint Istvan. A) Main altar of the cave. B) Detail of the image of Saint Istvan located in the center of the cave right after the entrance. C) Niche where is located the image of the Patron and other liturgical items. D) Secondary altar and oratory............................................................................................ 188 Figure 116. A) General aspect of one of the Churches of Ivanovo. B) Example of 
+one of the frescoes preserved in the interior of the caves .................. 189 Figure 117. A) Detail of a sacred spring near the cave. B) Sacred cave near to the 
+Rila Monastery ................................................................................ 190 Figure 118. Location map of the sites mentioned in the Bulgaria section ............ 190 Figure 119. A-B) Views of the Mount Delphi (Photos: Franc Malečkar 2008). 
+C) Picture of the cave where Apollo would have faced Python .......... 192 Figure 120. Details of the region of Meteora and of the Varlaam Monastery ...... 193 Figure 121. The Monastery of Saint John and the Cave of the Apocalypse ......... 194 Figure 122. Location map of the sites mentioned in the Greece section ............. 195 Figure 123. A) The Mountain of the Gods of the San Bushman culture, Tsodilo. 
+B) Detail of one of the rock panels of the region ......................... 196 Figure 124. General aspect of one of the eleven rock caves of Lalibela ............... 196 Figure 125. Location map of the sites mentioned in the Africa section .............. 197 Figure 126. General aspects of the Göreme Valley with some of the caves 
+transformed into dwelling places or churches .................................. 198 Figure 127. Details of the frescoes found inside the cave-churches .................. 199 Figure 128. Detail of the entrance and interior of the Grotto f St. Peter ................. 200 Figure 129. Location map of the sites mentioned in the Turkey section ............ 200 Figure 130. One of the slopes of the Maalula Monasteries .................................. 201 Figure 131. Location map of the sites mentioned in the Syria section ............... 201 Figure 132. Entrance and interior of the Cave of Elijah ............................... 204 Figure 133. Altar inside the Cave of Annunciation ........................................... 204 Figure 134. A Police officer in front of the entrance of the Church of Nativity 
+(right) and the entrance to the Cave of the Nativity ......................... 205 Figure 135. The interior of the Cave of Nativity and the place perceived at the 
+exact point where Jesus was born .......................................... 205 Figure 136. Entrance of a Monastery at Petra .............................................. 206 Figure 137. Location map of the sites mentioned in the Israel-Jordan section ... 207 Figure 138. One of the cave-temples of Elephanta and the representations of 
+Shiva in its interior ....................................................................... 209 Figure 139. Detail of the cave-temples of Ellora and its sculptures .................. 209 Figure 140. Detail of the cave-temples of Ajanta and its sculptures .................. 209 Figure 141. A) General overview of the entrance of the cave-sanctuary. B) The 
+ice stalagmite perceived as Lord Shiva ........................................ 210 Figure 142. Location map of the sites mentioned in the India section ............... 211 Figure 143. A) Detail of a small section of the Mogao Caves. B) Detail of a wall 
+depicting Buddhists pilgrims from Tang Dynasty, 618 a 712 ............. 212 Figure 144. A) Detail of the Fengxian Cave, sculptured in the year 672. B) Detail 
+of the Great Buddha .......................................................... 213 Figure 145. Location map of the sites mentioned in the China section ............ 214 
+XIV 
+Figure 146. Detail of the cave Tham Tep Ni Mit, which means ―built by God‖ ... 215 Figure 147. Location map of the sites mentioned in the Thailand section ........... 215 Figure 148. View of the sacred site of Seokguram ....................................... 216 Figure 149. Location map of the sites mentioned in the Korea-Japan section ...... 217 Figure 150. A) General aspect of the Ulru Monolith. B) Detail of rock paintings 
+in a cave at the sacred site ....................................................... 218 Figure 151. Location map of the sites mentioned in the Australasia section ........ 219 Figure 152. Location map of the Castle of Socerb and Sveta Jama ....................... 223 Figure 153. Drawing from Valvasor (1689) which shows the Castle of Socerb 
+and the Grotto of Saint Servolo to the right and back of the picture ... 224 Figure 154. View the Gulf of Trieste and the Castle of Socerb in a drawing of 
+Valvasor (1689) ............................................................... 224 Figure 155. View the Gulf of Trieste and the Castle of Socerb ....................... 225 Figure 156. Illustration of the underground church of Sveta Jama (Holy Cave) at 
+the Kras Plateau, above the city of Trieste how it was centuries ago .. 226 Figure 157. Photo of the interior of the Holy Cave ...................................... 227 Figure 158. Entrance of the entrance of Sveta Jama and a view of its altar ............ 227 Figure 159. Map of the Sveta Jama made by Nagel (1748). In the caption are shown the access stairs at ―B‖ and the altar represented by the letter ―A‖........................................................................................................ 228 Figure 160. Plan of the Sveta Jama from the cave cadastre of the Karst Research Institute. Its morphology, scientifically mapped, closely resembles the sketch made by Nagel in 1748 ............................................. 229 Figure 161. A) Illustration of the cave-church fromTomasetig (1995). B) General overview of the cave location. The name already says much: St. John in the Rock .......................................................................................... 232 Figure 162. View of the Nadiţa Valley guarded by the fortification of the 
+Landarska Jama ................................................................... 232 Figure 163. A) Detail of the inscription that proves the donation made to the deacon Felix. B) The author in front of the chapel. C) Image assembled to identify and locate the plate that confirms the construction of the chapel by Andreij von Lach in 1477 ................. 233 Figure 164. A) The stairs that leads the pilgrim or tourist to the cave of Sv. Ivan 
+v Čele / St. John in the Rock. B) The altar of the cave-church .......... 234 Figure 165. Location map of the research areas in Minas Gerais ................... 235 Figure 166. A) The entrance to the Sanctuary. B) The speleothem perceived as 
+the image of Our Lady - Nossa Senhora da Conceição da Lapa ....... 239 Figure 167. Pictures that illustrate the number of visitors during the Fiesta of Our 
+Lady ............................................................................ 240 Figure 168. A) The main altar dedicated to Our lady of the Cave (Nossa Senhora da Conceição da Lapa) B) Pilgrims laying down candles in honor of Our Lady ....................................................................... 240 Figure 169. Speleothem perceived by the pilgrims as the image of Our Lady of 
+the Cave (Nossa Senhora da Lapa) ......................................... 241 Figure 170. Graph showing the monthly number of visitors of the Lapa de 
+Antonio Pereira in the year 2008 ........................................... 243 Figure 171. Location map of origin of visitors of the Lapa de Antonio Pereira by 
+nationality ....................................................................................... 243 Figure 172. Location map of the number of visitors of the Lapa de Antônio 
+Pereira by Brazilian State .................................................... 244 
+XV 
+Figure 173. Location map of the number of visitors of the Lapa de Antônio 
+Pereira by municipality ................................................................... 245 Figure 174. Location map of the number of visitors by the municipalities of 
+Minas Gerais .................................................................. 246 Figure 175. Map of the Lapa de Antônio Pereira and the places where the 
+measurements took place .................................................... 248 Figure 176. Graph representing the data of temperature collected outside and 
+inside the cave ................................................................. 249 Figure 177. Graph representing the data of humidity collected outside and inside 
+the cave ........................................................................ 249 Figure 178. Scheme of the interactions which exist between the sacred and the 
+profane space .................................................................. 251 Figure 179. Representation of the sacred and profane space suggested by Rosendahl (1997:123) over a GoogleEarth image at approximate scale 1/10.000 ................................................................ 252 Figure 180. A) Detail of the stalagmite perceived as the image of Our Lady of the Cave (Nossa Senhora da Lapa). At the side of the stalagmite one can see the face of an Angel artificially created. Pilgrims believe that the sacred power of Our Lady created it ................................... 258 Figure 181. Images of the Chuch of Our Lady of the Cave. A) The first building, 
+next to the cave entrance (1945). B) The Church built in the sixties ... 259 Figure 182. Detail of the ―narrow crack‖ at the Lapa of Antonio Pereira and the 
+passage of the pilgrims through it .......................................... 261 Figure 183. Details of the images of Nossa Senhora da Lapa and the aspects which resemble the image from the Sanctuary in Portugal: the mantle, the crown and Jesus ................................................. 261 Figure 184. Detail of the cover from the book written by Amorim (2006) and the picture of the original image of Our Lady of Lapa from the municipality of Quitela, council of Sernancelhe, Portugal. It is possible to identify the elements that were incorporated in the image from Vazante ..................................................................................... 262 
+XVI 
+LIST OF TABLES 
+Table 1. World carbonatic outcrops ......................................................................... 003 Table 2. Properties of the World Heritage Patrimony with karst features internationally significant. Criteria (i-vi) are cultural and (vii-x) are natural ................................................................................ 122 Table 3. Number and Country of origin of visitors of the Lapa de Antonio Pereira, 
+MG, in the year of 2008 .............................................................................. 241 Table 4. Number and State of origin of visitors of the Lapa de Antonio Pereira, 
+MG, in the year of 2008 ............................................................................. 242 Table 5. Temperature and humidity measured before and during the feast of Our 
+Lady of Lapa, Antonio ............................................................ 247 Table 6. Table with the data of gender and age of the pilgrims interviewed in 
+August 15th 2009 ......................................................................................... 254 Table 7. Level of education of the interviewees ....................................................... 254 
+XVII 
+INTRODUCTION 
+The uniqueness of the karst reliefs is such that it seems to lack of ordinary laws of erosion (...).To explain these forms it is needed to foresee a whole new group of erosion process. It is not about modifying details in the normal cycle of erosion, but opening a vast parenthesis and leave a place set a part to the “karst reliefs” 
+E. de Martonne, 1933 
+Object of study 
+The karst landscape and its caves may be perceived by many people and in 
+varied ways. From the layman to the scientists, especially, the caves have different 
+meanings according to the historical and cultural evolution of a society. 
+The regions developed in carbonates such as limestone make up about 10 to 15% 
+of the Earth‘s surface (Ford & Williams 2007). Williams (2008) also states that karst is 
+found mainly in soluble rocks such as limestone, marble and dolomite. However, it also 
+can be developed in evaporites (e.g.: gypsum and halite). The carbonatic outcrops comprise about 15,000,000 km2 of the not frozen Earth‘s continental area (11% of area). 
+But the underground carbonates involved in the movement of subsurface groundwater 
+are considerably higher, perhaps about 14% of the world. 
+Thus, a new proposition of these percentages, especially in the rocky outcrops, 
+was proposed by Williams and Fong (2008). The new proposal shows that about 12,5% 
+of global land surface outcrops have carbonates. The authors emphasize that they try to 
+differentiate the areas where the carbonatic rocks are relatively pure and continuous 
+from those relatively impure and discontinuous (Figure 1 and Table 1). 
+In some degree one can say that all rocks are soluble. So features of micro-scale 
+dissolution may be found in ―insoluble rocks‖ as the quartzites and basalts. Although 
+showing karstic features, because they are fully formed by dissolution, the landscape in 
+which they are inserted cannot be considered karst; it is composed of rocks relatively 
+insoluble dominated by features produced by other natural processes (Williams 2008). 
+1 
+Figure 1 – Spatial distribution of carbonate rocks according to Williams and Fong (2008). Areas in black correspond to regions of relatively continuous carbonatic rocks. Areas in gray correspond to regions abundant in non continuous carbonatic rocks. 
+As shown in Figure 1 it is possible to see how distributed karst areas are over 
+Earth‘s surface. So it is not surprising that these regions have been used by primitive 
+man since the beginning. By the very characteristic of relief, karst areas were ideal to be 
+used as shelter and source of natural resources. 
+In karst regions, the first human settlements were set up. Around the world one 
+can see that whole populations are supplied by karst waters and, in many cultures, the 
+caves are still used as places for religious practice, as cultural manifestations and other 
+forms of use (Travassos 2007d). 
+The study of this peculiar type of relief could be already seen in the works of 
+Greek and Roman philosophers as highlighted by Travassos (2007d). Brief descriptions 
+of the Classical Karst (Region of the Kras Plateau, Slovenia) have already appeared in works of the 4th century BC, as well in the works of Strabo, Pliny, Polybius, among 
+others. In a clear description of a sink and a resurgence, Posidonius of Apameia (135-50 
+BC) states that the river Timavus disappeared between the mountains, flowing into an 
+abyss and only reappeared at a distance of 130 stadiums, toward the sea (Kranjc 1997; 
+Kranjc 2006a; Travassos, Kohler & Kranjc 2006). The Roman geographer Strabo (63 
+BC-21 AD) was probably the first to mention Lake Cerknica (Kranjc 2006b). 
+2 
+3 
+In the Middle Ages, the Table of Peutinger already showed signs of human 
+settlements on the Karst (Figure 2). Evolving with time, the cultural tourism appears in 
+the Kras region (even in its primitive form) in Sveta Jama (Holy Cave), in 280 AD and 
+at the Landarska Jama (Cave of Landarska) around 888 AD. Countless travelers were 
+also attracted by the natural beauty of the Postojnska Jama (Cave of Postojna) and the 
+Vilenica Jama (Vilenica Cave). 
+Figure 2 – Section of the Table of Peutinger representing the regions of Noricum, Pannonia, Picenum, Etruria, Roma and Africa. Today they are regions of Austria, Slovenia, Croatia, Italy and Tunisia. The detail shows the region of Istria (Source: NÜSSLI, 2007). 
+Still according to Kranjc (1997, 2006a) and Travassos, Kohler and Kranjc (2006), at the end of the 17th century and beginning of the 18th century, the region of the 
+Kras Plateau became popular by the description of geographers, topographers, scholars 
+and travelers. This popularity also came in large part because Trieste (Italy) had been 
+transformed into a free trade port in 1719. 
+Authors continue to demonstrate the importance of the region to karstology 
+when they state that many researchers were the pioneers to devote further study to the 
+region of Kras. One can mention J.V. Valvasor (1689), Nagel (1748), B. Hacquet 
+(1778-1789), and F. J. H. Hohenwart (1830). In the work of Franc Joţef Hanibal 
+Hohenwart (1830), it appears for the first time the term ―karstes‖. Geographers and geologists of the 19th century started to use more frequently the term karst and the work 
+4 
+of Jovan Cvijić (1893) provided the scientific basis of the study Classical Karst, 
+followed by Kraus (1894) and Martel (1894), among others. Actually, it is accepted that the word karst appeared much earlier, at least in the 16th century. F.J.H. Hohenwart 
+might be the first one who wrote in 1830 that karst is not oly on the Kras Plateau but it 
+extends to the Greek islands. 
+As one can see by the previous history, the German form ―kars‖ was originated 
+in the region of the Kras Plateau in Slovenia. Its origin is believed to be pre-Indo- 
+European with the root kar/gar or kara/gara, meaning stone or rocky, respectively 
+(Kranjc, 2001). The term Kras is widely used in Slovenia to designate rocky areas or 
+those not favorable to agriculture. It is also used to identify some regions of the Dinaric 
+Karst characterized mainly by karren fields and dolines. 
+Gillieson (1996) states that this peculiar kind of landscape is also commonly 
+characterized by having closed depressions, caves and underground drainage. They are 
+mainly formed by rock dissolution. According to Sweeting (1972) and Ford (2007), the 
+Germanic term (karst) was popularized by the monograph of Das karstphenömen of 
+Cvijić (1893). It is used as a worldwide standard, to describe processes of underground 
+and superficial rock dissolution and underground systems derived from that process. 
+Another scientific group is trying to use the term karst also for landscapes 
+developed in other types of rocks than the carbonates. However, it is believed that the 
+more appropriate term to use is pseudokarst. This occurs because siliciclastic rocks are 
+likely to develop similar formations to the ―Classical Karst‖ (e.g.: dolines, caves and 
+underground drainage). They have their genesis in different processes; in these areas the 
+dissolution of the rock is less expressive than mechanical processes. In Brazil, examples 
+can be found in quartzite and sandstone. 
+In this study, the karstic phenomena which are conditioned by specific 
+hidrogeochemical processes through water rich in CO2 and naturally acidulated will be acknowledged under its cultural importance. 
+The fascinating surface and underground scenario will be studied beyond its 
+physical approach. It is important to remember that these features are the legacy of a 
+distant past in association with the climatic aspects of the physical environment. Thus, 
+according to Williams (2008), it is not always easy to separate the effects of modern 
+processes from the old ones. This occurs because it is possible the existence of 
+overlapping geological information climatic features experienced millions of years ago. 
+5 
+Such explanations, however, will not be deeply addressed in this work for being outside 
+its scope. Lithological, structural and tectonic controls, the geomorphological, 
+hydrological and chemical processes as well as the degree of solubility of the rock 
+covered in Travassos (2007d) will be addressed when necessary to contextualize the 
+main subject under study and thus facilitate their understanding by readers. 
+When several authors call attention to the problem of sustainable use of karst 
+areas, the cultural and humanistic use is sometimes forgotten. Besides the preservation 
+of its physical resources, one must look ahead to its cultural side, also important. 
+Understanding how a social group may perceive the karst is often the way for its 
+conservation. 
+Ravbar (2008) when devoting a book on karst water protection chose an 
+epigraph for starting her work that highlights the primary importance of karst areas: 
+―Never spit in a well, you may have to drink from it later‖. It was written in 1809 and 
+reflects what Humboldt already stated: everything is interconnected, according to the 
+classical principle of geographic correlation. 
+It is interesting to demonstrate the complexity of this epigraph mentioning 
+Williams (2008): much of the circulating water on karst is from meteoric origin (rain 
+and snow). Usually it circulates at relatively low depths, although the most deep 
+underground water known is to be found at a depth of 2 km (in the Caucasus of Georgia, 
+in the Voronja cave). The meteoric water usually has residence time in the underground 
+from a few days to a year; but very deep water can circulate in the underground for a 
+decade or more. 
+Therefore, one can say that the human relationship with the caves is not really 
+new in the history of mankind. Much less new is the motivation for its use as shelters, 
+hiding or sacred places. Together with mountains, many caves have become important 
+points in mythology, and in the creation of legends, myths and for religions. 
+About mountains considered to be sacred, Brito (2008) states that due to the 
+predominantly Christian context in which we live in the West, a factor that contributes 
+to the development of its sacred conception (―things of God‖) happens because many 
+biblical passages and figures refer to massive rock formations. 
+The same happens to caves. As a consequence of the large number of mountains 
+considered to be sacred (in different beliefs), some have caves that are part of their 
+6 
+history and for this reason they also divide its sacredness. Many, however, are 
+considered sacred regardless. They are considered, therefore, part of the religious 
+practices of a community, being valued as temples, churches, places for meditation and 
+ritualistic practices. 
+Brito (2008, 4) also says that ―even a little in depth study of the messages 
+contained in the sacred book of Christianity reveals numerous references to hills, 
+mountains and elevations: there are cited the Mount Carmel, the Mount Horeb, the 
+mountains of Ephraim, the Tabor, the Mount Moriá, among others”. 
+Unlike other physical features, caves receive a special treatment in the collective 
+imagination of westerners. In the Christian Bible the word ―cave‖ appears many times. 
+They were all given the connotation of the hiding places, shelters and graves. The word 
+―abyss‖ is also mentioned under the connotation of a bottomless hole in the depths of 
+the earth, serving as the abode of evil and to enclose evil spirits (Lobo & Banducci Jr. 
+unpublished). 
+About natural or artificial caves mentioned in the Bible, one can identify the 
+Cave of Machpelah, Adullam and En-Gedi, among others. There often also emerge the 
+words cliffs, caves, crevices, grottoes and caves. A survey on the Archaeological 
+Encyclopedia of the Holy Land (Negev & Gibson 2003), one can find about 100 entries 
+related to the term ―cave‖. Gibson (2008, 110) recalls that ―the first book of Samuel (14: 
+25-27) the Sons of Israel  ̳arrive in a bush and there was honey by the floor‘, 
+presumably in fissures and cracks in the rocks‖ (Gibson 2008, 110) 
+Caves are presented as places of residence (Genesis 19:30, Numbers 24:21, 
+Jeremiah 49:16, Obadiah 1:3), of hiding (1 Samuel 13:6, 1 Samuel 14:11, 1 Samuel 
+22:1, 1 Samuel 23:29, 1 Samuel 24:3, 1 Kings 18:4, Hebrews 11:38), of rest (1 Samuel 
+24:3, 1 Kings 19:9), of burial (Genesis 23:19, Genesis 49:29 -32, Genesis 50:13, John 
+11:38) or as places that do not protect an individual against the divine trials (Isaiah 2:10, 
+Isaiah 2:19, Ezekiel 33: 27, Revelation 6:15). Abysses or other cavities also emerges as 
+prisons (Isaiah 24: 18, Isaiah 51:1, Zechariah 9:11). 
+Artificially made caverns are analogous to the small shafts spread over karst 
+regions where animals may fall. Moreover, shafts were also seen as the ancient Greco- 
+Roman portals which connect the World to the Hell, for example. 
+7 
+Certainly, the collective imagination and the religious significance of caves vary 
+according to different religious beliefs. However, common or similar traces may be 
+perceived in different cultures. 
+More recently, Mihevc (2001) and Ferenc (2005) identify numerous caves where 
+atrocities were committed during and after the Second World War. Used as sites for 
+mass murders, many of those places today are being made sacred by the construction of 
+religious memorials and crosses next to these places (Figure 3). 
+Figure 3 – Entrance of the Šemonovo brezno (Šemonovo shaft). On the left, Dr. Andrej Mihevc from the Karst Research Institute. In the region of Logatec, it is believed that almost 600 people disappeared during and after the Second World War (Photo: Luiz E. P. Travassos, 2009). 
+According to Kiernan (2003), Christianity, professed by about 33% of the world 
+population, may be regarded as the most anthropocentric religion ever, rejecting the 
+pantheism and animism for a monotheistic vision. Still, numerous caves or karstic 
+features are considered sacred by Christians as the Grotto of Massabielle (Grotto of 
+Lourdes), where a Catholic girl (Beernadette Soubirous) is said to have witnessed 
+eighteen apparitions of Our Lady in 1858, for example. 
+Still according to Kiernan (2003), in Islam (about 22% of the world population), 
+the adoration of a particular landscape seems to be unacceptable, although the Cave of 
+8 
+Hira is very important within that belief. It is believed that it was the place where the 
+Prophet Mohammed received the revelations 
+In Hindu tradition (15% of the world population), Buddhist (6% of world 
+population) and Chinese beliefs such as Taoism and Confucianism (4%), the caves are 
+very important places. Native or indigenous communities also identify the caves as 
+important places within their local beliefs (3%). For 14% of the world‘s population, 
+without specific beliefs but not necessarily completely atheists, caves do not have any 
+specific value (Kiernan 2003). 
+Thus, one realizes that many caves have acquired deep spiritual significance in 
+various parts of the globe. Some carry physical evidence of the adoption of successive 
+traditions while in few cases, other areas continue to be shared by different religions. 
+In Brazil, of Catholic majority (68.2% of the total population according to 
+IBGE), there are cave-churches that influence and, in some way, move the local 
+economy and the sector of cultural and religious tourism. 
+Especially regarding Catholic manifestation, one can identify the cave-churches 
+as analogous to the catacombs used by Christians persecuted by Rome. The Instituto 
+Salesiano S. Callisto (2005), the senatorial decree 35 stated the Christian religion as 
+―strange and unlawful‖. For Tacitus, it would be ―deadly‖, ―wicked and unbridled‖ by 
+Pliny, ―new and harmful‖ for Suetonius, ―mysterious and opposed to light‖ by Octavius 
+Minucio. Thus, Catholicism was placed as illegal and persecuted for being considered 
+the greatest enemy of the power of Rome, which was based on the old national religion 
+and the cult of the emperor, instrument and symbol of strength and unity of the Empire. 
+However, the persecution was not always continuous and universal, nor equally cruel 
+and bloody. Periods of persecution were followed by periods of relative peace. 
+Prohibited from exercising their faith for a long period of time, Christians could 
+only be liberated from the ―darkness‖ in 313, when the emperors Constantine and 
+Licinius gave freedom to the Church. From this moment on, they were able to erecting 
+churches on the surface. Maybe the construction of small altars or artificial caves for 
+protection of sacred images comes from the Roman catacombs. 
+The space previously with no value becomes important places of devotion for 
+pilgrims who, connected with the idea of personal sacrifice, visit such places. In all 
+these spaces, a variety of objects and forms are venerated for their beauty, alleged 
+9 
+miraculous powers and association with local stories. It is believed that the water that 
+emanates from rocks allows the healing of a wide range of diseases (Figure 4). 
+Thus, the humanistic and cultural studies of karst areas can offer new essential 
+theoretical and methodological possibilities to understand better the phenomena of 
+pilgrimages or the tourism to cave-churches. Therefore, it is not possible to understand 
+these caves only by the inventory, mapping or the simple description of physical 
+features. It is important to note that many Brazilian caves are not widely known, and 
+others still remain inaccessible to most people. Distant from urban centers, the scene of 
+10 
+A B 
+Figure 4 – Small chapel dedicated to St. Lucia at the village of Jakovica, Slovenia. The church was built over a karst spring and oral tradition imputes a sacred value to it. This site is one of the many examples where faith can also be a source of protection in karst areas. A) General aspect of the chapel. B) Right side of the church showing the door which is used to reach the water source. C) The spring (Photo: Luiz E. P. Travassos, 2011). 
+C 
+darkness provides the emergence and permanence of mysteries that recreate the oral 
+tradition, enriching the local stories. 
+Brazilian and Slovene Karst Areas 
+The Brazilian territory has developed on old geological structures, except for the 
+Tertiary sedimentary basins of the Pantanal, in Mato Grosso, the Amazon basin and 
+parts of the coast line. Their ages range from the Paleozoic to the Mesozoic in the case 
+of the meta-sedimentary basins, and the Pre-Cambrian (Archaean/Proterozoic) when it 
+comes to the crystalline terrains of the South American Platform. Among these, the 
+cratonic areas, the ancient folding belts and the sedimentary basins stand out 
+(Schobbenhaus & Brito Neves 2003). 
+The Brazilian continental area is 8,5 million km2 and according to Karmann 
+(1994) about 5 to 7% consists of karst terrains. The main units are located in the San 
+Francisco Craton in the region of Minas Gerais, Goias and Bahia, on carbonatic and 
+dolomite rocks of the Upper Proterozoic period. 
+Roldan, Wahnfried and Klein (2003) state that the major Brazilian speleological 
+provinces would be mainly four: the Speleological Province of the Ribeira Valley 
+(located in the southern portion of the State of São Paulo and the western portion of the 
+State of Parana), the Speleological Province of the Bambuí (includes SE portions of 
+Tocantins State, East-central and SE portion of the State of Goias, West-central and NW 
+portion of Minas Gerais and W of Bahia State), the Speleological Province of Una and 
+the Speleological Province of Serra da Bodoquena (the largest carbonatic region of the 
+State of Mato Grosso do Sul, extending for about 200 km in N-S direction, in the 
+southwest of the state). 
+With the increase of research regarding Brazilian carbonatic regions, the work of 
+Auler, Rubbioli and Brandi (2001) and Auler (2002), identifies at least 14 important 
+carbonatic provinces, in addition to less significant occurrences (Figure 5). 
+Minas Gerais stands out in the national scenery due to the important occurrence 
+of carbonatic rocks and, consequently, the expressive karst areas that are associated with 
+it (Figure 6). According to Piló (1997; 1998; 1999) the State of Minas Gerais has around 3 to 5% (17,600 to 29,419 Km2) of that total. 
+11 
+Figure 5 – Main speleological provinces in Brazilian territory. 
+12 
+Figure 6 - Main speleological provinces inMinas Gerais 
+13 
+About the Slovene karst, it is possible to say that from its territorial extention of 20,273 km2, 44% are karst areas (Kepa 2001) composed of sequences of different 
+formations ranging from the Cretaceous to the Eocene (Otoničar 2007). The Slovenian 
+Karst can also be divided into two main units: the Alpine Karst (to the northwest) and 
+the Dinaric Karst (to the south). Between them, is still considered to exist an 
+intermediate region called Pre-Alpine Karst or Isolated Karst due to the small amount of 
+isolated carbonatic rocks (Figure 7). 
+Figure 7 – Geological map of Slovenia. 
+With the record of some almost 9,000 explored and registered caves, one can 
+understand why these environments have played and still play an important role in the 
+lives of people including faith, religious practices and superstition. 
+Regarding the majority of the Kras Plateau, it is basically composed of 
+permeable Cretaceous carbonates and less permeable dolomites. The Eocene flysch in 
+the region acts as an important impermeable barrier that surrounds the massive 
+14 
+carbonate. As to the age of rocks in the region, we can say that it is defined from the 
+moment in which they were uplifted above sea level. Most of the Dinaric Karst in 
+Slovenia was formed after the Eocene, since there is no evidence of older sediments 
+(Mihevc 2007) 
+Objectives and work relevance 
+To the researchers who work with the environment and, especially, natural 
+resources management, it is easy to understand the difficulty between the management 
+and sustainable use of nature. Many argue that the tourism sector is among the biggest 
+promoters of degradation. However, one can say that tourism done in a responsible 
+manner can also act in environmental preservation. 
+This complex and multidisciplinary phenomenon, carried by the geography, 
+anthropology, economics and sociology, among many other subjects, deserves special 
+attention and to be perceived to be really active as a true agent of conservation and 
+sustainability. 
+In this context, the karst areas appear as sensitive and vulnerable geoecosystems 
+to the impacts of tourism. Still, it is not acceptable to believe that the mere prohibition 
+of their use for tourism is the only alternative to its conservation. In some cases, drastic 
+and unilateral attitudes might impact an entire regional economy causing serious social 
+impacts. It is therefore necessary to act with responsibility. 
+Regarding the cultural tourism in karst areas, the central focus of this work is its 
+cultural and religious usage, exposing the urgent need of changing attitude towards 
+these cultural manifestations. 
+Cultural tourism or the pilgrimages to caves are no new activity. One can say 
+that cultural tourism in karst began in the Middle Ages, when pilgrims sought to know 
+sacred caves and underground churches. To Kranjc (1994), perhaps the tourism of 
+pilgrimages had begun with the Three Kings who visited the newborn Jesus in a cave 
+used as a barn, next to Bethlehem. 
+Thus, the caves and the karst are important records of specific historical and 
+geographic regions. Often they present common traces in many cultures as will be 
+demonstrated with the present contribution. 
+15 
+In regions that experienced wars, karst and caves (especially shafts) played a sad 
+role as they were used as spaces where atrocities were committed. Similarly in history, 
+they emerged as places associated with evil, and need to be made sacred. In these places 
+where fear prevailed, monuments and oratories were and still are constructed in honor to 
+those who perished. This phenomenon can be seen as society strives to overcome the 
+traumas experienced by these tragedies. 
+As a general goal it is proposed to research the use and protection of karst 
+landscape as the basis of Cultural Tourism. Through the survey of protected areas from 
+UNESCO and the study of four specific cave-churches (two in Brazil, in Minas Gerais) 
+and two in Slovenia-Italy (Socerb and Landarska), the researcher aims to carry out a 
+work that contributes for the dissemination of the cultural use of karst areas as well as 
+contributing to the discussions on the religious use of caves in the studies of Geography 
+of Religion in particular, and Cultural Geography in general. 
+Cultural and sacred sites occur in a variety of landscapes and, thus, the 
+researcher aims to open a path amidst Brazilian karstology in a field still little explored 
+in the country. It is also important that the research can contribute to the union between 
+the preservation of karst cultural heritage and geological patrimony conservation. 
+Methodological procedures of the research 
+The work is fundamented on the deepening of the theoretical thematic related to 
+karst landscapes and its relation with the cultural and religious tourism, through an 
+extensive bibliographic review. It is shown the relevance of the work of important 
+geographers capable of combining the physical and human studies. Humboldt, Malte- 
+Brun, Reclus, Nicod and Gauchon. Thus, a sort of time line was organized until the 
+present. Other naturalists are also cited, giving greater weight to the cultural importance 
+of karst areas. 
+Due to the descriptive nature of the studies mentioned here, it was chosen not to 
+separate caves as artificial and natural ones. Their differences are well known, however, 
+and the separation of these two types of cavities would excessively break the text. Thus, 
+one can remember Forti (2003) cited by Forti (2009a, 4) when stating that Speleology is 
+possible to develop in ―environments both natural and artificial, both in the surface and 
+under it‖. 
+16 
+The bibliographical review was proposed to demonstrate and discuss the 
+applicability of concepts such as topophilia, topophobia, sacred and profane, linking 
+them to national and international examples. This was important for the construction of 
+a basic theoretical framework, essential for the development of the thematic presented. 
+Given the nature of the object of study and the purposes of the dissertation, the 
+researcher chose to perform a descriptive and exploratory study, with some qualitative 
+and quantitative analysis as proposed by the methodology adapted from Steil (1996; 
+2002), Evia Cervantes (2006; 2007) and Barbosa (2007). 
+In addition, information were gathered at the library of the Karst Research 
+Institute (Slovenia), on cartographic documents regarding world‘s karst areas (Williams 
+& Fong 2008), georeferenced satellite images (LANDSAT and GoogleEarth) and radar 
+images (SRTM-NASA). Moreover, for the Brazilian case, the cartographic bases were 
+used from various government projects. 
+Another stage, held between the years 2006 and 2009, was undertaken to 
+identify the phenomenon of cultural and religious tourism alternating the presence in 
+places of worship and pilgrimage in Antônio Pereira (Lapa of Antônio Pereira, Gruta 
+da Lapa or Grotto of Our Lady of Conceição da Lapa) and Vazante (Lapa de 
+Pamplona; Pamplona Cave), Minas Gerais Caves and in Socerb (Sveta Jama or the 
+Holy Cave) and in Antro (Landarska Jama or Sv. Ivan v Čele (Cave of Landarska or the 
+Cave of St. John in the Rock). Here, historical and geographical data were confronted 
+with the author‘s field perception on these sites and in others European sacred sites. 
+This methodological approach took into account the observation of pilgrims and 
+tourists during the celebrations in the Brazilian caves and during the visits to European 
+caves. Thus, it was possible to identify how individuals behave in a sacred space. These 
+observations are complemented by informal semi-structured interviews with the 
+participants - both pilgrims and tourists. The dialogues covered the basic ideas about the 
+history of the alleged apparitions or the legends associated with the knowledge of the 
+cave and other reports. Consequently, the information presented was based on the 
+academic production on the subject and the oral information collected during the field 
+work. 
+A hundred and thirty questionnaires were applied during the Fiesta of ―Nossa 
+Senhora da Lapa‖ in Antonio Pereira. The information gathered from them is not a final 
+sampling, however, but a suggestion for future studies. 
+17 
+It is also intended to introduce the methodology of inventory and quantification 
+to the evaluation of the geomorphological patrimony for Brazilian sacred sites on karst. 
+The methodology was first introduced by Pereira (2006) and applied for the first time to 
+the Portuguese karst by Forte (2008). 
+Among the existing methodologies, the one proposed by Forte (2008) was 
+chosen because it deals with the inventory of geomorphosites specifically in carbonate 
+rocks. It allows the insertion of the human variable in judging its importance for a future 
+ranking and better touristic use in caves considered to be sacred. Forte (2008) 
+delimitated the area of the Territorial Unit of Alvaiázere in Portugal, and in this 
+research, the author intends to perform state and national ranking in the near future. By 
+using the methodology of Pereira (2006), with minor adjustments, to the caves of 
+religious use in Brazil it is expected to include this variable in national studies. 
+Thus, one must continue to demonstrate the importance of uniting the human 
+and physical variables in the study of geomorphological sites of cultural importance 
+especially in karst areas, applying this methodology for the first time in a carbonate site 
+of historical and cultural importance in Brazilian territory. 
+18 
+1. THEORETICAL BASIS 
+It is in the elimination of the traditional division between Physical Geography and Human Geography that new types of synthesis may appear 
+Chorley & Kates, 1969 
+The work was partially developed along the general lines of research of Yi-Fu 
+Tuan (1979/2006; 1980; 1983), mainly through the study of the relationship between 
+people and nature and the human perception of landscapes, spaces and places. The 
+works of Eliade (1956; 1983; 1991; 1994; 1995; 1999) related to religion, the 
+imaginary, the symbolism and the relationship between the sacred and the profane 
+provided important data for the characterization of the relationship between man and 
+caves. 
+Being a study that seeks to establish a connection between the touristic use of 
+karst and its influence on cultural and regional tourism, the works of Steil (1996; 2003), 
+pioneer in the study of the pilgrimages to the Bom Jesus da Lapa cave were used. 
+Furthermore, the contributions of the Brazilian Geography of Religion from Gill Filho 
+(2001; 2002; 2005; 2006; 2007; 2008), Kozel (2002) and Rosendahl (1996; 1999; 2002; 
+2003; 2007) provided important data for the achievement of the objectives proposed by 
+the author. 
+1.1 Alexander von Humboldt and his physical and humanistic studies of caves 
+It is believed that in the physical studies of nature, it is not possible to dissociate 
+the figure of Alexander von Humboldt (1769-1859). If one think upon Geography, this 
+separation is even more difficult. Turley (2001) says that many consider him the 
+founder of this science, while others call him the most responsible for modern science 
+as a whole. 
+Kohlhepp (2006) also agree that Humboldt contributed significantly to the 
+development and consolidation of Geography as science. Working as a physical 
+geographer, he started climatological and phytogeographical studies. Functioning as a 
+human geographer he was engaged in relevant geopolitical aspects and the regional 
+studies of human geography. Being a cartographer, he represented nature very 
+19 
+didactically through maps and beautiful profiles. To Amorim Filho (2008), Humboldt 
+had a major role among the painters of the ―exuberant tropical New World‖. This 
+statement is proven by Diener (2007) that identifies, for example, how his works had influenced the paintings of Rugendas1. 
+The naturalist Carl Friedrich Phillipp von Martius (1794-1868), also addressed 
+in this dissertation, like many of his time was influenced by Humboldt as well. 
+Henriques (2008, 27) reminds us this fact when he says that ―as a European, Martius 
+certainly had great curiosity for the Americas, due to the reading of the Humboldt‟s” 
+often cited in the journals of his travels to Brazil. 
+Tuan cited by Rodaway (2007) notes that Humboldt, while widely known to 
+explain the physical world, was among the first to use the representation of landscape 
+and poetry to broaden the geographical experience with feeling and emotion. 
+Worthy of emphasis was the fact that ―he knew how to combine the 
+concentration of its scientific activities and enthusiasm in a clear and communicable 
+way‖ (Kohlhepp 2006, 272). In examining his works one can say, without a doubt, that 
+he deserves all the ―labels‖ and countless honors awarded. 
+Accompanied by the French botanist, Aimé Bonpland, when embarking his 
+famous expedition toward Latin America in 1799, he had already considerable 
+geographical, chemical, botanical, mineralogical and physical notions. After his return, 
+he published several books that raise his name to a place in the history of science. In the 
+words of Turley (2001, 22), being tireless as an ―explorer and adventurer, enthusiastic 
+student of other sources of information and a skilled observer and writer, Humboldt 
+redesigned the geographical perception of the world”. 
+He has developed the image of the ―New World‖ in Europe and presented to 
+―the European scientific circles, all the facets of the tropics of Central and South 
+America, and their differentiations.” (Kohlhepp 2006, 272) 
+Riesco Jr. (2004) states that more than any other scholar of his time, Humboldt 
+influenced science in several countries. He set new ways and methods of investigation, 
+allowing to exceed the limitation comprehension of isolated phenomena, always seeking 
+their inter-relationship 
+1 Johan Moritz Rugendas, (1802-1858), German painter known for representing the daily life and scenaries of the Colonial Brazil. 
+20 
+His works are masterpieces of geography, cartography and even literature. Pratt 
+(2001, 156) notes that ―while seemed to be taking the project of descriptive science to its 
+encyclopedic extreme, Humboldt has always felt uncomfortable with the spiritual and 
+aesthetic impoverishment of the scientific speech, with its inevitable tediousness‖. Thus, 
+for Ricotta (2003), Humboldt was a scientist concerned about the manner of language 
+treatment and its effect on the reader. Detailed descriptions of the landscape and 
+processes were done by him, giving rich narratives to the reader. 
+His brilliancy was also in his ability to perceive and describe nature. Nearly half 
+a century before Darwin, he had sketched ideas that blend with the most modern 
+knowledge of biological and geological evolution of the planet; he has anticipated ―so 
+prodigiously‖ major theories that would arise and consolidate only during the next two 
+hundred years. (Ezcurra 2002) 
+Even with all the scientific papers about Humboldt and his research, what many 
+don‘t know is his importance to the study of karst and caves. In his ―Personal 
+Narratives‖, ―Views of Nature‖, ―Cosmos”, “Essay on the Superposition of Rocks in 
+Both Hemispheres”, “Political Essay on the Kingdom of New Spain” or in “The Island 
+of Cuba” he describes caves in massive carbonate and granite outcrops, ponors, and 
+minerals. The use of the underground as dwelling places, shelter, spaces for the practice of 
+funeral rites or worship of gods are also present in these works. In addition to describing 
+the physical aspects of the Cave of the Guacharos, for example, he noted the religious 
+rites of the natives who were accustomed to conduct ceremonies at the entrance of the 
+cave. Inside the cave they consulted powerful spirits that would intervene against the 
+evil spirits that inhabited the darkness. 
+During the time that he was in Venezuelan territory, he explored the mountains north of the country, the Llanos2 and the Guyana to the south as much as in San Carlos 
+de Rio Negro in the Venezuelan state of the Amazon (Urbani 2003). He also made 
+descriptions or references (not so abundant) from caves in Mexico and Cuba. 
+2 Los Llanos is a vast stretch of land ranging from the extreme west of the state of Apure to the eastern state of Monagas. It corresponds to almost a third of the Venezuelan territory which is limited to the northern Andes, the central and eastern mountains, and the southern border with Colombia and the Orinoco. 
+21 
+His activities in the underground had begun in 1790 in the caves of Peak, Eldon 
+and Pooles, in England. In the next year he had began his studies at the Freiberg Mining 
+Academy. When working in underground mines, he studied their microclimate and 
+developed equipment for breathing in confined spaces of hazardous atmosphere. 
+(Urbani 2003) 
+In the first volume of the Political Essay on the Kingdom of New Spain and the 
+Essay on the Superposition of Rocks in Both Hemispheres, he studied the geology of 
+mining districts, describing underground mines in both hemispheres. He compares, 
+describes and makes connections with various types of limestone (Humboldt 1811; 
+1822a; 1823). His scientific strictness concerning his works can be confirmed in the 
+following passage: 
+I do not deny the utility of the denominations marine sandstone or marine limestone for local descriptions; but, according to the principles which I propose following in this essay on formations, characterized according to the place which they occupy as the terms of a series, it appeared to me that I ought here carefully to avoid them. (Humboldt 1823, 63) 
+Still regarding the underground, but now in natural cavities, he visits caves in 
+Europe, in the Carpathian region, France, Switzerland, Poland and Germany, for 
+example. Thus, he could carry out comparisons with some of the features found in the 
+―New World‖ 
+In 1799, when he started his American journey with the Aimé Bonpland, he 
+performed many searches that were notable in the history of Natural Sciences. Before 
+reaching the ―New World‖, goes to the Canary Islands and explores a cave of ice (the 
+Cueva de Hielo) during his climb to Mount Teide in Tenerife. The cave is located 
+below the limit of the perpetual snows in this zone. Probably the cold which prevails in this cavern is owing to the same causes which perpetuate the ice in the crevices of Mount Jura and the Apennines, and on which the opinions of naturalists are still much divided. This natural ice-house of the peak has, nevertheless, none of those perpendicular openings, which give emission to the warm air, while the cold air remains undisturbed at the bottom (...) During winter the cavern is filled with ice and snow; and as the rays of the sun do not penetrate beyond the mouth, the heats of summer are not sufficient to empty the reservoir. The existence of a natural ice-house depends, consequently, rather on the quantity of snow which enters it in winter, and the small influence of the warm winds in summer, than on the absolute elevation of the cavity, and the mean temperature of the layer of air in which it is situated (Humboldt 1818, 157-158). 
+22 
+Also in Tenerife, he mentions the work of O‘Donnel and Armstrong (1806), 
+which ―discovered in 1806 a very abundant spring in the Malpays, a hundred toises 
+above the cavern of ice, which is perhaps fed partly by this snow.‖ (Humboldt 1818, 
+166). He continues saying that ―everything consequently leads us to presume that the 
+peak of Tenerife, like the volcanoes of the Andes, and those of the island of Manilla, 
+contains within itself great cavities, which are filled with atmospheric water, owing 
+merely to filtration.‖ (Humboldt 1818, 166-167) 
+In Mexico he identified sources of pure water, which were carried to villages 
+through ―long and magnificent ―aqueducts. In other cases, he has identified acid thermal 
+springs, some hot, others cold (Humboldt, 1811:146). He refers to the region of Madre 
+de Dios Cave as an ―enormous calcareous mass.‖ (Humboldt 1811, 148). 
+He shows the unsustainable exploitation of water for the process of 
+amalgamation and its possible impacts. He affirms that the miners use the abundant source of Cueva de San Felipe and in the night of February 16th to 17th, the stream had 
+been lost. Meanwhile, ―five days afterwards a new spring was found at five leagues 
+distance from the cavern, near the village of Platanillo.‖(Humboldt 1811, 283). This 
+statement possibly refers to excessive sedimentation of a ponor and its consequent 
+deactivation. 
+The same event is described in Humboldt (1822a, 228), which continues 
+unfolding the importance of the Mexican geological region: There ―exists in this country, between the villages of Chamacasapa3, Platanillo4 and Tehuilotepec5, in the 
+bosom of calcareous mountains, a series of caverns and natural galleries, and that 
+underground rivers, like those of the county of Derby in England, traverse those 
+galleries.‖(Humboldt, 1822a, 228-229). 
+He identified in 1822a, other sources of drinking water close to the present-day Mexico City; one on the hill of Chapultepec6 and another in the hills of Santa Fe, near to the mountains that separate the valley of Tenochtitlán7 from the valleys of Lerma and 
+Toluca. He affirms that King Charles V of Spain was informed about the source of 
+Amilco, near Churubusco, still in the outskirts of Mexico City. The water was piped 
+3 Maybe the present-day Chilacachapa, at about 140 km southwest of Mexico City, State of Guerrero. 4 City located at about 66 km to the southwest of Mexico City, State of Morelos . 5 Village in the municipality of Taxco, around 110 km to the southwest of Mexico City, State of Guerrero. 6 Located in the central portion of the State of Mexico (known as Central Mexico). 7 Ancient Capital of the Aztec Empire, located in an island in the Texcoco lake, next to Mexico City. 
+23 
+from there to the city in ceramic pipes. In San Agustín de las Cuevas8, he said that water 
+quality was better. He have also found traces of an ancient aqueduct in the road that 
+connects this ―charming village‖ to Mexico City. (Humboldt 1822a). 
+Humboldt (1822a) stressed that the observation of water behavior in caves by 
+the Jesuits led the monk Francisco Calderon to imagine the execution of an enormous 
+engineering project. 
+This monk pretended that at the bottom of the lake of Tezcuco9 near the Penol de los Baños there was a hole (sumidero) which on being enlarged would swallow up all the water (...) The monk and Jesuits kept sounding in vain for three months (...) but no sumidero was ever found though even yet many Indians believe as firmly in its existence. (Humboldt 1822a, 102). 
+While describing other ponors, he says that they are interesting phenomena, 
+relating them to facts already known in other parts of the world: ―Water and sand are 
+sometimes thrown out twenty feet high. Similar phenomena have not escaped the 
+observation of the ancients who inhabited parts of Greece and Asia Minor abounding 
+with caverns crevices and subterraneous rivers.” (Humboldt 1822b, 220) 
+He also registered fresh water upwelling in several small coral and sand islands 
+during his visit to Cuba. He theorized that perhaps it had some underground 
+communication between the limestone formation of the beach that accumulates rain 
+water and, by hydrostatic pressure, it emerged from soil (Humboldt 1856b): ―The 
+abundance of water that infiltrates through the fissures of the stratified rock is so great 
+that, from the hydrostatic pressure, springs are found in the sea at some distance from 
+the coast.‖(Humboldt 1856b, 143) 
+On another occasion he says that, in San Carlos de Rio Negro, the Venezuelan 
+state of Amazon, they had spent a few hours between the rapids of Atures waiting for 
+the boat. Much of the river seemed dry and blocks of granite pile over the river bed. The 
+river then disappeared inside the caves formed by the collapse rocks; for him, on one of 
+them they could hear the water passing beneath their feet. The river seemed to divide 
+into multiple branches or torrents, and each of them was seeking to force passage in the 
+rocks. In short, Humboldt affirms that they have been perplexed by the lack of water in 
+the river bed, the frequency of underground waterfalls, the turbulence and the noise of 
+water hitting the rocks and producing foams (Humboldt 1818; 1850; 1852). 
+8 Municipality near to Mexico City. 9 Municipality of Texcoco, northeast of Mexico City. 
+24 
+In Cuba, on the region of Trinidad, it is possible to see steep carbonatic outcrops 
+resembling the mountains of limestone of Caripe, in the vicinity of Cumana10. They also contain great caverns, near Matanzas and Jaruco, where I have not heard that any fossil bones have been found. The frequency of caverns in which the pluvial waters accumulate, and where small rivers disappear, sometimes causes a sinking of the earth. (Humboldt 1822b, 165-166). 
+Specifically in the “The Island of Cuba”, he deals with the “sinking of the 
+earth” as natural hazards where the “(...) frequency of caverns, in which the rains 
+accumulate and the brooks disappear, sometimes causes great disasters‖ (Humboldt 
+1856b, 133), in a clear reference to karst subsidence processes. 
+In Cosmos, Humboldt speaks about the temperature of ponors or springs of 
+thermal waters and its relationship with volcanic areas. His doubts about the 
+temperature of these waters in the tropics were extended when he explored the Cueva 
+del Guacharo, measuring the air temperature in the external environment (18,5oC), 
+inside the cave (18,7oC) and of the underground river (16,8oC), observing its probable 
+source in the mountains (Humboldt 1856a). 
+On the Island of Cuba, he affirms that the central and western portions of the 
+island contain two compact limestone formations: the first presents some resemblance 
+to the limestone formation of the Jura and the second resembled the limestone of 
+Papenheim. ―All this formation I shall call Güines limestone, to distinguish it from 
+another much more modern formation in the hills of San Juan, near Trinidad; whose 
+peaks remind me of the limestone mountains of Caripe, in the vicinity of Cumaná.‖ 
+(Humboldt 1856b, 133). 
+Visiting the peninsula of Araya (Punta de Araya), he makes a geological 
+description indicating the presence of breccias or calcareous sandstone, as “a local and 
+partial formation, peculiar to the peninsula of Araya, the coast of Cumana and 
+Caracas.”(Humboldt 1822a, 10). From Araya, the visit was quickly followed by an 
+excursion to the mountains of the Chayma Indians mission, where a variety of 
+interesting objects caught his attention. In a convent, located in a narrow valley, it was 
+possible to feel a ―cool and delicious climate in the center of the torrid zone.” In the 
+region, ―the surrounding mountains contain caverns haunted by thousands of nocturnal 
+birds; and, that affects the imagination more than all the wonders of the physical 
+10 North of Venezuela. 
+25 
+world.‖(Humboldt 1822b, 1-2). Here one can already noticed the reference to studies of 
+the imaginary and the caves. 
+After they ―had suffered great fatigue, and were quite drenched by the 
+frequently crossing the torrent‖ they reached the caves of Cuchivano. They observed a 
+wall of limestone rock that was rising perpendicularly to the height of 800 toises. He 
+affirms that it is rare that in an area where the density of vegetation practically covers 
+the soil and rocks, it wasn‘t easy to find sections of exposed rock. Finding a piece of 
+visible outcrops amidst the thick forest, he perceived two caves opening like fissures 
+―unfortunately inaccessible to man (...). We were assured, that they are inhabited by the 
+same nocturnal birds that we should soon become acquainted with in the Curva del 
+Guacharo of Caripe.‖(Humboldt 1822b, 80-81). 
+Regarding mineralogy, near the limestone caves of Cuchivano, he describes 
+―rock-crystals, enchased [enclosed] in beds of alpine limestone. They were hexahedral 
+prism, (...) perfectly transparent, were solitary, and often three or four toises distant 
+from each other. They were enclosed in the calcareous mass, as the quartz crystals of Burgtonna11 and the boracites of Lunebourg12 are contained in gypsum.‖ (Humboldt 
+1822b, 80-81). 
+Granite caves are described near to the Mission of Uruana, popularly known as 
+the village of La Concepcion de Urbana: 
+This small village, which contains five hundred souls, was founded by the Jesuits, about the year 1748, by the union of the Ottomac and Cavere Indians. It lies at the foot of a mountain composed of detached blocks of granite, which, I believe, bears the name of Saraguaca. Masses of rock, separated one from the other by the effect of decomposition, form caverns, in which we find indubitable proofs of the ancient civilization of the natives. Hieroglyphic figures, and even characters in regular lines, are seen sculptured on their sides; though I doubt whether they bear any analogy to alphabetic writing. (Humboldt 1852b, 196) 
+In Quito and in Peru, he describes the influence of caves in the Quichua 
+language to designate the mountain ranges of the region: 
+11 Present-day Gotha, Germany. The region is well known for the rimstone pools formed by carbonatic waters. 12 Lüneburg, city in Lower Saxony, arround 45 km SE of Hamburg. 
+26 
+These porphyritic caverns, in the cordilleras of Quito and Peru, bear the Indian name of Machays. It is a word of the Quichua language, called commonly by the Spaniards the Inca ́s language. Thus Callancamachay means ―a cavern as large as a house‖ (...). They are in general of little depth, lined with sulphur, and differ by enormous size of their openings form those which the volcanic tuff present in Italy, at Tenerife, and in the Andes. (Humboldt 1822b, 147). 
+In 1865, he identifies an other cavity in granite, the Cueva de Antisana in the 
+northern portion of the La Hacienda volcano. The cave, about 16,000 feet above the 
+Pacific, was used as a ―base‖ for the observation of the condors which were flying 
+above the Andes (Humboldt 1850). 
+For what was shown so far, one can mention Rodriguez (2001) who states that of nearly two hundred naturalist travelers who visited Venezuela during the 19th century, 
+leaving important historical records on the physical and human geography of the region, 
+the name of Humboldt stands out as the most important one. 
+His researches in the caves of the ―New World‖ makes Urbani (2003, 55) give 
+Humboldt the title of ―father of Venezuelan speleology‖ because it had presented for the 
+first time, works on anthropospeleology, biospeleology and regional geospeleology. It 
+should therefore be considered the ―scientific traveler by excellence.‖ (Rodriguez 2001, 
+238). 
+Of all caves described and identified by Humboldt, Urbani (2003) considers the 
+Cave of the Guacharos (Cueva de los Guacharos) his best speleological contribution. In 
+the cave he studies for the first time biospeleology, geospeleology, anthropospeleology 
+and cave climatology. It is interesting to remark that the information gathered about the 
+underground microclimate from the Guacharos remains practically the same as it was 
+200 years ago. (Urbani 2003) 
+This enchantment with nature, described in the previous pages, should be a 
+source of inspiration for the karstologist never, however, forgetting the scientific rigor. 
+This is how Humboldt wrote his works giving the readers the possibility of mental 
+image construction very close to reality, going from the Physical Geography to the 
+Human Geography. 
+For him, in South America there was a kind of communion with nature and the 
+spiritual life of man, being easy to impress with its sense of greatness; nowhere else in 
+the world could one see this relationship so powerfully as in the tropics. (Humboldt 
+1850) 
+27 
+Regarding the unknown and the mysteries involving certain caves, Humboldt 
+(1818/1852b) says that some travelers, not familiar with flammable natural gases 
+expelled from the Cueva del Serrito de Monai, were frightened by indigenous people that light up the gas combination constantly accumulated at the top of the cave13. Urbani 
+(2003) also notes that, in the vicinity of Cumana, the local population reported to 
+Humboldt that this phenomenon is also repeated in the Cueva del Cuchivano where the 
+flames could be seen at a reasonable distance. Such phenomena have also been 
+documented in several other parts of Venezuela. 
+Humboldt (1850) already identified examples of spaces full of symbolism, as 
+places for the practice of sacred ceremonial burials. In the Cueva del Ataruipe, he brings 
+to the reader an image of six hundred well-preserved skeletons placed inside palm-leaf 
+baskets (Humboldt 1850), confirming the sacredness of the cave. 
+On another occasion he realized the importance of the collective imagination for 
+the preservation of a bird species in the Cave of the Guacharos. He was able to describe 
+to the reader that the guacharos would have been extinct years ago if the natives were 
+not superstitious. Their beliefs prevent the natives from going to the darkest places of 
+cave, where other nests are made (Humboldt 1852). This gives the birds time to 
+reproduce. 
+Another interesting phenomenon capable of scaring naive travelers, but not the 
+experienced boat drivers of the ―New World‖, was described: ―I have observed the same 
+phenomenon on several coasts, for instance, in the promontories of Tenerife, in the 
+limestones of the Havannah, and in the granite of Lower Peru, between Truxillo and 
+Lima.‖ (Humboldt 1829, 393). He was referring to the high noise, like a snoring, issued 
+periodically by the compression of air by the sea waves in a cave. 
+In the Canary Islands, he mentions the existence of the Guanche mummies that, 
+unlike other natives, ―lived in caves.‖ (Humboldt 1814, 83). About the mummies, he 
+says that they are ―the mark of a great civilization‖, and he was amazed by finding them 
+even with the presence of ―mercantile nations, especially the Spaniards and the 
+Portuguese, sought for slaves at the Canary islands.‖ (Humboldt 1814, 274). Later in 
+13 The fire occurs due to the accumulation, mainly of methane gas originated from the organic-matter decay. A legend associated with a region of the interior of Bahia (Brazil) will be described in another section and may be related, perhaps, to the same phenomenon. 
+28 
+the same work, he demonstrates the importance of the caves for the preservation of 
+mummies: 
+At the time I visited the Canaries they were very scarce; a considerable number, however, might be found if miners were employed to open the sepulchral caverns which are cut in the rock on the eastern slope of the Peak, between Arico and Guimar. These mummies are in a state of desiccation so singular, that whole bodies, with their integuments, frequently do not weigh above six or seven pounds; or a third less than the skeleton of an individual of the same size, recently stripped of the muscular flesh. The conformation of the skull has some slight resemblance to that of the white race of the ancient Egyptians; and the incisive teeth of the Guanches are blunted, like those of the mummies found on the banks of the Nile. (Humboldt 1814, 278-279). 
+On the islands of Cuba, San Domingo and Jamaica, he inquires where would be 
+―the abode of the primitive inhabitants of those countries?” (Humboldt 1814, 274). He also states that the Guanches, like the Biscayans14, the Hindus, the Peruvians, and all 
+primitive nations, named places after the quality of the soil, the shape of the rocks, the 
+caverns that gave them shelter, and the nature of the tree that overshadowed the springs 
+(Humboldt 1814), showing among other subjects, the importance of karst and caves as a 
+valued space by many cultures. 
+In plain of Maita (Venezuela), some piled blocks of granite formed a kind of 
+cave. It was called the home or abode of the Tamanacs ancestors. (Humboldt 1818; 
+1827; 1852). 
+The Cave of Ataruipe, celebrated by the Atures as a place of ceremonial burials 
+was magnificently described as follows: 
+In this tomb of a whole extinct tribe we soon counted nearly six hundred skeletons well preserved, and regularly placed. Every skeleton reposes in a sort of basket made of the petioles of the palm-tree. These baskets, which the natives call mapires, have the form of a square bag. Their size is proportioned to the age of the dead; there are some for infants cut off at the moment of their birth. We saw them from ten inches long, the skeletons in them being sent together. The bones have been prepared in three different manners, either whitened in the air and the sun, dyed red with anoto, or, like mummies, varnished with odoriferous resins, and enveloped in leaves of the heliconia or of the plantain-tree. The Indians informed us that the fresh corpse is placed in damp ground, that the flash may be consumed by degrees; some months afterwards it is taken with sharp stones. (Humboldt 1852b, 483) 
+For the naturalist, the Atures almost completely disappeared; most were not 
+anymore known, except for the graves described. They resemble those of the Guanches, 
+14 Primitive people of the Spanish Biscaian province. 
+29 
+found in Tenerife. In the caves, where the mummies and skeletons of the Atures were 
+discovered, the natives had also discovered iron boxes containing numerous European 
+tools, remnants of clothing and rosaries (Humboldt 1818; 1827; 1850; 1852). Would 
+this be a brief evidence of religious use of caves in the ―New World‖? 
+The conflict also observed nowadays about the ―profanation‖ of sacred sites, 
+even for archaeological research, was registered by the researcher when describing that 
+they left ―the cave at nightfall, after having collected to the extreme annoyance of our 
+Indian guides, several skulls and the perfect skeleton of an aged man.‖ (Humboldt 
+1850, 172). Unfortunately, the skeleton along with much of its collection of natural 
+history was lost in a shipwreck on the coast of Africa. 
+Still showing the importance of Humboldt for the development of karstology or 
+speleology in Latin America, it is interesting to highlight a little known letter from 1810 
+which Urbani (1996) describes and publishes. In the letter sent to Paris to Mr. Louis 
+Mathieu Langle (member of the Institute of the Imperial Library of Paris), Humboldt 
+was seeking for explanations about the meaning of petroglyphs found by Father Ramon Bueno in a cave of Uruana15, Venezuelan state of Bolivar. Based on Urbani (1996) we 
+identified the texts of Humboldt which the specific mention of such petroglyphs. 
+The priest Bueno and Humboldt met in 1800 while he was collecting turtle eggs 
+from an island in the Orinoco River (Isle of Cucuruparu or Boca de Tortuga). Talking 
+to the missionary, that claims to he had discovered a cave covered with ―figures or (as 
+he would say in Portuguese) verias letters.‖(Humboldt 1827, 594). To them, the 
+characters discovered by Father Ramón are similar to an alphabet, however they still 
+had ―many doubts.‖ (Humboldt 1827, 595) 
+Regarding the development of these petroglyphs in granite and not in limestone, 
+Humboldt makes an interesting observation: ―whatever may be the meaning of these 
+figures, and with whatever view they were traced upon granite, they do not less merit 
+the attention of those, who occupy themselves with the philosophic history of our 
+species.‖(Humboldt 1827, 595). The expression ―with whatever view [they] were traced 
+upon granite‖ is perhaps a confirmation of the fascination usually caused by karst 
+landscapes on travelers. 
+15 City of La Urbana. 
+30

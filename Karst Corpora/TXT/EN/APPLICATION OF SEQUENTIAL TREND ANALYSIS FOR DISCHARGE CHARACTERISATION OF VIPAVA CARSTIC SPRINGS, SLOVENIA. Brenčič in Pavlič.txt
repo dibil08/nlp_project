@@ -1,0 +1,436 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                                                                   COBISS: 1.01 
+
+           APPLICATION OF SEqUENTIAL TREND ANALYSIS FOR  
+          DISCHARGE CHARACTERISATION OF VIPAVA KARSTIC  
+                                                  SPRINGS, SLOVENIA  
+
+UPORABA SEKVENČNE ANALIZE TRENDOV ZA UGOTAVLJANJE  
+              ZNAČILNOSTI ODTOKA KRAŠKIH IZVIROV VIPAVE,   
+                                                            SLOVENIJA 
+
+                                                                    1                        2,3 
+                                                 Urška PAVLIČ & Mihael BRENČIČ 
+
+Abstract                           UDC  556.36:551.435.8(497.47)           Izvleček                           UDK  556.36:551.435.8(497.47) 
+Urška  Pavlič  &  Mihael  Brenčič:  Application  of  sequential            Urška  Pavlič  &  Mihael  Brenčič:  Uporaba  sekvenčne  analize  
+trend analysis for discharge characterisation of Vipava karstic            trendov  za  ugotavljanje  značilnosti  odtoka  kraških  izvirov  
+springs, Slovenia                                                          Vipave, Slovenija 
+The discharge of Vipava springs and precipitation data of their            Prispevek  podaja  način  statističnih  obdelav  pretokov  izvirov  
+recharge area have been statistically analyzed and presented in            Vipave z namenom vpogleda v značilnosti odtoka na območju  
+this paper to provide some additional insight into the hydro-              kraško razpoklinskih vodonosnikov. Statistične analize temelji- 
+logical regime of the aquifer. Monotone and sequential trends              jo  na  izračunu  sekvenčnih  trendov  letnih  decilnih  vrednosti  
+have  been  evaluated  and  interpreted  based  on  a  45-year  data       45 letnega niza hidroloških opazovanj med leti 1960 in 2004.  
+measurement  period  between  1960  and  2004.  The  springs               Za  izvire  Vipave  so  značilna  krajša  trajanja  visokih  in  daljša  
+have a typical karstic regime with short-term periods of high              obdobja srednjih in nizkih voda. Razmerje med nizkimi, sred   - 
+discharge  and  long-term  periods  of  mean  and  low  discharge          njimi in visokimi pretoki znaša približno 1:10:100. Večina vode  
+values.  The  ratio  of  low,  mean  and  high  discharges  is  about      proti  izvirom  odteka  iz  neposrednega  padavinskega  prispe- 
+1:10:100. The majority of the springs’ groundwater comes from              vnega  zaledja  izvirov.  Da  bi  zmanjšali  napako  zaradi  subjek- 
+precipitation in the recharge area. Supplementation of two dif-Supplementation of two dif- tivnosti  rezultatov,  je  bil  izračun  sekvenčnih  trendov  izveden  
+ferent statistical analyses for sequential trend detection was ap-         komplementarno po dveh različnih metodah in sicer po meto- 
+plied to annual decile discharge values (1960–2004) due to the             di umerjenih delnih vsot (RAPS) in z neparametrično analizo  
+subjectivity of results interpretation. The first method involved          sekvenčnih  trendov  po  metodi  Mann  Kendall.  Z  metodama  
+the use of rescaled adjusted partial sums (RAPS) and the second            smo  določili  pod-obdobja  znotraj  posameznih  časovnih  vrst,  
+non-parametric sequential Mann-Kendall trend detection. The                nato pa smo na podlagi rezultatov ugotavljali podobnosti med  
+purpose of the investigation was to determine if and to what               posameznimi  časovnimi  vrstami,  ki  so  jih  predstavljale  letne  
+extent the length and trend line direction of sub-periods differ           decilne vrednosti pretokov izvirov Vipave. Analize sekvenčnih  
+between  different  annual  decile  values  of  Vipava  springs  and       trendov  so  potrdile  podobnosti  med  nekaterimi  decilnimi  
+to what extent decile values are related to annual precipitation.          vrednostmi, saj so bile dolžine in smeri trendov pod-obdobij  
+Sequential trend analysis confirmed similarity in hydrological             podobni  med  nizkimi,  srednjimi  in  visokimi  decilnimi  vre- 
+conditions between some neighbouring discharge decile values               dnostmi pretokov. 
+but not in others. This analysis also showed that the length of            Ključne  besede:  kraški  izviri  Vipave,  sekvenčni  trendi,  ume- 
+sub-periods  and  their  linear  trend  direction  differed  with  re-     rjene  delne  vsote,  neparametrični  sekvenčni  Mann  Kendall  
+spect to low, mean and high annual decile discharge values.                test, primerjava decilov. 
+Keywords: Vipava karst spring, monotone trend, rescaled ad- 
+justed partial sums, non-parametric sequential Mann-Kendall  
+test, decile comparison. 
+
+1 Slovenian Environmental Agency, Vojkova 1b, Ljubljana, Slovenia, e-mail: ursa.pavlic@gov.si 
+2 Department of Geology, Faculty of Natural Sciences and Engineering, University of Ljubljana, Aškerčeva ulica  12, Ljubljana,  
+
+  Slovenia, e-mail: mihael.brencic@ntf.uni-lj.si 
+3 Department of Hydrogeology, Geological Survey of Slovenia, Dimičeva ulica 14, Ljubljana, Slovenia 
+
+Received/Prejeto: 3.7.2010 
+
+                                                                                      ACTA CARSOLOGICA 40/2, 283–291, POSTOJNA 2011 
+
+----------------------- Page 2-----------------------
+
+      URŠKA PAVLIČ & MIHAEL BRENČIČ 
+
+                                                              INTRODUCTION 
+
+      The analysis of input and output functions and their time                fluences  of  water  management  (Moraes  et  al.  1998),  to  
+      series can help to determine and characterize the nature                 estimate climate changes (Gerstengarbe & Werner 1999;  
+      of  hydrodynamic  processes  in  karstic  hydrological  sys-             Hamed 2008) or simply to detect trends, data shifts, data  
+      tems (Mangin 1994). Detailed statistical analyses of vari-               clustering, irregular fluctuations and periodicities. Time  
+      ous hydrological and meteorological time series data can                 series analyses very often represent starting point for fur- 
+      provide valuable information about a karstic aquifer, its                ther investigation (Garbrecht & Fernandez 1994; Bonacci  
+      parameters and hydrological regime. There are many ap-                   2007). 
+      proaches to hydrological time series in karst hydrology,                       In this paper, monotone and sequential trend tests  
+      with trend analyses – most frequently monotone trends                    were  performed  on  annual  discharges  of  the  Vipava  
+      (Helsel & Hirsch 1991; Hipel & McLeod 1994; Yue et al.                   springs  system.  The  main  purpose  of  the  investigation  
+      2002; Ulaga 2002; Önöz & Bayazit 2003; Cheng & Chuny-                    was  the  characterisation  of  Vipava  karstic  aquifer  with  
+      uan  2004)  and  sequential  and  shift  trend  approaches               comparison between low, medium and high hydrologi- 
+      (Sneyers  1990;  Tonkaz  et  al.  2007;  Bonacci  2007;  Bon-            cal condition and the detection of possible subperiods of  
+      acci & Andrič 2008). Sequential trend analysis had been                  trends or periodicities within long term discharge time  
+      used to detect trends not detectable with monotone trend                 series  of  Vipava  springs,  which  will  represent  valuable  
+      analysis. They were intended to evaluate man – induced                   information in understanding groundwater reserves and  
+      changes, such they are industrial and agricultural proc-                 quantitative status of Vipava aquifer representing impor- 
+      esses followed by significant population growth and in-                  tant water resource. 
+
+                                                            GENERAL SETTING 
+
+      The Vipava springs system is located in the western foot- 
+      hills of the Nanos massive, which spreads from the flysch  
+      margin of the Vipava valley. Seven permanent springs are  
+      to be found within a radius of about 300 metres from Vi- 
+                                                                      3 
+      pava town (Fig. 1) with average discharge of 6.71 m /s.  
+      Vipava  springs  react  simultaneously  to  precipitation  in  
+      the recharge area. Lowest discharges are typical for sum- 
+      mer months with minimum in July and highest discharg- 
+      es  are  typical  for  April  and  November.  Average  water  
+      temperature is 9.5 °C and oscillates between 8.5 °C and  
+      10 °C (Janež et al. 1997). 
+            The springs are located in a region where the deep- 
+      est  erosion  of  low  permeable  flysch  beds  is  present  
+      (Janež et al. 1997). quaternary deposits have partly filled  
+      the  valley,  resulting  in  the  delta-like  appearance  of  the  
+      springs. The lateral boundaries of the aquifer are repre- 
+      sented by the flysch beds of the Bela stream valley, Vi- 
+      pava valley and Pivka basin, although some waters from  
+      the  flysch  also  drain  towards  Vipava  springs.  The  cen- 
+      tral  part  of  Vipava  springs’  recharge  area  is  composed  
+      of highly-permeable Nanos and Hrušica karstic massifs,  
+
+      fig. 1: Seven permanent  vipava springs: 1: Pri kapelici; 2: Pod  
+      lipco; 3: za Perkavcovim mlinom; 4: Izvir iz vipavske jame; 5: za  
+      gradom; 6 &7: Pod farovžem (modified after janež et al. 1997). 
+
+284     ACTA CARSOLOGICA 40/1 – 2011 
+
+----------------------- Page 3-----------------------
+
+  APPLICATION OF SEqUENTIAL TREND ANALYSIS FOR DISCHARGE CHARACTERISATION OF VIPAVA KARSTIC SPRINGS, SLOVENIA  
+
+fig. 2: hydrogeological map of the  vipava springs recharge area with directions of proven groundwater connection (modified after  
+Petrič 2002). 
+
+consisting of Cretaceous and Jurassic limestone (Fig. 2).              1999).  Just  as  flow  direction  is  related  to  hydrological  
+The exact depth of flysch below the carbonate aquifer is               conditions (Habe 1970; Habič 1989; Behrens et al. 1997),  
+not known. Geological analysis suggests that the flysch                different  groundwater  flow  directions  also  exist  in  the  
+layer in the Nanos massif area is deeper than that of the             wider Bela valley area (Fig. 2). During low water condi- 
+Hrušica  massif.  The  belt  of  Jurassic  and  upper  Triassic       tions, the Bela stream partly sinks into the Nanos massif  
+dolomites on the fringe of the Hrušica massif has a lower              and acts as a supply for Vipava springs. At higher water  
+permeability than the Cretaceous limestones of the Na-                 stages, intermittent springs appear at the western margin  
+nos massif (Petrič 2002).                                              of the Nanos massif and water flows into the Bela stream  
+      The main recharge area of Vipava springs is within               (Baker et al. 2001; Petrič 2000). 
+the  Nanos  and  Hrušica  regions,  with  a  total  recharge                The  climate  of  the  Vipava  valley  is  influenced  by  
+area of 149 km2 estimated by water balance calculations               both  mild  coastal  temperatures  and  the  harsh  alpine  
+
+(Petrič 2000). The connection of Vipava springs with the               conditions of the high Nanos plateau above; consequent- 
+Pivka basin and the western part of the Javorniki massif              ly  weather  conditions  are  a  mixture  of  Mediterranean  
+has been proven by tracing experiments (Kogovšek et al.                and Alpine regimes. In the latter, abundant precipitation,  
+
+                                                                                                    ACTA CARSOLOGICA 40/1 – 2011          285 
+
+----------------------- Page 4-----------------------
+
+       URŠKA PAVLIČ & MIHAEL BRENČIČ 
+
+       frequent snow and low air temperatures are present. The                                 River has a Dinaric pluvio–nival regime in which spring  
+       highest  amount  of  precipitation  occurs  in  November,                               and  autumn  peaks  are  fairly  similar,  while  differences  
+       while  snow  cover  on  Nanos  can  last  from  November                                between winter highs and summer lows are pronounced  
+       until May. The lowest levels of precipitation can be ex-                                (Bat et al. 2008). 
+       pected in summer, with a minimum in July. The Vipava  
+
+                                                                                 METHODS 
+
+               DISCHARGE AND PRECIPITATION DATA                                                represented by annual decile discharges and the indepen- 
+                                                                                               dent variable as time in years (Hipel & McLeod 1994).  
+       All data, used in this paper was gathered in accordance                                 The relationship between annual values of discharge and  
+       of  national  monitoring  programs  in  the  Environment                                precipitation was tested using the same method, with the  
+       Agency of the Republic of Slovenia. Discharge and pre-                                  test  implemented  via  use  of  the  non-parametric  Spear- 
+       cipitation time series for period between years 1960 and                                man’s  rank  correlation  coefficient  ρ,  with  a  95%  confi- 
+       2004 were used.                                                                         dence limit. The Spearman’s rank correlation coefficient  
+              Characteristic values of annual discharges of Vipava                             is defined as the sum of the differences between depen- 
+       springs  were  defined  based  on  daily  discharge  values.                            dent y and independent x data and is expressed as (Yue  
+       The gauging station for the Vipava springs system is lo-                                et al. 2002): 
+       cated in Vipava borough. At the station, the discharge of  
+       all seven springs is measured commonly (Fig. 1). 
+              In  the  recharge  area  of  Vipava  springs  there  are                                                                                                      (2) 
+       three  precipitation  stations;  Podkraj,  Hrušica  pri  Colu                                                             
+       and  Nanos  –  Ravnik  with  longer  time  series  of  daily  
+       precipitation  amount.  For  the  purpose  of  the  analyses                                   The Rescaled Adjusted Partial Sums (RAPS) meth- 
+       presented in the paper, data from Podkraj precipitation                                 od (Garbrecht & Fernandez 1994) is calculated as: 
+       station  were  used.  It  is  positioned  on  the  fringe  of  the  
+       Nanos massif at an altitude of 799 m above sea level (Fig.                                                                                                           (3) 
+       2) and it is a station with longest continuous record be-                                                           
+       tween 1960 and 2004. 
+                                                                                                      where y is the particular value at time t;                   is sample  
+                                                                                                                 t 
+                            STATISTICAL METHODS                                                mean;  S  is sample standard deviation; n is the number  
+                                                                                                          y 
+       The  statistical  methods  implemented  in  this  study  in-                            of  values  in  the  time  series  (n=1,  2…,k)  and  k  is  the  
+       clude  order  statistics,  monotone  trend  analyses,  Spear-                           counter limit of the current summation. A visualisation  
+       man’s  rank  correlation  test,  Rescaled  Adjusted  Partial                            approach based on RAPS overcomes both small system- 
+       Sums – RAPS and the Mann-Kendall test.                                                  atic changes in records and variability of data. RAPS vi- 
+              Decile  value  is  defined  as  one  of  the  values  of  the                    sualisation  highlights  trends,  shifts,  data  clustering,  ir- 
+       variable that divide the increasingly ordered distribution                              regular fluctuations and periodicities in the record. 
+       of the variable into ten groups having equal frequencies.                                      The sequential Mann-Kendall test is computed us- 
+       For example, the ninth decile is the value below which lie                              ing ranked values, y  of the original analyzed values, x .  
+                                                                                                                            i,                                                 i 
+       90% of the population.                                                                  The magnitudes of y , (i = 1,...,N) are compared with y ,  
+                                                                                                                             i                                                 j 
+                                                                                               (j = 1,...,i−1). For each comparison, the cases where y >y   
+                                                                                                                                                                           i   j 
+       Di = x           i                                                           (1)        are  counted  and  denoted  by  n .  A  statistic  t   can  there- 
+                 (n+1) *                                                                                                                    i                  i 
+                                                                                               fore be defined as: t  = Σn  (Mohsin & Gough 2009). For  
+                                                                                                                           i        i 
+              where n is the sample size of xi and i is the fraction                           a large N, t  is normally distributed with mean E(t ) and  
+                                                                                                               i                                                        i 
+       of data less than or equal to the decile value (e.g. for the                            variance Var(t ) given by: 
+                                                                                                                   i 
+         st   nd          rd 
+       1 ,  2     and  3      deciles,  i=  0.1,  0.2  and  0.3  respectively).                                                                                      
+       For  each  decile  value  in  this  paper,  a  time  series  of  45                                                                                                  (4) 
+       observations was defined.                                                                                        
+              Decile time series were tested for monotone trends  
+                                                                                                                                                                            (5) 
+       using a fit of linear regression; the dependent variable was                                                                   
+
+286      ACTA CARSOLOGICA 40/1 – 2011 
+
+----------------------- Page 5-----------------------
+
+  APPLICATION OF SEqUENTIAL TREND ANALYSIS FOR DISCHARGE CHARACTERISATION OF VIPAVA KARSTIC SPRINGS, SLOVENIA  
+
+       The sequential values of the statistic U(t ) can then  
+                                                           i 
+be computed as (Sneyers 1990): 
+
+                                                                      (6) 
+                        
+
+                                                    RESULTS AND DISCUSSION 
+
+Vipava springs have a typical karstic hydrological regime,  
+reflected by short high-discharge episodes and longer pe- 
+riods of average and low discharge (Petrič 2000). In the  
+45-year  period  between  1960  and  2004,  minimum  dis- 
+                         3                                            3 
+charge  was  0.73  m /s,  average  discharge  was  6.71  m /s  
+and maximum discharge 69.81 m3/s. The ratio between  
+
+low, average and high discharges was therefore approxi- 
+mately 1:10:100. 
+       During     1960–2004,        maximum        discharges      were  
+mostly detected in November and minimum discharges  
+were typical for summer months. At Podkraj precipita- 
+tion  station,  an  annual  minimum  of  1662  mm  and  an  
+annual  maximum  of  3242  mm  were  recorded  in  2003  
+and 1965, respectively.                                                        fig. 3: Spearman’s rank correlation coefficient between total an- 
+       Comparison  of  discharge  and  precipitation  data                     nual precipitation and discharge decile values. 
+shows  that  for  all  decile  classes,  Spearman’s  rank  cor- 
+relation is statistically significant at the 95% confidence  
+limit.  It  was  determined  that  in  general,  low  discharge                      A  5-year  moving  average  was  used  on  all  decile  
+deciles show a lower association with precipitation than                       time  series  data  to  smooth  out  short-term  fluctuations  
+high discharge decile values (Fig. 3). This association is                     and  emphasise  long-term  trends  or  cycles  (grey  curves  
+highest at the 8th decile time sequence (ρ=0.80), declin-                      in Figs. 4 & 5). A decline over time of the filtered decile  
+ing  to  ρ=0.73  in  the  9th  decile,  which  at  the  same  time             time series is not as evident as is the case for the non-fil- 
+
+represents  a  median  value  of  Spearman  correlation  co-                   tered series. For decile discharge values equal to or lower  
+efficients.  This  indicates  that  very  high  water  stages  of              than 3, six major shifts can be detected from the trend  
+Vipava  springs’  hydrological  regime  differ  from  other                    curve, beginning with increasing values from 1960 un- 
+high decile oscillations.                                                      til 1969 and ending with decreasing time sequence val- 
+                                                                                                     ues from 1998 until the end of the data  
+                                                                                                     collection  period.  Other  shifts  in  the  
+                                                                                                     moving  average  trend  lines  were  also  
+                                                                                                     detected  in  the  years  1973,  1978,  and  
+                                                                                                                              th        th 
+                                                                                                     1986 (Fig. 4). For 4   and 5          decile val- 
+                                                                                                     ues, only five major shifts in the moving  
+                                                                                                     average  trend  can  be  observed,  as  the  
+                                                                                                     shift occurring in 1978 is not as evident  
+
+                                                                                                     fig.  4:  5-year  moving  average  for  discharge  
+                                                                                                     decile values lower or equal to median. 
+
+                                                                                                                ACTA CARSOLOGICA 40/1 – 2011              287 
+
+----------------------- Page 6-----------------------
+
+      URŠKA PAVLIČ & MIHAEL BRENČIČ 
+
+                                                                                                          fig.  5:  5-year  moving  average  for  discharge  
+                                                                                                          decile values higher than median. 
+
+                                                                                                                Moving  average  trend  evaluations  
+                                                                                                          were  followed  by  two  sequential  trend  
+                                                                                                          tests based on RAPS and Mann-Kendall  
+                                                                                                          methods. RAPS and Mann-Kendall val- 
+                                                                                                          ues  were  calculated  to  detect  shifts  in  
+                                                                                                          singular  time  series’  trends  (Figs.  6,  7,  
+                                                                                                          8 & 9). The results of both methods are  
+                                                                                                          obtained  subjectively  from  oscillations  
+                                                                                                          of  new  calculated  values  and  therefore  
+      here as it is for lower deciles (Fig. 4). Trend curves of 6th,                 their  accuracy  may  be  reduced.  To  avoid  uncertainty,  
+      7th and 8th deciles do not show any trend shifts, although                     only those results determined by both RAPS and Mann- 
+
+      a  gradual  decrease  in  values  over  time  is  evident  (Fig.               Kendall  methods  were  evaluated  in  the  interpretation.  
+                  th 
+      5). The 9   decile curve shows a quite chaotic shape (Fig.                     Shifts in trends detected by only one of the methods used  
+      5),  with  oscillations  showing  rapid  movements  during                    were therefore disqualified from further analysis. 
+      the  time  sequence.  However,  although  moving  average                            Results revealed that for some time series analyzed,  
+      trends can provide a general insight into the similarities                     equal or similar sub-periods were determined, while for  
+      and  dissimilarities  of  trends  between  various  sub-peri-                  others, sub-periods differed (Figs. 10, 11 & 12). By com- 
+      od time series, they cannot reveal the exact moment of                        bining both methods of sequential trend analysis, three  
+      trend shift occurrence.                                                        major groups of analyzed time series were distinguished.  
+
+      fig. 6: RAPS values in time calculated for discharge decile val-              fig. 7: RAPS values in time calculated for discharge decile val- 
+      ues.                                                                           ues. 
+
+      fig.  8:  Mann-kendall  values  in  time  calculated  for  discharge          fig.  9:  Mann-kendall  values  in  time  calculated  for  discharge  
+      decile values.                                                                 decile values. 
+
+288     ACTA CARSOLOGICA 40/1 – 2011 
+
+----------------------- Page 7-----------------------
+
+  APPLICATION OF SEqUENTIAL TREND ANALYSIS FOR DISCHARGE CHARACTERISATION OF VIPAVA KARSTIC SPRINGS, SLOVENIA  
+
+           st  nd       rd                                                               th  th       th 
+fig. 10: 1 , 2    and 3    discharge decile values with linear trend          fig. 12: 7  , 8  and 9    discharge decile values with linear trend  
+lines of sub-periods detected by sequential methods.                          lines of sub-periods detected by sequential methods. 
+
+                                                                              (Tab. 1). Similarities are most evident between the first  
+                                                                              and second groups of decile values. 
+                                                                                    Based  on  the  results  of  sequential  trend  analyses,  
+                                                                              it can be seen that some annual decile time series oscil- 
+                                                                              late in a similar fashion, but others differ. This affinity is  
+                                                                              more evident when comparing low and mean water lev- 
+                                                                              els,  while  high  and  very  high  annual  water  periods  are  
+                                                                              less similar (Figs. 10, 11 & 12). 
+
+                                                                              Tab. 1: Major groups of discharge decile values, determined from  
+                                                                              RAPS and Mann-kendall value oscillations. 
+
+           th  th       th 
+fig. 11: 4  , 5  and 6    discharge decile values with linear trend  
+                                                                                      1 and 2               from 4 to 6               8 and 9 
+lines of sub-periods detected by sequential methods. 
+                                                                                 start        end         start       end         start       end 
+
+                                                                                 1960        1962         1960        1962        1960        1962 
+The  first  group  includes  the  time  series  of  1st  and  2nd  
+                                                                                 1962        1968         1962        1968        1962        1976 
+decile  values,  where  five  shifts  in  trend  were  evident  
+                                                th   th        th                1968        1973         1968        1980        1976        1982 
+(Tab. 1). The second group refers to 4            , 5   and 6    decile  
+value  time  series,  where  three  shifts  in  trend  were  de-                 1973        1978         1980       2004         1982        1994 
+tected, while the final group consists of 7th and 8th decile                     1978        2000                                 1994        2004 
+value data, for which four shifts in trend were elucidated                       2000        2004                         
+
+                                                              CONCLUSIONS 
+
+This paper has presented results from the comparison of                       analysis  were  thus  used  to  avoid  subjectivity  of  results.  
+the annual discharges and precipitation in the recharge                       The  combination  of  Mann-Kendall  and  RAPS  sequen- 
+area of the Vipava karstic springs system. Moving average                     tial  trend  tests  has  been  shown  to  be  a  suitable  way  of  
+trends were calculated to detect the general characteris-                     distinguishing the different characteristics of spring dis- 
+tics of associations between precipitation and discharge                      charges. 
+during  the  years  1960–2004.  Sequential  trend  analyses                         Sequence   trend   analysis,   performed   on   annual  
+were subsequently performed to identify different groups                      decile discharge values, revealed changes in hydrological  
+of discharge decile values with respect to duration of sub-                   regime between low, mean and high water stages. 
+period and direction of sub-trends.                                                 The  association  between  precipitation  in  the  re- 
+      Moving  average  analysis  has  proven  to  be  an  ef-                 charge area and discharge decile values of the springs is  
+fective tool for gaining general insight into the shifts of                   high, which indicates that the greatest amount of spring  
+trends  in  time  series,  but  cannot  reveal  the  exact  time              water is recharged from the Nanos plateau. The magni- 
+of  shift  occurrence.  Two  methods  of  sequential  trend                   tude of the correlation factor suggests that the connec- 
+
+                                                                                                               ACTA CARSOLOGICA 40/1 – 2011             289 
+
+----------------------- Page 8-----------------------
+
+      URŠKA PAVLIČ & MIHAEL BRENČIČ 
+
+      tion  between  precipitation  and  high  discharge  periods         and unpredictable hydrological regime, with sub-periods  
+      is  greater  than  that  between  precipitation  and  low  dis-     of  the  9th  decile  discharge  time  series  differing  greatly  
+
+      charge.                                                             from all other analyzed time series data oscillations. 
+           In the case of Vipava springs, at low-water hydro-                   The  method  described  in  the  paper  is  example  of  
+      logical stages when annual decile values are equal to or            detailed trend analysis of long-term discharge data time  
+      lower than 2nd decile discharge, shifts in the trends of de-        series of big karstic spring. The method applied can be  
+
+      tected  sub-periods  coincide  with  one  another.  Another         used  as  a  starting  point  in  the  study  of  climate  influ- 
+      two groups of similar time series data have been identi-            ences on water cycle of particular karstic spring, and it  
+      fied, between 4th and 6th and between 7th and 8th annual            can predict trends in groundwater abstraction or other  
+
+      decile values. Similarities between time series are greater         anthropogenic influences on discharge. With the meth- 
+      for low annual decile values than for high water stages.            od applied one can get insight in low level groundwater  
+      It can be concluded, therefore, that periods of low water           behaviour, which can help in understanding the prolon- 
+      levels  on  an  annual  scale  represent  a  more  predictable      gation of groundwater reserves at low-water conditions.  
+      and stable hydrological situation than high water stages.           In future Vipava should be compared with other karstic  
+      In a high water situation, Vipava springs shows a specific          groundwater outflows in Dinaric karst of Slovenia. 
+
+                                                              REFERENCES 
+
+      Baker,  G.,  Petrič,  M.,  Parkin,  G.  &  Kogovšek  J.,  2001:     Habič,  P.,  1989:  Kraška  bifurkacija  Pivke  na  jadransko  
+           Medsebojni vpliv površinske in podzemne vode po-                     črnomorskem razvodju. Acta carsologica, 18, 233– 
+           toka Bele in izvirov Vipave v jugozahodni Sloveni-                   264. 
+           ji.- Acta carsologica, 30,2, 217–238.                          Hamed, K.H., 2008: Trend Detection in Hydrologic Data:  
+      Bat,  M.,  Dolinar,  M.,  Frantar,  P.,  Hrvatin,  M.,  Kobold,           The  Mann-Kendall  Trend  Test  Under  the  Scaling  
+           M., Kurnik, B., Nadbah, M., Ožura, V., Uhan, J. & F.                 Hypothesis.- Journal of Hydrology, 349, 350–363. 
+           Ulaga,  2008:  Vodna  bilanca  Slovenije  1971–2000.-          Helsel, D.R. & R.M. Hirsch, 1991: Statistical Methods in  
+           Ministrstvo za okolje in prostor, Agencija Republike                 water Resources.- Chapter A3, Book 4, Hydrologic  
+           Slovenije za okolje, pp. 119, Ljubljana.                             Analysis  and  Interpretation,  Techniques  of  Water- 
+      Behrens, H., Benischke, R., Kass, W. & M. Zupan, 1997:                    Resources Investigations of the United States Geo- 
+           Results  of  the  Vipava  Area  –  The  Second  Tracing              logical Survey, Elsevier, pp. 522, Amsterdam. 
+           Experiment in Spring 1994.- Acta carsologica, Karst            Hipel, K.W. & A.I. McLeod, 1994: Time Series Modelling  
+           Hydrogeological Investigations in South – Western                    of  Water  Resources  and  Environmental  Systems,-  
+           Slovenia, 26, 295–301.                                               Developments in Water Science, Elsevier, pp. 1013,  
+      Bonacci, O. & I. Andrić, 2008: Hidrologija ponornih rek                   Amsterdam. 
+           Like in Gacke (Hrvaška).- Acta carsologica, 37,2–3,            Janež,  J.,  Čar,  J.,  Habič,  P.  &  R.  Podobnik,  1997:  vodno  
+           185–196.                                                             bogastvo visokega krasa: ranljivost kraške podzemne  
+      Bonacci,  O.,  2007:  Analysis  of  long-term  (1878–2004)                vode banjšic, Trnovskega gozda, Nanosa in hrušice.-  
+           mean  annual  discharges  of  the  karst  spring  Fon-               Geologija, pp. 167, Idrija. 
+           taine de Vaucluse (France).- Acta carsologica, 36,1,           Kogovšek, J., Knez, M., Mihevc, A., Petrič, M., Slabe, T.&  
+           151–156.                                                             S.  Šebela,  1999:  Military  Training  Reserve  in  Kras  
+      Garbrecht,  J.  &  G.P.  Fernandez,  1994:  Visualization  of             (Western Slovenia).- Environmental Geology, 38, 1,  
+           Trends and Fluctuations in Climatic Records.- Wa-                    69–76. 
+           ter Resources Bulletin, 30,2, 297–306.                         Mangin, A., 1994: Karst Hydrogeology.- In: Gilbert , J. et  
+      Gerstengarbe,  F.W.  &  P.C.  Werner,  1999:  Estimation  of              al. (eds.) groundwater Ecology, Academic Press, pp.  
+           the Beginning and End of Recurrent Events Within                     43–67, San Diego. 
+           a Climate Regime.- Climate Research, 11, 97–107.               Mohsin,  T.  &  W.A.  Gough,  2009:  Trend  Analysis  of  
+      Habe, F., 1970: Predjamski podzemeljski svet.- Acta car-                  Long-term Temperature Time Series in the Greater  
+           sologica, 5, 5–94.                                                   Toronto Area (GTA).- Theoretical and Applied Cli- 
+                                                                                matology, 98, 3–4. 
+
+290    ACTA CARSOLOGICA 40/1 – 2011 
+
+----------------------- Page 9-----------------------
+
+  APPLICATION OF SEqUENTIAL TREND ANALYSIS FOR DISCHARGE CHARACTERISATION OF VIPAVA KARSTIC SPRINGS, SLOVENIA  
+
+Moraes, J.M., Pellegrino, G.q., Ballester, M.V., Martinel-       Sheng, Y. & W. Chunyuan, 2004: The Mann Kendall Test  
+     li, L.A., Victoria, R.L. & A.V. Krusche, 1998: Trends            Modified by Effective Sample Size to Detect Trend  
+     in  Hydrological  Parameters  of  a  Southern  Brazil-           in  Serially  Correlated  Hydrological  Series.-  Water  
+     ian Watershed and its Relation to Human Induced                  Resources Management, 18, 201–218. 
+     Changes.-  Water  Resources  Management,  12,  295,         Sneyers, A., 1990: On Statistical Analysis of Series of Ob- 
+     43–67, 311.                                                      servations.-   World   Meteorological   Organization,  
+Önöz,  B.  &  M.  Bayazit,  2003:  The  Power  of  Statistical        pp. 192, Geneva. 
+     Tests for Trend Detection.- Turkish Journal of Eng-         Tonkaz,  Z.,  Cetin,  M.  &  K.  Tulucu,  2007:  The  Impact  
+     eneering & Environmental Sciences, 27, 247–251.                  of Water Resources Development Projects on Wa- 
+Petrič,  M.,  2000:  značilnosti  napajanja  in  praznjenja           ter Vapour Pressure Trends in a Semi-arid Region,  
+     kraškega  vodonosnika  v  zaledju  vipave.-  PhD  the-           Turkey.- Climatic Change, 82, 195–209. 
+     sis. Naravoslovnotehniška fakulteta v Ljubljani, pp.        Ulaga, F., 2002: Trendi spremljanja pretokov slovenskih  
+      151.                                                            rek.- Dela, 18, 93–114. 
+Petrič,  M.,  2002:   Characteristics  of  recharge-discharge    Yue, S., Pilon, P. & G. Cavadias, 2002: Power of the Mann  
+     relations  in  karst  aquifer.-  Založba  ZRC,  pp.  154,        Kendall  and  Spearman’s  Rho  Tests  for  Detecting  
+     Postojna–Ljubljana.                                              Monotonic Trends in Hydrological Series.- Journal  
+                                                                      of Hydrology, 259, 245–271. 
+
+                                                                                             ACTA CARSOLOGICA 40/1 – 2011      291 

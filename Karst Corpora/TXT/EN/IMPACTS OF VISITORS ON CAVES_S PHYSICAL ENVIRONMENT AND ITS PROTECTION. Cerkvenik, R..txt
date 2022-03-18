@@ -1,0 +1,1606 @@
+﻿UNIVERSITY OF NOVA GORICA GRADUATE SCHOOL 
+IMPACTS OF VISITORS ON CAVE’S PHYSICAL ENVIRONMENT AND ITS PROTECTION 
+DISSERTATION 
+Rosana Cerkvenik 
+Mentors: doc. Dr. Andrej Mihevc 
+prof. Dr. Ugo Sauro 
+Nova Gorica, 2012 
+UNIVERZA V NOVI GORICI FAKULTETA ZA PODIPLOMSKI ŠTUDIJ 
+VPLIVI OBISKOVALCEV NA JAMSKO FIZIČNO OKOLJE IN NJEGOVO VAROVANJE 
+DOKTORSKA DISERTACIJA 
+Rosana Cerkvenik 
+Mentorja: doc. dr. Andrej Mihevc 
+prof. dr.Ugo Sauro 
+Nova Gorica, 2012 
+Izjavljam, da je doktorsko delo v celoti moje avtorsko delo. 
+Hereby I declare this thesis is entirely my author work. 
+Acknowledgements 
+I express my gratitude to all people who supported and helped me to prepare 
+this dissertation. Several of them helped me in various ways and to those I am 
+particularly grateful. 
+First of all my special thanks to my supervisors, Dr. Andrej Mihevc and prof. 
+Dr. Ugo Sauro for all their constructive discussions, positive remarks and 
+recommendations. Special thanks also to the director of the Programme Karstology, 
+academician prof. Dr. Andrej Kranjc. 
+Special thanks to Dr. Trevor Shaw for the revision of the English text and to 
+Manica Baša and Maja Kranjc for their corrections and the revision of the text. 
+I feel deeply indebted to Jurij Jakofčič - Jaka for his valuable caving 
+experience and knowledge that he so kindly shared with me. 
+Many thanks to my colleagues (cavers) who were accompanying me at filed 
+work: Joţe Coraci, Boštjan Čopi, Jurij Jakofčič – Jaka, Emil Kariţ, Simon Klemen, 
+Dr. Andrej Mihevc, Janko Marinšek, Bogdan Opara, Alan Pale, and Igor Skočir. 
+Thanks also to Janko Brajnik, Franci Malečkar and Tomaţ Petek. 
+I thank to those who provided me photos: Jurij Jakofčič – Jaka, Borut Lozej 
+and particularly Emil Kariţ. I would also like to thank to cavers who shared their 
+stories about being a caver with me: Joţe Coraci, Jurij Jakofčič – Jaka, Dr. Andrej 
+Mihevc, Branko Pipan, Franc Renčelj and Stojan Sancin. 
+I thank to all who provided me the data about caves and cave societies: Joţe 
+Coraci, Boštjan Čopi, Alessio Fabricatore, Jordan Guštin, Jurij Jakofčič – Jaka, 
+Matej Kravanja, Borut Lozej, Janez Margon (he also tested Evaluation table for 
+Postojnska jama), Matjaţ Milharčič, Damir Podnar – Dado, Kristjan Rešaver and 
+Igor Skočir. Thanks also to my fellow villagers Marija and Ignac Boţeglav, Boris 
+Čok, Ivan Moderc and Helena Muha for the data about caves around Lokev. 
+I thank Franjo Drole, Jurij Hajna, Laura Kristan, Luca Visintin and Dean 
+Zobec for providing me data and maps. 
+Last but not least, I am grateful to my late father, my mother, Bogdan, Aljoša, 
+Gorazd, Maja and Teo for all their support and understanding. 
+Impacts of visitors on cave’s physical environment and its protection 
+Abstract Studies of impacts on caves usually cover the topics of water pollution, 
+microclimate, lampenflora and cave biota. In this thesis, the impacts of different 
+types of visitors on caves’ physical environments are presented. They accumulate in 
+caves and reduce their scientific (i.e. they “erase” important information on the 
+development of caves and the surface above) and aesthetic values. 
+People have been using the caves in the Classical Karst for different purposes 
+since prehistoric times. They served as shelters, hiding places; they were used for 
+cult purposes, for storage (weapons, explosives, refuse dumps and waste water) and the exploitation of natural resources (karst springs, ice, etc.). Since the 17th century, 
+the caves have predominantly been used for tourist and speleological purposes. The 
+region and its natural phenomena have gained international importance as a result of 
+speleological explorations, and the developments of tourism, and karstology as a 
+science. However, the long and intense use of caves, particularly in the previous two 
+centuries, has also had significant impacts on the physical environment of caves. 
+The impacts of visitors were studied in 24 caves. The caves were divided in 
+the following groups: show caves, well-known caves, less-known caves and easily 
+accessible caves. The results show that physical environment has been significantly 
+damaged in several caves. 
+One of the most evident impacts are broken speleothems, although it seems 
+that this habit has become less popular and there are no signs of new damage. Off- 
+trail footprints affect mainly fine sediments and are very frequent in all caves. The 
+impacts in caves are the most profound due to infrastructure works and visitors. 
+Lampenflora is one of the most visible effects in the majority of the visited caves 
+(Postojnska jama, Škocjanske jame and Grotta Gigante (Velika jama v Briščikih)). It 
+is also possible to find litter and other types of waste in caves. The most common 
+waste left in caves by cavers is carbide. There are almost no new carbide dumps due 
+to increased awareness among cavers and the use of electric lamps in the previous 10 
+years. Graffiti appear in almost all the caves, only the newly explored caves are 
+“clean”. The big graffiti made by paint, carbide lamp soot or cutting began to appear 
+after 1920. It is only since 1990 that graffiti have become less frequent. It is also 
+possible to notice the significant impacts of scientists who took samples of flowstone 
+i 
+formations, archaeological excavations, etc. In the caves that have recently been 
+explored and have controlled access, the impacts are minor. 
+Although most of the damage has been accumulating, there have already been 
+some actions by cavers and staff of the show caves to reduce the impacts, such as 
+cleaning waste from caves, placing trail markers and equipping frequently visited 
+caves, gating caves, cleaning graffiti, bringing in new clothing and footwear to wear 
+in unspoilt areas of cave, etc. 
+The Classical Karst has been one of the most important karst regions for 
+speleological explorations, scientific research and tourism throughout history and 
+today. The damage done in caves should be repaired and our best efforts to explore 
+the underground passages with minimal impacts should be made. It would also be 
+necessary to discuss the protection of karst caves within complex geosystems. As 
+caves form a part of a complex karst geosystem, they are reached by pollutants from 
+the surrounding environment. So it is not enough to protect only a cave itself; 
+attention should also be given to other influences 
+Key words: 
+Classical Karst, the Kras, cave use, impacts of visitors on physical environment in 
+caves 
+ii 
+Vplivi obiskovalcev na jamsko fizično okolje in njegovo varovanje 
+Izvleček Študije vplivov na jamsko okolje navadno zajemajo onesnaţevanje vode, 
+spremembe mikroklime, razraščanje alg in mahov (lampenfloro) ter jamsko 
+ţivalstvo. V doktorski disertaciji so obravnavani vplivi različnih kategorij 
+obiskovalcev na jamsko fizično okolje. Ti se v jamah akumulirajo, so dolgotrajni ter 
+zmanjšujejo znanstveno (velikokrat se zabrišejo pomembne informacije o nastanku 
+jam in razvoju površja) in estetsko vrednost jam. 
+Problematiko smo obravnavali na jamah Klasičnega Krasa, ki imajo bogato 
+zgodovino, saj človek prihaja vanje ţe od prazgodovine, in sicer so zanj (bile) 
+zavetišča in skrivališča, kultni prostor, odlagališča ali skladišča (na primer za 
+eksploziv, oroţje, odpadke in odpadne vode) ali nahajališče naravnih virov (na 
+primer vode ali ledu). Od 17. stoletja sta najbolj uveljavljeni obliki rabe turizem in 
+speleologija. Obravnavana regija je postala svetovno znana zaradi jamarskih 
+raziskav, razvoja turizma in krasoslovja kot znanstvene panoge. Raba jam, ki je zlasti 
+intenzivna v zadnjih dveh stoletjih, je negativno vplivala na jamsko fizično okolje. 
+V doktorski disertaciji je obravnavanih 24 jam, ki so razdeljene v štiri 
+skupine, in sicer so to: turistične jame ter bolj znane, manj znane in lahko dostopne 
+jame. Rezultati kaţejo, da je fizično okolje v nekaterih jamah precej poškodovano. 
+Ena najvidnejših poškodb so polomljeni kapniki. Kaţe pa, da se je 
+ozaveščenost na tem področju povečala, saj ni več veliko sledov, ki bi pričali, da 
+obiskovalci še vedno lomijo kapnike. Značilne so tudi poškodbe na drobnem 
+jamskem sedimentu (na primer na jamskih ilovicah), to so predvsem odtisi 
+obiskovalcev. Najbolj poškodovane so turistične jame, v katerih so zlasti vidni 
+zgrajena turistična infrastruktura, odpadki obiskovalcev in odpadna infrastruktura; v 
+najbolj obiskanih turističnih jamah (Postojnska jama, Škocjanske jame in Velika 
+jama v Briščikih) je poleg turistične infrastrukture najočitnejši element degradacije 
+lampenflora. Ena vidnejših sledi jamarjev v jamah je karbidno apno, čeprav ni več 
+zaznati novejših karbidnih ostankov, predvsem zaradi večje ozaveščenosti jamarjev 
+in uporabe električnih svetilk v zadnjih desetih letih. Grafiti se pojavljajo v vseh 
+jamah, razen v novoodkritih. Veliki grafiti, narejeni z barvami, acetilenskim 
+plamenom ali klesani, so se začeli pojavljati po letu 1920, trend zmanjševanja pa je 
+opazen po letu 1990. Značilne poškodbe, ki jih v jamah povzročajo znanstveniki, so 
+iii 
+predvsem rezanje sige, jemanje vzorcev sedimentov za analize in arheološka 
+izkopavanja. Veliko manjše so poškodbe v jamah, ki so odkrite na novo. 
+Čeprav se škoda v jamah akumulira, so poznani primeri dobrih praks 
+jamarjev in upravljavcev turističnih jam za zmanjševanje negativnih vplivov, na 
+primer odstranjevanje odpadkov, označevanje poti in opremljanje za jamarske 
+raziskave, postavljanje vrat, odstranjevanje grafitov, uporaba čistih oblačil in obutve 
+v »čistih« predelih jam ipd. 
+Klasični Kras je bil in je še vedno eno najpomembnejših kraških območij za 
+speleološke raziskave in razvoj turizma. Zato si zasluţi, da se škoda v jamah popravi 
+in da so vplivi obiskovanja podzemnega sveta čim manjši. Poleg tega pa je jame 
+treba obravnavati širše, v tako imenovanem geosistemu. Ker je jama del zapletenega 
+kraškega geosistema in vanjo prodirajo onesnaţevala iz okolja, je zgolj njena zaščita 
+premalo. Vsekakor je treba obravnavati tudi zunanje vplive. 
+Ključne besede: 
+Klasični Kras, Kras, raba jam, vplivi obiskovalcev na jamsko fizično okolje 
+iv 
+TABLE OF CONTENTS 
+Part I – Introduction ...................................................................................................................................... 1 1 INTRODUCTION ............................................................................................................................... 2 2 HISTORY OF RESEARCH ON CAVE IMPACTS ........................................................................... 5 
+Part II – Karst Caves: Unique Underground Environments .......................................................................... 8 3 CAVES AS BASIC ELEMENTS OF KARST GEOSYSTEMS ........................................................ 9 
+Part III – Methods ....................................................................................................................................... 15 4 OBJECTIVES AND AIMS ............................................................................................................... 16 5 METHODS ....................................................................................................................................... 17 
+Part IV – Caves and Humanity ................................................................................................................... 31 6 THE SIGNIFICANCE OF KARST CAVES TODAY AND MILESTONES IN THE UNDERSTANDING OF NEGATIVE IMPACTS IN CAVES .................................................................. 32 7 CAVE USE ....................................................................................................................................... 36 7.1 Caves as shelters, hiding and living places .............................................................................. 36 7.2 Caves in cult use or mythology manner ................................................................................... 38 7.3 Caves as places of deposition .................................................................................................. 41 7.4 Exploitation of natural resources in caves ............................................................................... 45 7.5 Caving, speleology and karstology as a science ...................................................................... 47 7.5.1 Development of cave exploration societies .................................................................... 51 7.5.2 Development of cave societies in Slovenia and Italian Classical Karst in the 20th century 53 7.5.3 Development of cave exploration ................................................................................... 60 7.5.4 Development of caving after World War II ................................................................... 61 7.5.5 Main activities in caves .................................................................................................. 71 7.5.6 Karstology as a science .................................................................................................. 78 7.6 Show caves .............................................................................................................................. 79 8 IMPACTS ON CAVES ..................................................................................................................... 81 8.1 The impacts of caving .............................................................................................................. 81 8.2 The impacts of scientific research ............................................................................................ 83 8.3 The impacts of tourism in show caves ..................................................................................... 83 8.3.1 Impacts, caused by creating the infrastructure ............................................................... 83 8.3.2 Impacts caused directly by the visitors ........................................................................... 85 8.3.3 Impacts, caused by cave maintaining ............................................................................. 86 9 LEGAL PROTECTION OF CAVES IN SLOVENIA AND IN AUTONOMOUS REGION FRIULI – VENEZIA – GIULIA (FURLANIJA – JULIJSKA KRAJINA) ................................................ 87 
+Part V – Case studies .................................................................................................................................. 92 10 RESEARCH AREA ..................................................................................................................... 93 10.1 Geology ................................................................................................................................... 95 10.2 Hydrology ................................................................................................................................ 96 10.3 Caves in the research area ........................................................................................................ 99 10.4 Milestones in the history of the Kras ..................................................................................... 103 11 SHOW CAVES .......................................................................................................................... 106 11.1 Dimnice ................................................................................................................................. 107 11.2 Divaška jama ......................................................................................................................... 118 11.3 Postojnska jama ..................................................................................................................... 131 11.4 Sveta jama .............................................................................................................................. 152 11.5 Škocjanske jame .................................................................................................................... 160 11.6 Vilenica .................................................................................................................................. 181 11.7 Grotta Gigante (Velika jama v Briščikih) .............................................................................. 194 11.8 CONCLCUSION – SHOW CAVES ..................................................................................... 203 12 WELL KNOWN CAVES ........................................................................................................... 209 12.1 Bestaţovca ............................................................................................................................. 210 12.2 Gustinčičeva jama v Blaţčevi dolini ...................................................................................... 218 12.3 Jama 1 v Kanjaducah ............................................................................................................. 224 12.4 Jama v Partu pri Ogradi ......................................................................................................... 232 12.5 Kačna jama ............................................................................................................................ 240 
+v 
+12.6 Abisso di Trebiciano (Labodnica) .......................................................................................... 251 12.7 Lipiška jama ........................................................................................................................... 263 12.8 LP 2 ........................................................................................................................................ 273 12.9 Škamprlova jama .................................................................................................................... 278 12.10 CONCLCUSION – WELL KNOWN CAVES .................................................................. 286 13 LESS KNOWN CAVES ............................................................................................................. 290 13.1 Belinca jama ........................................................................................................................... 291 13.2 Nikotova jama ........................................................................................................................ 297 13.3 Rebčeva jama ......................................................................................................................... 302 13.4 Ukmarjeva jama ..................................................................................................................... 308 13.5 CONCLCUSION – LESS KNOWN CAVES ........................................................................ 314 14 EASILY ACCESSIBLE CAVES ................................................................................................ 316 14.1 Malanca .................................................................................................................................. 317 14.2 Petnjak .................................................................................................................................... 322 14.3 Spodmol Rupa ........................................................................................................................ 327 14.4 Trhlovca ................................................................................................................................. 333 14.5 CONCLCUSION – EASILY ACCESSIBLE CAVES ........................................................... 342 
+Part VI – Conclusion ................................................................................................................................. 344 15 GENERAL OVERVIEW ............................................................................................................ 345 16 RECOMMENDATIONS AND GUIDELINES FOR FURTHER CAVE USE .......................... 352 16.1 Show caves ............................................................................................................................. 352 16.2 Open caves ............................................................................................................................. 357 17 OPEN QUESTIONS ................................................................................................................... 359 18 POVZETEK ................................................................................................................................ 362 18.1 Uvod ....................................................................................................................................... 362 18.2 Metode .................................................................................................................................... 363 18.3 Pomen jam .............................................................................................................................. 364 18.4 Raba jam ................................................................................................................................. 365 18.5 Vplivi na jame ........................................................................................................................ 367 18.6 Pravna zaščita jam .................................................................................................................. 368 18.7 Izbrani primeri ........................................................................................................................ 369 18.7.1 Raziskovalno območje .................................................................................................. 369 18.7.2 Turistične jame ............................................................................................................. 369 18.7.3 Neturistične jame .......................................................................................................... 376 18.8 Zaključek ................................................................................................................................ 383 18.9 Odprta vprašanja .................................................................................................................... 389 
+Part VII – References and Appendices ...................................................................................................... 390 19 REFERENCES ............................................................................................................................ 391 20 APPENDICES ............................................................................................................................ 399 
+vi 
+LIST OF FIGURES 
+Figure 7.1: Fragments of mandible of Gulo Gulo, Ludvikova jama. Photo by: Emil Kariţ .......................................... 38 Figure 7.2: Cave that served for Mitra worship. Photo by: Rosana Cerkvenik ............................................................. 40 Figure 7.3: Ammunition dump, cave near Seţana. Photo by: Emil Kariţ ..................................................................... 41 Figure 7.4: Cave as a waste dump. Photo by: Emil Kariţ ............................................................................................. 44 Figure 7.5: Jama v Bjekovniku near Seţana, sink of sewage water. Photo by: Emil Kariţ .......................................... 44 Figure 7.6: Cave explorers in 1960s. Archive Franc Renčelj ........................................................................................ 70 Figure 10.1: Shematic geologic and hydrologic map of the Kras. (IZRK ZRC SAZU) ................................................ 99 Figure 10.2: Caves on the Classical Karst in Slovenia and Italy ................................................................................. 100 Figure 11.1: Case studies – show caves ...................................................................................................................... 106 Figure 11.2: Dimnice, plan (IZRK ZRC SAZU, 2011) ............................................................................................... 109 Figure 11.3: Waste, Dimnice. Photo by: Rosana Cerkvenik ....................................................................................... 113 Figure 11.4: Remains of aqueduct, Dimnice. Photo by: Rosana Cerkvenik................................................................ 114 Figure 11.5: Broken speleothem, Dimnice. Photo by: Rosana Cerkvenik .................................................................. 114 Figure 11.6: Divaška jama, plan (Gospodarič, 1985) .................................................................................................. 120 Figure 11.7: Graffiti from 1995, Divaška jama. Photo by: Rosana Cerkvenik............................................................ 125 Figure 11.8: Works in Divaška jama. Photo by: Borut Lozej ..................................................................................... 128 Figure 11.9: Artificially leveled surface in the entrance chamber in Divaška jama. ................................................... 128 Figure 11.10: Postojnska jama, plan (IZRK ZRC SAZU, 2011) ................................................................................. 134 Figure 11.11: Hand rails, Postojnska jama. Photo by: Emil Kariţ .............................................................................. 145 Figure 11.12: Electricity boxes, Postojnska jama. Photo by: Rosana Cerkvenik ........................................................ 145 Figure 11.13: Hidden illumination, Postojnska jama. Photo by: Rosana Cerkvenik ................................................... 146 Figure 11.14: Lampenflora in Postojnska jama. Photo by: Rosana Cerkvenik ........................................................... 146 Figure 11.15: Sveta jama, longitudinal cross – section (Malečkar, 1976) ................................................................... 153 Figure 11.16: Sveta jama, ground plan (Malečkar, 1976) ........................................................................................... 153 Figure 11.17: Built wall, Sveta jama. Photo by: Rosana Cerkvenik ........................................................................... 157 Figure 11.18: Broken speleothem and graffiti, Sveta jama. Photo by: Rosana Cerkvenik .......................................... 157 Figure 11.19: Škocjanske jame, plan (Source: PŠJ) .................................................................................................... 164 Figure 11.20: Cleaning of the waste in Škocjanske jame. Photo by: Rosana Cerkvenik ............................................ 172 Figure 11.21: Waste, covered with flowstone, Škocjanske jame. Photo by: Rosana Cerkvenik ................................. 172 Figure 11.22: Built object, Škocjanske jame. Photo by: Rosana Cerkvenik ............................................................... 173 Figure 11.23: Off trail footprints, Škocjanske jame. Photo by: Rosana Cerkvenik ..................................................... 173 Figure 11.24: Speleothem, cemented in the path, Škocjanske jame. Photo by: Rosana Cerkvenik............................. 176 Figure 11.25: Vilenica, ground plan (IZRK) ............................................................................................................... 182 Figure 11.26: Vilenica, longitudinal cross – section (JDS) ......................................................................................... 182 Figure 11.27: Waste, Vilenica. Photo by: Rosana Cerkvenik ..................................................................................... 187 Figure 11.28: The path in flowstone, Vilenica. Photo by: Rosana Cerkvenik ............................................................. 187 Figure 11.29: Broken formations, Vilenica. Photo by: Rosana Cerkvenik ................................................................. 190 Figure 11.30: Soiled formations, Vilenica. Photo by: Rosana Cerkvenik ................................................................... 190 Figure 11.31 Grotta Gigante (Velika jama v Briščikih), longitudinal cross – section (Glavina, Comello, CGEB) ..... 195 Figure 11.32: Artificially enlarged area, a concrete balcony, Grotta Gigante (Velika jama v Briščikih). Photo by: Rosana Cerkvenik ....................................................................................................................................................... 200 Figure 11.33: Tunnel towards the exit of Grotta Gigante (Velika jama v Briščikih). Photo by: Rosana Cerkvenik ... 200 Figure 12.1: Case studies – well known caves ............................................................................................................ 209 Figure 12.2: Bestaţovca, ground plan (Mihevc, 2010) ............................................................................................... 212 Figure 12.3: Bestaţovca, longitudinal cross – section (Mihevc, 2010) ....................................................................... 212 Figure 12.4: Paintings, Bestaţovca. Photo by: Emil Kariţ ......................................................................................... 214 Figure 12.5: Soiled gours, Bestaţovca. Photo by: Rosana Cerkvenik ......................................................................... 214 Figure 12.6: Gustinčičeva jama, plan (Coraci, 2000) .................................................................................................. 219 Figure 12.7: Trail markers and a cover on the floor, Gustinčičeva jama. Photo by: Emil Kariţ ................................. 221 Figure 12.8: Jama 1 v Kanjaducah, plan (Berčič, Coraci, 2008) ................................................................................. 225 Figure 12.9: Trail markers and protection of flowstone formations, Jama 1 v Kanjaducah. Photo by: Jurij Jakofčič – Jaka .......................................................................................................................................................................... 228 Figure 12.10: Jama v Partu pri Ogradi, plan (Archive JDS) ....................................................................................... 234 Figure 12.11: Graffiti, Jama v Partu pri Ogradi. Photo by: Emil Kariţ ....................................................................... 237 Figure 12.12: Trail markers, Jama v Partu pri Ogradi. Photo by: Emil Kariţ ............................................................. 237 Figure 12.13: Kačna jama, plan .................................................................................................................................. 242 Figure 12.14: Kačna jama, longitudinal cross – section (Mihevc, 2001a) .................................................................. 243 Figure 12.15: Waste – car in the entrance chamber, Kačna jama. Photo by: Borut Lozej .......................................... 248 Figure 12.16: Abisso di Trebiciano (Labodnica), plan (SAS, 2009) ........................................................................... 252 Figure 12.17: Equipped shafts, Abisso di Trebiciano (Labodnica). Photo by: Emil Kariţ ......................................... 259 Figure 12.18: Monitoring station, Abisso di Trebiciano (Labodnica). Photo by: Emil Kariţ ..................................... 259 Figure 12.19: Lipiška jama, longitudinal cross – section (Jakofčič, 2006) ................................................................. 265 Figure 12.20: Lipiška jama, ground plan (JD Dimnice, 1977) .................................................................................... 265 Figure 12.21: Graffiti, Lipiška jama. Photo by: Emil Kariţ ........................................................................................ 270 
+vii 
+Figure 12.22: Graffiti, Lipiška jama. Photo by: Emil Kariţ ........................................................................................ 270 Figure 12.23: LP 2, plan (Sancin, 2000) ..................................................................................................................... 274 Figure 12.24: Trail markers and carbide dump, LP2. Photo by: Emil Kariţ ............................................................... 275 Figure 12.25: Škamprlova jama, plan (Archive JDS) .................................................................................................. 279 Figure 12.26: Graffiti, Škamprlova jama. Photo by: Emil Kariţ ................................................................................. 281 Figure 12.27: Fireplace, Škamprlova jama. Photo by: Emil Kariţ .............................................................................. 281 Figure 12.28: Broken speleothems, Škamprlova jama. Photo by: Emil Kariţ............................................................. 282 Figure 13.1: Case studies – less known caves ............................................................................................................. 290 Figure 13.2: Belinca jama, plan (Coraci, 1975) .......................................................................................................... 292 Figure 13.3: Broken speleothem, Belinca jama. Photo by: Emil Kariţ ....................................................................... 294 Figure 13.4: Nikotova jama, plan (Coraci, 1995) ........................................................................................................ 298 Figure 13.5: Mud track, Nikotova jama. Photo by: Emil Kariţ ................................................................................... 300 Figure 13.6: Rebčeva jama, plan (Archive JDS) ......................................................................................................... 303 Figure 13.7: Waste, Rebčeva jama. Photo by: Emil Kariţ .......................................................................................... 305 Figure 13.8: Graffti, Rebčeva jama. Photo by: Emil Kariţ ......................................................................................... 305 Figure 13.9: Ukmarjeva jama, plan (Archive JDS) ..................................................................................................... 309 Figure 13.10: Graffiti, Ukmarjeva jama. Photo by: Emil Kariţ .................................................................................. 310 Figure 14.1: Case studies – easily accessible caves .................................................................................................... 316 Figure 14.2: Malanca, plan (Zorman, 1981) ................................................................................................................ 318 Figure 14.3: Broken speleothems, Malanca. Photo by: Emil Kariţ ............................................................................. 320 Figure 14.4: Petnjak, ground plan (Archive JDS) ....................................................................................................... 323 Figure 14.5: Spodmol Rupa, plan (Cerkvenik, 2006) .................................................................................................. 328 Figure 14.6: Built wall on the entrance into Spodmol Rupa. Photo by: Emil Kariţ .................................................... 330 Figure 14.7: Waste, Spodmol Rupa. Photo by: Rosana Cerkvenik ............................................................................. 330 Figure 14.8: Trhlovca, plan (JKLM, 1970) ................................................................................................................. 335 Figure 14.9: A piece of speleothem was taken for paleomagnetic datations, Trhlovca. Photo by: Emil Kariţ ........... 339 Figure 14.10: Entrance into Trhlovca. Photo by: Emil Kariţ ...................................................................................... 339 
+LIST OF TABLES 
+Table 1.1: List of proper names and abbreviations used (Italian, Slovenian and English) .............................................. 4 Table 5.1: Description of the evaluation table ............................................................................................................... 21 Table 10.1: Characteristics of caves on the research area ........................................................................................... 102 Table 11.1: Evaluation table, Dimnice ........................................................................................................................ 117 Table 11.2: Evaluation table, Divaška jama ................................................................................................................ 129 Table 11.3: Evaluation table, Postojnska jama – tourist part ....................................................................................... 150 Table 11.4 Evaluation table, Postojnska jama, non – tourist part ................................................................................ 151 Table 11.5: Evaluation table, Sveta jama .................................................................................................................... 159 Table 11.6: Evaluation table, Škocjanske jame – Tiha jama ....................................................................................... 179 Table 11.7: Evaluation table, Škocjanske jame – water part ....................................................................................... 180 Table 11.8 Evaluation table, Vilenica ......................................................................................................................... 193 Table 11.9: Evaluation table, Grotta Gigante (Velika jama v Briščikih) ..................................................................... 202 Table 11.10: Classification table, show caves ............................................................................................................. 208 Table 12.1: Evaluation table, Bestaţovca.................................................................................................................... 217 Table 12.2: Evaluation table, Gustinčičeva jama v Blaţčevi dolini ............................................................................ 223 Table 12.3: Evaluation table, Jama 1 v Kanjaducah – shafts ...................................................................................... 230 Table 12.4: Evaluation table, Jama 1 v Kanjaducah – water part ................................................................................ 231 Table 12.5: Evaluation table, Jama v Partu pri Ogradi ................................................................................................ 239 Table 12.6: Review of major explorations in Kačna jama .......................................................................................... 246 Table 12.7: Evaluation table, Kačna jama ................................................................................................................... 250 Table 12.8: Evaluation table, Abisso di Trebiciano (Labodnica) – shafts ................................................................... 261 Table 12.9: Evaluation table, Abisso di Trebiciano (Labodnica) – water part ............................................................ 262 Table 12.10: Evaluation table, Lipiška jama ............................................................................................................... 272 Table 12.11: Evaluation table, LP 2 ............................................................................................................................ 277 Table 12.12: Evaluation table, Škamprlova jama ........................................................................................................ 285 Table 12.13: Classification table, well known caves ................................................................................................... 289 Table 13.1: Evaluation table, Belinca jama ................................................................................................................. 296 Table 13.2: Evaluation table, Nikotova jama .............................................................................................................. 301 Table 13.3: Evaluation table, Rebčeva jama ............................................................................................................... 307 Table 13.4: Evaluation table, Ukmarjeva jama ........................................................................................................... 313 Table 13.5: Classification table, less known caves ..................................................................................................... 315 Table 14.1: Evaluation list, Malanca ........................................................................................................................... 321 Table 14.2: Evaluation table, Petnjak .......................................................................................................................... 326 Table 14.3: Evaluation table, Spodmol Rupa .............................................................................................................. 332 Table 14.4: Evaluation table, Trhlovca ....................................................................................................................... 341 Table 14.5: Classification table, easily accessible caves ............................................................................................. 343 
+viii 
+LIST OF APPENDICES 
+Appendix 20.1: Number of visitors in Postojnska jama through decades (Valentini, 2006, after Postojnska jama, turizem d.d.) ................................................................................................................................................................ 399 Appendix 20.2: Number of visitors in Škocjanske jame 1901 – 2010 ........................................................................ 399 Appendix 20.3: Visitors in the cave Vilenica in the period 1991 – 2010 (Archive JDS) ............................................ 400 Appendix 20.4: Significant signatures and graffiti in Divaška jama ........................................................................... 401 Appendix 20.5: Detailed description of the graffiti in Vilenica .................................................................................. 402 Appendix 20.6 Detailed description of the graffiti in Lipiška jama ........................................................................... 404 
+ix 
+Part I – Introduction 
+1 
+1 INTRODUCTION 
+The study of caves and their content (such as speleothems, fine sediment, 
+rock surface, etc.) is usually based on the environmental sciences, such as study of 
+geology, hydrology, sediments, climate, morphology, speleogenesis, flora and fauna. 
+Especially in recent years there is an important part of research the topic of 
+cave protection. Until now the studies of karstologists were mainly based on cave 
+protection from pollution from the surface in the field of hydrology and biology. 
+Studies of visitors’ impacts have been focused mainly on measurements of CO2 and lampenflora. On the other hand there is a much more important influence on the 
+morphology of the cave directly from visitors, such as footprints, soiled and broken 
+formations, graffiti, etc. That kind of damage can be seen and often it cannot be 
+repaired only by natural processes in caves. 
+The core area of the study is the Classical Karst – Kras where the pioneer cave explorations began in the 19th century. As this area is rich in caves and 
+especially their accessibility and the abundance of cave content it is here where the 
+pressures on caves are high. 
+As the number of caves is high and also their variety, only a few caves are 
+presented as examples and only a few were chosen as case studies. Predominantly 
+caves in Slovenia were chosen, with the exception of Abisso di Trebiciano 
+(Labodnica) and Grotta Gigante (Velika jama v Briščikih) that lie in Italy. One of the 
+aims of this dissertation was to design a tabular pattern that allows a classification of 
+caves according to the state of their physical environment; risk factors for the cave; 
+and their deterioration (see Methods). On one hand, the selected caves were used as a 
+basis for the tabular pattern, while on the other hand their physical environment, risk 
+factors, use and deterioration were described. A different selection of caves (e.g. 
+more caves in Italy) would not influence the pattern, but it could have an effect on 
+descriptions of cave physical environment, risk factors, cave use and deterioration. 
+One should bear in mind that there are significant differences between 
+Slovene and Italian cave protection legislation (see the chapter Formal Protection of 
+Caves in Slovenia and in the Autonomous Region Friuli - Venezia Giulia (Furlanija – 
+Julijska krajina)), and that many changes were introduced since Slovenia gained 
+independence (and even before in the period of ex Yugoslavia). These factors (have) 
+2 
+considerably influence(ed), at least on a formal level, cave use, activities that are 
+allowed in caves, and activities on the surface above them. 
+The selected caves are not homogenous, which is most obvious in the group 
+of show caves, where the number of visitors varies from a few hundred to half a 
+million a year. This is the source of important disparities in cave management and 
+differences in infrastructure that is provided for visitors. Besides, some caves are 
+morphologically heterogeneous. The differences between certain parts of some caves 
+seem so significant that they need to be treated separately, as individual units. 
+The area of research encompasses the Classical Karst in Slovenia and Italy. 
+Members of the Slovene minority in Italy live here. The act that guarantees 
+protection for Slovenes in Italy (Act No. 38/2001) prescribes an equivalence for 
+Italian and Slovene toponymic inscriptions, which is also provided for in municipal 
+statutes. Throughout the thesis, names in both languages are used – first the Italian 
+one, whereas the Slovene variant is given in parenthesis. 
+3 
+Table 1.1: List of proper names and abbreviations used (Italian, Slovenian and English) 
+Italian name Slovenian name English name Abbreviation 
+International Show Cave 
+Organisation ISCA Club Alpinistico 
+Triestino CAT Corpo Nazionale Soccorso Alpino e Speleo 
+CNSAS 
+Društvo za raziskovanje jam Luka Čeč Postojna DZRJ LČ Postojna 
+Inštitut za raziskovanje krasa ZRC SAZU 
+Karst Research Institut 
+SRC SASA IZRK Jamarska reševalna sluţba 
+Cave Rescue Organisation JRS Jamarsko društvo Seţana JDS Jamarska zveza Slovenije Speleological 
+Association of Slovenia JZS Jamarski klub Ţelezničar JKŢ 
+Jamarski odsek Slovenskega planinskega društva Trst 
+JO SPD Trst 
+Jamarsko društvo 
+Dimnice JD Dimnice Jamarsko društvo Gregor 
+Ţiberna Divača JD GŢ Divača Jamarsko društvo Seţana JDS Abisso di Trebiciano Labodnica Aurisina Nabreţina Bagnoli Boljunec 
+Carso Kras Karst Club Alpino Italiano CAI 
+Comitato Olimpico Nazionale Italiano 
+National Olympic 
+Committee CONI Duino Devin Friuli – Venezia – Giulia Furlanija – Julijska 
+krajina FVG (FJK) Grotta di San Giovanni 
+d’Antro Landarska jama Grotta Gigante Velika jama v Briščikih Lago Doberdò Doberdobsko jezero Lago Pietrarossa Prelosno jezero 
+Lisert Moščenice Opicina Opčine Sablici Sabliči Sales Saleţ Sardos Sardoč Sistiana Sesljan Società Alpina delle 
+Giulie SAG Timavo Timava Trebiciano Trebče Val Rosandra Glinščica 
+4 
+2 HISTORY OF RESEARCH ON CAVE IMPACTS 
+First descriptions of (foreign) visitors could be regarded, at least in the 
+Classical Karst, as the first mentions of influences on caves, predominantly their 
+physical environment. They wrote about damaged (broken) speleothems and their 
+black coloration (the lights they used produced soot), extracting and trading cave formations etc. These descriptions date back into 18th century and are treated in detail 
+in Shaw (2008). 
+Below you may find some examples form karst research scientific literature 
+that has been published in the last 20 years. 
+White (1988) mentioned cave protection under the subject of land use, land 
+management problems and water resource problems. He stressed that there are many 
+negative impacts on karst on one hand and great aesthetic value of karst terrains on 
+the other hand. This has led to many karst protected areas. He mentioned show caves 
+(commercial caves) that are adapted to tourism (stairs, illumination and guided 
+tours). He also mentioned recreational caving and the underground world as the area 
+of wilderness. He did not mention the treatment of caves but only the need to 
+consider the non-economic value of karst underground. 
+Gams (2003) gave some examples about negative impacts and damage in 
+Slovenian caves: darkened speleothems in many of them due to use of torches, 
+breaking speleothems in the past (but still present nowadays), problems of rising dust 
+in Postojnska jama cave and of scoria in Divaška jama cave. He also mentioned 
+waste from cave expeditions in the Spluga della Preta cave in Italy. 
+Ford and Williams (2007) study topic of human impacts and environmental 
+rehabilitation – stressing mainly problems of illumination in the past, caves vs. 
+tourist caves (carrying capacity), lampenflora, scientific, cultural and recreational 
+values of karst lands. 
+Encyclopaedia of Caves and Karst Science (Gunn, ed., 2004) has entries 
+related to the thematic of cave use and cave protection: Accidents and Rescue, 
+Conservation: Protected Areas, Environmental Impacts Assessment, Exploration 
+Societies, Exploring Caves, Recreational Caving, Restoration of Caves and 
+Speleothem Repair, Tourist Caves, Wilderness and World Heritage Sites. 
+5 
+The most relevant entries from Encyclopaedia of Caves (Culver, White, ed., 
+2005) are Recreational Caving, Rescues and Show Caves. 
+Werker and Werker (2006) edited the publication Cave Conservation and 
+Restoration. It presents papers about cave conservations, management and ethics, 
+cave restoration and speleothem repair. 
+Research of cave impacts is usually covered in several papers in (periodical) 
+publications, mainly in the USA and Australia. Several papers on cave conservation 
+have been published also in Proceedings of International Show Caves Association 
+(further: ISCA). 
+There are different cave classifications, mainly based on type, origin, 
+processes, use, values etc. of caves. But there cannot be found any classification that 
+deals with the condition of cave’s physical elements or environment. It is usually 
+only in the descriptions where it is mentioned that a cave is damaged. 
+Especially in show caves cave classification schemes are a vital ingredient in any 
+rational cave management planning (Gillieson, 1996, 253). 
+Gillieson (1996, 253 – 256) indicated criteria, given by Worsboy et al. in 1982, 
+that are the basis for evaluation of the value of each particular cave. Those criteria 
+include: 
+- geological considerations (for example specific features that relate to 
+structure, stratigraphy, palaeontology or mineralogy); 
+- geomorphological considerations (including features that illustrate genetic or 
+chronological relationship, or particularly fine examples of cave 
+morphology); 
+- hydrological considerations (presence of major underground streams or lakes, 
+unusual networks involving breaches of surface divides, or key elements in 
+understanding the conduit network); 
+- biological considerations (relating to species richness, the presence of rare 
+endangered species, unusual trophic structures or key bat maternity sites); 
+- archaeological and cultural considerations (presence of deep, well stratified 
+deposits, the cave's role in the evolution of regional prehistory, examples of 
+historic cave use such as mining or waste management, or its spiritual 
+significance to indigenous people); 
+6 
+- geographical considerations (of remoteness and wilderness values, proximity 
+to park infrastructure such as roads and camping grounds, recreational 
+opportunities and accessibility from major population centres).; 
+On the basis of these criteria caves can be placed in one of several use categories. 
+In the case of cave classifications there should exist also a classification of 
+condition of cave’s physical environment. That would mean that each cave could be 
+classified in one of several classes according to defined criteria. 
+7 
+Part II – Karst Caves: Unique Underground Environments 
+8 
+3 CAVES AS BASIC ELEMENTS OF KARST 
+GEOSYSTEMS 
+A typical cave is a low – energy environment with essential little input of energy 
+over human activity periods (Gillieson, 1996, 246). 
+“A cave is an environment with little contact with the outside. For this reason, 
+its equilibrium may be easily changed when additional energy is introduced. Such 
+changes may occur more frequently when the whole energy budget of a cave is 
+small, but in the case of show caves the energy budgets are often not very small, 
+because of the generally large size of the caves. Rivers or subterranean lakes play an 
+important role in keeping the natural equilibrium because they may absorb any 
+further input of energy more easily than rock. There are various methods available to 
+keep the additional energy input into the cave as low as possible, such as so – called 
+“visitors’ capacity”, which is defined as the maximum number of visitors acceptable 
+in a specific time period such that no environmental parameters are permanently 
+modified” (Cigna, 2005, 496 – 497). 
+Caves are usually presented as a “system with physical dynamic parameters, 
+principally air temperature, relative humidity, atmospheric CO2, water flow and water quality” (Ford & Williams, 2007, 501). The changes in these dynamic 
+parameters can usually occur in show caves that are subjected to visitors. “Every 
+visitor radiates heat, moves in his cloud of exhaust gases, vapour and sheds 
+particulates such as dust and lint.” (Michie, 1970 after Ford & Williams, 2007 501). 
+It would be ideal that in every cave, before developing it into a show cave, the 
+dynamic parameters would be established by physical measurement and its 
+ecosystems and important species would be established by biological survey. Later 
+on, the upper limit of the variable with the least range should not be exceeded during 
+visits. The measurements were done for example in the caves in Italy, France or in 
+New Zealand. The change in fluxes of energy can be most obviously shown in the 
+growth of lampenflora as deleterious effect of the lights (Ford & Williams, 2007, 501 
+– 502). The fluxes of energy in caves can also affect visitors, such as radon 222Rn that releases from the decay of 234U and 238U in the enclosing rocks and mineral deposits. 
+9 
+222Rn is a noble gas but it decays to particulate 218Po, 214Po and 214Bi, which may 
+adhere to aerosols and build up in lungs. High radon concentrations are in places 
+where there is low energy with little air flow to clear accumulations (Ford & 
+Williams, 2007, 501, 502). 
+Heaton (1986) introduced the concept of energy levels for caves. According 
+to his classification caves can be grouped in 3 main categories: high – energy, 
+moderate – energy and low – energy caves. High – energy caves experience high 
+energy events on a regular basis, e.g. periodic flooding; in the moderate – energy 
+caves the most significant processes may be running water, wind or activities of the 
+animals; in low – energy caves the normal events may be falling drops of water from 
+the ceiling to the floor. “According to this classification, caves of the first class will 
+not be disturbed by any tourist accommodation of flow of visitors because such caves 
+will be totally rearranged by rockfall or floodwater within a year. In caves of 
+moderate – energy the presence of visitors may have a more lasting effect because 
+the energy released by visitors may be of the same magnitude of that released by 
+natural processes that normally operate in such caves (Cigna & Forti, 1989, 31).” In a 
+low – energy system the impact of human entry, no matter how carefully managed, 
+may be considerable” (Watson et al., 1997, 19). “In those caves in a short time 
+interval much more energy may be introduced as it has experienced in a thousand 
+years (Cigna & Forti, 1989, 31)”. 
+Caves can be described also through the geosystem concept. In the 
+paragraphs below Sauro and Castiglioni are cited from 2009. 
+”Karst and thus the caves may be considered also a large and complex karst 
+geo-ecosystem in which five fundamental components are recognized: lithosphere, 
+atmosphere, hydrosphere, biosphere and anthroposphere. Each is characterized by its 
+own specific elements and processes that are in a state of continuous interaction, in 
+balance with both the resulting structure and the dynamics of the geo-ecosystem as a 
+whole. 
+It is possible to distinguish karst geo-ecosystems at different scales, such as a 
+mountain group, a cave, a doline or a single karren form such as a runnel. Zooming- 
+in from the general view to the detailed level allows a better comprehension of the 
+10 
+dynamics of the geosystem as a whole and of its constituent elements, considered as 
+individual meso- or micro-systems. 
+The geosystem concept is applied to a specific type of geographical unit, the 
+karst morpho-unit, i.e. an area identified by its overall relief and its internal 
+topography, and composed mainly of soluble rocks in which mass wasting and 
+morphogenesis are mostly linked to the karst process. The resulting forms are not 
+only on the surface but also underground. 
+In a systemic overview a karst morpho-unit may be considered in terms of all 
+its components (including lithological, structural, geomorphological, pedological, 
+chemico-physical, biological and anthropological). It is then comparable to a black 
+box, from which is possible to obtain information, both penetrating inside the box 
+through the natural gaps and analysing the fluxes of matter and energy that are 
+entering, crossing and coming out of the system. 
+Water flow can be compared to a matter and energy conveyor belt that 
+crosses the system. The elements of the geosystem are the physical entities (or 
+groups of physical entities) that define its structure, both throughout the geosystem 
+(e.g. the rock, the soil, the water, the air) and more locally (i.e. a doline, a cave, an 
+artefact). It is possible to group the elements on the basis of a common characteristic 
+(e.g. solid, liquid, gaseous elements; abiological, biological elements; fixed and 
+mobile elements; natural and anthropogenic elements, etc.). The main elements 
+constituting the “structure” of the geosystem pertain to the different states of matter, 
+solid, liquid and gas, such as the rock and the water, in its solid, liquid and gas 
+phases. Also, the portion of the atmosphere that is in contact with the liquid and solid 
+interfaces and penetrating inside caves is part of the geosystem. 
+The modelling of a geosystem must be preceded by a schedule of analyses 
+examining variables closely and following-up any new lines of investigation. Each of 
+these analyses will be devoted mainly to a single aspect of the overall character of 
+the geosystem. In particular the karst system will be considered as: a complex of 
+elements (structure), a focus of processes, an amalgamation of fluxes and an entity 
+that is evolving continuously. 
+Many elements that characterize most karst geosystems are directly or 
+indirectly linked with human presence and activities; e.g. the parcels and enclosures 
+related to different ways of using the soil, the settlements, systems to carry, collect 
+11 
+and store water, structures to accommodate or entertain tourists, signs of abandoned 
+agricultural practices, etc. 
+Interfaces, i.e. the contacts and separation surfaces between lithosphere, 
+hydrosphere and atmosphere, or, in general, between the solid, liquid and gas 
+components of the system, are important as the places where most processes take 
+place. It is possible to distinguish the following interfaces: the rock/air interface; the 
+rock/water interface; the water/air interface. These are the main zones of interaction 
+between lithosphere and atmosphere, lithosphere and hydrosphere, and hydrosphere 
+and atmosphere. The dynamics and the processes of the geosystem act mainly 
+between one or more components across interfaces. Inside karst geosystem in 
+limestone, the most important process, which occurs at the rock/air and rock/water 
+interfaces, is the chemical dissolution of the rock by the natural solution acidified by 
+carbon dioxide that is present in the air and in the soil. This process is characterized 
+by exchange phenomena between different states of matter and determines a mass 
+transfer, from the solid state to the liquid state, of calcium carbonate, which is 
+dissolved following its separation into ions. A portion of the dissolved limestone will 
+precipitate as limestone tufa or cave speleothems and in this way will remain inside 
+the geosystem, whereas another portion is definitively lost with the runoff water. 
+Many elements within the geosystem are the result of a series of formational 
+and/or transformational events, which define the “history” of the same elements. 
+Such histories can be considered as cycles or fluxes, or may be connected with cyclic 
+events or with the great fluxes that are expressions of the dynamics of the Earth. In 
+the karst geosystem, for example, limestone is the result of a long history that began 
+with fixation by the biosphere of carbon dioxide gas, which was present as a large 
+proportion of the primitive atmosphere. The soluble rock, which now constitutes the 
+passive component of a geosystem, is the result of a flux of matter between the 
+atmosphere and the lithosphere that has progressed cyclically through the activity of 
+the biosphere across geological time. 
+In the geosystem, the most easily perceived flux is that of water. In a karst 
+geosystem the water flux takes on particular characteristics according to the presence 
+of well developed but hidden “underground” parts of the same system. The analysis 
+of such flux is fundamental to understand the dynamics of the entire system because 
+the water can be compared to a “measuring tape” related to different environmental 
+variables. Analysis of the cycles and fluxes of energy and matter confirms the 
+12 
+flexible nature of the karst geosystem, which is evolving continuously. Exchanges of 
+matter and energy take place both inside the system, in association with the 
+interfaces, and at the contact with adjacent geosystems. 
+The evolution of a geosystem may be considered in terms of different time 
+scales and at different resolutions, as for example in the evolution of a rill or of a 
+doline. It is also possible to attempt to reconstruct the geological and 
+geomorphological history of a large karst morpho-unit that extended across a time 
+span of several million years. 
+The geological history of a complex karst geosystem can be schematized in terms of 
+the following main phases: 
+- pre-orogenic phase: deposition and diagenesis of the rocks that constitute the 
+framework of the present-day geosystem; 
+- orogenic phase: uplift and tectonic imprinting of the relief; 
+- morphogenetic phase: evolution of the landforms; 
+- pedogenetic and recent climatic phase: development of the biological 
+environments during the latest climatic period (Holocene); 
+- anthropogenic phase: changes of the natural forms and equilibrium by human 
+activities and introduction into the landscape of new elements that were not 
+present previously. 
+The different phases are not sharply defined, but more or less overlap 
+in time and space. 
+During the last decades especially, changes have occurred more and more 
+quickly in response to modifications of the traditional forms of land use (agriculture, 
+grazing, breeding and forestry) and the introduction of new forms (in particular 
+tourism), which have led to a reduction of the human presence in some areas and an 
+increase in others. 
+It is important to study and to monitor the environment, in particular in the karst 
+geosystems, which are particularly fragile and vulnerable, in an attempt to reduce the 
+impacts through the application of a sustainable management plan. The modelling 
+and checking of the agreement between the models, by monitoring and performing 
+experiments (such as water tracing with special dyes), can provide fundamental 
+information to help plan interventions to mitigate the human impact. The models also 
+13 
+provide important indications of the stability or instability (the equilibrium) of a 
+geosystem and, consequently, about its vulnerability. Models based on 
+environmental data and tested through planned experiments provide a fundamental 
+framework for understanding the characteristics of a geosystem and for planning its 
+proper management and sustainable development.” 
+14 
+Part III – Methods 
+15 
+4 OBJECTIVES AND AIMS 
+The purpose of this dissertation is to assess the impacts from the surface in the 
+research area on the basis of the degree of cave conservation or the damage done on 
+cave inventory. 
+The aims are: 
+1) To evaluate the significance of cave physical environment in each of the 
+selected caves. 
+2) To evaluate the use (past and present) of each selected cave. 
+3) To list and evaluate impacts to cave physical environment. 
+4) To make a pattern that will enable a classification of conservation. The 
+pattern is made on a special inventory sheet into which one enters numerical 
+data about the characteristics of cave physical environment, hazards to it (due 
+to energy flow, type of access, cave use, type of visitors and influences on the 
+cave from the surface) and damage in the cave. 
+5) To give the recommendations for further minimal impacts on cave physical 
+environment and proposals for necessary interventions. 
+6) To determine the turning points when certain types of behaviour in caves 
+started being perceived as harmful. 
+7) To present good and bad practices in cave management. 
+8) To give the general overview of conditions of physical environment in caves. 
+More visits of caves cause greater pressures on caves and their environment. 
+Each cave that is discovered, explored and visited is subjected to negative impacts. 
+Caves have diverse degrees of vulnerability, risk and hazard – deriving from 
+different burden and physical characteristics of caves and show caves are more 
+exposed to negative impacts than other caves. The greatest damage is done on 
+flowstone and the negative impacts of physical environment are greater in caves that 
+have greater frequency of visits – caves with easier access and well – known caves. 
+With the intention of protecting vulnerable cave environment and developing 
+activities (for example recreational caving, scientific research or tourist 
+16 
+development) it is necessary to adapt cave visits and cave use in such way that the 
+damage is as little as possible. 
+The evaluation of impacts of visitors is done in the caves of Classical Karst in the 
+temperate zone and thus it would be interesting to compare the impacts, according to 
+cave use and physical characteristics, also in other karst zones, as the climate and 
+water conditions might influence the impacts. 
+5 METHODS 
+The selection of the method and problems encountered 
+The selection of the method was rather difficult. The main problem was to 
+define the “original value” or a “primary value” in the cave, meaning the conditions 
+of physical environment before deterioration. There are some exceptions where data 
+about deterioration is available. In several caves it is also difficult to define if for 
+example the speleothems were broken by people or by natural processes. 
+In some cases, the value of a certain category of negative influences is high 
+and has a significant influence on cave physical environment; nevertheless, the 
+influence is slightly diminished when compared with the sum of all influences. This 
+could be illustrated by a cave with mostly damaged flowstone formations and no 
+other forms of deterioration. 
+Another problem is the aesthetic value of the caves; in some caves the 
+deterioration is statistically, scientifically, etc. not so important, but their aesthetic 
+value can be reduced. And vice versa: most of the visitors take care of the flowstone 
+formations and forget (or are not aware) about importance of the fine sediments and 
+cause great damage with footprints. 
+Caves have different degrees of vulnerability. But it seem that we “see” that 
+caves which have been explored only recently are more vulnerable than the same 
+types of caves that have been explored in the past and are already damaged. This 
+derives from the fact that in a non – damaged cave, recently explored, every trace is 
+very visible, such as footprint, soiled formation, etc., while in a cave which is already 
+damaged, those (even minor) traces are far not so visible and thus – in the mind of 
+visitors – less important. 
+17 
+The caves are very complex systems, composed of different states of matter 
+(solid, liquid, and gas) and the solid components are of many different types – 
+primary limestone, chemical deposits – flowstone formations, bedrock, clastic 
+deposits, etc. Beside this, the interfaces between the different elements, composing 
+caves, are very complex and with a very large surface extension – if compared with 
+simple parameters of the topographical relief. It is also important whether a cave is 
+well or poorly explored. Besides the explored parts, there are also unknown 
+(unexplored) parts of a cave that may even be larger (longer or deeper) than the 
+explored ones. 
+Even though the caves are divided in several groups regarding their 
+morphology, many of them are morphologically variegated and each sector of the 
+cave should be discussed separately, as well as the deterioration and the impacts in 
+these sectors. 
+The use of a quantitative method to define the impacts of visitors in the caves 
+would be perfect. But due to above mentioned problems the use of a complete 
+quantitative method for all types of human impacts would be almost impossible. 
+For these reasons it is nearly impossible to produce an exact model of a cave 
+system both from the point of view of its structure and, in particular, from the point 
+of view of its physical characteristics and exchanges of energy. In any case, in order 
+to make a model of a cave, it is necessary to get a large amount of environmental 
+data thorough the monitoring with appropriate sensors and data loggers of the main 
+physical and chemical parameters. To get detailed data about damage in a cave it 
+would be also necessary to monitor the damage, for example the measurements of 
+the damage on flowstone gours according to the frequency of visitors. 
+For these reasons, in this thesis a semi – quantitative (descriptive) method 
+was used, based on field observations and collection of semi – quantitative data. 
+The method used 
+First, we classified the selected caves (case studies) into four groups: 
+- show (tourist/managed) caves (7 caves); 
+- well known caves (9 caves); 
+- less known caves (4 caves); 
+18 
+- easily accessible caves (4 caves). 
+Each cave is presented in the dissertation as follows: 
+- The general speleological description of the cave with the survey; the survey 
+is usually author work and expresses also kind of art. Thus, the surveys in the 
+thesis are scanned copies of original surveys and are of different scales. Only 
+those where the originals have been damaged or are so old and badly visible, 
+have been drawn again. 
+- History of the cave and cave use. 
+- Impacts to the cave physical environment. 
+The number of visitors is easily defined only in show caves and in caves with a 
+controlled access. In all other caves the number and type of visitors can only be 
+estimated. For each selected cave the number of visitors was estimated according to 
+the information on visit from cavers. 
+We selected different sets of variables or parameters: 
+- Evaluation of cave’s physical environment 
+Evaluation of cave’s physical environment summarizes the importance cave physical 
+environment and particularity of the cave. 
+There have not been any great difficulties in defining the criteria, although the 
+criteria are likely to be semi – quantitative; 
+- Hazard to cave’s physical environment 
+There are different kinds of hazards to cave’s physical environment, deriving 
+from characteristics of the cave (and thus the possibility of the flow of matter and 
+energy) and from cave use. 
+Caves with greater dimensions of entrances and/or passages are less vulnerable 
+due to greater flow of energy and matter. 
+In several cases, the caves with intense and long cave use are more exposed to 
+deterioration and thus more vulnerable. An important data is also the presence of 
+different type of visitors in the cave and the intensity of their activities in the cave. 
+- Influences on the cave from the surface 
+There have been chosen the most important impacts and activities on the surface that 
+may have important negative impacts to caves. 
+19 
+- Deterioration 
+This parameter summarizes the present condition in the caves. Classification of 
+these parameters was the most difficult part, as already described. The main aim was 
+to evaluate the deterioration of the most significant components of the cave. 
+As mentioned above, it is important to note that there are also examples where 
+one category of elements of human impacts has assumed importance for the cave 
+history or environment but the final sum does not show the importance of it. 
+To facilitate comparisons and get a systematic review, we draw up a table 
+(Table 4.1) where a numerical value (points) could be set for every parameter; 
+usually these were 1, 3 or 5 (Tables 4.2 and 4.3). There are slight differences 
+between evaluation parameters for tourist and other caves. 
+Numerical values are inevitably subjective; they are based on the difference 
+between “least”, “medium” and “most”. Value 1 signifies “least” (for example: no 
+cave sediments in the cave, the largest flow of energy – which means that the cave is 
+less vulnerable to visitors; that its use is (was) extensive; that visits are controlled; 
+that it is situated in a remote area; that influences from visitors and deterioration are 
+minimal, as well as the pollution of the cave from the surface); value 3 signifies 
+“medium”, while value 5 means “most” (for example: the presence of cave sediments 
+that are of particular shapes and forms; energy flow through the cave – relative to the 
+dimensions of cave channels – is low; the cave is easily accessible and has been 
+known for a long time; the impacts of visitors, risks for pollution from the surface 
+and deterioration are very significant). 
+Lower values indicate that cave inventory (physical environment) is not present 
+or its elements are less vulnerable, and such caves are less prone to energy flow 
+influences. They are less visited and their use is less intensive; also the impacts of 
+visitors, deterioration and risk from the surface are limited. 
+We used numerical values to determine the significance of a cave on the basis of 
+its physical environment, risks to the environment (as regards energy flow, access to 
+the cave, the use of the cave, type of visitors and risk factors on the surface above the 
+cave), and deterioration in the cave. 
+20 
+Table 5.1: Description of the evaluation table 
+Evaluation of the cave's physical environment 
+1 3 5 
+Thin flowstone formations 
+Presence of rare forms (e.g. thin and long helictites, cave pearls, straw stalactites, etc) Massive flowstone formations 
+Not present; not seen or might be in non-explored areas 
+No exceptionalities, common formations 
+Not present; not seen or might be in non-explored areas 
+Particular shapes and white coloured formations 
+Fine sediments 
+No exceptionalities, common formations 
+Non – active layers of fine sediments; glaciation processes on the floor (e.g. polygonal floor) 
+Rock surface 
+Not present; not seen or might be in non-explored areas 
+Active layers – e.g. depositions in active caves 
+Not present; not seen or might be in non-explored areas 
+No exceptionalities, common formations 
+Rare features; floor features 
+Hazard to cave's physical environment Energy flow 1 3 5 
+Type of entrance Dolina Natural entrance in 
+dimension of human 
+Artificially enlarged entrance or additional entrances (in some cave there was a “second” entrance made) 
+Dimensions of cave passages and chambers 
+Dimension of human More than 20 m wide or high 5 – 20 m 
+or artificially enlarged passage that lead to chambers 
+Presence of water Permanent water flow 
+Temporary water flow or greater quantities of percolating water 
+No water flow, only seldom percolating water Type of access 1 3 5 Type of access (closed – controlled – open) 
+Closed cave Controlled access Open access 
+Type of access 2 Rope, deep cave; caves for 
+experienced cavers 
+Easily accessible by ladder or rope 
+Horizontal, no equipment needed 
+Type of access 3 – Geographical position 
+Cave located in the remote area – far from roads and settlements; not accessible by car; entrance of the cave is not remarkable 
+Cave additionally accessible by foot 
+by car and 
+Cave the walking 
+road; located no close need to of 
+21 
+Cave use 1 3 5 
+Knowing the cave 
+Less than 20 years or caves known since the end of WWII 
+Since prehistoric times or Before 19th century 
+Intensity of cave use 
+19th century 
+Show cave, very known cave; building interventions in cave; cave used as places for deposition (explosive, waste water or material,etc.); Type of visitors (according to frequency of visits, cave use and evaluation of cave's environment; according to the damage, done in the cave by these types of visitors; past and present impacts) 1 3 5 
+Cavers 
+Visited by small number of cavers; used in the prehistoric times 
+Cave used mainly by cavers 
+The cave has undergone very 
+The impacts of cavers in the cave are minimal-track, artificially enlarged passages in dimension of human, some anchorages or clamps; gated caves 
+intensive impacts of cavers-several artificially enlarged passages, mud tracks, litter, broken and soiled formations and dams, graffiti; the damage is very obvious 
+Scientists No research yet in the cave 
+Impacts of cavers are more intensive and visible, including several artificially enlarged passages, mud tracks, litter, broken and soiled formations and dams, graffiti 
+Built objects for the purpose of research, cut flowstone, several samples of fine sediments 
+Occasional visitors (walkers, locals, climbers, etc) and vandals-in wild caves 
+Monitoring and mobile objects; minor samples taken 
+Very significant evidences, such as several graffiti, broken and soiled flowstone formations; entrances by force 
+Visitors in show caves 
+This group of visitors never enters in the cave or there are no evidences (traces) of these group 
+Clear evidences of visits are present, but less significant impacts; some graffiti, litter 
+Cave is visited by small Cave groups of visitors; no damage by the visitors 
+is visited frequently; visitors leave some litter, etc,... evidence is not visible 
+Cave is visited very frequently; litter, lint, coins, etc. 
+Staff in show caves No the litter, staff 
+footprints,... from 
+Decayed infrastructure, old litter, footprints, soiled formation, etc. is evident and very significant Influences on the cave from the surface – past, present and potential 0 1 3 
+Mining No mining in the 
+past/present 
+Decayed infrastructure, old litter, footprints, soiled formation, etc. is evident but not very significant 
+Cave is located in the radius less than 200 m from the mining 
+Traffic objects (roads, railways, parking places, etc.) 
+Cave is in the radius of 200 m from mining 
+No traffic objects above Traffic and/or under and/or close the cave 
+objects of low frequency above and/or under and/or close the cave 
+Traffic objects of high frequency above and/or under and/or close the cave Agriculture No agriculture above the cave 
+Extensive agriculture above the cave 
+Intensive agriculture above the cave 
+22 
+Influences on the cave from the surface – past, present and potential 
+0 1 3 
+Settlements No settlements above the cave 
+Villages up to 100 with inhabitants 
+the population 
+Villages population than 100 with inhabitants 
+of the 
+more 
+Industry No industry above the cave Trade cave 
+zones above the 
+Industry above the cave 
+Military activities objects and 
+No objects and/or activities Abandoned activities in objects and/or 
+the past 
+Objects and/or activities still in present Waste water (water treatment plants, waste water from households, pollute water flows,...) 
+Potentially waste/polluted water-if there is any activity, settlement,...above the cave 
+High potential of river No potential waste/polluted 
+pollution; polluted waste 
+rivers, waste water in the cave,... 
+Deterioration 0 1 3 5 
+Contemporary graffiti No graffiti 
+Graffiti appear in several areas and are deteriorating the aesthetical value of the cave very much; they are made by colours or cut in the formations and are very remarkable; they appear on significant formations; graffiti all over the cave 
+Carbide dumps 
+Graffiti appear in 
+Historical signatures made by pencil in the 19th century and/or before; very seldom; graffiti in (active) clay layers; cleaned graffiti 
+few areas and are deteriorating the aesthetical value of the cave; they are made by carbide lamp soot or with black colours; are pale 
+No carbide dumps; carbide dumps cleaned 
+Several carbide dumps of few m2; appear on significant formations, e.g. those that are classified as 5 
+Contemporary litter and/or human waste 
+Carbide dumps in active water caves; up to 5 carbide dumps 
+Carbide appear in formations that are classified as 3 
+Frequent Litter and waste 
+appearance; litter in cleaned; few pieces of 
+caves classified as litter; old litter 
+5; old equipment from cavers 
+Cave used as dump; waste water; recent litter 
+(Decayed) infrastructure 
+No litter and waste 
+No infrastructure 
+Wood pieces; Tracks 
+Built tracks - made of broken 
+concrete tracks, flowstone formations 
+handrails 
+Built objects in greater quantities 
+Artificially enlarged area (enlarged passages and enlarged and levelled surface for visitors) 
+Dimensions greater than only human pass; entrances closed not to change the air circulation in the cave; artificially enlarged areas in solid rock 
+Several artificially enlarged areas; Dimensions greater than only human pass; enlargements in flowstone formations 
+Off trail footprints and mud tracks 
+No artificially enlarged areas 
+Passages or entrance for human pass 
+No off trail footprints and mud tracks 
+Seldom; cave explorers 
+from the first 
+Up is trail covered to footprints 
+50% with of floor off 
+Appear cave 
+in most of the 
+Broken formations 
+Almost no or only No broken 
+those in artificially formations 
+enlarged areas due to cave exploration 
+Up to 50%; broken formations classified as 3 
+More than 50 % or significant formations in the cave 
+23 
+Deterioration 
+0 1 3 5 
+Destroyed gours and cave pearls 
+No destroyed gours and cave pearls 
+Almost no destroyed Up gours and cave pearls; only those on the track that is marked 
+to 50%; destroyed gours and cave pearls classified as 3 
+More than 50 % or significant formations in the cave 
+Destroyed rock surface 
+Almost no destroyed rock surface; only those on the track that is marked 
+Up to 50%; No destroyed 
+destroyed rock rock surface 
+surface classified as 3 
+More than 50 % or significant rock surface 
+Lampenflora – in show caves None Almost invisible 
+Very significant, Significant, covering 
+covering the formations, the formations, 
+classified as 5; appears classified as 3 
+around most of the lights 
+24 
+Table 5.2: Evaluation table for show caves 
+Evaluation of cave's physical environment 
+1 3 5 Remarks Thin flowstone formations Massive flowstone formations Fine sediments Rock surface 
+Total (max 20) 
+Hazard to cave's physical environment Energy flow 1 3 5 Remarks Type of entrance Dimensions of cave passages and chambers Presence of water 
+Total (max 15) Cave use 1 3 5 Remarks Knowing the cave Intensity of cave use 
+Total (max 10) Type of visitors 1 3 5 Remarks Cavers Scientists Visitors in show caves Staff in show caves Occasional visitors, vandals 
+Total (max 25) Influences on the cave from the surface 0 1 3 Remarks Mining Traffic objects (roads, railways, parking places, etc.) Agriculture Settlements Industry Military objects and/or activities Waste water (water treatment plants, waste water from households, pollute water flows,...) 
+Total (max 21) 
+Deterioration 
+0 1 3 5 Remarks Contemporary graffiti Carbide dumps Contemporary litter and/or human waste (Decayed) infrastructure Artificially enlarged area Off trail footprints and mud tracks Broken formations Soiled formations Destroyed gours and cave pearls Destroyed rock surface Lampenflora 
+Total (max 55) 
+25 
+Table 5.3: Evaluation table for open caves 
+Evaluation of cave's physical environment 
+1 3 5 Remarks Thin flowstone formations Massive flowstone formations Fine sediments Rock surface 
+Total (max 20) 
+Hazard to cave's physical environment Energy flow 1 3 5 Remarks Type of entrance Dimensions of cave passages and chambers Presence of water 
+Total (max 15) Type of access 1 3 5 Remarks Type of access (closed – controlled – open) Type of access 2 Type of access 3 - Geographical position 
+Total (max 15) Cave use 1 3 5 Remarks Knowing the cave Intensity of cave use 
+Total (max 10) Type of visitors 1 3 5 Remarks Cavers Scientists Occasional visitors, vandals 
+Total (max 15) Influences on the cave from the surface 0 1 3 Remarks Mining Traffic objects (roads, railways, parking places, etc.) Agriculture Settlements Industry Military objects and/or activities Waste water (water treatment plants, waste water from households, pollute water flows,...) 
+Total (max 21) 
+Deterioration 
+0 1 3 5 Remarks 
+Contemporary graffiti 
+Carbide dumps 
+Contemporary litter and/or human waste 
+(Decayed) infrastructure 
+Artificially enlarged area 
+Off trail footprints and mud tracks 
+Broken formations 
+Soiled formations 
+Destroyed gours and cave pearls 
+Destroyed rock surface 
+Total (max 50) 
+26 
+Classification 
+After we had set a numerical value for all parameters we got a certain number 
+of points for every group (e.g.: max 20 points for the group Evaluation of cave’s 
+physical environment, max 50 points for the group Deterioration etc.). Then we 
+established the number of classes with the Sturges formula ( 10 1 3.322log K N = + ), 
+where K is the number of classes and N is the number of data. 
+Individual groups contained the following data sets: 
+- Evaluation of the cave's physical environment: 4 
+- Hazard to cave's physical environment 
+o Energy flow: 3 
+o Type of access: 3 
+o Cave use – caves: 5; show caves: 2 
+o Type of visitors – caves: 3, show caves: 5 
+o Influences on the cave from the surface-past, present and potential: 7 
+- Deterioration: caves: 10, show caves: 11 
+This process was used to establish classes; we categorised the caves into individual 
+classes according to the total number of points awarded on the basis of individual 
+parameters. 
+According to the data and Sturges formula the groups Type of visitors, 
+Influences on the cave from the surface and Deterioration would be of 4 classes. In 
+order to have better comparison three classes were used for all parameters, only the 
+parameters for Cave use were classified in two classes. 
+It is important to use the text description and the tables to get the optimal 
+impression about each cave. 
+The most representative characteristics of individual classes were stated 
+(Table 4.4, 4.5). 
+27 
+Table 5.4: Classification of show caves 
+Evaluation of the cave's physical environment Class number Range of points Description of the class 
+1 4 - 9 
+Cave components are not abundant and/or very significant and/or the cave components appear in non explored passages. The presence of visitors in the cave has relatively small influence. 2 10 - 15 Cave components are in common shapes and are frequent. High frequency of visitors 
+may cause deterioration in the cave. 
+3 16 - 20 
+Cave components are in particular shapes and are very significant. The formations are vulnerable at highest degree and presence of visitors may cause significant deterioration. 
+Hazard to cave's physical environment Energy flow Class number Range of points Description of the class 
+1 4 - 7 The matter and energy flow through the cave is relatively high. Presence of visitors 
+in the cave has relatively small influence. 2 8 - 11 The matter and energy flow through the cave is middle. High frequency of visitors and activities in the cave may influence on cave components. 3 12 - 15 The matter and energy flow through the cave is minimal. The visits should be limited 
+and strongly controlled. 
+Cave use Class number Range of points Description of the class 
+1 2 - 5 Cave use has been extensive and the hazard to cave components is not significant. 2 6 - 10 Cave use has been intense and the hazard to cave components is significant. 
+Type of visitors Class number Range of points Description of the class 
+1 5 - 11 The impacts of visitors are minimal. 2 12 - 18 The impacts of visitors are significant. 3 19 - 25 The impacts of visitors are very significant. 
+Influences on the cave from the surface Class number Range of points Description of the class 
+1 0 - 6 There are no past and/or present influences on the cave from the surface. 2 7 - 13 There are activities above the cave with no or with low present impacts but their 
+increase would cause impacts on the cave. 3 14 - 21 The activities above the cave are intensive and may cause or already cause the 
+impacts on the cave. 
+Deterioration 
+Class number Range of points Description of the class 
+1 0 - 18 Deterioration of the cave physical environment is minimal. 2 19 - 35 Deterioration of the cave physical environment is significant. 3 36 - 55 Deterioration of the cave physical environment is very significant. 
+28 
+Table 5.5: Classification of open caves 
+Evaluation of the cave's physical environment Class number 
+Range of 
+points Description of the class 
+1 4 - 9 
+Cave components are not abundant and/or very significant and/or the cave components appear in non explored passages. The presence of visitors in the cave has relatively small influence. 2 10 - 15 Cave components are in common shapes and are frequent. High frequency of 
+visitors may cause deterioration in the cave. 
+3 16 - 20 
+Cave components are in particular shapes and are very significant. The formations are vulnerable at highest degree and presence of visitors may cause significant deterioration. 
+Hazard to cave's physical environment Energy flow Class number 
+Range of 
+points Description of the class 1 4 - 7 The matter and energy flow through the cave is relatively high. Presence of 
+visitors in the cave has relatively small influence. 2 8 - 11 The matter and energy flow through the cave is middle. High frequency of visitors and activities in the cave may influence on cave components. 3 12 - 15 The matter and energy flow through the cave is minimal. The visits should be 
+limited and strongly controlled. 
+Cave use Class number 
+Range of 
+points Description of the class 1 2 - 5 Cave use has been extensive and the hazard to cave components is not 
+significant. 2 6 - 10 Cave use has been intense and the hazard to cave components is significant. 
+Type of access Class number 
+Range of 
+points Description of the class 
+1 3 - 7 
+The cave is not easily accessible, deriving from its protection regime, need of knowing the cave techniques and/or it geographical position. The hazard of devastation is thus minimal. 2 8 - 11 The cave can be easily accessible for certain groups of visitors and the cave is 
+potentially in danger if number of visitors increase. 
+3 12 - 15 
+The cave is easily accessible according to the protection regime, need of knowing the cave techniques and/or it geographical position and thus the hazard of devastation is high. 
+Type of visitors Class number 
+Range of 
+points Description of the class 1 3 - 7 The impacts of visitors are minimal. 2 8 - 11 The impacts of visitors are significant. 3 12 - 15 The impacts of visitors are very significant. 
+Influences on the cave from the surface Class number 
+Range of 
+points Description of the class 1 0 - 6 There are no past and/or present influences on the cave from the surface. 2 7 - 13 There are activities above the cave with no or with low present impacts but their 
+increase would cause impacts on the cave. 3 14 - 21 The activities above the cave are intensive and may cause or already cause the 
+impacts on the cave. 
+29 
+Deterioration Class number Range of points Description of the class 
+1 0 - 18 Deterioration of the cave physical environment is minimal. 2 19 - 35 Deterioration of the cave physical environment is significant. 3 36 - 55 Deterioration of the cave physical environment is very significant. 
+30 
+Part IV – Caves and Humanity 
+31 
+6 THE SIGNIFICANCE OF KARST CAVES TODAY 
+AND MILESTONES IN THE UNDERSTANDING OF 
+NEGATIVE IMPACTS IN CAVES 
+The first question that might appear when we discuss visitors in caves and their 
+impact might be: why are we so sensitive to the damage in caves? 
+The answers might be: 
+- The awareness of importance of caves and their role. Caves are closely 
+connected with underground water flow and so with water sources. The 
+importance of clean, potable water is increasing at the same time as the 
+pressures on environment are increasing. 
+- One would of course prefer to visit an undamaged cave to a cave where 
+speleothems are broken and soiled, where carbide dumps and waste material 
+are scattered around and footprints can be seen all over the cave. For most of 
+the cavers and visitors the aesthetic value of a cave is mainly in the flowstone 
+formations. 
+- Caves can be visited only by a limited number of people. There is a great 
+difference between caves and surface geomorphological sites. Accessible 
+caves are not as abundant as surface natural phenomena and they are also 
+accessible to a limited group of people. So it is to be expected that we pay 
+more attention because we have the privilege to visit a small piece of 
+underground. In the last two centuries there have been continual explorations 
+of all kinds of landscapes. There are only few types of landscapes that still 
+offer new discoveries, and one of them are the caves. 
+- Scientific point of view. Caves are an important indicator about the evolution 
+of a certain area. Damaged caves may have lost some important information 
+about the past environmental history and human frequentation. 
+- The permanence. Relatively closed environment with no great changes in 
+climate and hydrological conditions mean that the impacts remain at the place 
+where they were caused. The damage left in caves (for example waste and 
+carbide dumps) cannot decay as fast as on the surface. Another example is 
+footprints: on the surface they are washed away with the first rain, but in 
+32 
+caves they can remain always if they are on dry places with small quantities 
+of percolating water. 
+One of the main reasons for man’s concern for caves is the awareness that time in 
+a cave passes more slowly. In the case of cavers, this concern is even greater because 
+they understand and really appreciate the achievements of the first explorers. 
+Another important aspect is also the change through time. Through the centuries 
+and years the ethics have changed. As today it is a general rule that there should be 
+no carbide dumps in caves or that breaking speleothems is absolutely intolerable, it 
+always has not been so. A shift in the perceptions of graffiti has been noticed. It is 
+only in the last 10 to 15 years that graffiti or putting the names of visitors in caves is 
+regarded as damage. 
+The damage that is done in caves by their visitors is accumulating as we know 
+that the cave’s regeneration capacities are very small and cave resources are non- 
+renewable. The damage or complete destruction of cave content leads to the loss of 
+the scientific value of the cave as well as the loss of aesthetic attractiveness for its 
+visitors. But above all it leads to the loss of natural heritage. 
+Caves are mysterious, not only from the point of view – what is in their 
+depths – but also for those who explore them. Most probably there are no caves that 
+are explored to the end and in all their passages. Thus caves are kind of a black box. 
+If we do not explore something in the cave – a passage or a particular formation – we 
+cannot say that it does not exist in that cave. And even if we do explore it we need 
+detailed analysis to find out some particular facts. An example are fine sediments or 
+other particular formations; until we do not find them they have minor importance; 
+but when we find them and analyse them (and get important data and information) 
+they become even more important. Going further on, every cave is particular and 
+significant – even if it has been already damaged. Usually the damaged caves loose 
+their aesthetic and scientific value but there might be that some important records 
+remain; in this case it is important that we prevent the cave from further devastation. 
+Due to these facts, the caves are very vulnerable to the presence of humans and to the 
+activities in and above them. 
+The importance of caves on the research area, their use and treatment of caves 
+has changed considerably in the last two centuries. In the beginning of cave exploration in the late 19th century the main aim of cave exploration was to explore 
+33 
+caves for water sources for Trieste and later setting the routes for visitors. In the 
+years when the Kras was part of Italy and the Mussolini regime expanded, visiting 
+caves became a sport activity as all societies had to become dopolavoro societies. 
+After World War II caving has become a multiple activity. The most important aim 
+of caving is cave exploration, on the Kras the exploration of the underground Reka, 
+not for water sources, but to know the underground water flow and to contribute to 
+science. Caving is also a sport activity: some visitors find in caving an adventurous 
+joy; visitors to caves can be specialized in several branches, not necessarily of cave 
+exploration itself, but can be interested in archaeology, remains of wars, biology, etc. 
+There appears an interesting question: What are the grounds that shaped our 
+system of values and our concern for caves? It seems that in our region most probably it derives from the 18th century when foreign visitors were admiring the 
+beauty of caves on the Kras. Thus, the system of worth derives from the early development of cave tourism in the 17th century when Vilenica became a show cave. 
+At the same time as the (foreign) visitors were visiting the caves on the Kras and 
+with the development of tourism, great damage began to be done in caves. Those 
+visitors of course described the damage they have seen. Shaw (2008) for example 
+describes several foreign travellers in the Slovenian Classical Karst in the period 
+1486 – 1900 and also mentions the visit of Baron Josef von Hammer – Purgstall in 
+1798. He visited Vilenica and described the cave and the guide. It is quoted from 
+Hammer – Purgstall note also that at the end of the visit the guide “hammered off a 
+dozen sizable pieces of this time, too, with which he hoped to make a great 
+impression upon Englishmen passing through” (Shaw, 2008, 90 – 91). The foreign 
+visitors were describing precisely the damage that is done and the infrastructure in 
+the cave. 
+Breaking of speleothems in caves must be as old as humankind has been using 
+caves. But it became more intensive with the development of tourism. The trend of 
+breaking the speleothems, giving them as souvenirs and their sale expanded later on. 
+As mentioned by Simić (2000) the first initiatives for cave protection, mainly 
+because of very expanding vandalism and robbery of speleothems for sale, began 
+before World War I. He mentioned several notes from different papers. Habe in 1968 
+noted that the governor of the country prohibited the use of resin torches and damage 
+34 
+to the speleothems in Postojnska jama in 1825 but did not prevent the sale in front of 
+the cave of the speleothems that were taken in other caves (Simić, 2000, 50, 51). 
+In the next periods there were several other initiatives, within the initiatives for 
+cave protection to stop and prohibit breaking and selling of the speleothems. But the 
+processes continued, especially during World Wars and even afterwards. There are 
+several local people and cavers who mention the orders of men of note, mainly 
+political, to bring the speleothems from caves. It is not to be expected that this kind 
+of vandalism will ever stop as there are always exceptions. But in general it seems 
+that since 1990s the speleothems are not cut in caves any more or taken out of caves 
+for purposes such as sale and souvenirs. 
+One of the important sources of damage in caves is that they have been used as 
+waste dumps. It is not known since when this occurred, but there was a note in 1913 
+in the newspaper Laibacher Zeitung that in the karst area the shafts and caves are 
+used for the deposition of all kind of waste and cadavers (Simić, 2000, 54). This use 
+was long established. The structure of waste in caves on the Kras shows that the 
+caves were used as waste dumps by locals, industry and army. The most expanded 
+deposition of waste began after World War II with the general development of 
+industry and living standard. The process of depositing waste in caves considerably 
+reduced after the introduction of carrying off the waste from houses in the 1990s, 
+after the new regulations in industry and the decline of some branches of industry, 
+and after the removal of the army. 
+The traces of cavers date back to the end of World War I in the time of the Italian 
+dopolavoro. The signatures of the visitors and cavers before World War I were 
+mainly made with graphite pencils and were small. After World War I the great 
+graffiti, made with colour appear, describing the date of visit, names of visitors and 
+their society. This practice also lasted in caves after World War II and it is only since 
+the 1990s that the signatures are not so frequent, but they still have an important 
+impact in caves. 
+One of the most visible impacts, which are difficult to lessen, is footprints 
+appearing in the majority of the caves. The footprints are as old as cave explorations 
+and they will keep appearing in all caves until the practice of equipping them with 
+trail markers at the very beginning of explorations becomes a standard. 
+One of the most obvious impacts of cavers is carbide dumps in caves. It is 
+difficult to set the date since when the cavers were leaving the used carbide in caves. 
+35 
+New carbide dumps have hardly appeared in the last ten years. The reason is in the 
+raising awareness of cavers and in the fact that in the last ten years electric lights are 
+more usual. 
+In the last 20 years cavers are more and more equipping the caves with trail 
+markers and this importantly contributes to the protection of cave floors and reduces 
+the off – trail footprints and soiled formations. 
+7 CAVE USE 
+Mankind has been using and has been connected with caves from old times. 
+There are many uses of caves with different purposes in different regions of the 
+world. Here are the most important cave uses on a few examples from Slovenian and 
+Italian karst regions. 
+“The overall human relationship to caves probably comprises three major 
+phases. The first is marked by extensive use of caves for shelter, habitation, and 
+ritual purposes. Caves were not feared or avoided, but often appear to have provided 
+desirable residential locations. The transition to the next phase seems to mark a 
+significant step in cultural evolution. Although some cave sites continued to be 
+utilized in various ways, many were abandoned, and there seems to have been a 
+flowering of legends which portrayed caves as places to be feared, often because 
+they were reputed to be the abode of various imagined monsters or evil spirits. 
+Progressively, at different times in different cultures, this curiosity was translated 
+into the final phase of travel and investigation, at the beginnings of the natural 
+sciences. The great rise in investigatory and other more or less individualized travel came with the 15th and 16th centuries, particularly in Europe. Many travellers have 
+since visited and described caves” (Hamilton–Smith, 2004a, 725). 
+7.1 Caves as shelters, hiding and living places 
+One of the oldest uses of caves is as places of residence or shelter from bad 
+weather. In Palaeolithic people were living mainly in karst caves. In cold periods of 
+Pleistocene, caves were used as shelters and living places due to favourable 
+temperatures. The most suitable caves were those with entrances situated on sunny 
+slopes. An important need of life is water. As the karst area has no autochthonous 
+36 
+water sources, the population density was not high. Most of the Palaeolithic stations 
+are situated close to the water sources. There are several horizontal caves in the 
+Pivka region where the archaeological sites were very dense and settlement 
+continued to the Neolithic. The most well known is Betalov spodmol cave, situated 
+between the villages Zagon and Otok, in the vicinity of Postojnska jama. Important 
+caves from the Palaeolithic are also in the regions Štajerska, Dolenjska, Gorenjska 
+and in Kamniško– Savinjske Alpe (Gams, 2003, 92 – 94). 
+Important archaeological finds from Pleistocene on the Kras were in caves 
+Ludvikova jama and Jama v Partu pri Ogradi. Cavers of Jamarsko društvo Seţana 
+found bones of Pleistocene wolverine (Gulo gulo) in Ludvikova jama and many 
+antlers in Jama v Partu pri Ogradi. There on one piece of antler a 1.5 m high 
+stalagmite has formed (Cerkvenik et al.., 2008, 84). One of the most important 
+Neolithic caves is Bestaţovca near Seţana where at a depth of 43 m several 
+archaeological finds were found over a length of 40 m. There were found bones of 
+humans and animals, 22 fragments of ceramics and some other pieces (Turk & 
+Saksida, 1988, 200). An important archaeological site from Neolithic is also Vilenica 
+where cavers found pieces of ceramics (Cerkvenik et al., 2008, 84). 
+More recently, caves have also served as shelters, temporary or permanent 
+places of residence of pagans, heretics or outlaws. Perhaps the most well known are 
+caves used by gipsies, hermits, and refugees (Gams, 1982, 37). In Slovenia some 
+caves were occupied until the beginning of World War I (Gams, 2003, 95). In the 
+highlands the caves have served as shelters in the bad weather conditions for sheep, 
+herdsmen, hunters, foresters and woodmen (Gams, 1982, 39). 
+Several caves in karst areas were used as shelters or hiding places against enemies in different periods of time. In the 15th century locals were hiding against 
+the Turks. In front of several caves walls were built for protection (Gams, 2003, 
+100). Among several examples is the best well known Predjama cave with the 
+Erasmus castle in the mouth of the cave (Gams, 1982, 37). 
+Karst caves were also of great importance in both World Wars. The use of 
+caves in World Wars belongs to the use as shelters or hiding places on one hand and 
+on the use as storehouses, water supply and deposing of bodies on the other hand. 
+Caves have also been used as medical facilities for treatment (Day & Kueny, 2004, 
+509 – 511). Wider shafts and caves were used as hiding places in the hinterland of 
+the Soča front (Isonzo Front) during World War I in the mountain ranges of Kanin, 
+37 
+Krn, Rombon, and karst plateaus of Doberdò (Doberdob) and Kostanjevica (Gams, 
+2003, 100). In 1916 a cave building detachment of the VII Corpus was established on 
+the Kras. There were 500 men in it and it was led by speleologist, engineer first 
+lieutenant Alois Peter Bock. The Corpus explored and reshaped several caves. At the 
+end of May, 1917 there were 2.059 beds in caves. Additionally there were enough places for 1.156 soldiers in shelters. Altogether there was available 17.300 m2 
+covered area in caves and caverns on the Kras (Simić, 1996, 140). One of the best 
+known caves that were used in World War I was Grofova jama or Vogenca cave 
+(Cerkvenik et al., 2008, 50). 
+Figure 7.1: Fragments of mandible of Gulo Gulo, Ludvikova jama. Photo by: Emil Kariţ 
+7.2 Caves in cult use or mythology manner 
+Caves (and other karst features) have acquired profound spiritual significance 
+in many parts of the world. Some karstic religious sites bear physical testimony to 
+adoption by successive traditions, while some remain shared between faiths. The 
+religious significance of caves and karst varies across and within traditions. 
+Christianity is arguably the most anthropocentric religion the world has seen, and 
+rejects animism and pantheism in favour of a monotheistic outlook. Extensive 
+physical modification of the entrances to sacred caves is common (Kiernan, 2004, 
+38 
+622, 624). The cult or mythological use of caves is as places of sacrifice, for 
+preservation of skeletons, temples, belief, and worship of God or even cemeteries 
+(Gams, 2003). 
+Many people around the world believe in the origin of the life from the caves. 
+In the middle Ages, caves were also believed to be places where the devil was born 
+and thus many names of caves contain the name of devil. Together with the devil 
+there was also the origin of natural phenomena, such as storms, clouds and rain 
+(Gams, 2003, 103 – 105). It is known that stories about caves very often have 
+worldwide, European or regional spread, and are rarely local. It is only the scene that 
+changes; for example there are several places where the oxen had fallen into the 
+shafts and springs where the yoke had come out (Gams, 1982, 36). 
+Caves as cult objects are still in use in some parts of the world. In our region 
+there are some caves in which the worship of God turned from pre–Christian to 
+Christian religion. Such caves were Sveta jama pri Socerbu and Grotta di San 
+Giovanni d’Antro (Landarska jama) (Italy) where the rituals have remained until 
+today. According to Valvasor there used to be more caves that served for rituals 
+(Gams, 1982, 35). There were 98 wooden stairs, later made in cement. In the cave 
+there is the altar of John the Baptist, who was worship already in the time when he 
+was visiting the caves and caverns. The cave had been used as shelter against the 
+barbarian invasion. In Sveta jama St. Servij, martyr from Trieste, had lived in the cave in the 3rd century. In the cave the altar had been cut partly in the flowstone but was destroyed in the 20th century. Examples of worshipping of the cult of Mithra can 
+be found in a pagan temple in a shape of a notch above the railway track at the 
+village of Roţanec in Bela Krajina (Gams, 2003, 97–99), and near Duino (Devin) in 
+Italy. 
+39 
+Figure 7.2: Cave that served for Mitra worship. Photo by: Rosana Cerkvenik 
+There is not much known about caves as burial places or worship of cave 
+features and speleothems as used in some regions in Asia. There the cult of 
+masculinity and penis and the hollow cult of fertility (femininity) are still known. But 
+there have been some cave names in Slovenia that might originate from such a cult 
+(Gams, 1982, 35). 
+Among many archaeological caves on the Kras Mušja jama cave near 
+Škocjan is one of the most important ones. More than 240 items (mainly different 
+kinds of weapon) was found in a 50 m deep shaft. The finds date in the time between 12th and 8th century BC and they are remains of sacrifice. Their origin is the Panonian 
+and Mediterranean region (Turk, 2002). 
+The cave culture usually includes cave paintings, engravings or statuettes. 
+The most frequently sculptured features were animals (Gams, 2003, 96). The vast 
+majority of prehistoric rock art occurs in the open air or in shallow rock shelters, but 
+an important body of art is also placed in the total darkness within deep caves in a 
+few parts of the world (Bahn, 2004, 84). 
+The cultural importance of karst and caves was studied recently by Travassos 
+in his doctoral thesis (Travassos, 2011). 
+40 
+7.3 Caves as places of deposition 
+Throughout human history, caves have always been used as places of 
+deposition of different materials, either on purpose or accidentally. Within this cave 
+use the best known is the use for storehouses and waste dumps. 
+The oldest use of caves as places of deposition is for drinks, meat, and 
+chopped wood. Perhaps better known is the use of potable water from caves (for 
+example Vilenica, Dolnja Vodena jama at Višnje in Suha krajina, Zijalka at Petkove 
+njive on Korošica, etc.) in the lowland, as well as in highlands for herdsmen (Gams, 
+1982, 39). During World Wars several caves served as shelters or storehouses for 
+material and ammunition and for blasting for military purposes. Over 100 Slovenian 
+caves were modified for military use during World War I. In many caves the material 
+remained in, some also unexploded. Caves served also as a place to get rid of people 
+who were enemies or were against the political regime (Day & Kueny, 2004, 509, 
+510). 
+Figure 7.3: Ammunition dump, cave near Seţana. Photo by: Emil Kariţ 
+One of examples of very well known illegal deposition of unexploded means 
+of waging war is in Polhova jama cave, 3 km north from Pivka. The material was 
+41 
+placed in the cave by the Yugoslav army in the period 1952 – 1959. The cave is 114 
+m long and 50 m deep with an entrance shaft of 42 m deep. In the cave there was a 
+deposit of great amounts of unexploded material, mainly different kinds of mines and 
+grenades, lighters and detonators. On the bottom of the entrance shaft there was a 
+deposition 15 m long, 7 m wide and 3.5 m high. The deposition was covered with a 
+thick cover of organic waste from a poultry farm. The material that was deposited in 
+the cave was mainly what was not suitable for further use. According to some locals 
+such deposits are also in some other caves in the vicinity. That cave was cleaned of 
+the organic waste and 27.164,4 kg of unexploded ammunition in 1985 (Ušeničnik, 
+2002, 138 – 148). 
+There have been also some caves, used for storing explosives for industry. In 
+present Puševca cave near Seţana was rebuilt and serves as storehouses for 
+explosives for the building industry. 
+It is very common for caves to be used as waste dumps, for sewage water and 
+for deposing dead animals. There is no data of the number of caves filled with waste, 
+but for sure the numbers in the cave registry are much lower than in reality. Almost 
+every village has had its own waste shaft. In the Kras in Slovenia (municipalities of 
+Seţana, Divača, Hrpelje – Kozina and Komen) there are more than 1.100 caves on the territory of 660 km2. According to the data from the cave registry there are only 8 
+polluted caves. It is estimated that more than 100 caves are polluted in the 
+municipalities of Seţana and Komen (Jamarsko društvo Seţana, 2009). The nature of 
+waste material shows that both households and industry used caves as waste dumps. 
+Most is domestic, solid, building, industrial and military waste material. 
+Caves can also be used as sinks for wastewater and sewage from water 
+treatment plants. At present there are three caves known on the Kras where 
+wastewater flows into the cave. 
+Kačna jama extends under Divača. In 1997 and 1998 new passages were 
+explored. In a certain part of the cave a minor jet of water flows from the ceiling. 
+Most probably it is connected with the sewage water from the doline Krgunce on the 
+surface of the cave where the treatment plant is located. Two cavers got almost 
+poisoned with the gases as a passage is highly polluted with the waste water. This 
+part of the cave is called Divaška sramota (Divača shame). Above it there is the shaft 
+42 
+called Brezno dobre vode (The shaft of good water), that got its name after the water 
+jet, flowing from the ceiling. As the cavers were very thirsty and the water seemed 
+clean they were drinking it. One of them got poisoned by it. The pollution was also 
+proved with analysis made by Inštitut za raziskovanje krasa ZRC SAZU (further: 
+IZRK) from Postojna (Nagode, 1998, 133). 
+Jama v Bjekovniku cave, located near Seţana is declared a natural monument. 
+The water from nearby water treatment plan flows directly into the cave. Not far 
+away from the cave there is Jama 1 v Kanjaducah cave where the underground 
+course of Reka is reached and extends under the passages of Jama v Bjekovniku. 
+Links can be made between the water from water treatment plant and the permanent 
+waterfall in Jama 1 v Kanjaducah. There is a permanent, approximately 10 m high, 
+waterfall with a strong smell. The analysis made in 2004 from the waterfall show 
+strong pollution with organic substances (Mihevc, Rijavec, 2006). Cave explorations 
+in Jama 1 v Kanjaducah in summer 2009 showed a strong flow of the waterfall, 
+despite dry weather conditions. The colour of the river also changed considerably 
+after the confluence with the water from the waterfall. Cave divers also reported a 
+strong smell in the sump part of the cave and the bad visibility – less than 20 cm. 
+One of the sources of pollution of the Kras underground is also Reka river 
+that was highly polluted in the period from 1955 until 1990 with a peak in the early 
+1980s. The main source of pollution was industry. The wood factory and the factory 
+of organic acid contributed 95% of all pollution and 80 – 88% of waste water from 
+Ilirska Bistrica (Mejač et al., 1983, 48 – 51). In 1982 daily pollution due to industry 
+in Ilirska Bistrica was diminished by one third but it was still too high to allow self– 
+purification processes. In autumn 1990 the factory of organic acids was closed. In 
+January 1992 a considerable improvement of Reka quality at its sinking in Škocjanske jame was recorded. The overall water quality improved from the 4th quality class to 2nd – 3rd quality class (Kranjc et al., 1997, 66 – 75). 
+Another use of caves as place of deposition has been also as mass grave- 
+yards, mainly of people who were in opposite the political and military regime. 
+According to the data from cave registry of JZS human remains were found in 71 
+caves in Slovenia. The exact numbers are not known as there are no official sources 
+or data, but there is estimation that the number is more than 10.000 people. Most of 
+the people or bodies were thrown in caves in the period 1941 – 1945 but there are 
+also evidences that also soldiers from World War I were thrown in caves. For this 
+43 
+purpose the shafts were usually used. The bodies were in several cases covered with 
+recent accumulations of various materials over the bones (waste material or 
+allochtonous gravel) and in some cases there have been traces of blasting at the 
+entrance. This use of caves also effects the physical environment of caves as in some examples some 10 m3 waste material was thrown over bodies or entrances were 
+blasted. Caves which were used as mass graveyard are usually less known and 
+located in remote woodlands (Mihevc, 1995a, 384). 
+Figure 7.5: Jama v Bjekovniku near Seţana, sink of sewage water. Photo by: Emil Kariţ 
+Figure 7.4: Cave as a waste dump. Photo by: Emil Kariţ 
+44 
+7.4 Exploitation of natural resources in caves 
+Mankind has been using different natural resources from caves. The most 
+known are different minerals, water, ice and speleothems. 
+In some countries the speleothems and moonmilk were claimed as 
+medicament. The moonmilk has been believed to be good for healing eyes and 
+animals. Commercial materials were different minerals and ore that were extracted 
+from caves (Gams, 2003, 101 – 103). Not much is known about the use of cave 
+sediments, mainly speleothems, as medicine. There are some Slovenian tales where 
+the caves sediments served as medicine. Extracting ore from caves has not been wide spread in Slovenia (Gams, 1982, 37). However, already in the 17th century, Valvasor 
+described the use of water in Sveta jama (Kranjc, 1992, 41). 
+On the Classical Karst there has been very important and well known use of 
+potable water and ice (Gams, 2003, 101 – 103). 
+In the old times water was used from rivers or from gours in caves (Gams, 2003). One of the examples is Vilenica where broken pieces of pottery from 16th 
+century and later periods prove that locals were using water from the pool 200 m 
+inside of the cave (Puc, 2000, 18). 
+Karst areas are supplied by karst water, mainly from karst springs. The most 
+abundant karst springs that are used for the present water network are Malni near 
+Planina, Bistrica in Ilirska Bistrica, Hubelj near Ajdovščina, etc. (Ravbar, 2005). The 
+Kras region is supplied with karst water from pumping wells that are located close to 
+the village Brestovica pri Komnu from Drča jama cave (Kraški vodovod, 1998). The 
+Province of Trieste is supplied from Sardos (Sardoč) spring and, in case if Sardos 
+(Sardoč) is not available, also from Timavo (Timava) springs (Grupo AceasAsp, 
+2011). 
+Ice had a great importance in the Primorska region. In the period when the 
+port of Trieste was developing, the ice production began. Ice was extracted mainly 
+from artificially made pools – water holes, but also from natural caves (Mihevc, 
+2011a). It was kept in ice stores and most of the ice stores were dug into the ground. 
+There were also some natural caves, usually abris that were partly closed with a wall, 
+stopping the inflow of warm air from the outside into the interior where ice was kept 
+(Belingar, 1995, 435). Ice from natural caves was transported from the high karst 
+plateaus of Trnovski gozd and Nanos. One of the natural caves, from which ice was 
+45 
+extracted, was Ledenica v Paradani. At the bottom of the cave 10 – 40 kg pieces of 
+ice were cut. They were transported out of the cave in boxes and further on to 
+Gorizia or Trieste where ice was sold to ships. Ice from the cave was extracted until 
+1953. In the period 1920 – 1926 it was also used for the brewery in Senoţeče (Gams, 
+2003, 101 – 103). 
+Exploitation of speleothems is also known. Shaw (2010) gives several 
+examples of exploitation of speleothems. Some of them are cited below. In Slovenia 
+the greatest number of speleothems is known to have come from Postojnska jama 
+because of the accessibility and the extent of the cave, the amount of the engineering 
+work carried out for the installation of the underground railway, and the vigorous and 
+publicity–conscious management from 1818 until the relatively recent onset of 
+conservation awareness. Several visitors (travellers), handbooks and archives 
+reported about speleothems being sold in front of the caves. In Postojnska jama the 
+speleothems for sale were cut in side passages of the cave. As Postojnska jama is the 
+most well-known cave the evidences and archives mention mainly this cave where 
+the speleothems were sold. Many of the speleothems were taken out of the caves and 
+used as souvenirs for important visitors; such reports are from Vilenica and 
+Postojnska jama. Several pieces of speleothems of Slovenian caves were also placed 
+in museums and other exhibitions all over Europe. A great number of speleothems 
+can still be seen as ornaments at important places (stations, parks, avenues, chapels, 
+etc.) in several cities. There are also several examples from Slovenian caves where 
+the speleothems were placed in European cities. Speleothems are still on the railway 
+stations in Seţana and Logatec. The most recent known example of a stalagmite, 
+placed on a remarkable place is in Divača when in 2008 the stalagmite erected on a 
+roundabout. Speleothems have been also used as memorial monuments. After World 
+War II several Partizan monuments were placed on speleothems, such as in Trušnje, 
+Krim and Orlek in Slovenia and Sales (Saleţ) in Italy. On the cemetery in Koper a 
+1.6 m high and 1 m wide piece of flowstone is used as commemoration of people 
+whose ashes have been scattered in the Adriatic Sea near Piran. As the first name 
+was placed on the monument in 2006, this is presumably of its erection. A piece of 
+flowstone was also used as a memorial monument to France Habe, Peter Habič and 
+Ivan Michler, the three karst researchers, and is placed near Vrhnika. The flowstone 
+has dimensions 1.8 m x 1.3 m x 0.9 m and was placed in 2008. The flowstone from a 
+cave near Gorjansko was used for wall panels and door frames of the National 
+46 
+Assembly or Parliament building in Ljubljana that was built in the period 1954 – 
+1959. Some of the above mentioned examples of flowstone were taken out of caves 
+and some from quarries (Shaw, 2010, 207). 
+Mankind has been also using caves and their microclimate. Therapeutic effects 
+of caves have been discovered empirically. Records on medicinal caves were even 
+originated by the men of Middle Age and the first scientific studies were conducted 
+in Germany in the 1950’s (Nagy et al., 2008, 222). The use of the climate of caves is 
+a not widely known therapeutic measure in the treatment of chronic obstructive 
+airway diseases. The treatment has become an official therapeutic measure, accepted 
+and assisted by the public health authorities in several countries in Europe (Horvath, 
+1986, 90). The microclimate in caves has some passive health–giving factors: 
+absence of air pollutants, microorganisms, or allergens in the air; constant 
+temperature, humidity, high CO2 level and high salt content of the air (Horvath, 1986, 91; Nagy et al., 2008, 222); and the environment is low in extensive stimuli. 
+The most important factor which has an active health–giving effect is high vapour 
+content (Horvath, 1986, 91). 
+7.5 Caving, speleology and karstology as a science 
+“Recreational caving may be defined as the activity of entering a void, such 
+as a cave, for pure joy of the activity. It includes sport caving, easy cave recreation 
+and visiting caves by large groups. It may overlap with more vocational or 
+professional caving purposes when recreational cavers add speleological activities to 
+their cave visits or vice versa. These vocational and professional activities may 
+include photography, mapping and various cave-related scientific specialties. Cave 
+activities or caving have become a subordinate occupation for vocational cavers, who 
+give many volunteer hours for the joy of it, as material compensation for caving is 
+rare”. (Wilson, 2005, 469) 
+There is a special aspect of recreational caving when individuals by chance 
+enter a cave with no prior experience or knowledge. Generally they are not informed 
+about cave environment. They may put at risk both themselves and the cave 
+environment and may indulge in cave vandalism. Some countries developed caving 
+47 
+codes to avoid the negative impacts and to protect caves. The first was the 
+Australia’s Minimal Impact Caving Code (Webb, 2004, 621 – 622). 
+There are four distinct motives that have led men to undergo the dangers and 
+discomforts of exploring caves: simple curiosity, scientific curiosity, commercial 
+exploration, and enjoyment of a challenging sport. The later is of relatively late occurrence, arising only towards the end of the 19th century with the formation of 
+cave exploring societies (Shaw, 1992, 5). 
+Cave visitation can be influenced by six criteria, according to Wilson (2005, 471 – 
+472): 
+- Known existence of the cave. The cave must be known to exist, and such 
+knowledge is often spread by those taken to caves by previous visitors. 
+- Physical access. Factors affecting physical access to a cave might include 
+cave gates, barriers, or proactive access control; vertical entrances, water 
+barriers, etc. 
+- Distance to cave. With all other factors being equal, the farther a cave is 
+from a given starting point, the less likely it is to be visited. The 
+percentage of the population who has caved is higher in communities 
+located in karst areas than in areas more distant from suitable caves. 
+Although many very experienced cavers travel all over the world to go 
+caving, recreational cave trips tend to be to caves that are relatively 
+nearby. The higher percentage of existing caves has been discovered in 
+areas that are easy to access. 
+- Caver appeal. Popular caves have one or more interesting features that 
+appeal to the caver, such as significant size and complexity, aesthetics, 
+unique or unusual geological features, interesting biota, fun caving 
+features, caving challenges, or cultural mystique. The attractiveness of a 
+cave to cavers often depends on the degree to which cavers can physically 
+go. 
+- Suitability for group caving. Almost all recreational caving is done in 
+groups of 3 to 30 people. Caves without places where people can stop and 
+socialize or at least communicate are noticeably visited less often by 
+recreational cavers. 
+- Legal access to the caves. Some of the caves are closed or have a 
+limitation on access. 
+48 
+The most common activities of cavers are: 
+- exploring new caves or exploring new passages in known caves; 
+documentation of caves: photographing, surveying and mapping, 
+- visiting caves within cave excursions or educational programs in clubs 
+(educating about caves and karst), 
+- cave rescue activities. 
+Cave exploration and documentation remained the realm of scientists and speleologists until the end of the 19th century. Since the latter part of the 20th century 
+there has been a steady increase in what is now called recreational caving. By the start of 21st century, speleology, cave exploration and recreational caving were all 
+well established throughout the world with a huge range of clubs to cater for their 
+different needs. The societies were mainly interested in the discovery and exploration 
+of new caves and they published their results, often with surveys of the caves. Most 
+of them were interested to some degree in the specialist scientific aspects of caves, as 
+well as in accurate surveying and recording. But all of them were (and still are) 
+entirely amateur organizations, although some members of the society may be 
+professional speleologists. The link between amateur’s recreational cave exploring 
+and the work of professional scientist is often close and sometimes indistinguishable 
+(Shaw, 2004, 351). 
+The motives and purposes of cave exploration have been changing through 
+the centuries on the Kras as may be the same also in other karst regions. 
+Until the middle and late 19th century when the cave societies were founded, 
+show caves were visited mainly by foreign travellers, who were of higher society and 
+mainly of middle age as the travelling was affordable only to upper class. Many of 
+the visitors were scientists. 
+In the middle and late 19th century when the caving in the wider area of the 
+Kras spread, the main motive of cave exploration was the exploration of possible 
+water sources for the growing city Trieste. In this context caves Škocjanske jame and 
+Abisso di Trebiciano (Labodnica) were explored. In this period until World War I 
+cave explorers were educated men from the cities of the Austrian Monarchy (such as 
+Trieste, Wien and Brno) and local men who were employed as cave workers. Their 
+role was to accompany the “researchers”, to explore caves, to work in caves (digging 
+the paths) and to guide visitors through the caves. The locals were from the village 
+49 
+where the cave is located and not from distant villages. The explorers, known as 
+scientists, were mainly of the middle age; the locals were of middle age as well, 
+although there were also some younger people also working in caves. The cave 
+societies that were founded on the pure Slav territory (Anthron in Postojna and 
+Društvo za raziskavanje jam in Ljubljana) also had the same structure of the 
+members. In the society Anthron the founders were local men but later they were 
+cooperating with scientists. The same situation was in Ljubljana where Putick needed 
+assistants for his scientific work. Great explorations in Škocjanske jame contributed 
+to the popularity of caving in Trieste, mainly among the students, and student caving 
+groups were founded. 
+During World War I and II the explorations were mainly cancelled. 
+After World War II the new border, part of the Iron Curtain, arose and the situation 
+in general changed significantly. The greatest part of the Slovenian Kras became part 
+of Yugoslavia, while one third remained in Italy. In that period several caving 
+societies and clubs were founded in Slovenia. Different political and economical 
+regimes on either sides of the border influenced also caving. Cavers in Italy had 
+better conditions for buying cave equipment and being in touch with the 
+development of cave techniques, while the Slovenian (in that time Yugoslavian) 
+cavers had a lot of home–made equipment. Cavers from Slovenian part of the Kras 
+were in advance as they bought the equipment in Trieste and smuggling it over the border. The structure was rather different as in the societies from the 19th century. It 
+was only in Ljubljana that members were highly educated and students; in most 
+societies (e.g. Seţana, Logatec) members were of vocational education and middle 
+class (Jakofčič, 2011; Mihevc, 2011b). In Trieste there were several caving groups 
+and thus some of them were of a particular structure (for example students or 
+academics). After World War II the main purpose of caving on the Kras – the 
+exploration of underground Reka – has remained, but the aim has changed. In the 19th century the aim of exploration was water sources while after World War II the 
+aim has become the underground course itself, to know the unexplored passages. But 
+in both cases (even that in the present time, most of the cave explorers are not 
+karstologists) the results of cave explorations are indispensable in the science. The 
+age of recent active cave explorers has a great range from 18 to more than 60 years. 
+It is not to be missed that even though the technique and the equipment has 
+developed, the exploration has become more complicated and difficult. The main 
+50 
+reason for this is that most of the greatest caves (e.g. with simple passages, great 
+entrances, etc.) are already discovered and on the Kras in recent times most of the 
+new explored caves are those with very narrow entrances. With all the mentioned 
+development and with the spread of exploration in the high karst plateaus, such as 
+Trnovski gozd, Sneţnik, etc. and in mountains (e.g. Kanin) the deep caves with 
+depths more than 1 km demand great efforts physically and psychologically. With 
+the wide spread of modern technologies, e.g. digital cameras and the web, mainly 
+with the tools that allow the sharing of pictures and films, in the last ten years much 
+more documentary material has been taken and shared. Thus caves can be widely 
+presented to a large public. 
+7.5.1 Development of cave exploration societies 
+The creation of cave exploration societies has had three main effects: 
+1. They bring together people with similar interests, stimulating deeper and 
+longer – term involvement in the field; 
+2. By working together as a group, the members are able to undertake 
+explorations that are technically more difficult and physically more 
+demanding than those they could have done alone; 
+3. Their specialist cave publications not only increase the amount of 
+speleological material published, but make it more readily available to people 
+who have an immediate interest in it (Shaw, 2004, 350 – 351). 
+Most of the cavers are members of cave societies or clubs. Most cave societies or 
+clubs are members of national cave associations. “Advances in techniques for 
+exploring caves have been such that clubs are less important than they once were as a 
+source of communal equipment, but they remain important for training in the 
+practical aspects of caving and installing a respect for the cave environment” (Webb, 
+2004, 621). The locations of cave exploration societies are determined by the 
+geography of the major karst areas and the presence of a sufficiently large educated 
+population in or near the karst area (Shaw, 2004, 350 – 351). 
+Some of the earliest speleological groups were the offshoots of 
+mountaineering clubs. The earliest known cave society was the Höhlenklub of 
+Appenzell in eastern Switzerland, which existed in the early 1860s. There is very 
+little known about it and no records or publications are kept. The first real 
+51 
+speleological group was the Verein für Höhlenkunde, founded in 1879 in Wien by 
+Franz Kraus. The next year the world’s first speleological periodical of this group 
+was published (Literatur – Anzeiger). Soon after the formation of the group it 
+became part of the Österreichischen Touristenclub as a separate Sektion für 
+Höhlenkunde. Its new publication, the Mittheilungen, recorded the scientific work of 
+its members and was the earliest conventional speleological journal. A Karst 
+Committee formed within the Sektion adopted a semi – professional approach to its 
+work. 
+On the today’s Slovenian and Italian territory the first cave group was the 
+Sektion Küstenland des Deutschen und Österreichiscen Alpenvereins 
+(further:D.Ö.A.V.). It had been set up in 1873 but the Grottenabteilung was created 
+later, in 1883. Grottenabteilung was noted for the very difficult explorations that it 
+carried out, including the explorations in Škocjanske jame and Kačna jama. The first 
+Italian cave society that worked on the territory of today’s Italy and Slovenia was 
+Società degli Alpinisti Triestini, founded in Trieste in 1883. There were 73 founder 
+members and the number soon grew to over 100. A subsection for caves, 
+Commissione Grotte, was formed. They explored caves Grotta Gigante (Velika jama 
+v Briščikih), Abisso di Trebiciano (Labodnica) and others. In 1885 the society 
+merged with the still-existing Società Alpina delle Giulie (further: SAG). The total 
+number of caves explorers rose from 4 in 1883 to 230 by 1900. The caves were 
+recoded systematically and allocated catalogue numbers (Shaw, 2004, 350 – 351). 
+In 1889 the first purely Slav cave society was formed. The group was called 
+Anthron and its main discoveries were in Postojnska jama system (Shaw, 2004, 350 – 
+351). The society was established after the successful explorations in Škocjanske 
+jame by the citizens of Postojna. Their precursors subscribed in Predjama as 
+Slovenski gadi on May, 11, 1882 (Šajn, 1988a, 7). The cave society was founded in 
+1889 when the locals explored the entrance into Otoška jama cave. One of the main 
+tasks of the society was to set the cave for the visitors, but soon the main task 
+became the cave exploration (Kranjc, 1988a, 13). Members of Anthron were 
+exploring Postojnska jama, and in 1893 together with E.A. Martel, W. Putick and F. 
+Kraus. They explored the underground Pivka river to the sump in Magdalena jama. 
+One of the most important achievements of the society was the discovery of the 
+passage Lepe jame in Postojnska jama in 1891 (Šajn, 1988a, 7). The society ended 
+52 
+with its exploration at the end of the 19th century or at the beginning of the 20th 
+century (Kranjc, 1988a, 14). 
+Great explorations in Škocjanske jame consolidated the prestige of Trieste in 
+international speleology. These explorations caused the increase of popularity among 
+the youth. After 1890 the activities of several groups of grottisti arose (Galli, 2000, 47 – 48). The growth of caving clubs or societies rose also in the 20th century and it 
+has included many of them which are concerned solely with the sporting side of cave 
+exploring. The vast increase in the number of societies is the result of many causes, 
+including increased population, a larger proportion of people living in cities, the 
+higher public profile of caving in the media, and the presence of even more clubs 
+attracting recruits (Shaw, 2004, 351 – 352). 
+In Italy the law that founded the “Opera Nazionale Dopolavoro” was 
+declared in 1925. The aim of dopolavoro was to promote the health and good in the 
+spare time of the workers within the institutions and initiatives, directed to develop 
+moral, intellectual and physical capacities in the Fascist Revolution (OND, 2011). 
+All the amateur organizations had to become dopolavoro. The organizations that 
+took part in any of competition became members of the Comitato Olimpico 
+Nazionale Italiano (further: CONI). Club Alpino Italiano (further: CAI) became 
+member of CONI and thus also SAG as its member. All other cave organizations had 
+to become dopolavoro and thus members of cave societies XXX Ottobre and Prez 
+joined to SAG some years later (Sancin, 2011). In those yeas there were also several dopolavoro cave societies that were founded in the 30s of the 20th century but are 
+long inactive (GGEB, 2011). 
+7.5.2 Development of cave societies in Slovenia and Italian Classical 
+Karst in the 20th century 
+The society Društvo za raziskavanje jam Slovenije was founded on 12 May 
+1910. Later, it was divided into several sections – in Idrija, Koper and Ribnica 
+(Bohinec, 1959). 
+In the following year several other cave sections were founded (Savnik 1961, 
+36). The reason for founding cave society in Ljubljana was to help to V. Putick at his 
+scientific work as he needed assistants. In the surrounding karst areas and in Trieste 
+cave societies had already had a long tradition. Several young men who joined the 
+53 
+society were doing the explorations, first in the Dolenjska region to explore caves 
+with underground courses and tributaries of the Krka river. The committee bought 
+common equipment – safety ropes, ladders from wire rope, carbide lamps and a light 
+winch. The members used their own clothes, mountain ropes, photo material and at 
+the beginning bicycle acetylene lamps. Later on the explorations took place in the 
+wider area of the Dolenjska region, in the catchments area of the Ljubljanica river 
+and in today’s Croatian Istria (Kunaver, 1961, 6 – 11). 
+During World War I the activities ceased. In 1917 P. Kunaver and Michler 
+continued with exploration on Trnovski gozd plateau for the military purposes and 
+explored around 100 caves (Kunaver, 1961, 6 – 11). In the period before World War 
+I the technique was mountaineering as the members were all from mountaineering 
+society. After World War I the society began with the activities in 1925. The 
+explorations were mainly in the karst area between Ljubljanica basin and Planina 
+polje and to the former Yugoslav – Italian border. The activities of the society were 
+cancelled also during World War II and explorations started again in 1945. In 1962 
+all the sections and clubs joined in the society Društvo za raziskavanje jam Slovenije 
+(Habe, 1971, 16 – 17). 
+At present there are 45 cave societies (clubs) which are members of the 
+association, Jamarska zveza Slovenije (further: JZS). In the region Friuli – Venezia – 
+Giulia (Furlanija – Julijska krajina); further: FVG (FJK)) in Italy the main 
+speleological organization is Federazione Speleologica Regionale di Friulia – 
+Venezia - Giulia, established in 1997. Almost all active caving societies are members 
+of the federation. There are 26 societies in 4 provinces (Gorizia, Pordenone, Trieste 
+and Udine) – of all 28 caving societies. In the province of Trieste there are 10 
+societies in the Federazione Speleologica Triestina, established in 1957 (Fed. Spelo. 
+Reg. FVG, 2009). Members of Federazione Speleologica Triestina are: Associazione 
+XXX Ottobre CAI – Gruppo Grotte, Commissione Grotte Eugenio Boegan, Gruppo 
+Grotte Carlo Debeljak, Športno društvo Grmada – jamarski odsek, Jamarski odsek 
+Slovenskega planinskega društva Trst, Gruppo Speleologico Flondar, Gruppo 
+Sepelologico San Giusto, Gruppo Triestino Speleologi, Società Adriatica di 
+Speleologia and Raggruppamento Escursionisti Speleologi Triestini (Federazione 
+Speleologica Triestina, 2010). 
+54
