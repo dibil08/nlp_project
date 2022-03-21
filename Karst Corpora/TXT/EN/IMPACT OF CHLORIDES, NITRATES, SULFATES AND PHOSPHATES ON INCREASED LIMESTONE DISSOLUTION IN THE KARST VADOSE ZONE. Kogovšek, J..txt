@@ -1,0 +1,516 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                                                                       COBISS: 1.01 
+
+               IMPACT OF CHLORIDES, NITRATES, SULFATES AND  
+     PHOSPHATES ON INCREASED LIMESTONE DISSOLUTION IN  
+        THE KARST VADOSE ZONE (POSTOJNA CAVE, SLOVENIA) 
+
+      VPLIV KLORIDOV, NITRATOV, SULFATOV IN FOSFATOV NA  
+        POVEČANO RAZTAPLJANJE APNENCA V VADOZNI CONI  
+                           KRASA (POSTOJNSKA JAMA, SLOVENIJA) 
+
+                                                               Janja KOGOVŠEK1 
+
+Abstract                              UDC  551.444:504.5(497.471)             Izvleček                             UDK  551.444:504.5(497.471) 
+                                         551.311.2:552.541(497.471)                                                   551.311.2:552.541(497.471) 
+Janja  Kogovšek:  Impact  of  chlorides,  nitrates,  sulfates  and           Janja  Kogovšek:  Vpliv  kloridov,  nitratov,  sulfatov  in  fosfa� 
+phosphates on increased limestone dissolution in the karst va �               tov  na  povečano  raztapljanje  apnenca  v  vadozni  coni  krasa  
+dose zone (Postojna Cave, Slovenia)                                           (Postojn ska jama, Slovenija) 
+Distinctive karst hydrology arises from a combination of high                 Kraški  vodonosniki  so  pomemben  vir  pitne  vode,  vendar  so  
+carbonate rock solubility and well developed secondary poros-                 zelo  ranljivi.  Dobra  topnost  karbonatnih  kamnin  in  njihova  
+ity (fissures). Soil CO2 is the most important influence on solu-             sekundarna  poroznost  sta  pogojevali  razvoj  značilne  kraške  
+bility of carbonate rock (Ford & Williams 2007). Human activi-               hidrologije.  Za  raztapljanje  karbonatnih  kamnin  je  najodgo- 
+ty on the karst surface results in pollution that has an important           vornejši CO2 v prsti (Ford & Williams 2007), vendar pa v pro- 
+influence  on  water  quality.  Degradation  of  organic  pollution           cesu raztapljanja lahko sodelujejo tudi anorganske kisline, ki so  
+(e.g. waste water, leachates from landfill sites) results in inor-            rezultat razgradnje organskega onesnaženja. V okviru več kot  
+ganic acids too. These acids could have an important additional               20-letnega raziskovanja pretakanja padavin in prenosa konta- 
+influence on dissolution of carbonate rocks in the vadose zone.               minantov (neposredni iztok komunalne odpadne vode iz voja- 
+In the framework of more than 20 years of research on precipi-                škega objekta s približno dvajsetimi vojaki) skozi 100 m debelo  
+tation percolation and transfer of contaminants (direct outflow              vadozno  cono  Postojnske  jame  smo  ugotavljali  onesnaženo  
+of waste water from a small military facility where about twenty             preniklo vodo več curkov in kapljanj v jami (z do 60 mg Cl-/l,  
+troops were stationed) through the 100-m thick vadose zone of                 do 180 mg NO-/l, do 2,8 mg PO3-/l, do 50 mg SO2-/l). Hkrati  
+                                                                                               3                   4                    4 
+Postojna Cave, contaminated water was observed in drips and                  je bila v teh curkih vsota kalcija in magnezija do dvakrat večja  
+                                         -                       - 
+trickles in the cave (up to 60 mg Cl  /l, up to 180 mg NO  /l, up            kot v čistem referenčnem curku oz. v odpadni vodi. Količina  
+                                                                 3 
+to 2.8 mg PO3-/l, and up to 50 mg SO2-/l). At the same time the               raztopljenih  karbonatov  je  bila  premo-sorazmerna  količini  
+               4                           4 
+sum  of  calcium  and  magnesium  (Ca+Mg)  of  trickles  was  up             prisotnih kontaminantov. To je nakazovalo na povečano širje- 
+to two times larger than the Ca+Mg of either the uncontami-                   nje prevodnikov neposredno pod virom onesnaženja. Zato se  
+nated  reference  trickle  or  the  input  waste  water.  The  amount         s časom kontaminanti prenašajo vse hitreje globlje v vadozno  
+of  dissolved  limestone  carried  by  waste  water  to  trickles  and        cono,  tako  da  prihaja  do  pomembnega  raztapljanja  kamnine  
+drips  in  the  cave  was  directly  proportional  to  the  concentra-       vse glob lje. V končni fazi razvoja, ki traja več desetletij in več,  
+tion  of  contaminant  anions  present.  This  demonstrates  that            lahko pričakujemo hiter prenos kontaminantov skozi vodono- 
+there is an accelerated widening of fissures below source points              snik vse do kraških izvirov z minimalnimi učinki samoočišče- 
+of  wastewater.  Water  with  contaminants  can  penetrate  faster           vanja. 
+and  deeper  into  the  vadose  zone  along  the  increasingly  per-          Ključne  besede:  kras,  vadozna  cona,  onesnaženje,  povečano  
+meable  fissures  without  losing  its  dissolving  power,  and  thus         raztapljanje, pospešeno zakrasevanje. 
+significant dissolution occurs ever deeper in the vadose zone.  
+This results in ever faster penetration of contaminants through  
+the vadose zone. In the final phase of such development, which  
+takes many decades or longer, relatively rapid transfer of con- 
+taminants through the aquifer all the way to karst springs with  
+minimal self-cleansing effects can be expected. 
+Keywords: karst, vadose zone, pollution, increased dissolution,  
+accelerated karstification. 
+
+1 Karst Research Institute ZRC SAZU, Titov trg 2, 6230 Postojna, Slovenia, e-mail: kogovsek@zrc-sazu.si 
+
+Received/Prejeto: 23.12.2011 
+
+                                                                                         ACTA CARSOLOGICA 40/2, 319–327, POSTOJNA 2011 
+
+----------------------- Page 2-----------------------
+
+      JANJA KOGOVŠEK 
+
+                                                          INTRODUCTION 
+
+      Karst areas are found on about 15 percent of the earth’s                 Degradation of organic pollution (such as waste wa- 
+      surface, and twenty to twenty-five percent of the world’s           ters and leachates from municipal landfill sites) results in  
+      population  drinks  water  from  karst  aquifers  (Ford  &          inorganic acids too. These acids can have an important  
+      Williams 2007). This percentage is expected to rise sub-            influence  on  increased  dissolution  of  carbonate  rocks.  
+      stantially in the future (Forti 2002). Karst aquifers hold          More than 20 years of research on water percolation and  
+      significant  amounts  of  groundwater,  and  since  carbon-         transfer of contaminants from a pollution source on the  
+      ate rock covers 35% of the surface in Europe (COST Ac-              surface through the 100-m thick karst vadose zone in a  
+      tion 65, 1995), and in Slovenia some 44% of the surface             research area of Postojna Cave have enabled study of the  
+      (Gams 2003), they are an important source of drinking               impact of increased content of the contaminants nitrates,  
+     water. In addition to their quantity, the quality of karst           chlorides,  sulfates  and  o-phosphates  on  the  process  of  
+     waters  is  becoming  increasingly  important.  In  order  to        limestone  dissolution.  My  hypothesis  was  that  higher  
+      preserve the existing quality of karst water resources, it is       concentration  of  ions  of  inorganic  acids  causes  greater  
+      necessary to reduce the emission of dangerous substanc-             dissolution  of  limestone.  Increased  dissolution  means  
+      es on the surface and at the same time study their impact           an  accelerated  widening  of  fissures  in  the  vadose  zone,  
+      on water quality and on permeability of the vadose zone             which  allows  in  time  more  rapid  transfer  of  contami- 
+      in the aquifer.                                                     nants and poorer processes of self-cleansing on the way  
+           On the karst surface the most important quantita-              through the vadose zone of the aquifer to karst springs. 
+      tive biotic contribution to karstification is the production             Continuous  measurements  of  precipitation  on  the  
+      of CO2 in soil (Ford & Williams 2007). Human activities             surface  and  the  discharge,  electrical  conductivity  (EC),  
+      on the karst surface produce different types of pollution           temperature measurements and chemical analyses of se- 
+      (e.g. waste waters, landfill sites, agriculture, traffic) that      lected trickles in the study area in Postojna Cave that be- 
+      influence karst water quality (Kogovšek 1987, 1994, 1995,           gan in 2003 and are still in progress, and tracer tests with  
+      1997, 2004; Bolner et al. 1989; Guo et al. 2010). Evidence          fluorescence  tracers  through  the  vadose  zone  as  well  
+      from the literature indicates serious pollution problems            as  use  of  isotopic  analyses  of  18O  are  helping  us  to  un- 
+
+      are particularly evident in the quickly developing coun-            derstand the hydrodynamics and the closely connected  
+      tries (Jiang et al. 2009; Shi et al. 2009; Zhang et al. 2008,       transfer of contaminants (Kogovšek 2010). 
+      and many others). 
+
+                                                          RESEARCH AREA 
+
+      In  the  early  1980s,  speleologists  drew  our  attention  to     tinued  to  wash  the  remaining  pollution  from  the  cess- 
+      pollution  visible  on  stalactites  in  Postojna  Cave.  Sam-      pool and from the cave’s roof. In the period from 1991 to  
+      pling of trickles over a wider area in the caves indicated          2006, the average annual precipitation was 1500 mm. 
+      that  the  percolated  water  was  polluted  at  a  number  of           I focused my detailed monitoring (discharge, tem- 
+      points (trickles I, J, L, G and H). The source of pollution         perature  and  EC)  on  three  of  the  most  contaminated  
+     was a small military facility, where about twenty troops             trickles (I, J and L) with diversely permeable catchment  
+     were stationed, on the surface above this part of Postojna           areas that flow through tectonically fissured and broken  
+      Cave (Fig. 1).                                                      zones  and  along  bedding  planes  (Kogovšek  &  Šebela  
+           The area immediately above the study area in Pos-              2004).  For  comparison  an  uncontaminated  trickle,  A,  
+      tojna Cave is covered with grass and a thin layer of soil           was monitored. The maximum discharges of trickles var- 
+      (about 10 cm), and the surroundings are overgrown with              ied from a few ml/min to a hundred or several thousand  
+      forest.  The  main  source  of  pollution  in  the  trickles  in    ml/min.  The  discharge  of  the  largest  periodic  trickle  I  
+      Postojna Cave, 100 m below the surface, was waste wa-               can reach up to 4 liters per minute and reacts the most  
+      ter  that  after  sedimentation  in  the  sedimentation  pool       rapidly of all the trickles to sufficiently abundant precipi- 
+      drained first into a cesspool about four meters deep and            tation. In wet periods it responds to precipitation events  
+      then percolated in the direction of observed trickles in            with a rapidly increasing discharge that reaches its maxi- 
+      the cave. In the spring of 1991 the military facility was           mum value in 6 to 60 hours, and in the absence of pre- 
+      closed  and  fresh  pollution  stopped.  Precipitation  con-        cipitation it dries up quickly. The less abundant trickle J,  
+
+320    ACTA CARSOLOGICA 40/1 – 2011 
+
+----------------------- Page 3-----------------------
+
+                IMPACT OF CHLORIDES, NITRATES, SULFATES AND PHOSPHATES ON INCREASED LIMESTONE DISSOLUTION IN ... 
+
+                                                                                                               fig. 1: The source of pollution in  
+                                                                                                               the  trickles  in  Postojna  Cave  (I,  
+                                                                                                               j, L,  g and  h) 100 m below the  
+                                                                                                               surface,  was  wastewater  outflow  
+                                                                                                               on  the  surface.1.  Cross  section  
+                                                                                                               of  cave,  2.  Observed  trickle,  3.  
+                                                                                                               Source  of  pollution,  4.  Direction  
+                                                                                                               of percolated water, 5.Upper Cre- 
+                                                                                                               taceous  limestone  with  remains  
+                                                                                                               of  rudists,  6.  Strike  and  dip  of  
+                                                                                                               bedding planes, 7. Strike and dip  
+                                                                                                               of fault, 8. fissured zone, 9. bro- 
+                                                                                                               ken zone. 
+
+whose annual outflow is more than 20 times lower than                       are  characterized  by  slowly  increasing  and  decreasing  
+that of trickle I, exhibits a strong damping of infiltrated                 discharges that achieve maximum values up to 130 ml/ 
+precipitation. Throughout the year this trickle never runs                  min.  With  maximum  discharge  of  only  a  few  ml/min,  
+dry, and it reacts to precipitation with a large time delay                 the  permanent  trickle  L  has  a  completely  different  and  
+(up to two days) compared to trickle I. Its flood waves                     unique discharge pattern (Kogovšek 2010). 
+
+                                                           METHODOLOGY 
+
+The first periodic samplings, measurements and analyses                     infiltrated precipitation with contaminants is retained in  
+of several contaminated trickles with varying discharges                    the variously permeable parts of the vadose zone. The re- 
+in  Postojna  Cave  (contaminated  trickles  I,  J,  L,  G,  H)             sults  of  these  tests  were  supported  by  isotopic  analyses  
+and  the  pure  uncontaminated  trickle  A  began  in  1988.                of oxygen that showed that the average retention time of  
+Samples were collected manually in polyethylene bottles                     water is around 2.5 months in the more permeable parts  
+by  simply  waiting  for  the  bottles  to  fill  up.  During  pe-          of  the  vadose  zone  (trickle  I)  and  substantially  longer,  
+riods of very low discharge the bottles were set up and                     more than a year, in the less permeable parts (trickle J)  
+the samples were collected the next morning. I tried to                      (Kogovšek 2010). 
+capture the characteristics of the chemical composition                            In the laboratory water samples were analyzed im- 
+of the water under various hydrological conditions such                     mediately for carbonate, calcium, magnesium, chloride,  
+as low and high discharges and increasing and decreasing                    nitrate, sulfate, and o-phosphate content. We determined  
+flow rates. Later, in 2002, frequent systematic sampling                    the content of chlorides using the standard method with  
+of trickles was done. In the fall of 2003, automatic sam-                   mercury  nitrate,  of  sulfates  using  the  standard  turbidi- 
+plers were installed at trickles I and J that took samples                  metric   method,   of   o-phosphates   using   the   standard  
+one to six times daily, most frequently during flood waves                  method  with  tin  chloride,  of  carbonates,  calcium,  and  
+following precipitation events. Parallel continuous meas-                   magnesium   using   the   titrimetric   methods   (Standard  
+urements of discharge, temperature and EC were made.                        Methods 1992), and of nitrate using a method employ- 
+EC and tracer tests showed the different lengths of time                    ing sodium salicylate. 
+
+                                                                                                             ACTA CARSOLOGICA 40/1 – 2011            321 
+
+----------------------- Page 4-----------------------
+
+       JANJA KOGOVŠEK 
+
+                                                                             RESULTS 
+
+       During our research it was not possible to sample waste                                 In  the  monitored  period  between  1988  and  1992,  
+       water from the military facility above the research area                         trickles  I  and  J  in  Postojna  Cave  displayed  the  highest  
+       in Postojna Cave. However, analysis of similar waste wa-                         content of chlorides (up to 60 mg Cl-/l), nitrates (up to  
+
+                                                                                                        -                                               3- 
+       ter  outflow  from  sanitary  facilities  and  washrooms  of                      180 mg NO /l), o-phosphates (up to 2.8 mg PO                     /l), and  
+                                                                                                        3                                               4 
+       the nearby campground at Pivka jama (Kogovšek 1987)                              sulfates (up to 50 mg SO2-/l), increased values of EC (up  
+                                                                                                                         4 
+       showed high values of organic pollution (chemical oxy-                           to 1150 µS/cm), and an increased content of calcium and  
+       gen demand up to 600 mgO /l), high concentrations of                             Ca+Mg relative to the unpolluted reference trickle A (up  
+                                              2 
+                                          -                                                           -                         -                         3- 
+       chlorides (up to 50 mg Cl /l), phosphates (up to 14 mg                           to 3 mg Cl /l, up to 5 mg NO  /l, up to 0.1 mg PO                   /l and  
+                                                                                                                               3                          4 
+       PO 3-/l) and ammonia at relatively low concentration of                          up to 8 mg SO2-/l ) (Fig. 2). Ca+Mg of trickles I and J was  
+           4                                                                                               4 
+       nitrates. The well ventilated vadose zone enabled efficient                      up to two-fold higher than that of the uncontaminated  
+       oxidation  of  ammonia  to  nitrates.  The  sum  of  calcium                     reference trickle A or than the value of Ca+Mg reached  
+       and  magnesium  (Ca+Mg)  was  210  mg  CaCO /l.  Later                           by  trickles  I  and  J  from  1997  onward,  when  the  con- 
+                                                                       3 
+       analysis  of  waste  water  outflow  from  a  house  showed                      centrations  of  contaminants  increased  only  minimally  
+       similar values of contaminants, and the value of Ca+Mg                           (with the exception of o-phosphates) or than the value of  
+       was 150 mg CaCO3/l, close to the value of drinking water                         Ca+Mg of input waste water. After the military barracks  
+       in this region, which varies during the year between 170                         were closed and active pollution ceased in 1991, the fol- 
+       and 220 mg CaCO /l.                                                              lowing  three  years  saw  a  rapid  decline  in  the  concen- 
+                                3 
+                                                                                                                             tration  of  all  contaminants  
+                                                                                                                             in  trickles  I,  J,  and  L  due  to  
+                                                                                                                             natural  leaching  by  precipi- 
+                                                                                                                             tation.   Over   4,700   mm   of  
+                                                                                                                             precipitation  fell  during  this  
+                                                                                                                             period. A portion of the con- 
+                                                                                                                             taminants   was   retained   in  
+                                                                                                                             only the less permeable part  
+                                                                                                                             of the catchment area. In the  
+                                                                                                                             following years, a slower de- 
+                                                                                                                             cline    in   the   concentration  
+                                                                                                                             and  values  approaching  the  
+                                                                                                                             values  of  the  uncontaminat- 
+                                                                                                                             ed  reference  trickle  A  were  
+                                                                                                                             recorded (Kogovšek 2010). 
+                                                                                                                                    Analyses  of  Ca+Mg  of  
+                                                                                                                             trickles  I  and  J  showed  val- 
+                                                                                                                             ues   up   to   around   500   mg  
+                                                                                                                             CaCO /l, while values for the  
+                                                                                                                                     3 
+                                                                                                                             uncontaminated           trickle     A  
+                                                                                                                             were around 225 mg CaCO /l.  
+                                                                                                                                                                 3 
+
+                                                                                                                             fig.  2:  The  transfer  of  contami- 
+                                                                                                                             nants    (chlorides    and   nitrates)  
+                                                                                                                             through  trickles  I  and  j  was  re- 
+                                                                                                                            flected in greater electric conduc - 
+                                                                                                                             tivity (EC) and greater concentra- 
+                                                                                                                             tions of calcium and magnesium  
+                                                                                                                             (Ca+Mg) in period from 1988 to  
+                                                                                                                             1996.  for  comparison  measure- 
+                                                                                                                             ments  of  uncontaminated  trickle  
+                                                                                                                             A are presented. 
+
+322     ACTA CARSOLOGICA 40/1 – 2011 
+
+----------------------- Page 5-----------------------
+
+                IMPACT OF CHLORIDES, NITRATES, SULFATES AND PHOSPHATES ON INCREASED LIMESTONE DISSOLUTION IN ... 
+
+                                                                                                             fig.  3:  The  pattern  of  carbonate  
+                                                                                                             content and sum of calcium and  
+                                                                                                             magnesium (Ca+Mg) in trickles I  
+                                                                                                             and j during an 18-year period. 
+
+                                                                                                             of    contaminants         present  
+                                                                                                             (the  sum  of  chlorides,  ni- 
+                                                                                                             trates,    o-phosphates,        and  
+                                                                                                             sulfates).  Fig.  5  shows  the  
+                                                                                                             measurements         for   trickles  
+                                                                                                             I  and  J,  which  display  a  di- 
+                                                                                                                        2 
+The pattern of carbonate content and Ca+Mg in trickle I                    rectly proportional relationship (R  = 0.78 for trickle I  
+and  trickle  J  (Fig.  3)  was  approximately  the  same.  Oc-            and  R2  =  0.84  for  trickle  J).  However,  some  other  an- 
+
+casional low values of carbonate content and Ca+Mg in                      ions that are also present but were not included in the  
+trickle  I  stand  out  during  minimal  discharge  periods,               analyses  probably  affect  the  dissolution  of  limestone.  
+due to deposition of calcium carbonate during the slow                     These anions are represented by the difference between  
+flow  along  the  flowstone  formation  prior  to  sampling.               Ca+Mg and carbonates ((Ca+Mg)-carbonates). Ca+Mg  
+More  frequent  sampling  of  trickle  I  over  the  course  of            is directly proportional to the amount of these anions  
+                                                                              2 
+several  flood  waves  when  the  discharge  was  increasing                (R  = 0.9 for both trickles). 
+showed a simultaneous drop in both parameters. Abun- 
+dant  precipitation  results  in  a  significant  contribution  
+of new, less mineralized water in this trickle (Kogovšek  
+2010). In trickle J a high degree of homogenization with- 
+out larger oscillations is evident. The transfer of contam- 
+inants, EC and discharge pattern and isotopic analysis of  
+18O  (Kogovšek  2010)  reflect  the  structure  of  the  catch- 
+
+ment area of the trickles and indicate a high level of ho- 
+mogenization in the catchment area of trickle J, due to its  
+hierarchy  of  variously  less  permeable  and  hydraulically  
+connected fissures, in comparison with that of trickle I. 
+      A  comparison  of  EC  and  Ca+Mg  indicated  linear  
+dependency in both trickles (Fig. 4). For trickle I we ex- 
+cluded samples taken at minimal discharges, when sig- 
+nificant deposition of calcium carbonate occurs and the  
+samples therefore do not reflect the composition of water  
+flowing at the top of the flowstone formation. The cor- 
+relation coefficient of Ca+Mg and EC was R2  = 0.97 for  
+trickle I, and R2  = 0.99 for trickle J. It follows that in this           fig. 4: Dependence between EC and concentration of (Ca+Mg)  
+case EC is a good measure of the amount of limestone                       and carbonates in trickles I and j. 
+dissolved in the percolated water. 
+      That  foreign  ions  in  karst  waters  affect  the  ionic                  From  these  results  it  follows  that  the  important  
+strength  has  been  established  both  in  theory  and  by                dissolution of limestone in the vadose zone was due to  
+laboratory  experiments  (Dreybrodt  1988,  2000).  An                     the presence of contaminants, particularly the anions of  
+increase in ionic strength decreases the solubility prod-                  strong acids originating from pollution (direct outflow of  
+uct,  and  calcite  solubility  increases  (Dreybrodt  2000).              waste water) on the surface. This process of dissolution  
+In  the  Postojna  Cave  study  area,  these  effects  were                depends very heavily on the hydrodynamics of waste wa- 
+measured in a natural environment. The amount of dis-                      ter, which can be retained in the vadose zone for various  
+solved limestone carried by water to trickles in the cave                  time  periods  that  may  be  extended  by  months  during  
+or its Ca+Mg was directly proportional to the amount                       dry periods. 
+
+                                                                                                           ACTA CARSOLOGICA 40/1 – 2011             323 
+
+----------------------- Page 6-----------------------
+
+       JANJA KOGOVŠEK 
+
+                                                                                                                               fig.  5:  Trickles  I  and j  –  in  ad- 
+                                                                                                                               dition  to  the  amount  of  CO   in  
+                                                                                                                                                                  2 
+                                                                                                                               the water, the dissolution of car- 
+                                                                                                                               bonate  rock  in  the  vadose  zone  
+                                                                                                                               depends  on  the  amount  of  chlo- 
+                                                                                                                               rides,  nitrates,  sulfates,  and  o- 
+                                                                                                                               phosphates  (sum  of  “anions”)  or  
+                                                                                                                               other  anions  present  represented  
+                                                                                                                               by the difference between the sum  
+                                                                                                                               of  calcium  and  magnesium  and  
+                                                                                                                               carbonates ((Ca+Mg)-Carb.). for  
+                                                                                                                               better comparison the concentra- 
+                                                                                                                               tions of all ions are expressed in  
+                                                                                                                               meq/l. 
+
+                                                                                                                               sium and carbonate concen- 
+                                                                                                                               trations during the long ob- 
+                                                                                                                               servation period, but in the  
+                                                                                                                               case of carbonates in trickle  
+                                                                                                                               A the oscillations do not ex- 
+                                                                                                                               ceed 20 mg CaCO /l. 
+                                                                                                                                                         3 
+                                                                                                                                      It  is  obvious  that  chlo- 
+                                                                                                                               rides,  nitrates,  sulfates,  and  
+                                                                                                                               phosphates   play   an   impor- 
+                                                                                                                               tant  role  in  the  dissolution  
+                                                                                                                               of  limestone  in  the  vadose  
+                                                                                                                               zone   above   Postojna   Cave  
+                                                                                                                               because   like   the   anions   of  
+                                                                                                                               strong      acids     they    replace  
+              Following  the  highest  values  of  Ca+Mg  record-                         carbonate  ions  in  the  limestone  during  the  dissolution  
+       ed prior to 1992 (a year after the military facility was                           process  and  release  CO .  That  this  released  CO   or  the  
+                                                                                                                           2                                2 
+       closed), when trickles I and J reached values up to twice                          resulting carbonic acid (H CO ) is capable of additional  
+                                                                                                                              2     3 
+       the value of the uncontaminated reference trickle A or                             corrosion is reflected in the slightly increased carbonates  
+       around 200 mg CaCO /l higher values, the content of                                during the period of high values of these contaminants  
+                                       3 
+       carbonates in trickles I and J only reached at most val-                           (Fig. 6). When the Ca+Mg of trickles J and I dropped to  
+                                                                                                                                                                    - 
+       ues 60 mg CaCO /l higher than the reference trickle A                              250 mg CaCO /l at the end of 1996, less than 4 mg Cl /l  
+                               3                                                                              3 
+       (Fig. 6). Of course, all trickles experience seasonal and                          of chlorides, less than 20 mg SO2-/l of sulfates, and less  
+                                                                                                                                       4 
+                                                                                                               - 
+       discharge-dependent  oscillations  in  calcium,  magne-                            than 20 mg NO  /l of nitrates were present; o-phosphates,  
+                                                                                                               3 
+
+                                                                                                                               fig.  6:  Content  of  carbonates  of  
+                                                                                                                               trickles I and j and of uncontami- 
+                                                                                                                               nated reference trickle A. 
+
+324      ACTA CARSOLOGICA 40/1 – 2011 
+
+----------------------- Page 7-----------------------
+
+                IMPACT OF CHLORIDES, NITRATES, SULFATES AND PHOSPHATES ON INCREASED LIMESTONE DISSOLUTION IN ... 
+
+however, remained increased and reached values just be-                    the area of pollution. This demonstrates that there is an  
+low 0.4 mg PO3-/l in trickle I and 1.4 mg PO3-/l in trickle                accelerated widening of fissures below source points of  
+                  4                                    4 
+J. Limestone dissolution due to the presence of contami-                   wastewater (chlorides, nitrates, sulfates and phosphates).  
+nants was minimal, and additional dissolution attribut-                    Water with contaminants can penetrate faster and deep- 
+able  to  the  presence  of  contaminants  was  undetectable               er into the vadose zone along the increasingly permeable  
+by the methods applied.                                                    fissures  without  losing  its  dissolving  power,  and  thus  
+      From  the  results  it  follows  that  in  the  case  of  the        significant dissolution occurs ever deeper in the vadose  
+smaller   release   of   previously   sedimented   wastewater              zone. In the final phase of the development of increas- 
+above  Postojna  Cave  directly  into  the  vadose  zone,  the             ingly  permeable  fissures,  a  very  rapid  transfer  of  con- 
+dissolution of limestone in the 100-m thick cave roof in                   taminants through the vadose zone and further through  
+the period from 1988 to 1992 was up to two times great-                    the aquifer along channels to karst springs with minimal  
+er than in trickles in the immediate vicinity but outside                  self-cleansing effects can be expected. 
+
+                                                              DISCUSSION 
+
+The simultaneous increased values of Ca+Mg and con-                        infiltrated the layers of waste and partly into the vadose  
+taminants (chlorides, nitrates, sulfates, and o-phosphates)                zone, but there was frequently no immediate discharge  
+in  the  monitored  trickles  in  Postojna  Cave  showed  a                from  the  vadose  zone.  Infiltrated  precipitation  can  be  
+linear  dependency  between  the  two  categories,  which                  stored  in  landfills  and  the  vadose  zone  for  weeks  or  
+means that these contaminants cause the increased dis-                     months, and nitrates, phosphates, chlorides and sulfates  
+solving of limestone. In the area where wastewater was                     can  react  with  carbonate  material  that  is  used  to  cover  
+                                   -                          - 
+discharged (up to 60 mg Cl /l, up to 180 mg NO  /l, up                     garbage already in the landfill (Kogovšek 1996). Howev- 
+                                                              3 
+to 2.8 mg PO3-/l, and up to 50 mg SO2-/l), the dissolving                  er, more abundant and intense precipitation pushed the  
+                 4                             4 
+rate was up to twice as fast as in other areas in the im-                  stored  water  containing  contaminants  deeper  into  the  
+mediate vicinity but outside the pollution area. This re-                  vadose  zone  below,  where  increased  dissolution  of  car- 
+sults in the accelerated widening of fissures in the vadose                bonate rock can occur. 
+zone, which allows the ever more rapid transfer of con-                           The  tracer  tests  from  Sežana  and  Kočevje  landfill  
+taminants through the vadose zone. In the final phase of                   sites  showed  a  significant  transfer  of  injected  tracer  in  
+such development, which takes many decades or longer,                      the first wave of tracer at the springs: 40% from Sežana  
+the relatively rapid transfer of contaminants through the                  landfill  to  Timavo  spring  (Kogovšek  &  Petrič  2007),  
+aquifer all the way to karst springs can be expected.                      80% from Kočevje landfill to Bilpa spring within half a  
+      The increased dissolution of limestone and the sub-                  month (Kogovšek & Petrič 2010) and probably a similar  
+sequent gradual enlargement of permeable fissures allow                    percentage from the Ribnica landfill (Kogovšek & Petrič  
+the increasingly rapid transfer not only of soluble con-                   2006)  (an  estimate  was  made  for  the  Ribnica  landfill  
+taminants but also of insoluble contaminants such as oil                   since  there  is  no  data  on  the  discharge  of  the  springs).  
+derivatives.  When  these  fissures  become  large  enough,                These results indicated very permeable vadose zone be- 
+they can even allow the transfer of solid organic parti-                   low  landfill  sites,  that  are  34 -41  years  in  operation.  In  
+cles, as observed in trickle I in Postojna Cave (Kogovšek                  contrast,  the  tracer  test  from  Poček  military  training  
+1997) and in Pivka jama (Kogovšek 1987).                                   area,  where  the  pollution  is  dispersed  more  widely  on  
+      In  Germany,  a  study  on  the  impact  of  old  waste              the  karst  surface,  showed  that  only  4%  of  the  injected  
+dump  sites  on  springs  showed  increased  mineraliza-                   tracer flowed through the Malenščica spring in the first  
+tion and an increased content of chlorides, nitrates, and                  wave of tracer. When using the same manner of injection  
+sulfates  in  the  springs  (Hötzl  1995).  In  the  framework             as in the case of tracer tests from landfill sites, a consid- 
+of tracer tests at municipal landfill sites in the karst re-               erably  larger  amount  of  precipitation  (above  100  mm)  
+gions of Slovenia (injections on the karst surface), mea-                  was  required  to  start  the  transfer  of  tracer  from  Poček  
+surements of precipitation and the discharge of springs                     (Kogovšek 1999). 
+showed  that  during  dry  periods  periodic  precipitation  
+
+                                                                                                           ACTA CARSOLOGICA 40/1 – 2011             325 
+
+----------------------- Page 8-----------------------
+
+      JANJA KOGOVŠEK 
+
+                                                               CONCLUSIONS 
+
+      Based on the above-mentioned results in Postojna Cave,                       It  is  therefore  necessary  to  anticipate  the  local  in- 
+      we  can  conclude  that  localized  wastewater  sources  on             creased  dissolution  of  limestone  and  consequently  the  
+      karst  terrain  that  discharge  directly  into  the  karst  en-        greater  permeability  of  fissures  and  conduits  in  karst  
+      vironment,  and  probably  other  similar  sources  such  as           vadose zones for water and contaminants below waste- 
+      leachate waters from landfills, foster the intense dissolu-            water sources with high concentrations of chlorides, ni- 
+      tion  of  limestone  in  the  vadose  zone.  This  leads  to  the       trates, sulfates and phosphates. In the final phase of such  
+      gradual  formation  of  local  increasingly  permeable  fis-            development, which takes many decades or even longer,  
+      sures  that  drain  precipitation  containing  leached  con-            the relatively rapid transfer of contaminants through the  
+      taminants from landfill sites ever more rapidly through                 aquifer all the way to karst springs can be expected. The  
+      the  vadose  zone  to  underground  watercourses  and  on               increased  permeability  of  fissures  and  conduits  allows  
+      to  karst  springs.  This  explains  the  rapid  percolation  of        the rapid transfer not only of soluble potentially danger- 
+      tracer  through  the  vadose  zones  below  the  mentioned              ous substances but also of insoluble contaminants such  
+      municipal  landfill  sites  (Kogovšek  &  Petrič  2004,  2006,          as oil derivatives. More detailed measurements must be  
+      2007, 2010) even in dry periods.                                        done  in  the  future  to  define  these  processes  more  pre- 
+            The hydrological conditions have an important in-                 cisely. 
+      fluence on transport of contaminants and their dissolu- 
+      tion effects on carbonate rocks in the vadose zone and  
+      consequently on the quality of springs. 
+
+                                                        ACKNOWLEDGEMENT 
+
+            The  research  was  supported  by  the  Slovenian  Re- 
+      search Agency, Karst Research Program and Slovene Na- 
+      tional Commission for UNESCO, IHP Program. 
+
+                                                                REFERENCES 
+
+      Bolner, T., Tardy, J. & L. Nemedi, 1989: Evaluation of the              Ford,  D.  &  P.  Williams,  2007:  karst  hydrogeology  and  
+            Environmental Impacts in Budapest's caves on the                        geomorphology.-   John   Wiley   &   Sons:   pp.   562,  
+            Basis of the Study of the  quality of Dripping Wa-                     Chichester. 
+            ters.-  Proceedings  of  10th  International  Congress  of        Forti,  P.,  2002:  Speleology  in  the  Third  Millennium:  
+
+                            th    th 
+            Speleology, 13   –20   August, Budapest, 2, 634–639.                   Achievements   and   Challenges.-   Theoretical   and  
+      COST     Action     65,  1995:   hydrogeological      aspects   of           Applied Karstology, 15, 7–26. 
+           groundwater protection in karstic areas. final report.             Gams,  I.,  2003:  kras  v  Sloveniji  v  prostoru  in  času.-  
+            European  Commission,  Directorate-General  xII,                       Založba ZRC, ZRC SAZU, pp. 516, Ljubljana. 
+            Science,  Research  and  Development,  Report  EUR                Guo, F., Yuan, D. & Z. qin, 2010: Groundwater contami- 
+            16574 EN.                                                              nation  in  karst  areas  of  southwestern  China  and  
+      Dreybrodt, W., 1988: Processes in karst Systems (Physics,                    recommended countermeasures.- Acta carsologica,  
+            Chemistry, and geology).- Springer Verlag, pp. 288,                    39, 2, 389–399. 
+            Berlin.                                                           Hötzl, H., 1995: Project II - Bauschotter limestone plat- 
+      Dreybrodt  ,  W.,  2000:  Equilibrium  Chemistry  of  Karst                  form.-  In:  hydrogeological  aspects  of  groundwater  
+            Water  in  Limestone  Teranes.-  In:  Klimchouk,  B.,                  protection in karstic areas. COST action 65.  final re- 
+            Ford,  C.D.,  Palmer,  A.N.  &  W.  Dreybrodt  (eds.)                  port , 124–131, Brussels-Luxembourg. 
+            Speleogenesis.  National  Speleological  Society,  pp.  
+            126–135, Huntsville. 
+
+326    ACTA CARSOLOGICA 40/1 – 2011 
+
+----------------------- Page 9-----------------------
+
+               IMPACT OF CHLORIDES, NITRATES, SULFATES AND PHOSPHATES ON INCREASED LIMESTONE DISSOLUTION IN ... 
+
+Jiang,Y.,  Wu,  Y.,  Groves,  C.,  Yuan,  D.  &  P.  Kambesis,           Kogovšek, J., 2010: Characteristics of percolation through  
+      2009:  Natural  and  anthropogenic  factors  affecting                    the  karst  vadose  zone.-  Carsologica.  Založba  ZRC  
+      the groundwater quality in the Nandong karst un-                         SAZU, pp.168, Postojna-Ljubljana. 
+      derground river system in Yunnan, China.- Journal                  Kogovšek,  J.  &  M.  Petrič,  2004:  Advantages  of  longer- 
+      of Contaminant Hydrology, 109, 49–61.                                    term  tracing  --  three  case  studies  from  Slovenia.-  
+Kogovšek,  J.,  1987:  Naravno  čiščenje  sanitarnih  odplak                   Environmental geology, 47, 1, 76–83. 
+      pri vertikalnem prenikanju v Pivki jami = Natural                  Kogovšek, J. & M. Petrič, 2006: Tracer test on the Mala  
+      purifications of sanitary sewage during the vertical                     gora landfill near Ribnica in south-eastern Slovenia  
+      percolation  in  Pivka  jama.-  Acta  carsologica,  16,                  = Sledilni poskus na odlagališču Mala gora pri Rib- 
+      121–139.                                                                 nici v jugovzhodni Sloveniji.- Acta carsologica, 35,  
+Kogovšek,      J.,  1994:   Impact     of  human      activity   on            2, 91–101. 
+      Škocjanske jame.- Acta carsologica, 23, 73–80.                     Kogovšek, J. & M. Petrič, 2007: Directions and dynam- 
+Kogovšek,  J.,  1995:  Some  examples  of  the  karst  water                   ics of flow and transport of contaminants from the  
+      pollution  on  the  Slovene  karst.-  Acta  carsologica,                 landfill  near  Sežana  (SW  Slovenia)  =  Smeri  in  di- 
+      26, 303–312.                                                             namika odtekanja vode in prenosa kontaminantov  
+Kogovšek,  J.,  1996:  Kako  smetišča  ogrožajo  kakovost                      z  odlagališča  odpadkov  pri  Sežani  (JZ  Slovenija).-  
+      kraške vode = How rubbish dumps have imperilled                          Acta carsologica, 36, 3, 413–424. 
+      the quality of karst water.- Annales, 9, 111–114.                  Kogovšek, J. & M. Petrič, 2010: Tracer tests as a tool for  
+Kogovšek,  J.,  1997:  Pollution  transport  in  the  vadose                   planning the monitoring of negative impacts of the  
+      zone.- In: Günay G., Johnson A. I., Tezcan L & A.Ö.                      Mozelj landfill (SE Slovenija) on the karst. Acta car- 
+      Atilla (eds.) karst waters & environmental impacts,                      sologica, 39, 2, 301–311. 
+      Proceeding of 5th international symposium and field                Kogovšek, J. & S. Šebela, 2004: Water tracing through the  
+
+      seminar on karst waters and environmental impacts,                       vadose zone above Postojnska Jama, Slovenia.-  En-En- 
+         th    th 
+      10  –20    September  1995,  Antalya,  Turkey.  A.A.                     vironmental Geology, 45, 992–1001. 
+      Balkema, 161–165, Rotterdam.                                       Shi, Z., Liu, x., Liu, Y., Huang, Y. & H. Peng, 2009: Cata- 
+Kogovšek, J., 1999: Nova spoznanja o podzemnem pre-                            strophic groundwater pollution in a karst environ- 
+      takanju  vode  v  severnem  delu  Javornikov  (Visoki                    ment:  a  study  of  phosphorus  sludge  waste  liquid  
+      kras)  =  New  knowledge  about  the  underground                        pollution at the Penshuidong Cave in Yunnan, Chi- 
+      water  drainage  in  the  Northern  part  of  Javorniki                  na.- Environ Earth Sci, 59, 757–763. 
+      Mountains  (High  Karst).-  Acta  carsologica,  28,  1,            Standard Methods for Examination of Water and Waste- 
+      161–200.                                                                 water, 1992, 18th Edition, Washington. 
+
+Kogovšek, J., 2004: Fizikalno-kemične značilnosti voda v                 Zhang, G., Zhou, C. & x. Kang, 2008: Changing features  
+      zaledju Malenščice (Slovenija) = Physico-chemical                        of water quality in the Nandong underground river,  
+      properties of waters in the Malenščica recharge area                     Kaiyuan,  Yunnan.-  Carsologica  sinica,  27,  4,  366– 
+      (Slovenia).- Acta carsologica, 33, 1, 143–158.                           370. 
+
+                                                                                                         ACTA CARSOLOGICA 40/1 – 2011           327 

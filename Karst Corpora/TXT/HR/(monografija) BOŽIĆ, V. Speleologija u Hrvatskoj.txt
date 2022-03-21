@@ -1,0 +1,443 @@
+﻿Vlado Božić 
+SPELEOLOGIJA U HRVATSKOJ 
+BIBLIOTEKA SPELEOLOGIJA 
+NAKLADNICI Hrvatski planinarski savez Kozarčeva 22, 10000 Zagreb tel. 01/48-23-624 - tel./fax 01/48-24-142 hps@inet.hr - http://hps.inet.hr 
+Hrvatsko planinarsko drutvo »Željezničar« Trnjanska 5b, 10000 Zagreb 
+UREDNIK Alan čaplar 
+RECENZENTI dr. Nikola Tvrtković, dr. Željko Poljak, Goran Gabrić 
+SURADNICI Ana Bakić, Darko Bakić, Martina Borovec, Marijan čepelak, Radovan čepelak, Goran Gabrić, Branko Jalić, Igor Jelinić, Tihomir Kovačević, Juraj Posarić, dr. Nikola Tvrtović 
+TISAK eljeznička tiskara, Zagreb 
+CIP - Katalogizacija u publikaciji Nacionalna i sveučilina knjinica - Zagreb 
+UDK 551.44(497.5)(091) 
+BOIć, Vlado 
+Speleologija u Hrvatskoj / Vlado Boić. - Zagreb : Hrvatski planinarski savez : Hrvatsko planinarsko drutvo »eljezničar«, 2004. - (Biblioteka Speleologija) 
+Bibliografija. 
+ISBN 953-6914-11-5 (Savez) 
+I. Speleologija -- Hrvatska -- Povijest 
+440120036 
+ISBN 953-6914-11-5 
+Vlado Boić 
+SPELEOLOGIJA U HRVATSKOJ 
+Speleoloki priručnik 
+HRVATSKI PLANINARSKI SAVEZ 
+HPD »ELJEZNIčAR«, ZAGREB 
+Zagreb, 2003. 
+Posvećeno 130. obljetnici 
+organiziranoga planinarstva 
+u Hrvatskoj 
+6 
+Skraćenice 
+SS - Speleoloka sekcija SO - Speleoloki odsjek SD - Speleoloko drutvo SK - Speleoloki klub SU - Speleoloka udruga SAK - Speleoloko-alpinistički klub PD - Planinarsko drutvo HPD - Hrvatsko planinarsko drutvo PSH - Planinarski savez Hrvatske HPS - Hrvatski planinarski savez KS PSH - Komisija za speleologiju PSH KS HPS - Komisija za speleologiju HPS SDH - Speleoloko drutvo Hrvatske HSD - Hrvatsko speleoloko drutvo HSS - Hrvatski speleoloki savez KKS PSJ - Koordinacijska komisija za speleologiju Plan. saveza Jugoslavije, Beograd SSJ - Speleoloki savez Jugoslavije, Beograd JAZU - Jugoslavenska akademija znanosti i umjetnosti, Zagreb HAZU - Hrvatska akademija znanosti i umjetnosti, Zagreb HPM - Hrvatski prirodoslovni muzej, Zagreb IGI - Institut za geoloka istraivanja, Zagreb UIS - Union internationale de spéléologie - Meðunarodna speleoloka unija SO - SO HPD »eljezničar, Zagreb SOV - SO PDS (Planinarskog drutva Sveučilita) »Velebit«, Zagreb SOD - SO HPD »Dubovac«, Karlovac SOM - SO HPD »Mosor«, Split SOB - SO HPD »Biokovo«, Makarska DISKF - Drutvo za istraivanje i snimanje krkih fenomena, Zagreb DDISKF - Dinaridi-Drutvo za istraivanje i snimanje krkih fenomena, Zagreb SDPR - SD »Proteus«, Poreč SDHA - SD »Had«, Poreč SDK - SD »Karlovac«, Karlovac SOFKH - Savez organizacija za fizičku kulturu Hrvatske 
+SADRAJ 
+PREDGOVOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 UVOD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+PRETPOVIJESNO DOBA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 
+POVIJESNO DOBA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 Razdoblje od 1096.do osnutka HPD-a 1874. godine . . . . . . . . . . . . . . . . 19 Razdoblje od 1874. do 1949. godine . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 
+RAZDOBLJE OD 1949. DO DANAS . . . . . . . . . . . . . . . . . . . . . . . . . . 31 SPELEOLOKE UDRUGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 KOLOVANJE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 VEćA SPELEOLOKA ISTRAIVANJA . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 Razdoblje od 1949. do 1959. godine . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 Razdoblje od 1960. do 1969. godine . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49 Razdoblje od 1970. do 1979. godine . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51 Razdoblje od 1980. do 1989. godine . . . . . . . . . . . . . . . . . . . . . . . . . . . . .54 Razdoblje od 1990. do 2000. godine . . . . . . . . . . . . . . . . . . . . . . . . . . . . .59 Razdoblje od 2000.do 2003. godine . . . . . . . . . . . . . . . . . . . . . . . . . . . . .66 
+SPELEOLOKA DJELATNOST I POSTIGNUćA . . . . . . . . . . . . . . . .75 SPELEOLOKE EKSPEDICIJE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .75 ISTRAIVANJA PO NARUDBI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .78 BIOSPELEOLOKA ISTRAIVANJA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81 GEOLOKA I HIDROLOKA ISTRAIVANJA . . . . . . . . . . . . . . . . . . . . . .86 Geoloka istraivanja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .86 Hidroloka istraivanja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .88 ARHEOLOKA I PALEONTOLOKA ISTRAIVANJA . . . . . . . . . . . . . . .90 ISTRAIVANJE UMJETNOG PODZEMLJA . . . . . . . . . . . . . . . . . . . . . . . . .93 
+7 
+EKOLOKA ISTRAIVANJA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .96 Proučavanje klime podzemlja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .96 Zatita podzemlja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .98 Crtei, natpisi i gravure u piljama . . . . . . . . . . . . . . . . . . . . . . . . . . . . .101 SPELEORONILAčKA ISTRAIVANJA . . . . . . . . . . . . . . . . . . . . . . . . . . .103 SPAAVANJE IZ PILJA I JAMA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .105 SPELEOLOKI SKUPOVI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .109 SPELEOLOKA PUBLICISTIKA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .113 SPELEOLOKA DOKUMENTACIJA . . . . . . . . . . . . . . . . . . . . . . . . . . . . .117 Crtei i umjetničke slike . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .117 Fotografije i dijapozitivi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .119 Snimanje zvukova . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .121 Snimanje filmskih i video zapisa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .121 
+VANIJA LITERATURA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .125 O AUTORU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .126 
+8 
+Hrvatsko krako podzemlje, bogato oblicima i zanimljivostima, vrlo je pogodno i zahvalno za speleoloku djelatnost. S istraivanjem pilja i jama započeli su jo nai daleki preci, ostvarivi nekoliko svjetski značajnih postignuća, jedna naa jama bila je svojedobno proglaena naj- dubljom na svijetu, a raznoliki speleoloki us- pjesi i vrhunski dosezi nizaju se do dananjih dana.članovi mojeg Speleolokog odsjeka u HPD »eljezničar« koji su se pripremali za polaganje ispita za naziv »speleolog« prema ispitnim pita- njima po programu Komisije za speleologiju Hrvatskog planinarskog saveza, često su me pitali za razne pojedinosti iz povijesti speleo- logije u Hrvatskoj. Shvatio sam da moj kratki povijesni pregled objavljen u ranijim priručni- cima ne daje dovoljno podataka o cjelokupnoj speleolokoj djelatnosti u Hrvatskoj, pa sam za potrebe Odsjeka napisao nov tekst i dopunio ga slikama. Dao sam ga na čitanje zagrebačkim, karlovačkim i splitskim kolegama, koji su mi odmah predloili da proirim graðu, nudeći ujedno svoju pomoć. 
+Ovaj povijesni pregled podijeljen je na tri osnovna poglavlja: pretpovijesno doba, povijesno doba do 1949. (osnivanje prve Speleoloke sek- cije u Hrvatskoj u PD »Zagreb«) i doba od 1949. do danas. Zbog obilja raznih speleolokih dje- latnosti od 1949. posebno su obraðene ove teme: speleoloke udruge, kolovanje, istraivanja, ekspedicije, istraivanja po narudbi, biospe- leoloka, ekoloka, geoloka, paleontoloka, arheoloka, speleoronilačka istraivanja te istra- ivanja umjetnih podzemnih prostora, spaava- nje iz speleolokih objekata, publikacije, doku- mentacija, a na kraju je ponuðen izbor litera- ture. 
+PREDGOVOR 
+Osnovna mi je zamisao bila prikazati razvitak speleologije od prvih ulazaka u špilje do današnjih dana. Kod toga sam neke dogoðaje i djelatnosti obradio vie, a neke manje, pa će moda netko primijetiti da poneto nije dovoljno obraðeno ili da uopće nije obraðeno. No, ovaj je pregled napisan na temelju onih podataka koje sam kao pročelnik Komisije za speleo- logiju HPS prikupljao kroz nekoliko desetljeća, a dopunjen je zahvaljujući brojnim suradni- cima.Posebno moram zahvaliti na savjetima i podacima koje su mi dali članovi mojeg Speleo- lokog odsjeka, i to: Martini Borovec na čiji sam poticaj započeo pisanje, Branku Jaliću, Jurju Posariću i Nikoli Tvrtkoviću. Takoðer su mi veliku pomoć pruili Ana i Darko Bakić te Radovan i Marijan čepelak iz SO PDS »Vele- bit«, pa Igor Jelinić iz SO PD »Dubovac«, Go- ran Gabrić iz SO HPD »Mosor« kao i Tihomir Kovačević iz drutva »Dinaridi - Drutvo za istraivanje i snimanje krkih fenomena«. Zna- čajnu su mi pomoć pruili eljko Poljak i Alan čaplar, planinarski pisci i urednici brojnih planinarskih izdanja. Pomogli su mi i drugi, koji nisu navedeni poimenično, te im se svima naj- srdačnije zahvaljujem. 
+Ovako napisana knjiga, zbog obilja foto- grafija i drugih priloga moe biti zanimljiva i nespeleolozima, posebno mladim ljudima koji su tek pred dilemom kojom se djelatnoću baviti u ivotu. Nadam se da će članovi speleo- lokih udruga ovdje naći podatke kojima će do- puniti svoje speleoloko znanje, a nespeleolozi naći zanimljivo tivo koje ih moe potaknuti da se i sami počnu baviti speleologijom i tako upoznaju ljepote i zanimljivosti naeg krakog podzemlja. 
+Vlado Boić9 
+PETIT 
+Nai su preci jo u dalekoj prolosti zalazili u pilje i jame. Morali su ih najprije istražiti da bi ustanovili može li im koja od njih poslužiti kao privremeni zaklon, stalno boravite, kao mjesto za pokop mrtvih ili neku drugu potrebu. 
+Izraz istraivanje primjenjuje se već vie stoljeća u cijelome svijetu, a vezano uz pilje i jame označuje ulaenje u njih i proučavanje. Taj se izraz rabio dugo kao jedini, a koristi se i danas, no koncem 19. stoljeća Francuz Emile Rivičr stvorio je izraz »la spéléologie« - spe- leologija. Prvi ga je put primijenio i protumačio tada istaknuti francuski speleolog Edouard- Alfred Martel, po struci pravnik, na geolokom kongresu u Besançonu 1893. i tom riječju ozna- čio istraivanje prirodnih podzemnih upljina - pilja i jama. Speleologijom je prozvao sve dje- latnosti vezane uz istraivenje pilja i jama, tj. prodiranje u pilje i jame, kao i njihovo prouča- vanje i tumačenje, koristeći se pri tomu svim dostupnim znanstvenim i tehničkim dostignući- ma. Taj su izraz tada prihvatili svi nazočni, pa se brzo proirio po cijelom svijetu. Zato se Martel smatra ocem speleologije (slika 1). 
+Slika 1 - Utemeljitelj speleologije, francuski pravnik Edouard-Alfred Martel 
+UVOD 
+U Hrvatskoj je izraz speleologija i njegove izvedenice upotrijebljen tek 1912. godine. Prvi ga je upotrijebio geolog Dragutin Gorjanović- Kramberger (slika 2) u Vjesniku geolokog po- vjerenstva za Hrvatsku i Slavoniju, gdje je kao predsjednik dao »Izvjetaj speleolokog odbora za 1911. godinu«. Od tada se taj izraz stalno koristi i u Hrvatskoj. 
+Slika 2 - Dragutin Gorjanović- Kramberger, prvi u nas počeo je primjenjivati izraz »speleologija« 
+Riječ speleologija je sloenica od starogrčke riječi spelaion koja označava prirodnu pod- zemnu upljinu, i riječi »logos« koja takoðer na starogrčkom označava znanost. Doslovni je pri- jevod riječi speleologija, prema tome, znanost o prirodnim podzemnim upljinama. Kako se prirodne podzemne upljine u hrvatskom jeziku nazivaju piljama i jamama, slijedi da je spe- leologija znanost o piljama i jamama. Meðu- tim, pojam speleologija sadri i djelatnosti ve- zane uz prodiranje u pilje i jame, to je u osnovi fizička djelatnost, za razliku od proučavanja koje je u osnovi umna djelatnost. Za prvu se moe reći da je portska, a za drugu da je znan- stvena djelatnost. One nisu odvojene, već čvrsto vezane i isprepletene. Zbog toga kaemo da je 
+11 
+Slika 3 - Umberto Girometta osnovao je u Splitu 1911. piljarski odio i već 1912. ustvrdio da je speleologija i port i znanost 
+speleologija portsko-znanstvena djelatnost, a ne samo portska ili samo znanstvena. Speleologija je, dakle, sinteza porta i znanosti. 
+Prvi u Hrvatskoj to je ustvrdio Umberto Girometta (slika 3) iz Splita rekavi da je istra- ivanje pilja i port i znanost. 
+U nas u Hrvatskoj postoji i izraz piljarstvo, koji takoðer označava djelatnost vezanu uz pilje 
+12 
+i jame. Korijen te riječi je narodni izraz za prirodnu podzemnu upljinu, od starogrčkog spelaion - pilja (u irem smislu i pilja i jama). Izraz piljarstvo prvi je u Hrvatskoj upotrijebio Dragutin Hirc (slika 4) 1905. godine, od kada je stalno u uporabi. Budući da izrazi speleologija i piljarstvo označuju istu djelatnost, znači da je speleologija isto to i piljarstvo. 
+Slika 4 - Dragutin Hirc prvi je u Hrvatskoj 1905. primijenio izraz »piljarstvo« 
+PRETPOVIJESNO DOBA 
+Hrvatska je jedna od onih zemalja koja se moe po mnogočemu ponositi svojom speleo- lokom proloću. Istraivanje pilja, ali i jama (to je posebno značajno) započelo je u Hrvat- skoj prije mnogo tisućljeća. Već u starom kame- nom dobu (paleolitu), prije oko milijun godina boravio je u pilji andalji kraj Pule u Istri pračovjek i tu ostavio tragove svog boravka - ostatke materijalne kulture i vatrite (slika 5). To je otkrio akademik Mirko Malez. 
+Mnogo su mlaði, ali poznatiji nalazi osta- taka skupine praljudi prozvane neandertalcima u polupilji Hunjakovo u Krapini (slika 6), 
+Slika 5 - Dio nalaza iz pilje andalje kraj Pule star oko milijun godina (tzv. »udarač«) dokaz je boravka pračovjeka u pilji 
+13 
+koji su tu obitavali prije 120.000 do prije 40.000 godina. 
+Preci dananjeg čovjeka (Homo sapiens) koristili su se s vie naih pilja za prebivanje, npr. piljom Vindijom blizu Varadina, Mačko- vom piljom kod Lepoglave, piljom Bukovac kod Lokava, dok su se drugima, kao npr. Veter- nicom kraj Zagreba, koristili samo povremeno. U pilji Veternici naðeni su ostaci piljskog medvjeda zagraðeni kamenom u jednoj nii u stijeni, to se tumači kao »oltar« posvećen kultu medvjeda (slika 7). 
+Slika 7 - »Oltar« u pilji Veternici, dokaz duhovne kulture neandertalskog pračovjeka 
+Nai su preci izveli pravi speleoloki pot- hvat u mlaðem kamenom dobu (neolitu) prije oko 6000 godina u pilji Gromači kod Dubrov- nika, u koju su uli oko 750 m od ulaza i spustili se 85 m ispod razine ulaza. Da bi doli do tog mjesta morali su se sputati i penjati po ne- ravnom piljskom kanalu ili se spustiti niz 
+14 
+gotovo okomit kanal visok pedesetak metara, poslije nazvan »Zid smrti« (slika 8). Tu su os- tavili tragove svoga boravka - ostatke keramič- kih posuda i otiske bosih nogu u sada osue- nom i zasiganom blatu (slika 9). Nije zabilje- eno da se itko do tada u svijetu spustio dublje! 
+Značajni su i nalazi znanstvenika Grge Novaka u piljama na Hvaru, u Grapčevoj i Markovoj pilji, te pilji Pokriveniku, gdje je pronaðena neolitska kultura koja je na otoku cvala prije 5000 - 4000 godina. Na jednom ulomku keramike naðen je najstariji crte laðe u Hrvatskoj. 
+Brojni arheoloki i paleontoloki nalazi u piljama diljem Hrvatske govore da se čovjek jo u davna vremana koristio piljama, ali i jamama, za svoje potrebe. U jami Bezdanjači pod Vatinovcem kod Vrhovina u Lici, u sred- njem brončanom dobu, sahranjeno je prije 3500 godina dvjestotinjak ljudi na dubini od 70-120 metara. Da bi doli do mjesta sahrane ti prasta- novnici Like morali su svladati najprije jednu okomicu visoku 30 metara (slika 10), pa jo nekoliko okomica od 4 do 14 metara! Uz gro- bove, pojedinačne i skupne, ostavljeno je mnogo keramičkih posuda (neke obujma 50 litara!), brončanog nakita, oruja i oruða (slika 11). Dublje su se ljudi u svijetu spustili tek 1723. godine u jami Macochi u čekoj. 
+Slika 6 - Rekon- strukcije krapin- skog pračovjeka (Homo neander- thalensis) pred polupiljom Hunjakovo u Krapini u kojoj je ivio prije 120.000 do 40.000 godina 
+Slika 8 - Sputanje niz »Zid smrti« ispod kojeg se nalazi otisak bose noge naeg pretka 
+Slika 9 - Otisak bose noge naeg pretka u osuenom blatu pilje Gromače kod Dubrovnika, star oko 6000 godina 
+15 
+16 
+Slika 10 - Sputanje speleologa niz ulaznu okomicu jame Bezdanjače, visoku 30 metara 
+Danas je poznato da su u to pretpovijesno doba ljudi boravili i u drugim piljama u Hrvat- skoj, npr. u eljeznom dobu u Jozginoj pilji kod Gospića i Donjoj Cerovačkoj pilji kod Gračaca. U starom i srednjem vijeku ljudi su takoðer boravili u piljama. Iz pisanih podataka je poznato da je sveti Jeronim (340-420. g.) kao pustinjak boravio u vie pilja na području Dalmacije. Jedna zazidana pilja na poluotoku Marjanu kod Splita nosi njegovo ime (slika 12). 
+I sveti Ilar (slika 13) ivio je od 362. do 366. godine u jednoj pilji blizu Cavtata. On je prvi čovjek za kojega po imenu znamo da je boravio u nekoj pilji. O njemu je pisao sveti Jeronim, a prema legendi on je Epidaurum (danas Cavtat) spasio od stranog zmaja Voaza iz pi- lje ipuna, koji je ivio takoðer u nekoj pilji pokraj Epidauruma. Pustinjaci su tada ivjeli i na otocima, npr. u Opatjoj i Zmajevoj pilji (slika 14), te pilji Ljubitovici na Braču, u pilji iznad Sv. Nedilje na Hvaru, a takoðer i sveti Martin u jednoj pilji u Podsusedu kraj Zagreba. 
+Vano je naglasiti da su ljudi morali pilje najprije istraiti i u to pretpovijesno doba kako bi mogli u njima boraviti kraće ili dulje vrijeme. 
+Slika 11 - Predmeti izvaðeni iz dubine od 70 do 120 m u jami Bezdanjači pod Vatinovcem kod Vrhovina, stari oko 3500 godina i izloeni u Arheolokom muzeju u Zagrebu 
+Slika 12 - pilja na poluotoku Marjanu kod Splita nosi ime svetog Jeronima jer se pretpostavlja da je u njoj neko vrijeme ivio 
+Slika 14 - U Zmajevoj pilji na otoku Braču boravili su ljudi u antičko doba, srednjem i novom vijeku i isklesali prekrasne reljefe koje znanstvenici proučavaju jo i danas 
+Slika 13 - Sveti Ilar (291-371. g.) 
+17 
+Prvi zapis i povijesni podatak o nekoj pilji u Hrvatskoj potječe iz 1096. godine. To je crkveni spis o pilji u zaljevu eljini (dananji naziv) na otoku Ugljanu, koji govori o granici crkvenog posjeda koja prolazi kroz tu pilju. Tekst je pisan latinskim jezikom na pergamentu (danas jako pohabanom), na kojem se i danas moe raspoznati riječ »pechica« (slika 15). Ta se pilja spominje na jo nekoliko dokumenata iz 1166. i poslije. 
+POVIJESNO DOBA 
+Razdoblje od 1096. do osnutka HPD-a 1874. godine 
+Slika 15 - Najstariji dokument u Hrvatskoj u kojem se spominje pilja je pergament čuvan u Dravnom arhivu u Zadru, na kojem se jo moe raspoznati riječ »pechica« - pilja 
+19 
+Slika 16 - Spomenik Petru Zoraniću u Zadru, koji je 1536. u pjesničkom djelu »Planine« pisao o piljama i jamama 
+Vie o piljama i jamama pisao je na pjes- nik Petar Zoranić Ninjanin (slika 16) u najsta- rijoj knjizi o planinama u svijetu i prvom hrvat- skom romanu »Planine« 1536. godine. U »Pla- ninama« je opisivao podzemlje Velebita i Dinare. Zoranić je na ovim planinama očito posjetio neke pilje, polupilje i jame te ih opisao, ali pjesnički.Slika 17 - Dubrovački filozof Nikola Gučetić 1584, na primjeru pilje ipun, tumačio je stvaranje siga, vjetar i vlagu u pilji 
+20 
+Prvi opis jedne odreðene pilje u Hrvatskoj dao je dubrovački vlastelin Jakov Sorkočević 1580. godine u knjizi o ribama i koljkama du- brovačkog kraja. Bio je to opis pilje ipun u Cavtatu (on ju je nazivao Cavtatskom piljom). 
+Svega četiri godine poslije, 1584. godine, objavio je dubrovački filozof Nikola Gučetić (slika 17) raspravu »O Aristotelovim meteori- ma« koja se smatra jednom od najstarijih znan- stvenih rasprava u svijetu o pojavama u piljama (u pilji ipun u Cavatu i pilji Vjetrenici u Po- povom polju). U toj se raspravi po prvi puta jedna pilja u Hrvatskoj spominje imenom. Bila je to pilja ipun (on pie Scipun). Tu pilju spominje i treći dubrovački znanstvenik Sera- fin Razzi 1595., a početkom 17. stoljeća i pjes- nik Junije Palmotić. 
+Nae su pilje istraivali i stranci. Meðu prvima bio je slovenski znanstvenik Ivan Vaj- kard Valvasor koji je 1689. godine u knjizi »Slava vojvodine Kranjske« objavio i opis pilje Druke peći na Učki i dao prvi crte ulaza u jednu pilju u Hrvatskoj - pilju Tounjčicu kod Ogulina (slika 18). 
+Na zanimljivosti hrvatskog podzemlja upo- zorio je i talijanski znanstvenik Louigi Fernando Marsiglia u svom djelu »Fizička priroda mora« tiskanom u Parizu 1725. godine, opisujući fenomene rijeka ponornica u Lici. Talijanski opat Alberto Fortis (slika 19) proputovao je po zadatku cijelu jadransku Hrvatsku, od Istre do Dalmacije. U knjizi »Put po Dalmaciji« objav- ljenoj 1774. godine, uz opise vie pilja u Dal- maciji (posebno Rudelić pilje kod izvora Ce- tine), prvi je protumačio nau riječ jama, a poslije je detaljnije opisao i nekoliko pilja u Istri i na otoku Cresu. 
+Nezadovoljan Fortisovim opisom rodnoga kraja, Sinjanin Ivan Lovrić (slika 20), koji je studirao u Veneciji i Padovi, poao je sam pro- vjeravati podatke u spomenutom Fortisovom djelu. Svoja istraivanja je 1776. godine obja- vio u djelu »Biljeke o putu Alberta Fortisa i ivot Stanislava Sočivice« na talijanskom jeziku. Kao velik domoljub, taj mladić od 22 go- dine dao je vrlo realan opis svog istraivanja 
+Slika 19 - Talijanski opat Alberto Fortis prvi je svijetu protumačio nau riječ »jama« i istraio vie pilja u Hrvatskom primorju i Dalmaciji 
+Slika 18 - Valvasorova slika grada Tounja iz 1689. najstariji je prikaz ulaza u pilju, zazidanog obrambenim zidom 
+Slika 20 - Plaketa s likom Ivana Lovrića izraðena u spomen prvom hrvatskom istraivaču pilja - 1755. je istraio a 1776. objavio opis Gospodske pilje 
+21 
+Gospodske pilje (ondanji naziv Vrlička pilja) kod izvora Cetine. 
+Pomoću ueta savladao je okomicu visoku 17 metara i preao oko 400 m piljskih kanala. Zbog ovog pothvata Ivana Lovrića smatramo prvim hrvatskim speleologom. 
+Prvi topografski znak za pilju, primije- njen u javnoj uporabi, dao je francuski istrai- vač pilja Belsazar Hacquet 1787. godine na topo- grafskoj karti Hrvatke (slika 21). Na legendi karte nacrtao je taj znak i njime označio da u Gorskom kotaru i na Velebitu ima pilja. 
+Slika 21 - Topografski znak za pilje prvi je u svijetu javno primijenio Belsazar Hacquet i objavio ga 1787. na topografskoj karti Gorskog kotara i Velebita. 
+Od tada je u idućih pola stoljeća u Hrvat- skoj bilo vrlo malo speleolokih istraivanja. Uzrok su tome politički dogoðaji i opće stanje u Hrvatskoj. Bilo je to doba buðenja nacionalne svijesti i pokreta oslobaðanja od stranih utjecaja poznatog kao Ilirski preporod. 
+Prvi opis istraivanja u 19. stoljeću dao je austrijski botaničar Franz Petter. On je 1831. 
+22 
+istraio, a 1832. i opisao Zelenu pilju na otoku Ravniku. Učiteljski nadzornik za Vojnu krajinu Julije Fras objavio je 1835. knjigu »Topografija karlovačke Vojne krajine« i u njoj opisao osamdesetak pilja i jama. On je prvi čovjek u Hrvatskoj, koga znamo po imenu i prezimenu, da se koristio drvenim ljestvama za svladavanje okomitih dijelova pilje, i to u Barićevoj pilji kod Ličkog Petrovog sela (Plitvica). 
+Od 1835. u Hrvatskoj počinju izlaziti i no- vine na hrvatskom jeziku pa je već 1842. u »Danici Ilirskoj« svećenik Stjepan Mlinarić opisao pilju kod Sv. Ivana Zeline. Bio je to prvi opis na hrvatskom jeziku, jer su svi ostali do tada pisani latinskim, talijanskim ili njemačkim jezikom (slika 22). G. Nikolajević opisao je nekoliko pilja okolice Dubrovnika u Srpskom dalmatinskom magazinu. Direktor Arheolokog muzeja u Splitu, talijan F. Carrara u svojoj knjizi o Dalmaciji 1846. opisao je nekoliko pilja to ih je posjetio, a J. Sapetz 1865. i 1866. opisao je Ozaljsku pilju. 
+Godine 1866. u Zagrebu je osnovana Jugo- slavenska akademija znanosti i umjetnosti (JAZU), to je bio poticaj hrvatskim znanstve- nicima da počnu sustavno proučavati prirodu, posebno planine, a time i pilje. Već iste godine Vjekoslav Sabljar izdaje »Mjestopisni rječnik« u kojem je dao nazive nekih pilja, a 1868. godine i opise nekih od njih. 
+Slika 22 - Naslovnica lista »Danica ilirska« u kojem je 1841. objavljen prvi opis pilje na hrvatskom jeziku 
+Osnivanjem Hrvatskog planinarskog dru- tva (HPD) 1874. godine, članovi drutva, sve hrvatski intelektualci, započeli su sustavnije istraivati i proučavati hrvatske planine i pilje u njima. Već iste godine E. Tietz opisuje neke pilje na Kordunu, a Johannes Frischauf, inici- jator osnivanja HPD-a, 1875. i 1888. pilje na otocima Rabu i Cresu te na Kordunu. Vjeko- slav Klaić opisuje u svom djelu »Prirodni zem- ljopis Hrvatske« 1878. godine 48 pilja, a Lju- devit Rossi 1878. Boića pilju kod Slunja. Mijo Kipatić objavio je 1882. godine rezultate svojih paleontolokih istraivanja Baračevih pilja kod Rakovice, a Ðuro Pilar 1883. rezul- tate svojih istraivanja pilje Kupički vrh. Malo poslije, Ivan Devčić opisuje 1895. nekoliko pi- lja u Lici, a Hitzthaler pilje u okolici Ogulina. 
+Značajna su istraivanja obavili i članovi CAF-a (Club Alpino Fiumano - Riječki plani- narski klub), koji je osnovan u Rijeci 12. siječ- nja 1885. članovi kluba bili su talijanske i hrvatske nacionalnosti. Godine 1919. klub je preimenovan u CAI-SF (Club Alpino Italiano - Sezione di Fiume). Speleoloki su istraivali u Hrvatskom primorju, Gorskom kotaru i Istri od 1887. pa sve do 1930. godine. U tom razdoblju istraili su vie od 200 raznih pilja i jama. Od 1902. do 1930. izdavali su i svoj časopis »Liburnia« u kojem su objavljivali i članke o speleologiji. Dugogodinji voða kluba bio je Guido Depoli (slika 23), a aktivni članovi bili su jo Vizenzo Giusti, Arturo Colacevich, V. Dinarich, G. Stanfin, Asperger, Milich, Pretz, Ro- selli i Tismar. Svojim fotografijama istaknuo se G. Luchecich (nekim su članovima poznata samo prezimena). Već 1887. članovi kluba istra- ili su danas poznatu paronu pilju kod Kastva i poslije je uredili za turistički posjet te zatitili vratima. 
+Razdoblje od 1874. do 1949. godine 
+Slika 23 - Guido Depoli bio je dugugodinji predsjednik Riječkog alpinističkog kluba čiji su članovi istraili brojne pilje i jame u Istri i Gorskom kotaru 
+Tijekom 1855. Dalmacijom je vladala kolera, pa su se imućniji Splićani (gospoda) sklonili u Vrliku i tu u dokolici posjećivali pilju kraj izvora Cetine koja je po tome dobila ime Gos- podska. Radi tih posjeta malo je ureðen ulazni dio pilje (kamene stube) (slika 24). Po pilji je posjetitelje vodio hajduk araban. Meðu tom gospodom bio je i Dr. Jakov Chiudina koji je po povratku u Split jo iste godine napisao knjiicu o Vrlici i u njoj u VI. poglavlju pod naslovom »Pohod Vrličke pećine« (na str. 15-18), opisao razgledavanje pilje. To je najstariji po- datak o turističkim posjetama nekoj pilji u Hrvatskoj. Taj opis posjeta pilji prenio je 1905. D. Hirc u svoju knjigu »Prirodni zemljopis Hrvatske«. 
+Koncem stoljeća javljaju se i prvi pokuaji grafičkog prikazivanja pilja, tj. nacrti pilja. Prvu skicu jedne pilje, male pilje kod Muća Gornjeg u Dalmaciji, izradio je i 1882. objavio J. M. Granić (slika 25). 
+Geolog Gjuro Pilar je 1887. godine izradio prvi nacrt pilje na milimetarskom papiru (Velika 
+23 
+Slika 24 - Stube u ulaznom dijelu Gospodske pilje sagraðene 1855. godine 
+peć na Medvednici kraj Zagreba, slika 26), a 1903. Luigi Mioto iz Splita izradio je i prvi geodetski nacrt pilje Vranjače iza Mosora (slika 27). 
+U to doba započela su i prva biospeleoloka istraivanja. Faunu pilja u okolici Ogulina pro- 
+24 
+učavao je Adolf Eugen Jurinac i 1888. objavio rezultate svojih istraivanja, a Lucijan Matulić, koji je istraivao pilje u okolici Trebinja i Du- brovnika, objavio je 1892. rezultate proučavanja piljskih kukaca. 
+Slika 26 - Nacrt Velike peći na Medvednici Ðure Pilara 
+Slika 25 - Najstariji grafički prikaz pilje u Hrvatskoj - tlocrt bezimene pilje kod Muća Gornjeg u Dalmaciji, objavljen 1882. uz tekst J. M. Granića 
+Slika 27 - Prvi speleoloki nacrt u Hrvatskoj izraðen geodetskom metodom je nacrt pilje Vranjače (dananji naziv) iza Mosora; izradio ga je Luigi Mioto iz Splita, a objavio Fritz von Kerner 1905. u Beču 
+Dragutin Hirc je u knjizi o Gorskom kotaru 1898. godine objavio prvu sliku koja prikazuje istraivanje jedne pilje u Hrvatskoj - Hajdove hie kod Delnica. Sliku je prilikom posjete pilji 1875. izradio slikar Vaclav Anderle, dugogo- dinji Hirčev pratilac (slika 28). 
+Slika 28 - Crte istraivanja Hajdove hie Vaclava Anderlea iz 1898. godine najstariji je prikaz speleoloke opreme i tehnike 
+25 
+Vanu je ulogu za daljnji razvoj speleolo- gije u Hrvatskoj imao je časopis HPD-a »Hrvat- ski planinar«, koji izlazi od 1898. do danas, jer se u njemu objavljuju i brojni članci o speleo- logiji. Već u prvom njegovom broju geolog Milan enoa daje uputu kako treba sabirati po- datke o piljama i jamama. 
+Koncem 19. stoljeća, 1899. godine, u brdu Hunjakovu kraj Krapine otkrivena je polupi- lja s brojnim ostacima pračovjeka, koje je idu- ćih desetak godina proučavao Dragutin Gorja- nović-Kramberger. 
+Do konca 19. stoljeća u Hrvatskoj su pilje i jame istraivali samo pojedinci s nekoliko pomagača. Prva udruga koja je sustavno počela istraivati pilje bila je Planinsko-turističko drutvo »Liburnija«, osnovano u Zadru 1899. go- dine (slika 29). članovi drutva bavili su se svim planinarskim i turističkim djelatnostima, izmeðu ostalog (već od 1900.) i istraivanjem pilja, čak su 1903. organizirali i prvu hrvatsku spe- leoloku ekspediciju, kuterom po Kornatskom otočju. Iako su članovi »Liburnije« stalno istra- ivali po Velebitu, otocima, pa i po Mosoru, poseban Odbor za istraivanje pilja osnovali su tek 1908. godine. Bila je to prva udruga u Hrvatskoj osnovana radi istraivanja pilja. Kako su članovi drutva bili amateri, to je i ovaj Odbor bio amaterska udruga. 
+Slika 29 - Zastavica s amblemom zadarske »Liburnije« 
+Velik doprinos poznavanju pilja u Hrvat- skoj dao je već spomenuti Dragutin Hirc. Uz nekoliko stotina raznih putopisnih članaka, u kojima je u razdoblju od 1875. do 1909. opisi- vao i pilje, najznačajnije mu je djelo »Prirodni 
+26 
+zemljopis Hrvatske«, izdano 1905. godine, u kojemu je opisao oko 300 pilja i jama. 
+Prva profesionalna speleoloka udruga osnovana je u Hrvatskoj u Geolokom povje- renstvu za Hrvatsku i Slavoniju u Zagrebu 1910. godine pod nazivom Odbor za istraivanje pilja, a godine 1912. promijenio je naziv u Speleo- loki odbor. Prvi i jedini predsjednik tog odbora (Odbor je djelovao do početka I. svjetskog rata 1914.) bio je geolog Dragutin Gorjanović- Kramberger. Uz Gorjanovića je u Odboru bilo svega nekoliko suradnika (Koch, Schubert, Kerner), a od 1912. i mladi geolog Josip Poljak (slika 30), koji je po dunosti počeo obavljati sustavna regionalna speleoloka istraivanja. Obradom rezultata tih istraivanja 1922. obranio je doktorsku disertaciju o speleolokim objekti- ma u Hrvatskoj, te tako postao prvi doktor speleologije u Hrvatskoj. 
+Slika 30 - Geolog Josip Poljak prvi je u Hrvatskoj pilje i jame istraivao sustavno i profesio- nalno počevi od 1912., a 1922. doktorirao je iz područja speleologije i tako postao prvi hrvatski doktor speleologije 
+Od 1909. u Splitu je niz godina pilje i jame Dalmacije istraivao Umberto Girometta s ðaci- ma Realke, a posebice nakon osnivanja piljar- skog odjela na Velikoj Realki 1911. godine, zajedno sa Ramirom Bujasom. Kako u Dalma- 
+ciji ima vie jama nego pilja, članove te udru- ge nazivali su »jamari«, a bili su vrlo dobro opremljeni i uvjebani (slika 31). 
+U srednjoj Dalmaciji, na kopnu i otocima, istraili su mnogo pilja i jama, a meðu njima i nekoliko dubokih jama, npr. koljenastu Jamu na Kolitini kod Prgometa duboku 138 metara. 
+Samostalnih istraivanja bilo je jo. A. Wa- agen istraio je i 1910. opisao pilje na Krku, Cresu i Rabu, Ivan Franić u knjizi »Plitvička jezera« iste godine opisao je pilje u okolici Plitvičkih jezera, A. Langhoffer objavio je 1911. djelo »Pećine upanije Ličko-Krbavske« i uz popis pilja dao prvi nacrt jedne turistički ure- ðene pilje u Hrvatskoj - pilje Samograd kod Peruića. Godine 1912. Maðar A. Kormos istra- ivao je pilju Bukovac kod Lokava i tu prona- ao ostatke pračovjeka. 
+Za vrijeme Prvog svjetskog rata speleolo- kih istraivanja je bilo vrlo malo, ali su po nje- govom zavretku nastavljena. Tako je Mijo Kusijanović 1918. objavio brouru »Močiljska pećina kod Dubrovnika«, Umberto Girometta 1922. pozamano djelo »Jame i pećine Srednje Dalmacije« u kojem opisuje 472 speleoloka 
+Slika 31 - Splitski jamari pod vodstvom Umberta Giromette i Ramira Bujasa oko 1912. godine sa svojom speleolokom opremom 
+objekta, a geolog Marko Margetić 1925. objav- ljuje rad »Nove jame i pećine Srednje Dalma- cije«. pilje na otoku Hvaru istraivao je 1926- 1927. M. Schneider, ali nije pronaao nita va- no, meðutim, poslije je u Markovoj i Grapčevoj pilji te u pilji Pokriveniku na znanstvenik Grga Novak, s asistentom Vladimirom Miro- savljevićem, otkrio ostatke civilizacije iz vre- mena 2000-3000 godina prije Krista. 
+Godine 1925. jedna je jama u Hrvatskoj bila proglaena najdubljom u svijetu. Naime, kada je Istra 1918. pripala Italiji talijanski su se speleo- lozi spustili u Ponor kod Rapora (dananji na- ziv) na ćićariji i izmjerili dubinu od 450 m, to bi u to doba bilo najdublje u svijetu, meðutim, točnim mjerenjem jame 1974. hrvatski su spe- leolozi izmjerili dubinu od svega 355 metara (slika 32). Talijanski speleolozi A. Boegan i V. Bertarelli objavili su djelo »Dvije tisuće pilja« (Due milla grotte) i u njoj opisali mnogo pilja i jama u Istri, Gorskom kotaru i Hrvatskom pri- morju, meðu kojima nekoliko vrlo dubokih. 
+Osim Josipa Poljaka koji je sve to vrijeme marljivo, po zadatku, sustavno istraivao oko- licu Ogulina, Rijeke i Paklenice, bilo je jo27 
+mnogo pojedinaca koji su, svaki na svoj način, pridonijeli boljem poznavanju naega krakog podzemlja, npr. Z. Rosandić je pisao o speleo- lokim objektima Like i njihovoj zatiti, kao i Ilija arirnić; pa Josip Pasarić, Josip Roglić, Zvonimir Dugački, Zora Karaman, čeh Karel Absolon, V. Apfelbeck, J. Brait, A. Hofman i drugi. 
+Slika 33 - Svestrani planinar i speleoloki rekorder Ivan Krajač 
+28 
+Slika 34 - umarski inenjer Ante Premuić, poznat kao graditelj »Premuićeve staze« na Velebitu, 1928-1930. uredio je za turistički posjet pilje na Plitvičkim jezerima, a 1930- 1933. s Krajačem istraio vie jama u području Crikvene na Roanskim kukovima 
+Posebno je značajan rad Ivana Krajača (slika 33), koji je s Antunom Premuićem (slika 34) istraivao pilje na Plitvičkim jezerima (1928.) i na Velebitu (1930-1933). Sa svojom supru- 
+Slika 32 - Talijan- ski speleolozi na dnu Ponora kod Rapora (Abisso Bertarelli - onda- nji naziv), prema talijanskim mje- renjima 1925. najdublje jame u svijetu, duboke 450 metara 
+gom Helom spustio se 1930. godine, koristeći se alpinističkom opremom, u jamu Varnjaču na Velebitu, duboku 120 metara (slika 35), pa je tako Hela Krajač prva poznata ena u Hrvat- skoj koja se spustila u neku jamu. 
+Iste se godine Krajač spustio i u jamu Vrt- linu 180 m duboko, a njegov pomoćnik Mile Sjau 195 m, to je tada bila najveća dubina do koje su se spustili hrvatski speleolozi. 
+Godine 1927. u HPD »Mosor« je na poticaj Umberta Giromette osnovana »Sekcija za istra- ivanje krakih pojava«, a članovi su istraivali jame i pilje u okolici Splita. Značajan doprinos popularizaciji speleologije postigli su ureðe- njem i 1929. godine otvaranjem pilje Vranjače za turistički posjet, predvoðeni pročelnikom Radom Mikačićem, te izdavanjem broure o toj pilji. 
+Slika 35 - Dno ledenice u jami Varnjači (-120 m) u koju se 1930. spustila prva ena (Hela Krajač sa suprugom Ivanom) 
+Izmeðu dva svjetska rata bilo je samo ne- koliko pojedinačnih speleolokih istraivanja. Najveći doprinos u tom razdoblju dali su zagre- bački planinar i novinar Vladimir Horvat (slika 36) i eljeznički umirovljenik Vladimir Redenek. 
+Slika 36 - Vlado Horvat uredio je 1928. pilju Vrlovku za turistički posjet, na Medvednici istraivao pilje i jame, i poslije Drugog svjetskog rata uredio kraki park »Horvatovih 500 stuba« 
+Godine 1933. započela su istraivanja pilje Veternice na Medvednici u kojima su sudje- lovale brojne skupine raznih znatieljnika. Prvi je u pilju uao Zagrepčanin Stanko pl. Gretić (slika 37).Slika 37 - Stanko pl. Gretić prvi je započeo istraivanje u veljači 1933. godine 
+29 
+1945. (ne pod svojim imenom) izdao djelo »Podaci o pećinama« u kojem je obradio 612 pilja i jama u Hrvatskoj. 
+Prvi znanstveni speleoloki rad nakon Dru- gog svjetskog rata bio je »Starost i sistematsko značenje spiljskog medvjeda Hrvatske« geologa Milana Heraka, izdan 1947. godine. Tu je obra- ðen iskopani materijal iz Cerovačkih pilja koji su u paleontolokim istraivanjima otkrili geo- lozi Crnolatac i Ogulinac. 
+30 
+Prvo je znanstveno istraivao Veternicu Josip Poljak 1934. godine (slika 38). 
+Drugi svjetski rat prekinuo je gotovo sva speleoloka istraivanja, pa većih rezultata nije bilo. Pojedinačno su istraivali Vlado Reden- ek, Ivan Pancer i Frano Baučić. U jeku rata (1943.) Frano Baučić je u Zagrebu u Salezijan- skom domu na Kneiji osnovao piljsko-pećin- sko-ponorski odsjek HPD-a, koji se zbog slabe djelatnosti brzo raspao. No, Frano Baučić je 
+Slika 38 - Ivica Smolec pred ula- zom u Veternicu 1934. na snimci Josipa Poljaka 
+RAZDOBLJE OD 1949. DO DANASSpeleologija je u Hrvatskoj doivjela velik uspon nakon 1949. godine, kada je speleoloka djelatnost obnovljena osnivanjem Speleoloke sekcije (SS) u Planinarskom drutvu »Zagreb«. Inicijator osnivanja i prvi pročelnik sekcije bio je Vladimir Redenek (slika 39). Nakon ove, osnovane su mnoge druge udruge, započelo je 
+31 sustavno kolovanje, istraivanje, objavljivanje radova i suradnja. Od tada razvoj speleologije nije vie moguće pratiti pojedinačno kao u prethodnom razdoblju, jer se broj ljudi koji su istraivali hrvatsko podzemlje naglo povećao, a i rezultati istraivanja su toliki da ih je lake prikazati sustavno nego pojedinačno. 
+Slika 39 - Vladimir Redenek, osnivač prve Speleoloke sekcije u PD »Zagreb« 1949. i Referade za piljarstvo u PSH 1952. 
+SPELEOLOKE UDRUGE 
+32 
+Raznih speleolokih udruga bilo je i prije 1949. godine. Prva udruga u Hrvatskoj koju moemo smatrati speleolokom bio je Odbor za ureðenje pilje Samograd u Peruiću, osnovan 14. prosinca 1886. u Peruiću. Odbor je do 1889., kada je upriličeno svečano otvorenje pilje, pro- bio put do pilje i sagradio (uklesao) oko 150 stuba u pilji (slika 40). 
+Naalost, nema podataka tko su bili članovi toga najstarijeg Odbora ni koliko je dugo Odbor radio nakon otvorenja pilje. Slična udruga osno- vana je 1892. za Baračeve pilje kod Rakovice (slika 41) koja je radila i poslije na odravanju pilja, ali svega nekoliko godina. Inicijator i voða tog Odbora bio je geolog Mijo Kipatić. Prva amaterska udruga za istraivanje pilja bio je već spomenuti Odbor za istraivanje pilja Planinsko-turističkog drutva »Liburnija« u Zadru osnovan 1908. godine (radio je samo do početka Prvog svjetskog rata), a prva profesio- nalna udruga Odbor za istraivanje pilja Geo- lokog povjerenstva za Hrvatsku i Slavoniju, osnovan u Zagrebu 1910. (radio je takoðer samo 
+Slika 40 - Stube uklesane u sigovinu u pilji Samograd jo koncem 19. stoljeća 
+Tablica 1 - Speleoloke udruge od 1885. do 1948. 
+Br.1.2.3.4.5.6.7.8.9. 10. 11. 12. 
+Naziv speleoloke udruge 
+Mjesto 
+CAF - Club alpino Fiumano 
+Rijeka Odbor za ureðenje pilje Samograd 
+Peruić Odbor za ureðenje Baračevih pilja 
+Rakovica Planinsko-turist. drrutvo »Liburnija« 
+Zadar piljarski odio Velike Realke 
+Split Podrunica HPD »Runolist« 
+Lokve Podrunica HPD »Mosor« 
+Split Podrunica HPD »Runolist« 
+Zagreb Podrunica HPD »Orjen« 
+Dubrovnik Podrunica HPD Zagreb 
+Zagreb Podrunica HPD »Prijatelj prirode« 
+Zagreb Podrunica HPD »piljar« na Kneiji 
+Zagreb 
+1885 
+1886 
+1887 
+1888 
+1889 
+1890 
+1891 
+1892 
+1893 
+1895 
+1895 
+1896 
+1897 
+1898 
+1899 
+1900 
+1901 
+1902 
+1903 
+1904 
+do početka Drugog svjetskog rata). Slijedilo je osnivanje piljarskog odjela na Velikoj Realki 1911. u Splitu koji su vodili Umberto Giro- metta i Ramiro Bujas. I taj je Odjel radio samo do 1914. Ostale udruge koje su radile i zamrle do 1949. godine bile su podrunice HPD »Ru- nolist« u Lokvama (1923-1927 i 1935), »Mo- sor« u Splitu (1927-1941), »Runolist« u Za- grebu (1927-1929), »Orjen« u Dubrovniku« (1933), zatim podrunica »Prijatelj prirode« u Zagrebu (1936-1940) i podrunica HPD-a na Kneiji u Zagrebu (1943). 
+Slika 41 - Pozivnica za svečano otvo- renje Baračevih pilja 1892. 
+Danas u Hrvatskoj postoje dvije skupine amaterskih speleolokih udruga, u planinarskoj udruzi (u planinarskim drutvima) i izvan nje. Speleologija se prvo razvila unutar planinarske udruge. 
+Nakon osnivanja speleoloke sekcije u PD »Zagreb« osnovano je vie takvih sekcija i u drugim planinarskim drutvima, pa se pojavila potreba za koordiniranjem njihovog rada. Naj- prije je u Planinarskom savezu Hrvatske osno- vana Referada za piljarstvo, koju je vodio Vla- dimir Redenek, a 1956. i Komisija za speleo- 
+udruge kojima je speleologija bila osnovna djelatnost udruge kojima speleologija nije bila osnovna djelatnost 
+33 
+34 
+Predsjednici i pročelnici Komisije za speleologiju Hrvatskog planinarskog saveza 
+1. Slavko Marjanac 1956-1957. slika 42 2. Veljko egrc 1958. slika 43 3. Srećko Boičević 1959.-1962. slika 44 4. Ivan Filipčić 1962.-1963. slika 45 5. Vlado Boić 1963.-1999. slika 46 6. Ana Sutlović 1999.-2003. slika 47 7. Igor Jelinić 2003.- slika 48 
+Slika 43 - Veljko egrc 
+Slika 46 - Vlado Boić 
+Slika 44 - Srećko Boičević 
+Slika 47 - Ana Sutlović 
+Slika 42 - Slavko Marjanac 
+Slika 45 - Ivan Filipčić 
+Slika 48 - Igor Jelinić 
+logiju (KS PSH) kojoj je osnivač i prvi pred- sjednik bio Slavko Marjanac (slika 42). Marja- nac je bio njen predsjednik do 1957., a nakon njega 1958. Veljko egrc (slika 43), Srećko Boičević 1959.-1962. (slika 44) i Ivan Filipčić 1962.-1963. (slika 45). Od tada na su na čelu Komisije bili pročelnici i to Vlado Boić 1963.- 1999. (slika 46), Ana Sutlović-Bakić 1999.- 2003. (slika 47) i od 2003. Igor Jelinić (slika 48). 
+Naziv Speleoloka sekcija (SS) promije- njen je 1956. u Speleoloki odsjek (SO), a 1991. naziv Komisija za speleologiju Planinarskog sa- veza Hrvatske (KS PSH) u Komisija za speleo- logiju Hrvatskog planinarskog saveza (KS HPS). Od 2000. KS HPS pridrueni je član Meðuna- rodne speleoloke unije - Union internationale de spéléologie (UIS). 
+U KS PSH 1978. osnovana je Sluba vo- diča po pilji Veternici koja je vodila posjeti- telje, odravala pilju urednom i povremeno organizirala koncerte i igrokaze u pilji. Pre- stala je s radom 2001. kada je nadzor o pilji preuzeo Park prirode Medvednica. 
+Zbog boljeg organiziranja i koordiniranja rada speleolokih udruga u Dalmaciji u Splitu je 1996. osnovana Dalmatinska speleoloka koor- dinacija kojoj je pročelnik od osnutka Ivan Ma- rinov (slika 49). 
+Slika 49 - Ivan Marinov, pročelnik Dalmatinske speleoloke koordi- nacije - pred Lukinom jamom 1994. 
+Prva speleoloka udruga osnovana nakon Drugog svjetskog rata izvan planinarske udru- ge bilo je Speleoloko drutvo Hrvatske (SDH), osnovano 1954. godine u Zagrebu kao samo- stalna i neovisna udruga. Ona se predstavljala prema drugim ondanjim jugoslavenskim repu- blikama i inozemstvu kao vrhovna speleoloka udruga u Hrvatskoj, tj. kao speleoloki savez. Drutvo je 1993. postalo redovnim članom UIS, 
+Slika 50 - Mirko Malez, dugogodinji predsjednik SDH te prvi i jedini speleolog-akademik 
+Slika 51 - Mladen Garaić, dr. geologije, predsjednik SDH/HSD (1990-1998). i predsjednik HSS od 1998. do danas 
+35 
+Osim a 1997. promijenilo je naziv u Hrvatsko speleo- 
+ove, u Hrvatskoj su osnovane i druge loko drutvo (HSD). Tijekom 1998. Drutvo 
+speleoloke udruge pod nazivima speleoloko je prestalo postojati jer je i formalno osnovan 
+drutvo (SD), speleoloka udruga (SU), speleo- Hrvatski speleoloki savez (HSS). Prvi pred- 
+loki klub (SK) i speleo-alpinistički klub (SAK). sjednik SDH bio je dr. Josip Poljak (1954), a 
+Prvo je (1970) osnovano Drutvo za snimanje i poslije njega dr. Josip Roglić (1955-1961), dr. 
+istraivanje krkih fenomena (DISKF) u Zagre- Vladimir Blaković (1961-1970), akademik 
+bu, a slijedilo je osnivanje drutava u Fuinama, Mirko Malez (1970-1990) (slika 50) i dr. Mladen 
+Splitu, Karlovcu, Pazinu, Poreču, Bujama, Sa- Garaić (1990-1998), koji je i predsjednik HSS-a 
+moboru, ali i jo nekih u Zagrebu. Mnogi SD-i od 1998. do danas (slika 51). 
+(zbirni naziv za sva neplaninarska speleoloka 
+Tablica 2 - Planinarske speleoloke udruge od 1949. do 2003. 
+Br.1.2.3.4.5.6.7.8.9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 369 4910 
+5911 
+5912 
+5913 
+5914 
+5915 
+5916 
+5917 
+5918 
+5919 
+5910 
+6911 
+6912 691Planinarska speleoloka udruga Mjesto 
+3 6914 691Zagreb - Matica 
+Zagreb eljezničar 
+Zagreb Mosor 
+Split Rudar 
+Raa Orjen / Dubrovnik 
+Dubrovnik Platak 
+Rijeka Javor 
+Zagreb Speleoloka grupa / SO Velebit 
+Zagreb Mosor 
+Dugopolje Dubovac 
+Karlovac Referada za piljarstvo / KS PSH / KS HPS 
+Zagreb Podkomisija za piljarstvo / KKS PSJ 
+Zagreb Mosor 
+Klis Zanatlija 
+Zagreb Paklenica / Liburnija 
+Zadar Velebit 
+Hvar Split 
+Split Dubovac 
+Vojnić Otočani 
+Novalja Japetić 
+Samobor INA-OKI 
+Zagreb Biokovo 
+Makarska Sutjeska 
+Zagreb Svilaja 
+Sinj Kamenar 
+ibenik Dalmatinska speleoloka koordinacija 
+Split Sveti Mihovil 
+ibenik Klen 
+Vodice Malačka - Donja Katela 
+Katel Stari Spivnik 
+Blato 
+Treba drutva) udrueni su u HSS, no neki nisu. Svi 
+reći da je KS PSH potaknula osniva- SO-i, koji djeluju u okviru planinarske orga- 
+nje Koordinacijske komisije za speleologiju nizacije, udrueni su u KS HPS. 
+Planinarskog saveza Jugoslavije (KKS PSJ). 
+U Hrvatskoj danas djeluje četrdesetak spe- leolokih udruga s preko 300 članova. Suradnja je razvijena meðu mnogim SO-ima i SD-ima, odnosno s KS HPS i HSS-om, tako da ovaj, naizgled neusklaðen organizacijski sustav, ne ometa osnovnu speleoloku djelatnost - istrai- 
+Najprije je 1964. u Planinarskom savezu Jugo- slavije osnovana Potkomisija za alpinizam i piljarstvo, a 1967. i KKS PSJ, koja je radila do raspada bive Jugoslavije, tj. do 1991. godine. Predsjednik te komisije bio je cijelo vrijeme Vlado Boić. 
+vanje pilja i jama. 
+udruge koje od osnutka djeluju pod stalnim nazivom udruge koje su tijekom djelovanja promijenile naziv 
+37 
+tucija, Od kada je 1953. osnovan Speleoloki savez 
+i to Institut za geoloka istraivanja u Jugoslavije (SSJ) pojedini članovi speleolokih 
+Zagrebu, Hrvatski prirodoslovni muzej u Za- udruga u Hrvatskoj obnaali su u njemu mnoge 
+grebu (radi biolokih i paleontolokih istraiva- dunosti. 
+nja) i Odjel za kr Hrvatske akademije znanosti 
+Speleologijom se danas u Hrvatskoj profe- sionalno bavi samo nekoliko znanstvenih insti- 
+i umjetnosti. U tim institucijama ima svega nekoliko ljudi koji imaju zadovoljavajuće spe- 
+Tablica 3 - Neplaninarske speleoloke udruge od 1949. do 2003. 
+Br.1.2.3.4.5.6.7.8.9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 38 Mjesto 9 4910 
+5911 
+5912 
+5913 
+5914 
+5915 
+5916 
+5917 
+5918 
+5919 
+5910 
+6911 
+6912 691Naziv speleoloke udruge 
+3 6914 691Spel. drutvo Hrvatske / HSD / HSS 
+Zagreb Spel. sekc. Geograf. instituta / HGD / SSD 
+Zagreb Speleoloka sekcija »Vladimir Nazor« 
+Split Speleoloka sekcija voda izviðača 
+Zagreb Spel.drut. »U. Girometta«/SD »piljar« 
+Split Speleoloko drutvo »Istra« 
+Pazin Speleoloko drutvo »Proteus« 
+Poreč Speleoloka sekcija voda izviðača 
+Karlovac Speleoloko drutvo »Ursus spelćus« 
+Zagreb Speleoloka grupa na Visu 
+Vis DISKF - Drut. za istr.i snim. kr. fenom.* 
+Zagreb Speleoloko drutvo »Myotis Myotis« 
+Karlovac Speleoloko drutvo »Pauk« 
+Fuine Speleoloko drutvo »Rovinj« 
+Rovinj Speleoloko drutvo »Buje« 
+Buje Hrvatsko biospeleoloko drutvo 
+Zagreb Speleoloko drutvo »Jamar« 
+Han Speleoloko drutvo »Karlovac« 
+Karlovac Speleoloko drutvo »Had« 
+Poreč Speleoloko-alpinistički klub »Ekstrem« 
+Makarska Speleoloka udruga »Estavela« 
+Kastav Speleoloko drutvo »Prezid« 
+Prezid Speleoronilačko drutvo 
+Zagreb Speleoloko drutvo »Matokit« 
+Vrgorac Speleoloko drutvo »Krstatica« 
+Split Speleoloka grupa »imi« 
+Zapreić Speleoloki klub »Samobor« 
+Samobor Speleoloko drutvo »ćićarija« 
+Buzet Speleoloka udruga »Spelunka« 
+Opatija Speleoloko drutvo »Ursus spelćus« 
+Karlovac Speleoloko drutvo »Lika« 
+Gospić Dinaridi - DISKF 
+Zagreb DISKF - Zagreb 
+Zagreb Speleoloki klub »Ozren Lukić« 
+Zagreb 
+* DISKF se 2002. godine razdvojio u Dinaridi DISKF i DISKF - Zagreb 
+leoloko obrazovanje i opremu, pa se za veća speleoloka istraivanja koriste ljudstvom i opremom amaterskih udruga. 
+Pregled aktivnosti (osnivanje i zamiranje) pojedinih speleolokih udruga u Hrvatskoj pri- kazan je tablicama. 
+udruge koje od osnutka djeluju pod stalnim nazivom udruge koje su tijekom djelovanja promijenile naziv 
+39 
+KOLOVANJE 
+40 
+Naalost, nema podataka kako su o speleo- logiji znanje stjecali nai najstariji prethodnici, posebno oni prije Drugog svjetskog rata. Pozna- to je da je osnivanjem speleolokih sekcija u planinarskim drutvima naglo poraslo zanima- nje za speleologiju, pa je mlade članove treba- lo i odgovarajuće osposobiti za tu djelatnost. Prema sjećanju starih članova SS PD »eljezni- čar« prvi je svoja speleoloka iskustva prenosio na mlaðe članove Vladimir Redenek tijekom 1950-1954. za vrijeme putovanja vlakom na teren. Prvo javno predavanje (o geolokim osno- vama) mladim članovima jedne speleoloke udruge odrao je ondanji student geologije Srećko Boičević, i to 1954. članovima SS PD »Javor« u Zagrebu. 
+Prvi speleoloki tečaj u Hrvatskoj odran je na zamolbu SD »Bosna« iz Tuzle za njihove članove i ujedno za članove SO PD »eljezni- čar« iz Zagreba. Tečaj su 1956. odrali Slavko Marjanac i Srećko Boičević u Zagrebu. Prvi republički speleoloki tečaj (u organizaciji KS PSH) odran je već 1957. u Ogulinu (slika 52). Na njemu su sudjelovali članovi iz Zagreba, Ogulina, Karlovca i Splita. Predavači i instruk- tori bili su opet S. Marjanac i S. Boičević. 
+Slika 52 - Predavanje S. Boiče- vića na tečaju u Ogulinu 1957. 
+Drugi republički speleoloki tečaj odran je u Donjoj Cerovačkoj pilji 1958. (voða Vlado Boić), a treći u Tounju 1960., kojemu je voða bio Srećko Boičević. Iste 1960. godine SO PD »Javor« u Zagrebu organizirao je prvi odsječki speleoloki tečaj (voðe Tomislav Imenek i Ivan Filipčić). 
+Uspjeh ovih tečajeva pročuo se po ondanjoj Jugoslaviji, pa je KS PSH 1961. organizirala Prvi jugoslavenski speleoloki tečaj, takoðer u Tounju, kojemu je voða opet bio S. Boičević (slika 53). Sudionici tečaja bili su članovi spe- leolokih udruga iz svih ondanjih jugoslaven- skih republika. 
+članovi SO-a PD »eljezničar« organizi- rali su 1963. za svoje članove i članove SO-a PD »Kamenjak« iz Rijeke speleoloki tečaj u Lovranu i na Učki. 
+Tada je uočeno da postoje potekoće u or- ganiziranju tečaja u neprekidnom trajanju od tjedan dana na terenu, pa je usvojen oblik ko- lovanja koji je prozvan »kola«, a sastoji se od predavanja jednom tjedno u trajanju od dva sata, u gradu, i praktičnih vjebi na terenu subotom i nedjeljom. Takva kola traje 5-6 tjedana. Po prvi je puta takav oblik kolovanjna primijenio SO PD »eljezničar« 1966. po programu KS PSH.KS PSH bila je ne samo inicijator osnivanja KKS PSJ, nego je 1968. organizirala u Hrvat- skoj (na Medvednici) i Prvi jugoslavenski dvo- dnevni seminar o spaavanju iz speleolokih objekata, na kojem su sudjelovali članovi iz go- tovo svih ondanjih jugoslavenskih republika. Neposredno nakon ovog, za iste sudionike, odr- an je i dvodnevni Seminar za speleologe-istra- ivače u Gorskom kotaru. 
+Speleolokih tečajeva bilo je jo. U Rijeci je 1970. KS PSH organizirala speleoloki tečaj 
+za mlade članove iz Rijeke i Opatije, a 1973. na Malački kraj Splita za članove udruga splitske regije.Tečaje i kole počeli su organizirati i poje- dini SO-i (ne samo KS PSH), ali po programu koji je tijekom 1968-1970. izradila KS PSH. Tako je SO PDS »Velebit« počeo redovito, svake godine u proljeće, organizirati speleo- loku kolu (od 1971. do sada ih je odrano 33), a počele su tako raditi i druge speleoloke udru- ge u Zagrebu (slika 54, 55), Splitu, Karlovcu, Zadru, ibeniku, na Korčuli i drugdje. Speleo- lokih kola, tečajeva, seminara i savjetovanja odrano je u Hrvatskoj mnogo. 
+Treba naglasiti da je temeljni Program ko- lovanja speleologa izradila KS PSH jo 1968., kada su odrani i prvi ispiti za naziv speleolog, i tijekom daljnjih godina ga doraðivala. Taj je Program postao osnova za kolovanje i nepla- ninarskim udrugama, tj. speleolokim drutvima (SD-ima), koja ga upotrebljavaju prilagoðenog svojim mogućnostima. Slika 54 - Vjeba crtanja 
+u pilji Veternici 
+Slika 53 - Logor Prvog jugoslavenskog speleolokog tečaja, odranog u Tounju 1961. (voða Srećko Boičević) 
+41 
+42 
+Slika 55 - Vjeba sputanja i penjanja po uetu na Gorskom zrcalu na Medvednici 
+Dobre osobine tog kolovanja uočili su i speleolozi u Srbiji, Bosni i Hercegovini, Crnoj Gori i Makedoniji, gdje su ga primijenili za ko- lovanje svojih članova. Hrvatski su speleolozi na njihovim kolama i tečajevima sudjelovali kao instruktori i članovi ispitnih povjerenstava, a 1988. bili su i organizatori cijelog speleolo- kog tečaja u Nikiću u Crnoj Gori, gdje su odrali i prve ispite za stjecanje naziva speleolog. 
+U cilju provjere znanja o orijentaciji u pi- ljama i jamama uvedena su speleoloka orijen- tacijska natjecanja, naravno, u piljama u kojima postoje labirinti kanala i dvorana. Takva su na- tjecanja započela jo 1972., a posljednih se go- dina odravaju redovno svake godine (slika 56). 
+Da bi se potaknulo usavravanje speleolo- kih znanja u planinarskoj udruzi, uvedeni su speleoloki nazivi: suradnik, pripravnik, spele- olog i instruktor. Svatko tko postane članom nekog SO-a i pokae volju za speleolokim ra- dom postaje speleoloki suradnik. Ako taj član pohaða speleoloku kolu ili tečaj i s uspjehom ga zavri postaje speleoloki pripravnik. Nakon tri godine djelovanja u SO-u, tijekom kojih uspije izraditi barem deset nacrta pilja i jama, te se u istraivanjima spustiti dovoljno duboko 
+Slika 56 - Orijentacijsko natjecanje u pilji u kamenolomu Tounj 
+i prijeðe odreðenu duinu piljskih kanala, stječe pravo na polaganje ispita pred povjerenstvom koje imenuje KS HPS. Poloivi ispit, priprav- nik postaje speleolog i dobiva značku s brojem (slika 57). Da bi postao instruktor, speleolog treba jo tri godine biti aktivan i svojim djelo- vanjem pokazati da ima dovoljno znanja i volje da svoje znanje prenosina druge. Tada treba po- haðati instruktorski tečaj, napisati jedan stručni rad iz speleologije i poloiti ispit pred povje- renstvom koje imenuje KS HPS (slika 58). U razdoblju izmeðu 1980. i 1994. speleolozi su mogli na Fakultetu za fizičku kulturu u Zagrebu ili Splitu sluati odreðen broj predmeta, polo- iti ispite na Fakultetu, ali i pred povjerenstvom KS HPS, i tako steći ne samo naziv i značku već i zvanje speleolokog instruktora koje je priznao Fakultet. Slični nazivi uvedeni su i u neplaninarskim udrugama. Slika 59 - Goran Gabrić, jedan 
+od dalmatinskih speleolokih instruktora s velikim iskustvom 
+Slika 57 - Značka SPELEOLOG HPS, stječe se od 1968. nakon poloenog ispita 
+LEGENDA ZA TABLICU NA IDUćIM STRANICAMA A = broj značke »speleolog« B = Prezime i ime C = speleoloki odsjek planinarskog drutva D = mjesto E = godina stjecanja naziva »speleolog« F = sa ili bez ispita G = godina stjecanja naziva »speleoloki instruktor« (KS PSH) H = godina stjecanja naziva »instruktor speleologije« s polaganjem ispita na 
+Fakultetu za fizičku kulturu, Zagreb 
+Slika 58 - Značka INSTRUKTOR HPS stjecala se od 1980. do 1991., nakon poloenog ispita, ali se od tada ne dodjeljuje jer nije izraðena nova 
+43 
+Nositelji naziva »Speleolog« i »Speleoloki instruktor« Hrvatskog planinarskog saveza 
+A B C D E F G H 1. Redenek Vlado eljezničar Zagreb 1970 bez 2. Blaković Vladimir Zagreb-Matica Zagreb 1970 bez 3. Baić Vanja Mosor Split 1970 bez 4. Marjanac Slavko eljezničar Zagreb 1970 bez 1979 5. Marjanac Irina eljezničar Zagreb 1970 bez 6. Lončar Vlado eljezničar Zagreb 1970 bez 7. Kalata Vlado eljezničar Zagreb 1970 bez 8. Gjivoje Marinko eljezničar Zagreb 1970 bez 9. Markulin Mirko Zagreb-Matica Zagreb 1970 bez 1979 10. Ðulčić Viko Mosor Split 1970 bez 11. Mujić Aleksandar eljezničar Zagreb 1970 bez 12. Boičević Srećko eljezničar Zagreb 1970 bez 1979 13. Ðulić Beatrica eljezničar Zagreb 1970 bez 14. Smolec Slavko eljezničar Zagreb 1970 bez 1978 15. egrc Veljko eljezničar Zagreb 1970 bez 16. Debeljak Janko eljezničar Zagreb 1970 bez 17. Boić Vlado eljezničar Zagreb 1970 bez 1978 1980 18. Posarić Ivica Platak Rijeka 1970 bez 1979 19. Postruin Danko Dubovac Karlovac 1970 bez 20. Human Drago eljezničar Zagreb 1970 bez 21. Imenek Tomica Velebit Zagreb 1970 bez 1979 22. Filipčić Ivan Velebit Zagreb 1970 bez 1979 23. Pavličević Drago eljezničar Zagreb 1970 bez 24. Boić Vesna eljezničar Zagreb 1970 bez 25. Muzikant Duko eljezničar Zagreb 1970 bez 26. Grinčić Krasin Zeljezničar Zagreb 1970 bez 27. čepelak Radovan Velebit Zagreb 1970 bez 1979 1980 28. Malinar Hrvoje Velebit Zagreb 1970 bez 1979 29. Kruhak Ivan Velebit Zagreb 1970 bez 1979 30. Jalić Branko eljezničar Z agreb 1970 sa 1978 1980 31. Bolonić Nikola eljezničar Zagreb 1970 sa 32. Fenović Dubravko Velebit Zagreb 1970 sa 33. čepelak Marijan Velebit Zagreb 1970 sa 1979 1980 34. Garaić Mladen Velebit Zagreb 1970 sa 1979 1984 35. Kovačić Miron Velebit Zagreb 1970 sa 1979 36. Vrbek Boris Velebit Zagreb 1970 sa 1979 1980 37. Posarić Juraj eljezničar Zagreb 1970 sa 1978 1980 38. Lindić Vlado eljezničar Zagreb 1970 sa 1978 1984 39. Cingerli Ljubo Dubovac Karlovac 1971 bez 40. Ban Zlatko Velebit Zagreb 1972 sa 41. Sekelj Ðuro Velebit Zagreb 1974 sa 1979 1980 42. Jurković Armand Velebit Zagreb 1975 sa 43. Krstinić Boris eljezničar Zagreb 1975 sa 44. Marković Davorin eljezničar Zagreb 1975 sa 45. ilić Ervin Velebit Zagreb 1975 sa 46. Lepan Boris eljezničar Zagreb 1975 sa 
+44 
+47. Prelovec Damir Velebit Zagreb 1975 sa 1980 48. Bosner Vlado eljezničar Zagreb 1975 bez 49. Puharić Bruno Otočani Novalja 1976 sa 50. Jagodić Robert Velebit Zagreb 1976 sa 1980 51. Mudri Boris Velebit Zagreb 1976 sa 52. Tortić Marijan Velebit Zagreb 1976 sa 53. Rom Anton Platak Rijeka 1976 sa 54. Bareić Stanko Platak Rijeka 1976 sa 55. porn Petar Platak Rijeka 1976 sa 56. Gabrić Goran Split Split 1977 sa 1994 57. Kragić Slavko Split Split 1977 sa 58. Milosavljević Nenad Split Split 1977 sa 59. Prizmić Vinko Split Split 1977 sa 60. Starić Rudo Dubovac Karlovac 1978 sa 1984 61. Hudec Svjetlan eljezničar Zagreb 1979 sa 2002 62. Raða Tonči eljezničar / Mosor Zagreb 1979 sa 1984 63. Bolonić Zoran eljezničar Zagreb 1979 sa 64. Tajić Zdeslav Zagreb-Matica Zagreb 1980 sa 65. Kuka Mladen Dubovac Karlovac 1980 sa 1984 66. trkljević Enver Mosor Split 1980 sa 67. Pogačar Miran Mosor Split 1980 sa 68. Bosner Branka eljezničar Zagreb 1987 sa 1997 69. Jukica Tihomir Sutjeska Zagreb 1987 sa 70. Kovačević Tihomir Sutjeska Zagreb 1981 sa 71. Marinčić Tomislav Sutjeska Zagreb 1981 sa 72. Supičić arko Sutjeska Zagreb 1981 sa 73. Stegmeyer arko Sutjeska Zagreb 1987 sa 74. ebijan Mladen Sutjeska Zagreb 1981 sa 75. aljić Nenad Mosor Split 1982 sa 1994 76. Grčević Miroslav Sutjeska Zagreb 1982 bez 77. Cucančić Darko Velebit Zagreb 1983 sa 1994 78. ZNAčKA OTEćENA I NIJE PODIJELJENA 79. čobanov Neven Velebit Zagreb 1983 sa 80. trkljević Emir Mosor Split 1983 sa 1994 81. Grgasović Tonči Biokovo Makarska 1983 sa 82. Erhardt Robert Velebit Zagreb 1983 sa 83. Neme Ivica Velebit Zagreb 1983 sa 84. Hornug Krunoslav Sutjeska Zagreb 1983 sa 85. Lukić Ozren eljezničar Zagreb 1985 sa 86. Gojak Mio Biokovo Makarska 1985 sa 1997 87. Kireta Edo Velebit Zagreb 1985 sa 88. ZNAčKA OTEćENA I NIJE PODIJELJENA 89. Muinić Mladen Mosor Sptit 1985 sa 1994 90. Dobrović Slaven Velebit Zagreb 1985 sa 91. Jelinić Igor eljezničar Zagreb 1985 sa 2002 92. ZNAčKA OTEćENA I NIJE PODIJELJENA 93. ZNAčKA OTEćENA I NIJE PODIJELJENA 94. Sutlović Ana Velebit Zagreb 1987 sa 1994 95. Josipović čedo Velebit Zagreb 1987 sa 1997 96. Lacković Damir Velebit Zagreb 1987 sa 1994 97. imunovic Alan eljezničar Zagreb 1987 sa 
+45 
+98. Bariić Teo Velebit Zagreb 1987 sa 1997 99. Reetar Sinia Velebit Zagreb 1988 sa 1997 100. Dado Robert eljezničar Zagreb 1988 sa 2002 101. Kuhta Mladen eljezničar Zagreb 1988 sa 1997 102. Korais Hrvoje Dubovac Karlovac 1988 sa 103. Buelić Stipe Biokovo Makarska 1989 sa 1997 104. Puharić Samo Biokovo Makarska 1989 sa 105. ilić Nenad Mosor Split 1989 sa 106. Gavrić Darko Mosor Split 1989 sa 107. Bratim Goran Mosor Split 1989 sa 108. Bućan Luka Mosor Split 1989 sa 109. Stipetić Zoran Velebit Zagreb 1990 sa 110. Bariić Aida Velebit Zagreb 1990 sa 111. Tomić Gordan Velebit Zagreb 1990 sa 1997 112. Novosel Anðelko eljezničar Zagreb 1990 sa 113. Troha Darko Velebit Zagreb 1993 sa 1997 114. Kavčić Dubravko Velebit Zagreb 1993 sa 1997 115. Bizjak Tanja Velebit Zagreb 1995 sa 1997 116. ZNAčKA OTEćENA I NIJE PODIJELJENA 117. Hraćanec Sunčica Velebit Zagreb 1995 sa 1997 118. Bakić Darko Velebit Zagreb 1995 sa 1997 119. Lovretić Damir eljezničar Zagreb 1997 sa 120. ZNAčKA OTEćENA I NIJE PODIJELJENA 121. Petricolli Donat Velebit Zagreb 1997 sa 122. Munić Jagoda Velebit Zagreb 1997 sa 123. Uroić Milivoj eljezničar Zagreb 1997 sa 124. čop Ana Velebit Zagreb 1997 125. Novosel Ljiljana Velebit Zagreb 1997 sa 126. Andreis Marko Velebit Zagreb 1997 sa 127. Raić Ilija Japetić Samobor 1997 sa 128. Rubinić Tomica Japetić Samobor 1997 sa 129. Radić Ivica Velebit Zagreb 1997 sa 130. tefanec Darko Velebit Zagreb 1997 sa 131. Bosner Nela eljezničar Zagreb 1997 sa 132. Zovko Ivančica Velebit Zagreb 1997 sa 133. Jakelić Goran Mosor Split 1998 sa 134. Basara Damir Dubovac Karlovac 1999 sa 135. Novosel Dinko Dubovac Karlovac 1999 sa 136. Bočić Neven Dubovac Karlovac 2000 sa 137. Bala Zlatko Dubovac Karlovac 2000 sa 138. Paar Dalibor Velebit Zagreb 2000 sa 139. Sansević Ana-Katarina Velebit Zagreb 2000 sa 140. Petričević Josip Velebit Zagreb 2002 sa 141. ćukuić Ivica Velebit Zagreb 2002 sa 142. Marin Lauić Mosor Split 2003 sa 143. Hrdlička Vesna Mosor Split 2003 sa 144. Poljas Grgo Malačka Donja Katela 2003 sa 145. Laurić Igor Malačka Donja Katela 2003 sa 146. Lauić Domagoj Split Split 2003 sa 147. Kurtin Predrag Liburnija Zadar 2003 sa 148. Bombardelli Mea eljezničar Zagreb 2003 sa 
+46 
+VEćA SPELEOLOKA ISTRAIVANJA 
+Razdoblje od 1949. do 1959. godineNajvanija speleoloka djelatnost je istra- ivanje pilja i jama, a njih je u ovom razdoblju bilo mnogo, od kojih su neka posebno zanimljiva. 
+Prvo vanije speleoloko istraivanje bilo je 4. svibnja 1955. u jami Mandelaji kod Ota- rija, kada je dosegnuto dno na dubini od 85 metara (slika 60), ali zanimljivo je bilo i istra- ivanje u istoj jami 2. listopada 1955. kada je po prvi puta u Hrvatskoj u jami postavljen bivak sa atorom, u kojem je boravila i jedna speleologinja - Irina Marjanac. 
+Slijedilo je istraivanje jame čudinke kod Plitvičkih jezera. Za njeno je istraivanje SO PD »eljezničar« izradio posebno vitlo sa čelič- nim uetom dugim 250 metara s kojim je, na- kon dvije godine priprema, u ljetu 1957. uspio doći do dna jame (slika 61). Izmjerena je dubina 
+Slika 60 - članovi ekipe koja je dola do dna jame Mandelaje: Vlado Lončar, Janko Debeljak, Stjepan Katuić, Srećko Boičević i Slavko Marjanac 
+Slika 61 - Sputanje u jamu čudinku 1957. pomoću prvog speleolokog vitla 
+47 
+Slika 62 - Vlado Kalata u Jami na Kolitini kod Prgometa 1958. 
+od 203 metra, s izravnom okomicom od 195 metara, tada najvećom poznatom u Hrvatskoj. 
+Već iduće 1958. godine istraena je, tako- ðer pomoću vitla, Jama na Kolitini kod Prgo- meta u Dalmatinskoj zagori duboka 135 metara 
+48 
+(slika 62), ali uz mnogo potekoća, jer je jama koljenastog oblika. 
+Tijekom 1957. i 1958. godine Speleoloka sekcija PD »Mosor« istraila je jamu Velika Gajna na Mosoru, duboku 170 m, te 30-ak pilja i jama u okolici Dugopolja i na otoku Hvaru. 
+Tijekom 1958-1961. velika regionalna spe- leoloka istraivanja organiziralo je SDH za potrebe ondanje JNA. Istraena je gotovo cije- la Dalmacija s otocima, te dio Like i Gorskog kotara. U istraivanju su sudjelovali članovi gotovo svih hrvatskih speleolokih udruga. Od vanijih istraivanja iz tog razdoblja treba navesti istraivanje ponora Gotov u Klani u zaleðu Rijeke (slika 63). Za prvosvibanjskih praznika 1959., u jeku istraivanja, naglo nado- la bujica vode u jamu odnijela je gotovo svu speleoloku opremu (speleoloke ljestve i uad) svih ondanjih speleolokih udruga koje su udruile opremu za ovo istraivanje. Srećom, nitko od ljudi nije stradao. Dosegnuta dubina iznosila je 252 m, to je onda bila najveća du- bina do koje su se spustili hrvatski speleolozi. 
+Od tada u jamu vie nitko nije ulazio jer je u nju skrenuta cjelokupna kanalizacija iz obli- nje vojarne i sela Klane. Na otoku Braču je po- moću vitla, u organizaciji SDH, 1959. istraeno dvadesetak jama dubljih od stotinu metara. 
+Slika 63 - Istraivanje ponora Gotov kod Klane pomoću speleolokih ljestvica 
+U tom je razdoblju istraeno vie jama i pilja čime su brojni speleolozi stjecali drago- cjena iskustva za daljnja istraivanja. 
+U ljetu 1960. otkrivena je jama Bezdanjača pod Vatinovcem kod Vrhovina s ostacima Pro- tojapoda (starima oko 3500 godina) čije je istra- ivanje, speleoloko i arheoloko, nastavljeno u idućih pet godina. 
+Nakon proirenja otvora jame Puhaljke eksplozivom na Velebitu u ljetu 1961. godine, KS PSH organizirala je veliko istraivanje te jame uz sudjelovanje speleologa iz Beograda. U viednevnom istraivanju dosegnuto je pomo- ću speleolokih ljestvica dno na dubini od 250 metara (slika 64). 
+Na poziv speleologa iz Poljske jedan je hrvatski speleolog (Vlado Boić) u jesen 1961. po prvi puta sudjelovao u nekoj meðunarodnoj speleolokoj ekspediciji u inozemstvu. Bilo je to istraivanje jame Sniene u poljskim Tatrama, 
+Razdoblje od 1960. do 1969. godine 
+Slika 65 - Vlado Boić 1961. u jami Snienoj u poljskim Tatrama 
+Slika 64 - članovi udarne ekipa po izlasku iz jame Puhaljke 1961. (na slici su Zagrepčani Ivan Kruhak, Ivan Filipčić, Davorin upanić, Vlado Boić, Vlado Pavličević i 4 speleologa iz Beograda 
+49 
+gata istraene tada do dubine od 760 m. Vlado Boić 
+na povrini, spustili su se do dna. Izmjerili se spustio do 330 m dubine, tada najdublje od 
+su dubinu od 328 metara, ali je poslije ustanov- hrvatskih speleologa (slika 65). 
+ljeno da dubina iznosi samo 283 metra. 
+Tijekom 1964. kod Plakog u Lici hrvatski 
+Takoðer pomoću vitla, 1968. godine je na su speleolozi (članovi SDH) s britanskim spe- 
+junom Velebitu, u organizaciji KS PSH, istra- leolozima iz Walesa istraili jamu Balinku uz 
+ena jama Mamet duboka 206 metara. Ta jama pomoć posebnog motornog vitla i kabine (slika 
+ima najveći otvor u Hrvatskoj (60x70 m), a 66). Dvije godine poslije, 1966. godine, s usa- 
+dolje se jo proiruje na veličinu nogometnog vrenim vitlom i električnom rasvjetom iz agre- 
+igralita (slika 67). 
+50 
+Slika 66 - Jamu Balinku istraivali su speleolozi iz Wallesa i SDH pomoću motornog vitla i posebne kabine 
+Slika 67 - Otvor jame Mamet na junom Valebitu, najveći je jamski otvor u Hrvatskoj (70x60 m)

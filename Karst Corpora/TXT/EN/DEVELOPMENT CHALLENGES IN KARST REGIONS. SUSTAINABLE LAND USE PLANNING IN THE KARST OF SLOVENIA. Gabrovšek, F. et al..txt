@@ -1,0 +1,1024 @@
+﻿----------------------- Page 1-----------------------
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/257796683 
+
+Development challenges in karst regions: Sustainable land use planning in 
+the karst of Slovenia 
+
+Article  in  Carbonates and Evaporites · December 2011 
+
+DOI: 10.1007/s13146-011-0072-3 
+
+CITATIONS                                                                                                   READS 
+
+13                                                                                                          157 
+
+12 authors, including: 
+
+           Franci Gabrovsek                                                                                            Martin Knez 
+
+           Research Centre of the Slovenian Academy of Sciences and Arts                                               Research Centre of the Slovenian Academy of Sciences and Arts 
+
+           127  PUBLICATIONS    1,367 CITATIONS                                                                        86  PUBLICATIONS   210 CITATIONS    
+
+              SEE PROFILE                                                                                                 SEE PROFILE 
+
+           Janja Kogovšek                                                                                              Andrej Mihevc 
+
+           Research Centre of the Slovenian Academy of Sciences and Arts                                               Research Centre of the Slovenian Academy of Sciences and Arts 
+
+           28  PUBLICATIONS   266 CITATIONS                                                                            96  PUBLICATIONS   490 CITATIONS    
+
+              SEE PROFILE                                                                                                 SEE PROFILE 
+
+Some of the authors of this publication are also working on these related projects: 
+
+             Karst research View project 
+
+             Sources and Transport of Inorganic Carbon in the Unsaturated Zone of Karst View project 
+
+ All content following this page was uploaded by  Natasa Ravbar on 30 May 2014. 
+
+ The user has requested enhancement of the downloaded file. 
+
+----------------------- Page 2-----------------------
+
+Development challenges in karst regions: 
+sustainable land use planning in the karst 
+of Slovenia 
+
+Franci Gabrovšek, Martin Knez, Janja 
+Kogovšek, Andrej Mihevc, Janez Mulec, 
+Matija Perne, Metka Petrič, Tanja Pipan, 
+Mitja Prelovšek, et al. 
+
+Carbonates and Evaporites 
+  
+ISSN 0891-2556 
+Volume 26 
+Number 4 
+  
+Carbonates Evaporites (2011) 
+26:365-380 
+DOI 10.1007/s13146-011-0072-3 
+
+                                     1 23 
+
+----------------------- Page 3-----------------------
+
+  Your article is protected by copyright and 
+
+  all rights are held exclusively by Springer- 
+
+  Verlag. This e-offprint is for personal use only 
+
+  and shall not be self-archived in electronic 
+
+  repositories. If you wish to self-archive your 
+
+  work, please use the accepted author’s 
+
+  version for posting to your own website or 
+
+  your institution’s repository. You may further 
+
+  deposit the accepted author’s version on a 
+
+  funder’s repository at a funder’s request, 
+
+  provided it is not made publicly available until 
+
+  12 months after publication. 
+
+1 23 
+
+----------------------- Page 4-----------------------
+
+                                                   Author's personal copy 
+
+Carbonates Evaporites (2011) 26:365–380 
+DOI 10.1007/s13146-011-0072-3 
+
+  ORIGINAL  ARTICLE 
+
+Development challenges in karst regions: sustainable land use 
+planning in the karst of Slovenia 
+
+                         •                   •                       •                      • 
+                    ˇ                                           ˇ 
+Franci Gabrovsek           Martin Knez         Janja Kogovsek          Andrej Mihevc 
+
+                  •                   •                   •                   •                       • 
+                                                        ˇ                                       ˇ 
+Janez Mulec         Matija Perne        Metka Petric        Tanja Pipan        Mitja Prelovsek 
+                             ˇ 
+                 •                    • 
+                                              ˇ 
+Tadej Slabe        Stanka Sebela        Natasa Ravbar 
+
+Accepted: 31 October 2011 / Published online: 12 November 2011 
+ Springer-Verlag 2011 
+
+Abstract       The comprehensive knowledge of karst surface,                   cultural   characteristics    and    vulnerability    of   karst   land- 
+caves, waters and biodiversity were examined with special                      scapes has been established. 
+emphasis on planning for environmental management and 
+land  use  in  karst  regions  using  examples  of  projects  per-             Keywords        Caves   Karst   Karstological assessment   
+formed by the staff from the Karst Research Institute ZRC                      Protection   Slovenia   Sustainable planning 
+SAZU. Based on the knowledge of karst, karst phenomena, 
+karst waters and karst biodiversity, karstological monitor- 
+ing    was    developed       throughout      the    construction      of      Introduction 
+expressways      and  planning  for      railways   on  karst    terrain. 
+Newly revealed karst phenomena were properly preserved.                        A good knowledge of the natural and cultural heritage of 
+Regular climatic and biological monitoring were developed                      karst regions is a precondition for the rational planning of 
+and implemented, as well as karstology consultation with                       life  in  them.  It  is  possible  to  know  and  understand  karst 
+an  emphasis  on  the  impact  of the  use  of  caves  as natural              primarily    through    comprehensive       studies   of   its surface, 
+assets.   To   understand     karst,  its evolution     dynamics     and       caves, waters and ecological characteristics. 
+processes, models were developed with which the study of                          By deepening this basic knowledge, the Karst Research 
+the risk posed by dam site construction in karst areas was                     Institute of the Scientiﬁc Research Centre of the Slovenian 
+possible.  Karst  aquifers  and  their  protection  were  studied              Academy  of  Sciences  and  Arts  has  been  developing  and 
+using  tracer  tests  and  different  methods  of the  transfer of             linking  the  most  important  ﬁelds  of  karstology  for  more 
+contaminants  through  the  vadose  zone  and  underground                     than 60 years in an interdisciplinary fashion and upgrading 
+ﬂow  connections.  In  assessing  the  vulnerability  and  con-                them    into  a  comprehensive        science   of   karstology.    The 
+tamination  risk  of  groundwater,  a  comprehensive  method                   institute aims at making the scientiﬁc results applicable and 
+was    elaborated.    Microorganisms        and   fauna    of  dripping        available for those planning life in karst regions. 
+water  in  caves  were  used  as  monitors  of  cave  ecosystem                   In   view    of   the   rapid   development        and   increasing 
+health.   By    applying    high-quality     karstological     research        investment in the karst regions, there is a lack of consistent 
+results from individual spheres of karstology and interdis-                    consideration  of karstological ﬁnds and knowledge of the 
+ciplinary studies, a foundation for sustainable planning of                    karst and its peculiar potentials in regional planning (local 
+life  in  karst   regions   that   will  consider    the   natural   and       communities, municipalities). 
+                                                                                  The    Classical    Karst    plateau    rises   above     a  narrow 
+                                                                               coastal belt that is home to Koper, Slovenia’s largest port, 
+           ˇ                          ˇ                                        which  requires  a  major  space  for  warehousing.  The  karst 
+F. Gabrovsek   M. Knez   J. Kogovsek   A. Mihevc   
+                                      ˇ                                        today   is  also  attractive    for  settlement.    A   great   deal  of 
+J. Mulec   M. Perne (&)   M. Petric   T. Pipan   
+                               ˇ 
+           ˇ 
+M. Prelovsek   T. Slabe   S. Sebela   N. Ravbar                             money  has  been  invested  in  the  construction  of  modern 
+Karst Research Institute at Scientiﬁc Research Centre 
+                                                                               new apartments and houses that have begun to change the 
+of the Slovenian Academy of Sciences and Arts, 
+Titov trg 2, Postojna, Slovenia                                                appearance     of  the   karst  landscape;     however,     to  a  large 
+e-mail: matija.perne@zrc-sazu.si                                               extent,   this  new    housing    remains    unoccupied      since   the 
+
+                                                                                                                                           123 
+
+----------------------- Page 5-----------------------
+
+                                                Author's personal copy 
+
+366                                                                                                  Carbonates Evaporites (2011) 26:365–380 
+
+majority  of  buyers,  including  the  ever-increasing  number            dump    sites  and  landﬁlls   in  karst  areas,  gathering   infor- 
+of  owners  of  karst  holiday  homes  from  across  Slovenia,            mation    on  karst  caves    and  their  conservation,     and  the 
+are  looking    for  more   traditional   karst  architectural   and      planning  and  exploitation  of  karst  phenomena  for  tourist 
+lifestyle  features.                                                      purposes. 
+   A  large  part  of  the  local  population  is  trying  to  insure 
+harmonious     development      by   following   the   principle   of 
+preserving  regional  karst  characteristics  and  limiting  the          Karstological monitoring of planning and construction 
+direction   taken   by   outside   investors   and   municipalities       of expressways on karst 
+driven  by  proﬁt  alone.  These  aspirations  have  led  to  the 
+formation of a strong civil initiative that continually draws             Over    the   last  20 years,    the   construction    of   modern 
+attention to important development challenges.                            expressways  in  Slovenia  has  been  one  of  the  major  con- 
+   Despite     local   environmental      protection    legislation,      struction  projects  aimed  at  connecting  important  parts  of 
+planning without a good knowledge of the environment is                   the country and opening them to Europe. A large propor- 
+simply not enough. The Karst Research Institute is trying to              tion  of  the  expressways  run  across  karst.  Almost  half  of 
+overcome  this  problem  by  participating  in  major  projects           Slovenia is karst and more than half of the water supply for 
+and contributing to the public planning process. Five years               its population comes from karst aquifers. 
+ago, the institute signed an agreement with the Minister for                 The Karst Research Institute actively participates in the 
+the  Environment  and  Spatial  Planning  on  its  continuous             planning and construction of expressways (Knez and Slabe 
+and comprehensive participation in planning development                   2007).   In  selecting   routes,  the  entire  karst  landscape    is 
+in  karst   regions.   However,     the   changing    of  ministers       considered to avoid important surface karst phenomena and 
+sometimes  causes  the  revision  of  such  agreements;  there-           already known caves. Before construction work starts, the 
+fore, regular participation is most often focused on selected             perforation  of the  karst  is  described  as accurately  as pos- 
+ﬁelds, such as the protection of Slovenia’s caves.                        sible. Good comprehensive knowledge of the karst and its 
+   The Scientiﬁc Research Centre of the Slovenian Acad-                   typical  cave  features  helps  anticipate  the  shape,  type  and 
+emy    of  Sciences    and   Arts,   which    includes   the   Karst      incidence  of  caves  in  the  area  of  the  route.  Data  on  all 
+Research  Institute,  was  a  leading  partner  in  a  EU-funded          Slovenian caves are collected in the cadastre of caves. 
+project for Regional Development ‘‘Center of Excellence’’                    Special  attention  is  devoted  to  the  impact  of  the  con- 
+and through the interdisciplinary Karst Project has focused               struction  and  use  of  expressways  on  karst  waters  and  the 
+on the sustainable development of Slovenia’s karst regions                preservation  of  karst  aquifers.  Expressways  are  imperme- 
+(Luthar et al. 2008) and helped prepare starting points for               able  and   runoff   water   from   the  road  is  gathered   in  oil 
+planning life in the karst.                                               collectors and then released clean onto the karst surface. 
+   Ten  years  ago,  the  institute  established  a  postgraduate            Karstological  monitoring  is  conducted  throughout  the 
+course in karstology, and karstology courses are provided                 construction  of  expressways.      Newly  revealed  karst  phe- 
+as  part  of  the  university  geography  curriculum.  Together           nomena  are     studied  as  an  important  part  of  the  natural 
+with geographers,  the institute is establishing a course  on             heritage and advice is given on how to preserve them if the 
+spatial planning  in various types of regions. These devel-               construction  work  allows  it.  The  institute’s  new  ﬁndings 
+opments  are  promising  in  the  long  run,  but  the  question          are of great help to the construction companies. Based on 
+remains     on   how     to   address    current    developmental         continuous studies of newly discovered caves, their extent 
+problems.                                                                 can be estimated so that construction companies can plan 
+   The Scientiﬁc Research Center of the Slovenian Acad-                   accordingly. Numerous new ﬁndings on the formation and 
+emy    of  Sciences   and   Arts   is establishing    a Center    for     development of the karst surface, the epikarst, the vadose 
+Planning  in  Karst  Regions  that  will  integrate  knowledge            zone  and  the  perforation  of  the  aquifer  have  been  docu- 
+from  a  variety  of  disciplines  and  offer  it  for  use  by  local    mented. More  than 350 caves were opened  on the  70-km 
+communities and the government.                                           expressway route across the Classical Karst region. 
+   The institute has founded the International Academy of                    Relative to the development of the aquifer, it is possible 
+Karstology,    which    will  even    more   efﬁciently    integrate      to  distinguish   between    old  caves   through    which   water- 
+international  knowledge  and  experience  and  ﬁnd  the  best            courses ﬂowed when the karst was surrounded and covered 
+approaches     for  rationally  planning    life  in various   karst      by  ﬂysch,  and  shafts  through  which  water  vertically  per- 
+regions in Slovenia and around the world.                                 colates   from   the  permeable    karst   surface   to the  under- 
+   The   Karst   Research    Institute  is  currently   engaged    in     ground    water   (Fig.  1).  Excavations     have   revealed    that 
+speciﬁc    projects   involving     regional   planning    and    the     rooﬂess  caves,  the  consequence  of  the  development  and 
+protection of karst, the protection and development of the                denudation of karst, are a special  and frequent  feature  on 
+natural and cultural heritage, karst water supplies, closing              the karst surface. Determining the age of sediments in the 
+
+123 
+
+----------------------- Page 6-----------------------
+
+                                              Author's personal copy 
+
+Carbonates Evaporites (2011) 26:365–380                                                                                               367 
+
+Fig. 1 Different types of caves according to karst development, opened during motorway construction 
+
+newly discovered caves helps understand the oldest periods             revealed the geological bedrock and perforation below the 
+of karstiﬁcation and thus develop a new conception of the              roads  and  demonstrated  the  need  for  similar  studies  on  a 
+age of caves. Unique challenges arose during construction              regular basis. 
+on  covered  karst  dissected  by  subsoil  forests  in  southern         The participation of karstologists in the construction of 
+Slovenia and on slope breccia below the high karst plateau.            expressways on karst is extremely important and useful. 
+   The aim of monitoring during construction was to pre- 
+serve as many karst caves as possible. Shafts were easiest 
+to preserve. Smaller entrances to shafts were simply closed            Routing and karstological planning for a new 
+with  concrete  plates.  It  was  also  possible  to  preserve  old    railroad line 
+caves   with  solid  walls  and   ceilings;  however,   caves   in 
+crushed  rock  or  caves  opened  due  to  blasting  had  to  be       A proposed railway between the northern Adriatic ports of 
+ﬁlled   in. Rock    walls   were   used   to  close  caves   with      Koper   (Slovenia)   and  Trieste  (Italy)  and  the  interior  of 
+entrances   on  embankments      that  were   damaged    by  road      Slovenia  on  the  5th  European  Railway  Corridor  (Venice- 
+cuts. Their circumferences were fractured to such an extent            Kiev)   required   extensive   karstological   planning   for  the 
+that  they  were  unsuitable  for  continued  exploration,  and        route. Relative to the strategic goal of establishing a trans- 
+water  could  wash  clay  from  caves  ﬁlled  with  alluvia  and       portation connection between Slovenia and Europe and the 
+deposit it on the roads.                                               fact that the 5th European Railway Corridor also represents a 
+   Caves important for further exploration or natural heri-            high-speed rail connection between European countries, the 
+tage were preserved and made accessible for visiting. The              Karst  Research    Institute has   undertaken   a  study  on   the 
+access  to  these  caves  was  enabled  through  concrete  cul-        routing of the railway line from Trieste (Italy) and Koper 
+verts or through a door from the tunnel.                               (Slovenia) toward Austria and Croatia (Fig. 2). Spatial and 
+   Georadar studies of older expressways that have been in             other  consequences  of  the  project  at  the  local,  regional, 
+use   for  decades   proved    useful  as   well.  They    clearly     national and international levels are being evaluated. 
+
+                                                                                                                             123 
+
+----------------------- Page 7-----------------------
+
+                                               Author's personal copy 
+
+368                                                                                                Carbonates Evaporites (2011) 26:365–380 
+
+   The section of the railroad that climbs from the Port of              rural  and  urban  areas  and  their  integration  into  European 
+Koper  to  an  altitude  of  450 m  at  the  top  of  the  Classical     transportation  systems.  At  the  same  time,  in  developing 
+Karst  plateau  is  a  primary  branch  of  the  public  railway         transportation  networks,  the  goal  is  to  safeguard  sustain- 
+infrastructure   in  Slovenia.   The    existing  line  no   longer      able   living   and   working     conditions,    reduce   negative 
+meets    modern    transportation    demands     and   relative   to     impacts    on   the  natural   environment,     preserve    natural 
+capacity is a bottleneck in Slovenia’s railway network and               resources, biodiversity, and natural assets and preserve the 
+simultaneously     in  the  5th   European    Railway     Corridor.      cultural heritage. 
+Modernization      is therefore   a   necessity.   In  addition   to        The envisaged railway line will cross the karst area near 
+increasing  capacity  and  safety,  the  new  line  will  shorten        Slovenia’s southwestern border with Italy. For this reason, 
+rail transport times.                                                    the  study  focused  on  ﬁnding  a  route  whose  construction 
+   The   length  of   railway   sections  running    from  the  sea      will have the least impact on karst phenomena and the ﬂow 
+(Port of Koper or Port of Trieste) to the top of the Classical           of underground waters. The study was conducted in several 
+Karst plateau is about 30 km. The new railway is planned                 consecutive work phases to ﬁnd the most appropriate route. 
+to allow speeds up to 160 km/h with a maximum grade of                      The selection of a route is a very demanding task due to 
+17%. According to the latest plans, the route will not run               an  extensive  system  of  karst  caves  (more  than  100  caves 
+across the existing relief but rather almost entirely through            are  located  in  the  wider  area)  and  a  network  of  under- 
+longer tunnels and over viaducts (Fig. 2).                               ground waters that is very vulnerable to pollution. Further 
+   The development of the transportation infrastructure in               phases in the route selection process will therefore require 
+Slovenia  must  support  the  development  of  a  polycentric            additional  analyses,  optimizations  and  the  highest  quality 
+network    of  cities  and   other   settlements,    the  balanced       project   solutions,   particularly   due   to  the  amount     and 
+development  of  areas  with  common  spatial  development               quality  of  karst  waters  along  the  route.  In  this  area,  the 
+characteristics, the reciprocal upgrading of the functions of            karst aquifer is the main water source for Slovenia’s entire 
+
+Fig. 2  Variants of railway line between Trieste, Koper and the interior of Slovenia 
+
+123 
+
+----------------------- Page 8-----------------------
+
+                                            Author's personal copy 
+
+Carbonates Evaporites (2011) 26:365–380                                                                                         369 
+
+coastal  area.  The  envisaged  route  runs  across  the  water        Correct  decisions  regarding  temporary  and  permanent 
+protection area,  which  imposes a  very  high  level  of limi-     dump   sites and  landﬁlls  are  of  key importance  in  such 
+tations in planning and routing it.                                 important construction projects in the karst region. Around 
+   The ﬂysch in the southern section of the future railway          3.5 million cubic meters of material will be excavated on 
+line is less permeable. The limestone in the northern sec-          the route of the future railway line. The volume of landﬁlls 
+tion, however, is ﬁssured and karstiﬁed and comprises the           for permanent surpluses of limestone and ﬂysch could total 
+main  aquifer  in  this  karst  region.  The  tunnels  run  partly  around 1.5 million cubic meters. 
+through the  vadose  zone, largely through an area with an 
+extensive oscillation of the water table that can span up to 
+100 m.  The  karstiﬁcation  of  the  area  means  that  locally     Process-based modeling in karst systems 
+additional measures will have to be taken in the construc- 
+tion of the tunnels.                                                Karst  is  a  complex  dynamic  system  governed  by  many 
+   One of the most critical points of the project is the risk       interacting processes, such as dissolution of soluble rocks 
+of cutting through karst caves that are empty, ﬁlled with a         and transport of mass, heat and dissolved species. Under- 
+variety  of  sediments  or ﬁlled with  water.  Encroaching  on      standing  karst  also  requires understanding  of  these  pro- 
+underground  caves  may  bring  problems  in  the  realization      cesses and their role in the development and functioning of 
+of the construction and, from the ecological viewpoint, can         karst systems.  The  physics   and  chemistry  of  these  pro- 
+have a potentially harmful impact on underground habitats.          cesses  are  well  understood,  as  they  have  been  studied  in 
+   For  the  karstological  assessment  of  the  routing  of  the   other ﬁelds of science. However, quantitative understand- 
+envisaged  railway  in  this  unique  and  vulnerable  region,      ing of karst processes has been evolving for only the last 
+research has been divided into three independent but rela-          few decades; therefore, there are still wide ﬁelds waiting to 
+ted  spheres:   the  surface,  the   underground    and   karst     be explored. 
+hydrology. The future railway will run across a karst area             Analytical and computational methods employing basic 
+known  for  a  great  number  of  karst  cavities  and  the  seg-   physical  and  chemical  processes  have  been  developed  to 
+ments of old or recent drainage courses through the karst.          study  some  of  the  features  and  processes  in  karst.  While 
+The   denudation   of the  karst surface  has  exposed   many       models which simulate ﬂow and transport in porous aqui- 
+rooﬂess caves that are now visible on the karst surface. The        fers have   been   employed    for  decades,   models   which 
+thematic   maps   used   to show    the  known   entrances   to     ‘‘accurately’’  simulate  karst  aquifers  have  only  appeared 
+underground caves will be augmented with newly discov-              recently.  However,    all  ‘‘karst models’’   require  sound 
+ered  entrances.  Working    in the  ﬁeld, karstologists  have      characterization of karst aquifers, which is one of the key 
+been assessing important  rock segments and, on the basis           problems: namely, the geometry of the network of solution 
+of surface mapping and genetic interpretation, identifying          conduits, which carry most of the ﬂow in karst aquifers, is 
+morphologically    expressed   rooﬂess   caves  in  the  relief.    rarely known. 
+During construction, it is reasonable to anticipate encoun-            To  understand  the  genesis  of  such  network,  a  set  of 
+tering underground caves and parts of cave systems several          generic models has been developed during recent decades 
+meters  to  several  dozen  meters  in  diameter.  Interpolating    (Dreybrodt et al. 2005). These models couple ﬂow, transport 
+from  known  surface  and  underground  phenomena  allows           and  dissolution  processes  to  simulate  growth  of  solution 
+prediction of the shape and type of caves.                          conduits in various settings, from the evolution of a single 
+   Caves  in  the  corresponding  belt  along  the  axis  of  the   fracture (Dreybrodt and Gabrovsek 2000) to the evolution of 
+route  are  being studied  in detail.  The type  of caves, their    a  complex  network  in  a  three-dimensional  block  of  frac- 
+position  and  role  in  the  aquifer,  shape,  rock  relief,  sedi- tured-porous limestone (Kaufmann et al. 2010). 
+ments and ﬂowstone are used to verify the known data in                The rate equations that deﬁne the retreat of rock in a unit 
+the ﬁeld and supplement them with new measurements and              of time   for different  conditions   of  ﬂow   and  chemical 
+genetic  interpretations,  to  present  previous  knowledge  of     composition   of  groundwater    are based   on  the  work   of 
+the perforation of the aquifer, and to anticipate the type and      Plummer  et  al.  ( 1978)  and  Dreybrodt  and  his  colleagues 
+distribution of caves on the envisaged route.                       (Eisenlohr  et  al.  1999;  Kaufmann  et  al.  2010).  Although 
+   Due   to  the  speciﬁc  properties  of  carbonate rock,  the     there are still open questions related to dissolution rates in 
+karst rivers and streams that sink in the studied area easily       various settings, these are currently not a subject of intense 
+ﬁnd direct routes into the underground karst aquifer. From          research. As the reliability of the above-mentioned models 
+the  hydrological   viewpoint,  a  state of  the  environment       crucially  depends   on   well-deﬁned    dissolution  kinetics, 
+inventory   is being  performed   and  an  assessment   of  the     further  research  is  needed.  Nevertheless,  genetic  models 
+impact  of  the  railway  on  the  underground  water  is  being    have enabled more profound understanding of karst aquifer 
+conducted.                                                          genesis. 
+
+                                                                                                                        123 
+
+----------------------- Page 9-----------------------
+
+                                                 Author's personal copy 
+
+370                                                                                                     Carbonates Evaporites (2011) 26:365–380 
+
+   Apart  from  basic  understanding  of  evolution  dynamics                Studies of karst aquifers and their protection 
+of  karst   conduit   networks,     the  models    were    applied   to 
+study   the   risk  posed   by   dam    site construction     in  karst      Karst  aquifers  are  important  sources  of  water  supply,  but 
+areas. In nature, extreme hydraulic gradients, which drive                   due to their speciﬁc characteristics they are very vulnerable 
+fast  evolution  of  conduits,  are  rare.  In  man-made  situa-             to  various  human  activities.  For  the  efﬁcient  planning  of 
+tions,  such  as  at  dam  sites,  high  gradients  are  common.             conservation  measures,  it  is  essential  to  understand  and 
+There  are  many  reports  about  increased  leakage  at  dam                consider  the  characteristics  of  groundwater  ﬂow  and  the 
+sites  built  in  karst  areas.  Adoption  of  genetic  models  to           transport of substances. Various important processes occur 
+such   scenarios    is  relatively   easy    (Fig. 3).  The    models        in  the  upper  vadose  zone  due  to  the  longer  retention  of 
+revealed  that  leakage  that  leads  to  a  non-operative  dam              inﬁltrated water. 
+can  happen  in  the  lifetime  of  the  dam  even  if  there  has              Based on the results  of continuous long-term measure- 
+been  no  prior  karstiﬁcation.  The  use  of  such  models  in  a           ments    of  precipitation    on   the  surface    and   of  selected 
+real  situation   has   been   demonstrated      on  a  dam    site by       trickles in the vadose zone of the Postojna Cave (Fig. 4), it 
+Epting  et  al.  (2009).                                                     was  established  that  the  dynamics  of  percolation  through 
+   Current models cannot characterize the advanced stages                    the  vadose  zone  was  directly  related  to  precipitation  and 
+of  karst  evolution,  when  fully  ﬂooded  conduits  become                 depended  not  only  on  its  quantity  and  intensity,  but  that 
+vadose and when mechanical transport of sediments gains                      continuous  percolation  along  the  entire  hierarchy  of  ﬁs- 
+increasing    importance      in  the   development      of   solution       sures in the  vadose zone  occurred  only with  good satura- 
+conduits.  As  these  situations  are  encountered  in  the  ﬁeld,           tion  of  the  soil  and  of  the  vadose  zone.  During  the  dry 
+these model will be even more useful in the future.                         periods (2.5–6 months) of summer, a large amount of the 
+   Many     other   topics   in  karst   could   also   beneﬁt    from       less  intense  precipitation  (up  to  390 mm)  is  stored  in  the 
+                                                                                                      ˇ 
+process-based      modeling.      Karst    morphogenesis        at  all      vadose zone (Kogovsek 2010). 
+scales  still  holds  many  open  questions  to  which  models                  The  calculations  of  the  annual  volumes  in  three  con- 
+could   contribute    greatly.   Some    efforts  have    been   made        secutive   hydrological     years   show    substantially    different 
+                                                           ˇ                ratios between the annual quantity of water that inﬁltrates 
+(Kaufmann and Braun 2001; Perne and Gabrovsek 2010), 
+but   this  ﬁeld   of   study   is  still  wide    open.   A   deeper        the  vadose    zone   and    the  quantity    of  water   that  ﬂows 
+understanding      of  many    ongoing     processes,   such    as  the      through it and supplies the deeper parts of the aquifer. The 
+transport    of   heat   in  karst   systems,     could    also   have      proportion of freshly inﬁltrated water in percolation water 
+practical  implications.                                                     in ﬂood waves only reaches up to 14% and in the nearby 
+                                                                                                            ˇ 
+   There  is  an  increasing  interest  in  all  these  topics,  and         spring up to 13% (Kogovsek 2010). 
+karst  with  all  its  complexity  is  drawing  the  attention  of              The transfer of contaminants through the vadose zone is 
+researchers from various ﬁelds of studies where problems                     directly related to the dynamics of inﬁltrated precipitation. 
+are based on similar physical processes.                                     The weakest transfer of contaminants occurs in dry periods 
+                                                                             when discharges are minimal, and the most intense transfer 
+                                                                             takes  place   during    ﬂood    waves    that  follow    longer   dry 
+                                                                            periods. 
+                                                                                Tracer    tests  with   artiﬁcial   tracers   showed      different 
+                                                                            retention    times   of  the  inﬁltrated    precipitation    and   con- 
+                                                                                                                                    ˇ 
+                                                                                                                         ˇ 
+                                                                             taminants in the vadose zone (Kogovsek and Sebela 2004). 
+                                                                             The results  of these  tests were  also supported by isotopic 
+                                                                             analyses  of  oxygen  that  reﬂected  residence  times  ranging 
+                                                                             from  several  months  to  1 year  and  more.  The  long-term 
+                                                                             monitoring  of  the  transfer  of  pollution  conﬁrmed  that  the 
+                                                                             leaching  of  even  minor  pollution  from  the  surface  took 
+                                                                             several decades (Fig. 4) before the original conditions were 
+                                                                                                ˇ 
+                                                                            restored (Kogovsek  1997). 
+                                                                                In  dry  periods,   water    from   the  vadose    zone   supplies 
+                                                                             karst springs from their wider catchment areas. During this 
+                                                                             time,  the  discharges  of  the  sinking  streams  that  usually 
+Fig. 3  Model   of conduit   evolution  at a dam   site (adopted  from       carry  pollutants  are  minimal  or  the  streams  are  dry.  The 
+Dreybrodt   et al. 2005).  Calcite  aggressive  water  ﬂows   from  the 
+                                                                             quality of karst springs is therefore relatively good in such 
+accumulation lake with the water height H around the ground curtain 
+(width  W  and  depth  G)  and  causes  the  evolution  of  conduits  in  a periods. On the other hand, the abundant precipitation that 
+fractured limestone                                                          follows    dry   periods    of  ﬂushes     accumulated      pollution 
+
+123 
+
+----------------------- Page 10-----------------------
+
+                                                    Author's personal copy 
+
+Carbonates Evaporites (2011) 26:365–380                                                                                                                  371 
+
+                                                                      ˇ ˇ 
+Fig. 4  a Hydrogeological map of the recharge area of the Malenscica             transfer of nitrates and other contaminants through different trickles 
+and Unica karst springs (1 karst aquifer, 2 ﬁssured aquifer, 3 porous            in the 1988–2005 period was reﬂected in greater electric conductivity 
+aquifer, 4 poorly permeable rock, 5 cave, 6 surface stream, 7 test site          (the  measurements  from  the  uncontaminated  trickle a  are  presented 
+with selected trickles, 8 spring, 9 tracer injection point, 10 datalogger,       for comparison).    c  Uranine   breakthrough    curves,  discharges   and 
+11  main   and   secondary    underground    water   connections);   b  the      precipitation for the two tracer tests in the Postojna area 
+
+through the recharge areas of karst springs, leading to the                         High  oscillations  of  water  temperature  at  springs  indi- 
+most intense transfer of contaminants. This is reﬂected in                       cate  a  signiﬁcant  proportion  of  secondary  recharge  from 
+higher  concentrations  of  contaminants  in  the  initial  ﬂood                 surface  water  bodies.  By  comparing  the  positions  of  the 
+waves.                                                                           peaks  (maximum)  or  saddles  (minimum)  of  the  tempera- 
+                                                                                                               ˇ                ˇ ˇ 
+    The  very  complex  structures  of  the  recharge  areas  in                 ture curves for the Kotlici and Malenscica springs, the ﬂow 
+which  surface  and  underground  ﬂows  merge  additionally                      velocity in the karst system between them was estimated at 
+                                                                                                            ˇ                ˇ 
+complicate  the  functioning  of  karst  springs.  The  relation-                145–215 m/h (Kogovsek and Petric 2010b). Similar values 
+ship between individual catchment areas depends greatly on                       were calculated from ﬁve tracer tests performed previously 
+meteorological  and  hydrological  conditions  and  changes                      in this area. 
+                            ˇ                            ˇ                          The  temperature  and  electrical  conductivity  curves  of 
+very   rapidly    (Kogovsek      2001,  2004;      Petric  2010).     This 
+problem was studied in more detail in the common recharge                        the   Unica    spring    show     an  important      inﬂuence     of   the 
+                       ˇˇ                        3                     3         recharge  from  the  sinking  Pivka  stream  that  is  not  char- 
+area of the Malenscica (Qmin  =  1.1 m /s, Qavg  = 6.7 m /s, 
+                   3                                                    3                                      ˇ ˇ 
+Qmax  = 11.2 m /s) and Unica karst springs (Qmin  = 0.04 m /s,                   acteristic for the Malenscica spring. In all springs, extreme 
+Q                  3                         3                                   temperatures are detected during high waters as a reﬂection 
+  avg  =  11.2 m /s,     Qmax    = 69.3 m /s)      (Fig. 4).    A   moni- 
+toring  network  was  set  up  in  2007  (3  rain  gauges  and  9                of the dominant recharge from surface water bodies, while 
+dataloggers for recording discharge, temperature and elec-                       during low waters the recharge is slower and the retention 
+trical  conductivity).  Additionally,  two  combination  tracer                  time  of  water  in  the  karst  underground  is  longer.  Under 
+tests  were  carried  out  involving  each  time  two  different                 such  conditions,  the  proportion  of  primary  recharge  from 
+                                                                                                        ˇ 
+tracers injected at two different points.                                        the Javorniki–Sneznik karst aquifer is larger. 
+
+                                                                                                                                               123 
+
+----------------------- Page 11-----------------------
+
+                                                  Author's personal copy 
+
+372                                                                                                       Carbonates Evaporites (2011) 26:365–380 
+
+    The   ﬁrst  tracer   tests  in  May    2008    proved    the  main        most suitable monitoring point. However, the interpretation 
+groundwater ﬂow from the sinking Mala Karlovica stream                        of the results of monitoring is difﬁcult because the sinking 
+                                                ˇ                                 ˇ 
+on the Cerknica karst polje to the Kotlici spring and further                 Rinza  River,  which  is  contaminated  by  various  pollution 
+                          ˇˇ                                  ˇ 
+on toward the Malenscica spring (Fig. 4) (Gabrovsek et al.                    sources, also recharges the spring. To assess its inﬂuence, 
+                                                                                                                                       ˇ 
+2010).  In  contrast,  the  ﬂow  toward  the  Unica  spring  was              the simultaneous monitoring of Bilpa and Rinza is neces- 
+slower  and  the  proportion  of  recovered  tracer  was  lower.              sary.  Furthermore,  some  characteristic  contaminants  have 
+During  the second tracer  test in November 2008, a tracer                    to be selected and the monitoring concentrated mainly on 
+was injected into an oil collector that collected runoff from                 them. The main underground ﬂow toward the Bilpa spring 
+the  expressway  that  crossed  the  studied  aquifer.  Outﬂow                additionally    receives    a  primary    recharge     of  unpolluted 
+from the collector inﬁltrates the vadose zone of the studied                  water from its wider catchment area. This leads to a dilu- 
+karst system. During the dry period in early November, the                    tion  of  contaminants  that  is  highly  inﬂuenced  by  precipi- 
+ﬂow    through    the  vadose    zone    was   slow   and   the  tracer       tation and hydrological conditions. As a consequence, the 
+appeared  in  very  low  concentrations  at  the  springs.  Only              water   quality   of  the  Bilpa   spring   is  better   than  that  of 
+                                                                                  ˇ 
+the  intense  rain  at  the  end  of  November  pushed  it  more              Rinza.   Since    the  overlapping      of  negative    and   positive 
+efﬁciently out of the system. Under both these hydrological                   inﬂuences     from    various     sources    is  possible,    a   good 
+conditions, the main direction of ﬂow from the oil collector                  understanding      of  the  functioning     of  karst   aquifers   and 
+toward the Unica spring and only a weak connection with                       parallel measurements of precipitation, discharges and the 
+             ˇˇ 
+the Malenscica spring were proved. Since the oil collector                    physical parameters of water are all necessary to interpret 
+                                         ˇ 
+is  a  source  of  pollution  (Kogovsek        1995a,  b),  these  are        the results of monitoring. 
+                                                        ˇ ˇ 
+advantageous      circumstances       for  the  Malenscica      spring, 
+which is a regionally important source of water supply. On 
+the  other hand,  this spring  is seriously threatened  by  pol-              Assessment of vulnerability and contamination risk 
+lution   from    Cerknica     polje   and   more    strict  protection 
+measures     should    be   applied    in  this   relatively   densely        To   effectively   protect   the  most    sensitive   areas   of  karst 
+populated     area   based    on   the  known     characteristics     of      aquifers,  several    European  countries       use  the  concept  of 
+groundwater ﬂow and transport of substances.                                  assessing    vulnerability     to   determine     water     protection 
+    Tracer tests have proven to be a valuable research tool in                zones.  Furthermore,  assessment  of  contamination  risk  is 
+                                               ˇ                    ˇ 
+various other applied projects (Kogovsek  1999; Kogovsek                      increasingly    important     in  land   use   planning.    European 
+                                                                 ˇ 
+                        ˇ               ˇ                ˇ 
+et al.  1999; Kogovsek and Petric 2004; Petric and Sebela                     guidelines  for  making  such  assessments  (Zwahlen  2004) 
+                 ˇ                ˇ                   ˇ 
+2005;    Kogovsek     and   Petric   2006;    Kogovsek     and   Petric       were   elaborated     in  the  framework       of  the   international 
+2007, 2010a). In recent years, a series of tracer tests were                  COST Action 620 project. 
+carried  out,  and  their  results  were  used  as  the  basis  for              Based     on   these   guidelines,     numerous      methods     for 
+planning  the  monitoring  of  water  quality  in  the  inﬂuence              assessing    and   mapping      the   vulnerability     of  the   karst 
+areas  of  various  pollution  sources  (e.g.,  landﬁlls,  military           groundwater  were  elaborated,  which  considered  the  dif- 
+training area, petrochemical depot, roads and expressways,                    ferences  between  individual  karst  aquifer  systems,  differ- 
+railways).  The  interpretation  is  based  on  long-term  sam-               ences   in   the   accessibility    of  data    and   differences     in 
+pling,   detailed    analysis    and   parallel   measurements        of      economic  capacities.  These  methods  have  been  used  and 
+physical parameters of the water tested.                                      tested in various test areas throughout the world. Surveys 
+    In a case study of the municipal landﬁll site near Mozelj in              of  the  existing    methods     have    been   made    by   Zwahlen 
+                                      ˇ                ˇ 
+southeastern  Slovenia  (Kogovsek  and  Petric  2010a),  the                  (2004), Ravbar (2007), Goldscheider (2010) and others. 
+functioning of three monitoring boreholes at the margins of                      The recently proposed Slovenian approach (Ravbar and 
+the  landﬁll  was  tested  by  a  combination  tracer  test.  The             Goldscheider 2007) follows the European guidelines most 
+ﬁndings about the characteristics of tracer transport in the                  comprehensively.  The  method  includes  the  assessment  of 
+karst  system  and  the  outﬂow  through  karst  springs  were                vulnerability    and   degree    of  hazard    (Fig. 5).  These    two 
+additionally  used  to identify the  most suitable  springs for               assessments form the basis for calculating the contamina- 
+monitoring and preparing an appropriate sampling regime.                      tion risk to groundwater or water sources. The ﬁnal result 
+The lack of tracers appearing in one borehole, only one tracer                of the natural vulnerability assessment can be transformed 
+appearing in the second and the appearance of both tracers in                 into water protection zones. The identiﬁcation of the most 
+the third in relatively low concentrations indicated that due to              vulnerable  areas  and  areas  with  the  highest  risk  of  con- 
+the heterogeneity of karst aquifers, springs or other natural                 tamination    allows    the   optimization     of  water    protection 
+watercourses should be selected as monitoring points.                         zones,   appropriate     and    prudent    management        of  water 
+    The  rapid  ﬂow  toward  the  Bilpa  spring  and  high  con-              sources  and  a  foundation  for  planning  the  monitoring  of 
+centrations  of  tracers  conﬁrmed  that  this  spring  was  the              water quality. 
+
+123 
+
+----------------------- Page 12-----------------------
+
+                                                Author's personal copy 
+
+Carbonates Evaporites (2011) 26:365–380                                                                                                      373 
+
+Fig. 5  Assessment scheme and factors required for vulnerability and risk mapping according to the Slovene approach. For more information see 
+Ravbar and Goldscheider (2007) 
+
+   Unlike  other  methods  in  assessing  the  vulnerability  of          ﬁrst described by Mangin (1974) and Williams ( 1983), the 
+groundwater,  the  Slovenian  approach  considers  the  water             epikarst   holds   a  considerable     reservoir   of  subterranean 
+ﬂow  under  different  hydrological  conditions  and  offers  a           water    that  percolates    both   vertically   and    horizontally 
+possibility of linking the protection of surface waters and               through  a  network  of  small  cavities  and  crevices  in  the 
+groundwater. The Slovenian approach offers the possibility                rock. This makes the epikarst very vulnerable to any spills 
+of  assessing    the   importance     of  groundwater      or  water      of pollutants either on the surface or from leaking under- 
+                                                                                                              ˇ                ˇ               ˇ 
+sources    on  a  basis   on  which    it  is possible   to  predict      ground  storage  tanks  (Kogovsek  and  Petric  2007;  Petric 
+                                                                                ˇ 
+potential  damage  and  elaborate  a  priority  list  of  rehabili-       and  Sebela  2005).  Because  the  epikarst  is  honeycombed 
+tation measures.                                                          with   small   fractures   and  solution   pockets,   contaminants 
+   The     Slovenian     approach     ranks    among      extremely       tend to persist (White 2004). 
+sophisticated  methods,  because  its  application  requires  a               Monitoring obligate cave-dwelling invertebrates  (aqua- 
+large  amount     of data,   time,  and   ﬁnancial   and   technical      tic stygobionts and terrestrial troglobionts) has been prob- 
+resources. Moreover, validity tests on the acquired results               lematic and intriguing (Culver and Sket 2002). Many of the 
+showed  that  compared  with  simpler  methods,  the  use  of              species found are rare, and the effective censusing of any 
+such a method is quite reasonable because it provides more                rare  animal  is  difﬁcult.  An  additional  problem  relative  to 
+reliable  and   less  subjective    results  (Ravbar    and  Golds-       many rare cave-dwelling invertebrates is that their primary 
+chieder 2009).                                                            habitat consists of small voids and ﬁssures in the epikarst 
+                                                                          that cannot be accessed directly. 
+                                                                              The most abundant animals in the epikarst are copepods, 
+Fauna of dripping water in caves as monitors of cave                      which  enter  caves  in  relatively  large  numbers.  Using  the 
+ecosystem health                                                          continuous  sampling  device  developed  by  Pipan  (2005), 
+                                                                          epikarst fauna and the practicality of using epikarst fauna 
+The epikarst habitat is the highly vulnerable and important               as a monitor of subterranean aquatic ecosystem health were 
+uppermost layer of limestone (Culver and Pipan 2009). As                  investigated.  Sampling  was  done  in  the  Postojna-Planina 
+
+                                                                                                                                    123 
+
+----------------------- Page 13-----------------------
+
+                                                 Author's personal copy 
+
+374                                                                                                     Carbonates Evaporites (2011) 26:365–380 
+
+cave   system     (Slovenia)    where    20   drips   were   sampled         unlikely  to  be  either  frequent  or  quantitatively  important 
+continuously     for  more    than   1 year.   The   drips  exhibited        (Simon et al. 2007). A signiﬁcant source of organic carbon 
+considerable     environmental      heterogeneity      (Pipan   et   al.     is dissolved in the dripping water. The presence of surface- 
+2006). The drip rates ranged between 1.7 and 202 ml/min                      dwelling organisms in drips is not a sign of contamination, 
+with  most  drips  rates  below  50 ml/min.  The  conductivity              but  rather  a  sign  of  ecosystem  health.  Any  reduction  in 
+varied   between     238   and  548  lS/cm,     probably    reﬂecting        stygobionts and any reduction in overall inputs would be an 
+different residence times of the water in the epikarst.                      indicator   of   contamination,     as   would    the   presence    of 
+   A total of 23 copepod species (4 Cyclopoida and 19 Har-                   organisms     speciﬁc   to  polluted    waters    such   as  tubiﬁcid 
+pacticoida)  were  found  in  the  drips,  including  eight  unde-           worms. 
+scribed  species.  Of these  23 species, 6  are  endemic  to the                Sampling epikarst fauna is a useful way to assess  eco- 
+Postojna-Planina cave system. A total of ﬁve species were of                 system  health,  since  the  epikarst  is  the  major  source  of 
+the  single   genus   Bryocamptus.      Species    composition     was       organic  carbon  and  nutrients,  the  major  source  of  stygo- 
+extremely  heterogeneous;  differences  in  drip  rate,  ceiling            biotic migrants into caves and the primary habitat of many 
+height and  nitrate  concentrations  were  correlated  with dif-             stygobionts. The health of the epikarst can be assessed by 
+ferences in species composition (Fig. 6). There was also a                   long-term  continuous  collection  of  the  fauna  entering  the 
+strong  distance  effect,  with  drips  closer  than  100 m  being           cave, especially the number of stygobiotic individuals and 
+more similar than those farther away. The scale of variation of              the overall number of both copepods and all invertebrates. 
+epikarst communities is remarkable: even drips \100 m apart 
+often  have  different  species.  This  likely  reﬂects  the  semi- 
+isolated nature of the small cavities that comprise the epikarst.            Microbial ﬁngerprints of human activity 
+   The epikarst is more than a source of population and a                    in the underground 
+connecting corridor to other caves; it is also a major source 
+of carbon and nutrients. Water coming into the entrance of                   Caves   contain    much  valuable  information        on  hydrogeo- 
+a  cave  may  carry  organic  carbon  and  nutrients,  but  it  is           logical,  geochemical      and   biological   processes    that  have 
+
+Fig. 6  Ordination diagram 
+based on species composition 
+and abundance data of copepods 
+in epikarst drips in relation to 
+the 12 environmental variables 
+of the ﬁve caves. Species are 
+abbreviated by the ﬁrst three 
+letters of the genus and species 
+names. For complete names, see 
+Pipan (2005) and Pipan et al. 
+(2006) 
+
+123 
+
+----------------------- Page 14-----------------------
+
+                                             Author's personal copy 
+
+Carbonates Evaporites (2011) 26:365–380                                                                                              375 
+
+occurred  on the  surface  and underground.  For this reason             This  raises  an  important  question  regarding  allochtho- 
+and   from   the  perspective   of  nature  preservation,   there     nous   airborne   microbes:   how    long  can   they  persist  in 
+arises the key question: how do we preserve caves in their            underground  conditions?  Various methods can  be  applied 
+pristine condition? Various environmental parameters such             to sample cave air, but an initial insight into air quality can 
+as  those  outlined  in  Groundwater  Directive  2006/118/EC          be acquired simply by depositional air sampling for 20 min 
+can  be  used  to  evaluate  the  anthropogenic  impact  on  the      (Mulec  2008).  The  inﬂuence  on  a  cave  of  airborne  bio- 
+underground.  In  addition  to  the  usually  applied  physical       logical  particles  introduced    as  a  consequence    of  mass 
+and  chemical    parameters,  microbial  indicators  can    offer     tourism has  never been  studied  in detail.  However, based 
+additional information on underground conditions.                     on bioaerosol monitoring in 2009 and 2010 in the Postojna 
+                                                                      Cave,  which  is  visited  by  500,000  tourists  annually,  the 
+Microbial indicators and underground water status                     inﬂuence of humans on air quality is clearly evident (Mulec 
+                                                                      and Walochnik 2010). 
+The availability and quality of water in karst areas are of 
+crucial  importance for the  water supply of the population           Alteration of solid surfaces in caves 
+and  for  agriculture.  In  well-karstiﬁed  areas,  the  retention 
+time of water in the underground is usually short, meaning            The   most   evident  result  of  human    alteration of  normal 
+that  the level  of  mineralization  between     a ponor   and  a     underground  conditions  is  the  presence  of  lampenﬂora  in 
+spring is low. Since karst areas face constant and increasing         natural   and  artiﬁcial  caves.  Lampenﬂora      is  a complex 
+anthropogenic pressure, regular monitoring of underground             community     of  organisms    growing    on  illuminated   areas 
+rivers should be more widely applied. Values for physical,            such  as  rocky  surfaces,  sediment  and  artiﬁcial  materials 
+chemical and biological parameters of subterranean rivers             around lamps. In this community, various aerophytic cya- 
+should  be  carefully  interpreted,  taking  into  consideration      nobacteria  and  algae,  as  well  as  some  mosses  and  ferns, 
+dilution  and   possible  additional   pollution  in  the under-      dominate. They usually strongly adhere to the substratum 
+ground.   Regular    monitoring    using   indicator  groups   of     and  are  consequently  responsible  for  substratum  deterio- 
+microorganisms      can   give  better  understanding     of  the     ration (Mulec and Kosi 2009). 
+underground  interactions, since  there  is  no UV stress  and           A   ﬂoristic  analysis  of  lampenﬂora     tells the stage   of 
+quantitatively fewer higher predators.                                species succession; in the later stages after several years of 
+   For example, during the 2-year monitoring in the Post-             uninterrupted    exposure    to  light, cyanobacteria    become 
+ojna Cave (Slovenia), the ratio of coliform bacteria to total         more    abundant    compared    to  algae   in  the  community 
+bacterial counts dropped from 0.80 to 0.20 at low discharge           (Mulec  et  al. 2008). If  the  duration  of illumination  is  not 
+( *0.6 m3/s)    over   the  9 km   of   the  underground     ﬂow      restricted,  even   extremely    low   photon   ﬂuxes    such   as 
+between  the  ponor  and  the  spring.  Absolute  numbers  and        0.2 lmol photons/m2/s      can  support   the  growth   of  bryo- 
+
+comparisons     between    microbial    groups    are  not   only                                 ˇ   ´ 
+                                                                      phytes (Mulec and Kubesova 2010). Besides the develop- 
+important to assess water quality and estimate the trophic            ment   of  a  procedure  to  kill  lampenﬂora    with  minimum 
+level  (Toranzos  and  McFeters     1997),  but  also  to  get  an    impact   on   caves,  more   attention  should   be  devoted    to 
+insight into ecological interactions along the gradient of the        implementing     lighting  regimes    that do   not  support   the 
+underground     river  ﬂow.   There   are  several   quantitative     growth of lampenﬂora (Mulec and Kosi 2009). Much effort 
+microbial detection  kits currently  available on the market          is currently invested in the installation of lamps that restrict 
+whose price, sensitivity, speciﬁcity and easy transport in the        the  growth   of  lampenﬂora.    LED    lamps   appear   to  be  a 
+underground make such studies feasible (Mulec et al. 2012).           plausible  candidate,  but  additional  studies  are  needed  to 
+                                                                      deﬁne  the  proper  characteristics  of  such  lamps  to  ﬁt  the 
+Airborne microorganisms and human activities                          criterion mentioned above (Mulec 2011). 
+
+A correlation between aerobiology and biodeterioration was 
+observed in caves with prehistoric art, since the air in the          Cadastre of caves in Slovenia 
+cave acts as a vehicle for the dispersion of microorganisms 
+(Saiz-Jimenez and Gonzales 2007). Airborne microorgan-                To date, 10,030 caves have been discovered and registered 
+isms  are  usually  subjected  to  a  variety  of  environmental      in Slovenia. The number of discovered and explored caves 
+stresses  such  as  UV  radiation,  chemical  pollutants,  desic-     rises every year by around a 100. The uniﬁed cadastre of 
+cation and temperature extremes (Buttner et al.  1997), but           caves  is  a  collection  of  data  on  the  known  underground 
+once  microbes  become  airborne  in  caves  some  of  these          caves  in  Slovenia  that  provides  an  overview  of  the  vast 
+stresses, e.g., UV radiation and desiccation, are eliminated.         number of known caves. 
+
+                                                                                                                             123 
+
+----------------------- Page 15-----------------------
+
+                                                Author's personal copy 
+
+376                                                                                                  Carbonates Evaporites (2011) 26:365–380 
+
+   The ﬁrst descriptions of caves in Slovenia date from the               caves in Slovenia is 733 km. The altitude of the entrance of 
+seventeenth  century.  In  the  second  half  of  the  nineteenth         the lowest cave is 7 m above sea level, while the highest 
+century, the number of known caves increased to more than                 entrance is 2,550 m above sea level. 
+200.  In  1910,  the  Cave  Exploration  Society  was  founded 
+and established a collection of observations from scientiﬁc 
+expeditions, reports and cave plans; initially, however, the              Professional supervision and consulting in managing 
+collection    was   poorly    organized.    Later,   the   collected      the Postojna and Predjama cave systems 
+material was rearranged by numbering the caves consecu- 
+tively,  creating   the   foundation    for  a  cadastre   that   has     In   the  framework     of   the  Professional    Supervision     and 
+remained basically unchanged to the present day. By 1938,                 Consulting     in  Managing      Cave    Systems,     Climatic    and 
+the number of registered caves had increased to 647.                      Biological    Monitoring     of  Cave    Systems     (sponsored    by 
+   In the middle of the twentieth century, maintaining the                Postojnska jama  which  manages  the caves) and Measure- 
+cadastre    became     a  joint  project    of  the   Speleological       ments    and   Analysis   of  Selected    Climatic   Parameters     in 
+Association of Slovenia and the Karst Research Institute in                Karst  Caves:  Example  of  the  Postojna  Cave  System  (co- 
+Postojna.  The  cadastre  has  two  sources  of  data.  Amateur            ﬁnanced by the Slovenian Research Agency) projects, the 
+speleologists contribute the largest part of data. Their data              Karst  Research  Institute  has  undertaken  regular  climatic 
+are organized according to the discovery of the caves and                  and  biological  monitoring  of  the  Postojna  and  Predjama 
+oriented toward new exploration in known caves. The other                 cave  systems  since  2009  at  selected  locations,  as  well  as 
+materials    are  contributed    by   institutions   professionally       performing     the   tasks  of  karstology     consultant   or  cave 
+involved in karst research and cave exploration. Despite the              custodian in the implementation of the concession contract. 
+differences  in  the  quality  and  orientation  of  the  data,  the      Professional  monitoring  of  the  state  of  both  caves  is  per- 
+cadastre is an excellent and very useful collection of data.              formed with an emphasis on the impact of the use of caves 
+   The cadastre of caves contains almost 70,000 pages and                  as natural assets. 
+a digital database of fundamental data. Only caves longer                     The   Postojna    (20,570 m)     and    Predjama     (13,092 m) 
+or deeper than 10 m are registered. A form is kept for each               caves rank among the most visited karst caves in Slovenia. 
+registered    cave   that   contains    the   coordinates    of   the     In  2009,   Postojna    Cave   was   visited   by  almost   500,000 
+entrance,    a  description    of   access   to   the  cave,    basic     visitors and the Predjama Cave system by 5,500. The two 
+dimensions (length, depth), the date of exploration and data              cave systems are listed in the Register of Natural Assets as 
+on  the  explorers.  The  form  also  contains  sections  for  a           assets of national importance. 
+description of the cave as well as geological, hydrograph-                    The duty of the cave custodian is professional supervi- 
+ical,  meteorological,    archeological     and   biological   infor-      sion  and  consulting  relative  to  management  to  insure  the 
+mation  about  the  cave.  A  plan  of  the  cave  must  also  be          sustainable development of both cave systems, developing 
+submitted. The basic form can be complemented by reports                  guidelines for the use of cave systems as natural assets, and 
+on further explorations of the cave, photographs and other                the  climatic  and  biological  monitoring  of  both  systems. 
+material.                                                                 Work     tasks  in  the  Short-Term     Program     for  the  use  of 
+   The cadastre of caves is a basic collection of data about              natural  assets  of the  Postojna and  Predjama  cave  systems 
+caves  in  Slovenia.  Its  registration  system,  the  use  of  uni-       (2009–2013) include climatic and biological monitoring of 
+form identiﬁcation numbers, cave names and quality data,                  lampenﬂora, regular communication with the Nova Gorica 
+and  the  fact  that  it  has  been  in  use  for  more  than  half  a    Regional Unit of the Institute of the Republic of Slovenia 
+century,  make  it  a  valued  resource  for  all  scientiﬁc,  pro-       for  Nature  Conservation  about  the  implementation  of  the 
+fessional,  administrative  and  other  users  who  need  infor-          concession and the state of the cave, the implementation of 
+mation about the karst and caves in Slovenia. A database                   a rehabilitation program to eliminate the impacts caused by 
+on caves, which has  been extracted  from this resource, is               the use of these natural assets, drawing attention to external 
+provided annually to the Ministry of the Environment and                  factors endangering the caves, monitoring and supervision 
+Spatial Planning for the needs of environmental protection                of  major  encroachments  and  events  in  the  cave  (Fig. 7), 
+and spatial planning activities and is also used by the Ofﬁce             recording research, making an inventory of encroachments 
+of  Civil  Protection  and  Disaster  Relief  at  the  Ministry  of        and maintaining a list of the cultural heritage in both cave 
+Defense.                                                                   systems. 
+   Postojna  Cave,  which  stretches  to  20.5 km,  is  the  lon-             In  climatic   monitoring    in  the  Postojna    Cave   system, 
+gest cave. Five more caves are longer than 10 km, and six                 temperatures are measured at a number of locations using 
+                                            ˇ 
+caves exceed the depth of 1,000 m. Cehi 2 is the deepest                  various    measuring     instruments,     as  well   as   measuring 
+cave with 1,533 m. The average cave length is 76 m, and                    atmospheric    pressure,   relative   humidity,    CO2   and   wind 
+the  average  depth  is  26 m.  The  total  length  of  all  known         (Fig. 7).  Temperature  is  usually  measured  on  an  hourly 
+
+123 
+
+----------------------- Page 16-----------------------
+
+                                                  Author's personal copy 
+
+Carbonates Evaporites (2011) 26:365–380                                                                                                             377 
+
+Fig. 7  a Measuring sites for climatic and biological monitoring in the       monitoring  (seasonal  sampling  of  bioaerosols  and  atmospheric  data 
+Postojna Cave system: Climatic monitoring (hourly measurement of              including  air temperature,   relative humidity,   CO2,  wind   velocity, 
+air  temperature   and  atmospheric    pressure).  Climatic  monitoring       atmospheric pressure). b Exhibited replicas of two dinosaur skeletons 
+(station for  measuring   air temperature,  wind   velocity, wind   ﬂow,      in  the  Koncertna  dvorana  cavern  during  the  Postojna  Cave  system 
+                                                                                                                   ˇ 
+speciﬁc electric conductivity). Climatic monitoring (air temperature).        exhibition in 2009 (Photo: Stanka Sebela). c Climatic monitoring in 
+                                                                                                                                               ˇ 
+Climatic   monitoring   (air  temperature   and  humidity).   Biological      the Lepe jame cavern, meteorological station (Photo: Stanka Sebela) 
+monitoring   (monitoring   of fauna   in percolated  water).  Biological 
+
+basis,  and  periodically  at  shorter  intervals.  In  2010,  two            air temperature by up to 0.3C. When the number of visi- 
+meteorological stations were installed in the cave, the ﬁrst                  tors returns to normal, the CO2  values and the temperature 
+located in the Lepe jame cavern (Fig. 7) and the second in                    return to their normal values. 
+the main passage between the Veliki dom and Kongresna                             In  both  cave  systems,  biological  monitoring  shows  the 
+dvorana caverns. Both stations employ a number of sensors                     importance  of  protecting  the  rich  underground  fauna  and 
+for temperature, a sensor for water temperature in a pool,                    recording the existing state. 
+an ultrasonic wind speed monitor, a sensor for measuring                          In  accordance  with  the  legislation,  the  monitoring  of 
+the concentration of CO2  in the air and a sensor for mea-                    the   Pivka    River   that   sinks   into   the  Postojna     Cave    is 
+suring  relative  humidity.  Both  stations  are  equipped  with              undertaken  by  the  Ministry  of  the  Environment  and  Spa- 
+data  recorders  that  take  data  every  10 min  from  all  the              tial  Planning.    The    pollution    of  the   Pivka    River   is  an 
+sensors and save them on a memory card.                                       important     issue   related   to  the   proper   operation     of  the 
+    During events and festivities held in the cave that attract               communal  water  treatment  plant  in  Postojna,  which  must 
+a  larger  number  of  visitors,  the  normal  values  for  CO2               encompass  all  the  waters  that  sink  into  the  cave  system. 
+increase by two or three times, with a simultaneous rise of                   The   underground       Pivka   River    must   not   be  additionally 
+
+                                                                                                                                          123 
+
+----------------------- Page 17-----------------------
+
+                                                Author's personal copy 
+
+378                                                                                                   Carbonates Evaporites (2011) 26:365–380 
+
+polluted  from  other  sources  inside  the  cave  system  (e.g.,          can occur with the inadequate processing of sewage due to 
+toilets  in  the  cave).                                                   the  concentration     of the   runoff  to  the  underground      and 
+   Based    on   the  experience    of  conducting     climatic   and      occasional pollution resulting in the impoverishment of the 
+biological  monitoring  in  the  Postojna  and  Predjama  cave             underground  hydrological,  geomorphological and  biologi- 
+systems, a protocol is being developed with a suitable legal               cal heritage. 
+basis to be applied in other karst caves in Slovenia as well.                 A  tracer  test  was  conducted  at  the  runoff  point  of  the 
+   Regular written reports of visits to both cave systems are              treatment plant and samples were collected at ﬁve under- 
+made,    supported     by  observations     and   ﬁndings     on  the      ground     and    ﬁve    surface    sampling     points    (springs). 
+management  of  both  cave  systems.  Regular  meetings  are               Although  only  2%  of  the  injected  tracer  appeared  in  the 
+                                                                               ˇ 
+held   with  the   concessionaire    and   representatives    of  the      Krizna jama Cave, the results indicated that a substantially 
+Nova Gorica Regional Unit of the Institute of the Republic                 higher  proportion  of  partly treated  wastewater  could  ﬂow 
+of Slovenia for Nature Conservation on urgent and ongoing                  into  the  cave  with  higher  water  levels.  With  high  water 
+                                                                                                                   ˇ 
+issues.                                                                    levels,  the   pollution   of  the  Krizna    jama    Cave   can   be 
+                                                                           anticipated, but at the same time the large amount of water 
+                                                                           would  most  probably  dilute  the  pollutants.  At  low  water 
+Karstological assessment of other spatial                                  levels, the cave is less threatened. The institute is trying to 
+encroachments on the karst landscape                                       establish the impact of the existing sewage treatment plant 
+                                                                           on underground processes using micrometer measurements 
+In  the  past  decades,  the  Classical  Karst  region  was  rela-         and   limestone    tablets  on  the  sensitive   rimstone    barriers 
+tively exempt from intensive urbanization. Major changes                   separating the underground lakes that grow up to 0.09 mm/ 
+in  the  preserved    natural   environment     and   healthy   local      year. 
+lifestyle only began to appear in the last few years due to                   The    impact   and   possibility   of  opening     a  previously 
+the proximity of the expressway. This increased the pres-                  unopened cave for tourists in the UNESCO Phong Nha-Ke 
+sures on the sensitive karst environment where the limita-                 Bang Park in central  Vietnam was evaluated.  In coopera- 
+tions of the natural environment must be respected.                        tion  with   the   local  community      and    the  company     that 
+   With this in mind, karstologists from the Karst Research                manages      Postojna    Cave,     the   Vietnamese      cave    was 
+Institute  were  invited  to  assess  the  expansion  of  the  golf        explored, measured and evaluated during 2-week-long ﬁeld 
+course at the Lipica Stud Farm. The resort’s desire was to                 expeditions  and  evaluated  from  the  geological,  geomor- 
+expand the existing golf course to the adjacent wooded and                 phological,  hydrological,  and  partly  biological  and  arche- 
+well-preserved  karst  area,  so  the  course  would  meet  the            ological viewpoints. Speciﬁc tourist attractions in the cave 
+standards    required   for  the   organization    of  international       were documented and photographed, and a visiting regime 
+tournaments.  Impacts  on  the  soil,  water  and  natural  heri-          and  the  route  of  tourist  trails  through  the  cave  were  rec- 
+tage  from  the  karstological  viewpoint  were  assessed.  The            ommended.  Proposed  paths  were          visualized  using  a  3D 
+risk to the soil and water would increase due to additional                computer     program,    several   possible   access   routes   were 
+fertilization  using   artiﬁcial   fertilizers, summer     irrigation      suggested,    and   market    research    was   conducted     on  the 
+and  the  modiﬁcation  of  the  karst  surface  (reduced  rocki-           attractiveness  of  the  cave  and  the  entire  Phong  Nha-Ke 
+ness,  increased    soil  thickness,   partial  ﬁlling   of  dolines,      Bang National Park. A team of ﬁve karstologists and two 
+partial removal of cultural heritage, e.g., dry stone walls).              tourism workers was involved in the project. 
+The  project  was  judged  to  be  feasible,  provided  speciﬁc               The Karst Research Institute is expanding the awareness 
+mitigation    measures     are   implemented      such    as  partial      of the  value of  the  karst  and its  vulnerability  through  the 
+changes in the  arrangement of fairways, limits relative to                European  Union’s  Karst  Underground  Protection  project 
+fertilization,  the  use   of pesticides    and  irrigation,  partial      that  includes the  organization  of  two  International  ‘‘Clas- 
+preservation    of  the   rockiness   of   the  surface,   and   total     sical Karst’’ Karstology Schools (Fig. 8), the cleanup of six 
+preservation of the natural and cultural heritage of national              Slovenian and six Croatian caves, biospeleological studies 
+importance (e.g., karst caves, dry walls).                                 in southwestern Slovenia and northwestern Croatia, ﬁlming 
+   In another study, the impact on underground karst in the                an  educational  documentary,  and  the  purchase  of  equip- 
+case  of  the  Fara  pri  Blokah  sewage  treatment  plant  from           ment needed for these activities. Although the primary aim 
+                                                          ˇ                of the project is to promote cross-border cooperation with 
+where  water  presumably  ﬂows  toward  the  Krizna  jama- 
+    ˇ                                                                      Croatia, improved knowledge of karst and ways to promote 
+Krizna  jama  2  cave  system,  an  internationally  important 
+site of very high underground biodiversity with more than                  it  from  the  visual,  professional,  educational  and  biology 
+50 underground lakes and a major excavation site of cave                   viewpoints  will  be  examined,  as  well  as  the  potential  for 
+bear  ( Ursus  spelaeus)  remains,  was  assessed.  While  sew-            rehabilitation  of  polluted  caves  in  the  catchment  areas  of 
+age treatment plants are desirable in karst areas, problems                drinking water springs. 
+
+123 
+
+----------------------- Page 18-----------------------
+
+                                                       Author's personal copy 
+
+Carbonates Evaporites (2011) 26:365–380                                                                                                                            379 
+
+                                                                                      Directive 2006/118/EC of the European parliament and of the council 
+                                                                                            of  12  December      2006   on   the  conservation    of   groundwater 
+                                                                                            against pollution and deterioration (2006) Ofﬁcial Journal of the 
+                                                                                            European Union, L 372/19-L 372/31 
+                                                                                      Dreybrodt  W,  Gabrovsek  F  (2000)  Dynamics  of  the  evolution  of  a 
+                                                                                            single  karst  conduit.   In: Klimchouk      A,  Ford   DC,   Palmer   A, 
+                                                                                            Dreybrodt  W  (eds)  Speleogenesis:  evolution  of  karst  aquifers. 
+                                                                                            National Speleological Society, Huntsville, pp 184–193 
+                                                                                      Dreybrodt     W,   Gabrovsek     F,   Romanov      D   (2005)   Processes    of 
+                                                                                                                                                                  ˇ 
+                                                                                            speleogenesis:    a modeling     approach.   Carsologica,    4.  Zalozba 
+                                                                                            ZRC, Ljubljana 
+                                                                                      Eisenlohr   L,  Meteva     K,  Gabrovsek     F,  Dreybrodt    W   (1999)   The 
+                                                                                            inhibiting action of intrinsic impurities in natural calcium carbon- 
+                                                                                            ate  minerals  to  their  dissolution  kinetics  in  aqueous  H2O–CO2 
+                                                                                            solutions. Geochim Cosmochim Acta 63(7–8):989–1001 
+                                                                                      Epting J, Romanov D, Huggenberger P, Kaufmann G (2009) Integrating 
+                                                                                            ﬁeld  and  numerical  modeling  methods  for  applied  urban  karst 
+                                                                                            hydrogeology. Hydrol Earth Syst Sci 13(7):1163–1184 
+                                                                                              ˇ               ˇ              ˇ  ˇ         ˇ 
+                                                                                      Gabrovsek  F,  Kogovsek  J,  Kovacic  G,  Petric  M,  Ravbar  N,  Turk  J 
+Fig. 8   Organization  of  cave  cleanups  (activity  of  the  project  Karst               (2010)  Recent  results  of  tracer  tests  in  the  catchment  of  the 
+Underground  Protection)  will  directly  result  in  improved  quality  of                 Unica River (SW Slovenia). Acta Carsol 39(1):27–37 
+drinking water                                                                        Goldscheider  N  (2010)  Delineation  of  spring  protection  zones.  In: 
+                                                                                            Kresic N, Stevanovic Z (eds) Groundwater hydrology of Springs. 
+Conclusion                                                                                  Engineering,    Theory,   Management      and   Sustainability.   Butter- 
+                                                                                            worth-Heinemann, Burlington, pp 305–338 
+                                                                                      Kaufmann      G,  Braun    J  (2001)   Modelling    karst   denudation    on   a 
+By    applying      high-quality      karstological       research     results              synthetic landscape. Terra Nova 13(5):313–320 
+from individual spheres of karstology and interdisciplinary                           Kaufmann  G,  Romanov  D,  Hiller  T  (2010)  Modeling  three-dimen- 
+studies,  the  institute  wishes  to  prepare  a  foundation  for                           sional  karst  aquifer  evolution  using  different  matrix-ﬂow  con- 
+                                                                                            tributions. J Hydrol 388(3–4):241–250 
+rational  planning  of  sustainable  life  in  karst  regions  that                                                          ˇ 
+                                                                                      Knez    M,   Slabe   T   (2007)    Kraski   pojavi,   razkriti  med    gradnjo 
+will  consider  the  natural  and  cultural  characteristics  and                           slovenskih avtocest [summary: Karst features discovered during 
+                                                                                                                                            ˇ 
+vulnerability of karst landscapes,  supersede  the inevitable                               motorway construction in Slovenia]. Zalozba ZRC, ZRC SAZU, 
+proﬁt    motive,     and    base   environmental        planning      on   real             Postojna-Ljubljana 
+                                                                                              ˇ 
+                                                                                      Kogovsek J (1995a) Detailed monitoring of the quality of the water 
+socioeconomic  conditions,  which  will  beneﬁt  the  popula- 
+                                                                                            that  runs  off the  motorway  and  its impact  on karst  water.  Ann 
+tion in karst regions as well as their long-term and short-                                 5(7):149–154 
+                                                                                              ˇ 
+term development.                                                                     Kogovsek  J  (1995b)  The  spill  of  dangerous  substances  threaten  the 
+                                                                                                                                 ˇ 
+    While the primary mission is to deepen the knowledge                                    karst water. The pollution of Rizana in October 1994 due to the 
+                                                                                            oil spill in the accident near Obrov. Ann 5(7):141–148 
+of karst, karst phenomena and karst waters, the institute is                                  ˇ                                                              ¨ 
+                                                                                      Kogovsek J (1997) Pollution transport in the vadose zone. In: Gunay G, 
+also    aware     of  the    need    to   continually      and    effectively                                                   ¨ 
+                                                                                            Johnson AI, Tezcan L, Atilla AO (eds) Karst waters and environ- 
+present    karstological  discoveries  to  the  wider              public    by             mental impacts: proceedings. Balkema, Rotterdam, pp 161–165 
+                                                                                              ˇ 
+participating      in   major     projects,     working      with    relevant         Kogovsek  J  (1999)  New  knowledge  about  the  underground  water 
+                                                                                            drainage   in  the  Northern    part  of  Javorniki   Mountains     (high 
+government  ministries,  agencies  and  companies  and  pro- 
+                                                                                            karst). Acta Carsol 28(1):161–200 
+viding educational  programs  about  the  karst.  To this end,                                ˇ                                       ˇˇ 
+                                                                                      Kogovsek J (2001) Monitoring the Malenscica water pulse by several 
+karstology  courses  at  the  university  and  graduate  levels                             parameters in November1997. Acta Carsol 30(1):39–53 
+                                                                                              ˇ 
+have  been  established  and  a  center  for  planning  on  karst                     Kogovsek     J  (2004)   Physico-chemical      properties   of  waters   in the 
+                                                                                                   ˇˇ 
+                                                                                            Malenscica recharge area (Slovenia). Acta Carsol 33(1):143–158 
+through      which     karstological       knowledge        will    be   more                 ˇ 
+                                                                                      Kogovsek     J  (2010)    Characteristics    of  percolation    through   karst 
+widely available is underway.                                                                                                        ˇ 
+                                                                                            vadose   zone.   Carsologica    9.  Zalozba   ZRC    SAZU,     Postojna- 
+                                                                                            Ljubljana 
+                                                                                              ˇ            ˇ 
+                                                                                      Kogovsek  J,  Petric  M  (2004)  Advantages  of  longer-term  tracing— 
+                                                                                            three case studies from Slovenia. Environ Geol 47:76–83 
+References                                                                                    ˇ           ˇ 
+                                                                                      Kogovsek J, Petric M (2006) Tracer test on the Mala gora landﬁll near 
+                                                                                            Ribnica in south-eastern Slovenia. Acta Carsol 35(2):91–101 
+                                                                                              ˇ            ˇ 
+Buttner MP, Willeke K, Grinshpun SA (1997) Sampling and analysis                      Kogovsek  J,  Petric  M  (2007)  Directions  and  dynamics  of  ﬂow  and 
+                                                                                                                                                          ˇ 
+      of  airborne    microorganisms.      In:   Hurst   CJ,   Knudsen     GR,              transport  of  contaminants    from  the  landﬁll  near  Sezana  (SW 
+      McInerney  MJ,  Stetzenbach  LD,  Walter  MV  (eds)  Manual  of                       Slovenia). Acta Carsol 36(3):413–424 
+                                                                                              ˇ            ˇ 
+      environmental microbiology. American Society for Microbiolgy,                   Kogovsek J, Petric M (2010a) Tracer tests as a tool for planning the 
+      Washington, DC, pp 629–640                                                            monitoring    of  negative    impacts   of   the  Mozelj    landﬁll   (SE 
+Culver    DC,   Pipan    T   (2009)   The    biology   of   caves   and   other             Slovenia) on karst waters. Acta Carsol 39(2):301–311 
+                                                                                              ˇ           ˇ 
+      subterranean habitats. Oxford University Press, Oxford                          Kogovsek J, Petric M (2010b) Water temperature as a natural tracer— 
+                                                                                                                         ˇˇ 
+Culver   DC,    Sket  B   (2002)   Biological   monitoring    in  caves.   Acta             a case study of the Malenscica karst spring (SW Slovenia). Geol 
+      Carsol 31:55–64                                                                       Croat 63(2):171–177 
+
+                                                                                                                                                        123 
+
+----------------------- Page 19-----------------------
+
+                                                           Author's personal copy 
+
+380                                                                                                                         Carbonates Evaporites (2011) 26:365–380 
+
+                 ˇ 
+         ˇ 
+Kogovsek J, Sebela S (2004) Water tracing through the vadose zone                                contamination—a         case   study   of   the  Stara   vas   landﬁll    near 
+       above Postojnska Jama, Slovenia. Environ Geol 45:992–1001                                 Postojna (SW Slovenia). Acta Carsol 34(2):489–505 
+                                                                  ˇ 
+         ˇ                                      ˇ 
+Kogovsek J, Knez M, Mihevc A, Petric M, Slabe T, Sebela S (1999)                           Pipan  T  (2005)  Epikarst—a  promising  habitat.  Copepod  fauna,  its 
+      Military     training    area   in   Kras    (Slovenia).     Environ     Geol              diversity and ecology: a case study from Slovenia (Europe). ZRC 
+       38(1):69–76                                                                               Publishing, Karst Research Institute at ZRC SAZU, Ljubljana 
+                                                                   ˇ 
+Luthar    O   et  al (2008)    KRAS:     trajnostni   razvoj    kraske   pokrajine.        Pipan    T,  Blejec    A,   Brancelj    A   (2006)    Multivariate     analysis   of 
+            ˇ 
+      Zalozba ZRC, Ljubljana                                                                     copepod  assemblages  in  epikarstic  waters  of  some  Slovenian 
+                                            `     ´ 
+Mangin      A   (1974)     Contribution     a   l’etude   hydrodynamique         des             caves. Hydrobiologia 559:213–223 
+             `                           ´ ´      ´ 
+       aquiferes   karstiques.    1   Generalites     sur  le   karst  et   les  lois      Plummer LN, Wigley TML, Parkhurst DL (1978) Kinetics of calcite 
+         ´                    ´                                                                                         –water systems at 5C To 60C and 0.0 to 1.0 
+      d’ecoulement utilisees. Ann Speleol 29(283–332):495–601                                    dissolution in CO2 
+Mulec     J   (2008)    Microorganisms        in   hypogeon:      examples     from              atm CO2. Am J Sci 278(2):179–216 
+       Slovenian karst caves. Acta Carsol 37:153–160                                       Ravbar  N  (2007)  The  protection  of  karst  waters,  a  comprehensive 
+                                                                                 ˇ               Slovene     approach      to  vulnerability     and    contamination      risk 
+Mulec J (2011) Lampenﬂora in show caves in Slovenia. In: Prelovsek 
+                                                                                                                   ˇ 
+      M,    Zupan     Hajna    N   (eds)   Pressures    and    protection    of  the             mapping. Zalozba ZRC, ZRC SAZU, Postojna-Ljubljana 
+      underground       karst:  cases    from   Slovenia     and   Croatia.    Karst       Ravbar N, Goldscheider N (2007) Proposed methodology of vulner- 
+      Research Institute ZRC SAZU, Postojna, pp 64–73                                            ability   and  contamination      risk  mapping     for  the   protection   of 
+Mulec  J,  Kosi  G  (2009)  Lampenﬂora  algae  and  methods  of  growth                          karst aquifers in Slovenia. Acta Carsol 36(3):461–475 
+      control. J Caves Karst Stud 71:109–115                                               Ravbar  N,  Goldschieder  N  (2009)  Comparative  application  of  four 
+                  ˇ    ´                                                                         methods     of  groundwater      vulnerability    mapping     in  a  Slovene 
+Mulec J, Kubesova S (2010) Diversity of bryophytes in show caves in 
+       Slovenia  and  relation  to  light  intensities.  Acta  Carsol  39:587–                   karst catchment. Hydrogeol J 17:725–733 
+       596                                                                                 Saiz-Jimenez      C,   Gonzales     JM    (2007)    Aerobiology      and    cultural 
+Mulec J, Walochnik J (2010) Airborne microorganisms and relation                                 heritage:  some  reﬂections  and  future  challenges.  Aerobiologia 
+      to atmospheric parameters in big cave systems (Postojnska jama,                            23:89–90 
+                             ˇ   ˇ                                                         Simon  KS,  Pipan  T,  Culver  DC  (2007)  A  conceptual  model  of  the 
+       Slovenia).  In: Moskric  A,  Trontelj  P (eds)  Abstract  book, 20th 
+      international     conference      on   subterranean      biology    Postojna,              ﬂow and distribution of organic carbon in caves. J Caves Karst 
+       Slovenia, 29 August–3 September 2010, Postojna, pp 102–103                                Stud 69:279–284 
+                                  ˇ                                                        Toranzos  GA,  McFeters  GA (1997) Detection  of indicator  microor- 
+Mulec     J,  Kosi   G,   Vrhovsek      D   (2008)   Characterization      of   cave 
+       aerophytic algal communities and effects of irradiance levels on                          ganisms  in  environmental  freshwaters  and  drinking  waters.  In: 
+      production of pigments. J Caves Karst Stud 70:3–12                                         Hurst CJ, Knudsen GR, McInerney MJ, Stetzenbach LD, Walter 
+                ˇ  ˚               ˇ ´    ´                                                      MV     (eds)  Manual     of  environmental      microbiology.      American 
+Mulec J, Kristufek V, Chronakova A (2012) Comparative microbial 
+       sampling  from  eutrophic  caves  in  Slovenia  and  Slovakia  using                      Society for Microbiology, Washington, DC, pp 184–194 
+      RIDACOUNT test kits. Int J Speleol 41(2):1–8                                        White WB (2004) Contaminant storage and transport in the epikarst. 
+                      ˇ                                                                          In: Jones WK, Culver DC, Herman JS (eds) Epikarst, proceed- 
+Perne M, Gabrovsek F (2010) The problem of rillenkarren develop- 
+      ment: a modelling perspective.  In: Gines A, Knez M, Slabe  T,                             ings   of   the   symposium       held   October     1  through     4,  2003, 
+      Dreybrodt W (eds) Karst rock features. Karren Sculpturing. ZRC                             Shepherdstown,       West    Virginia,    USA.    Karst   Waters    Institute, 
+      Publishing, Ljubljana, pp 55–61                                                            Charles Town, pp 85–91 
+      ˇ                                                                                    Williams     PW    (1983)   The    role  of  the  subcutaneous      zone   in  karst 
+Petric M (2010) Characterization, exploitation, and protection of the 
+              ˇˇ                                                             ˇ  ´                hydrology. J Hydrol 61:45–67 
+      Malenscica      karst  spring,   Slovenia:    case   study.   In:  Kresic   N, 
+                   ´ 
+       Stevanovic  Z     (eds)  Groundwater       hydrology     of  springs:   engi-       Zwahlen F (2004) COST Action 620, Vulnerability and Risk Mapping 
+      neering,  theory,  management,  and  sustainability.  Butterworth-                         for the Protection of Carbonate (Karstic) Aquifers, Final report 
+      Heinemann, Burlington, pp 428–441                                                                                      ¨ 
+                                                                                                 COST Action 620. Brussel, Luxemburg 
+              ˇ 
+      ˇ 
+Petric  M,  Sebela  S  (2005)  Hydrogeological  research  as  a  basis  for 
+      the    preparation     of   the    plan    of   monitoring      groundwater 
+
+123 
+
+View publication statsView publication stats 

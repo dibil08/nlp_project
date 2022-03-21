@@ -1,0 +1,324 @@
+﻿----------------------- Page 1-----------------------
+
+M. Andrej and S. Urosˇ – Electrical resistivity imaging of cave Divasˇka jama, Slovenia. Journal of Cave and Karst Studies, v. 74, no. 3, 
+p. 235–242. DOI: 10.4311/2010ES0138R1 
+
+                                                                                                                                            ˇ 
+  ELECTRICAL RESISTIVITY IMAGING OF CAVE DIVASKA 
+                                                    JAMA, SLOVENIA 
+
+                                                                       1                               2 
+                                                                                        ˇ             ˇ 
+                                               MIHEVC  ANDREJ            AND    STEPISNIK      UROS 
+
+                     Abstract:     Electrical resistivity imaging is a widely used tool in geophysical surveys for 
+                     investigation of various subsurface structures. To assess its applicability for subsurface 
+                     karst, electrical resistivity imaging was conducted in the southeastern part of the karst 
+                     plateau above Divasˇka jama and its sediment-filled denuded continuation on the surface. 
+                     Cave    passages    that   are  not   filled  with   sediment     were   not   detected    with   electrical 
+                     resistivity imaging, because the electrical resistivity difference between voids and highly 
+                     resistive carbonate bedrock is small. On the other hand, denuded caves and cave sections 
+                     that   are  filled  with   loamy    material    can   be  clearly   distinguished     from   less  resistive 
+                     carbonate bedrock. 
+
+                           INTRODUCTION                                       volumes  vary  between  some  thousands  to  several  tens  of 
+                                                                              thousands of cubic meters (Mihevc, 1997). On the surface, 
+    The study area is situated in a southeastern part of the Kras             there  are  also  twenty-seven  large  collapse  dolines  with  a 
+                                                                                                                        6   3 
+                           ˇ                                                  total volume of more than 41 3  10          m  . Their mean depth is 
+plateau called the Divaca karst and on the northwestern side of 
+           ˇ                                                                  about  45  m,  and  their  mean  diameter  is  135  m.  On  the 
+the Divaca karst above the caves Divasˇka jama and Trhlovca 
+and    their  denuded     continuation     towards     the   east.  This      planated surface, it is possible to recognize several denuded 
+manuscript  discusses  the  application  of  electrical  resistivity          caves    that  are   mostly    unroofed     sections    of  horizontal 
+imaging  on  the  surface  above  known  passages  in  Divasˇka               or  sub-horizontal      epiphreatic  cave     passages.    The   largest 
+jama, its presumed subsurface continuation, and its denuded                   section  is  about  30  m  wide  and  can  be  recognized  over  a 
+continuation on the rim and slope of collapse doline Gorenjski                distance of about 600 m (Mihevc, 1997). 
+Radvanj.     The   main    purpose    of  the  paper    is to   test the          The   study    area  (Fig. 2)   is situated   on   the  edge   of  a 
+                                                                                                                                     ˇ 
+applicability of electrical resistivity imaging to the investigation          doline   in  the   northwest     part  of   the  Divaca    karst.   The 
+of   subsurface    structures   where    there  are   small   resistivity     surface is mostly flat at an elevation of about 460 m, and is 
+differences.                                                                  interrupted by several dolines with diameters up to 100 m 
+    The Kras is a limestone plateau situated above the Trieste                and   about    15   m  deep.   The    eastern   part   of  the  surface 
+Bay  in  the  northern  Adriatic  Sea.  Stretching  in  the  Dinaric          gradually dips into the elongated depression of a denuded 
+(northwest-southeast) direction, it is 40 km long, 14 km wide,                cave   that  in  its  eastern   part  continues     into  the  Divasˇki 
+and covers about 440 km2. It is morphologically quite distinct                Radvanj collapse doline. Two large caves are known in this 
+from the surrounding regions. Lower flysch regions and the                    area.  The  biggest  is  Divasˇka  jama,  which  runs  approxi- 
+Adriatic Sea bound it on the southwest and the northeast, and                 mately  southwest-northeast  at  an  elevation  between               350 
+to the northwest it is surrounded by the fluvial sediments of the             and   410   m.   The   other    large  cave,   Trhlovca,     is located 
+           ˇ                                                                  southwest of Divasˇka jama. 
+River Soca (Isonzo) plain. Towards the southeast, the border 
+of the Kras is well-defined by the non-carbonate flysch Brkini                    Divasˇka    jama    is  developed     in  bedded     limestone    of 
+Hills and the River Reka valley.                                              Senonian  age  (Jurkovsˇek  et  al.,  1996).  Limestone  beds  in 
+                ˇ                                                             the cave dip toward the southwest in the northeastern part of 
+    The Divaca karst is situated in the southeastern part of 
+the Kras plateau between the hinterland of the River Reka                     the  cave   and   toward    the  south    in the   southwestern     part 
+                                                                                            ˇ 
+                                   ˇ                                          (Gospodaric, 1985). The cave is a roughly 700 m long relict of 
+ponor and the town of Divaca (Fig. 1). The bedrock in the 
+area  comprises  thickly-bedded  Cretaceous  limestone,  dip-                 an originally larger cave system of epiphreatic and partially 
+ping  approximately  20  degrees  towards  the  south,  and  is               phreatic origin. The main part of the cave consists of a large 
+bounded to the south and north by Paleogene thin-bedded                       passage up to 20 m high and 15 m wide. The cave is filled 
+limestone.  On  the  edge  of  the  area,  the  River  Reka  sinks            with  at  least  30  m  of  lithologically  varied  sediments  and 
+       ˇ                                                                      speleothems of different ages. The most extensive sediment in 
+into  Skocjanske  jame  at  the  elevation  of  317  m  a.s.l.  The 
+terminal  sump  of  this  5800  m  long  cave  is  at  190  m a.s.l.          the cave is thick, laminated flood loam. The loam filled up 
+                                                                              most of the cave, but was later partially eroded away in lower 
+Beyond  about  900  m  of  unexplored  passages,  the  under- 
+                                                             ˇ                parts by percolating water. Both ends of the cave are choked 
+ground  river  flows  through  12,750  m  long  Kacna  jama. 
+                               ˇ                                              with  allogenic  sediments  and  flowstone.  The  only  known 
+The surface of the Divaca karst, at approximately 430 m, 
+is  largely  flat,  with   numerous      solution   dolines,   collapse 
+dolines,   and   denuded      caves.  Solution    dolines    are  50  to      1 Karst research institute ZRC SAZU, Titov trg 2, SI-6230 Postojna, Slovenia, 
+
+                                                                              mihevc@zrc-sazu.si 
+ 100 m in diameter and are about 10 m deep. Their density                     2                                                         ˇ 
+                                                                               University of Ljubljana, Department  of Geography,  Asˇkerceva 2, SI-1000 
+                                                                 2 
+can   be   higher   than   two   hundred     dolines   per   km  .  The       Ljubljana, Slovenia, urosstepisnik@hotmail.com 
+
+                                                                                     Journal of Cave and Karst Studies, December 2012 N 235 
+
+----------------------- Page 2-----------------------
+
+                                                    ˇ 
+ELECTRICAL RESISTIVITY IMAGING OF CAVE  DIVASKA JAMA,  SLOVENIA 
+
+                                                      Figure    1. Location of the study area. 
+
+subsurface  continuation  of  the  Divasˇka  jama  is  Trhlovca,                                                METHODS 
+although they are not directly connected. Trhlovca is 142 m 
+long and 22 m deep. The entrance to this cave is below vertical                      Although      electrical  resistivity   imaging     has   been    suc- 
+walls at the side of a doline. The doline probably represents                    cessfully utilized for characterizing the subsurface for many 
+the  unroofed  continuation  of  the  cave,  as  the  passage  that              years,  it  has  certain  limitations.  The  method  is  labor  in- 
+connects  the  main  passage  with  the  surface  is  a  phreatic                tensive, interpretation  of the data is  time consuming, and 
+channel intercepted by the surface. The southwestern end of                      the results are based on subjective interpretation (Roman, 
+Divasˇka  jama  is  about  40  m  below  the  end  of  this  doline.             1952;  Zhou  et  al.,  2002).  The  development  of  computer 
+Trhlovca is developed in bedded, southerly dipping limestone                     controlled multi-electrode systems and resistivity modeling 
+of the Sezˇana formation (Jurkovsˇek et al., 1996). The main                     software  have  allowed  more  cost-effective  resistivity  sur- 
+part of the cave is a meandering canyon approximately 15 m                       veys and better interpretation of the subsurface (Locke and 
+high, about 3 m wide, and 60 m long running north-south                          Barker,    1996).   These    surveys    are   usually   referred    to  as 
+at  an  elevation  of  404  to  419  m.  Scallops  and  undulating               electrical  resistivity  imaging  (ERI)  or  electrical  resistivity 
+notches    are   developed     on   walls,   indicating    evolution     in      tomography       (ERT)     (Zhou    et  al.,  2002).   These    methods 
+phreatic and partially in paragenetic conditions. This passage                   allow  data  to  be  collected  and  processed  quickly,  so  that 
+was completely filled with clastic fluvial sediments. The cave                   ERI     surveys    become       a   valuable     tool   in   subsurface 
+became     accessible    after   the  sediments     were    washed     out       investigations (Zhou et al., 2000). 
+(Zupan Hajna et al., 2008).                                                          ERI  surveys  are  typically  conducted  to  determine  the 
+    In  the  east  of  the  study  area  are  two  collapse  dolines,            resistivity   of  subsurface      features    and    can   be   used    to 
+Divasˇki Radvanj and Gorenjski Radvanj, which is the actual                      determine  the  location  of  various  geologic  and  soil  strata, 
+eastern   limit   of  the  study    area.  The    slopes   of  Gorenjski         bedrock    fractures,    faults,  and   voids.   Fundamental        to  all 
+Radvanj are mostly balanced. Lower parts of the slopes are                       resistivity methods is the concept that current is injected into 
+covered with loamy material. On the western slopes there are                     the ground, and the voltages induced by this current can be 
+two erosion gullies filled with sediment consisting of clay, silt                measured. These potentials or differences of potential, ratios 
+and sand, and flowstone.                                                         of  potential  differences,  or  some  other  parameter  that  is 
+
+236 N Journal of Cave and Karst Studies, December 2012 
+
+----------------------- Page 3-----------------------
+
+                                                                                                                                                            ˇ 
+                                                                                                                                 M. ANDREJ AND      S. UROS 
+
+Figure    2.  Top: Detailed map of the study area showing the electrical resistivity imaging lines over the cave (1–3), its presumed 
+filled continuation (4), and the unroofed cave at the sinkhole (5–8). Bottom: Profile sketch along the curve A–B in the top part, 
+with depths of the electrical resistivity imaging profiles that were calculated. 
+
+directly  related  to  these  variables  are  the  most  commonly                between carbonate rock and loamy material favors the use 
+measured      effect   of   the   injected    current.    The    principal       of electrical resistivity to determine the boundary between 
+differences  among  various  methods  of  electrical  resistivity                bedrock  and  overburden  or  loamy  sediment  (Zhou  et  al., 
+lie in the number and spacing of the current and potential                       2000). 
+electrodes,    the   variable    calculated,     and    the   manner     of          A frequently occurring problem with electrical resistiv- 
+presenting the results (Zhou et al., 2000).                                      ity  imaging  is  deciding  which  electrode  configuration  will 
+    Generally,     carbonate      rock   has   a  significantly     higher       respond best to the material changes in karst features. Each 
+resistivity than loamy material, because of its considerably                     type of array has distinctive advantages and disadvantages 
+smaller    primary     porosity    and   fewer    interconnected      pore       in  terms  of  sensitivity  to  material  variations,  depth  from 
+spaces.  Its  resistivity  value  is  about  1000  ohm-m  (Telford               which  information  may  be  obtained,  and  signal  strength. 
+et al., 1990). Loamy materials can hold more moisture and                        The most common arrays are the dipole-dipole array, the 
+have  higher  concentrations  of  ions  to  conduct  electricity;                Wenner  array,  and  the  Schlumberger  array.  The  dipole- 
+therefore,    their   resistivity   values   are   below    250    ohm-m         dipole  array     gives  good  horizontal  resolution,          while   the 
+(Telford et al., 1990). The high contrast in resistivity values                  Wenner  and  Schlumberger  arrays  are  more  intended  for 
+
+                                                                                        Journal of Cave and Karst Studies, December 2012 N 237 
+
+----------------------- Page 4-----------------------
+
+                                                    ˇ 
+ELECTRICAL RESISTIVITY IMAGING OF CAVE  DIVASKA JAMA,  SLOVENIA 
+
+                                             Figure   3.  ERI profiles 1–4, scale 0 to 1500 ohm-m. 
+
+vertical resolution. In the application to karst surveys, the                   developed  by  Advanced  Geosciences,  Inc.  This  combina- 
+dipole-dipole      array    has   provided     highest    precision     of      tion  of  equipment  and  software  have  been  shown  to  be 
+ground changes sensitivity and has the greatest sensitivity                     appropriate     for   providing    a  robust    visualization     of  the 
+to vertical resistivity boundaries (Zhou et al., 2002).                         epikarst structure and the subsurface structure of collapse 
+    Electrical    resistivity   data   were    collected   along    eight       dolines (Stepisˇnik and Mihevc, 2008; Stepisˇnik, 2008). The 
+different  lines  above  Divasˇka  jama,  its  presumed  contin-                root-mean-square  error  quantifies  the  difference  between 
+uation, and the denuded section on the slope of the collapse                    the  measured  resistivity  values  and  those  calculated  from 
+doline    (Fig. 2).   The    SuperSting     R1/IP     earth   resistivity       the  true  resistivity  model.  A  small  RMS  value  indicates 
+meter developed by Advanced Geosciences, Inc. was used                          small differences. The minimum RMS error in the survey 
+for   data   collection.    The   survey    was    conducted      with   a      was 2.59%, and the maximum error was 8.2%. 
+dipole-dipole  array  with  5  m  electrode  spacing.  In  most                     Previous  applications  of  this  method  in  various  karst 
+cases,   twenty    electrodes    were   used    simultaneously,      with       features in the Slovenian karst revealed that the resistivity 
+alternation  of  two  current  and  two  potential  electrodes.                 value for carbonate rock exceeds 1000 ohm-m. For soil and 
+For longer profiles, a roll-along survey was used. The data                     weathered      bedrock,     the   resistivity   values    are   between 
+were    processed     to   generate    two-dimensional        resistivity       approximately 200 and 1000 ohm-m. Loamy material has 
+models using Earthimager 2D resistivity inversion software                      resistivity  values  lower  than  150  ohm-m  (Stepisˇnik,  2007; 
+
+238 N Journal of Cave and Karst Studies, December 2012 
+
+----------------------- Page 5-----------------------
+
+                                                                                                                                                         ˇ 
+                                                                                                                              M. ANDREJ AND      S. UROS 
+
+                         Figure   4.  ERI profile 2 computed with additional higher scales of resistivity values. 
+
+Stepisˇnik   and   Mihevc,     2008;   Stepisˇnik,   2008).   However,          with resistivity value more than 1000 ohm-m is covered by 
+threshold     resistivity   values   that   would    discriminate      be-      thin  layers   of  less  resistive   soil, mechanically      weathered 
+tween    voids    and   carbonate     bedrock     have   not   yet   been       rock, or loamy material with resistivity about 500 ohm-m. 
+determined. Since voids should have infinite resistivity, the                   In the central part of the profile, at the depth of about 25 m 
+analysis  was  repeated  at  different  ranges  of  resistivity  to             there is a clearly distinguished area with electrical resistivity 
+check if subsurface openings can be detected.                                   lower    than   500    ohm-m,      which    might    be   a   high-level 
+    The ERI profiles across Divasˇka jama (profiles 1, 2 and                    extension     of  Divasˇka     jama    towards     Trhlovca      that   is 
+3) exhibit relatively uniform subsurface structure, which is                    completely choked with loamy sediment. Known passages 
+a   result   of  the   high    electrical   resistivity   of  limestone         of  Divasˇka    jama    are  positioned     about    50  m   below    the 
+bedrock, as well as cave voids (Fig. 3). Line 1 was situated                    surface  and  were  not  detected  in  the  ERI  profile,  as  the 
+on the surface above the southeastern end of the Divasˇka                       maximum depth in this profile was 28 m. 
+jama,    oriented    290 u.  Even    though    the   surface   is  gently           Line 2 was situated above the central part of Divasˇka jama 
+inclined towards the north, the inclination is uniform, and                     that lies approximately 15 m below the surface. The surface is 
+so  for  the  purpose  of  the  analysis,  the  topography  of  the             on the northwestern slope of a doline in the direction of 300u. 
+profile is presented as flat (Fig. 3). In this profile, bedrock                 In  this  profile,  bedrock     with   resistivity  value   more    than 
+
+                                                                                       Journal of Cave and Karst Studies, December 2012 N 239 
+
+----------------------- Page 6-----------------------
+
+                                                     ˇ 
+ELECTRICAL RESISTIVITY IMAGING OF CAVE  DIVASKA JAMA,  SLOVENIA 
+
+                                              Figure   5.  ERI profiles 5–8, scale 0 to 1500 ohm-m. 
+
+1000  ohm-m  is  covered  by  thin  layers  of  less  resistive  soil,                Line    3  was    situated    near    the   northeastern       end   of 
+mechanically       weathered      rock,    or   loamy     material     with       Divasˇka  jama,  which  here  lies  approximately  22  m  below 
+resistivity about 500 ohm-m. In the central part of the profile,                  the surface. The line ran across a flat karst surface covered 
+at the depth of about 15 m, a cave passage in Divasˇka jama is                    with grikes, in the direction of 305u. In this profile, bedrock 
+present. It should be seen on the profile, as resistivity values                  with resistivity value more than 1000 ohm-m is covered by 
+should    be   extremely     high.   However,      resistivity  values    of      thin  layers   of   less  resistive  soil,  mechanically       weathered 
+the  whole  section  of  the  profile  appear  like  those  of  the               rock, or loamy material with resistivity about 500 ohm-m. 
+surrounding  bedrock.  Different  ranges  of  resistivity  values                 Passages    in  Divasˇka     jama   lie  in  the  central  part  of  the 
+were used in an attempt to find a resistivity threshold between                   profile, but they were not detected by use of ERI because 
+the cave passage and the surrounding bedrock (Fig. 4). None                       they   have    the   same     apparent     resistivity   values    as   the 
+of  the  applied  ranges,  differing  by  an  order  of  magnitude,               surrounding bedrock. 
+allowed     us   detect   the   actual    cave   chamber.      At   higher            Profile 4 is situated  on a flat karst surface beyond the 
+resistivity  values,  some  anomalies  were  detected  that might                 northeastern      end    of  Divasˇka     jama,    over   its  presumed 
+be tensional fractures above the cave (15000 and 20000 ohm-                       subsurface continuation  toward denuded cave next to the 
+m), but they are not at the depth of the cave.                                    Gorenjski Radvanj collapse doline (Fig. 4). In this area, no 
+
+240 N Journal of Cave and Karst Studies, December 2012 
+
+----------------------- Page 7-----------------------
+
+                                                                                                                                                      ˇ 
+                                                                                                                            M. ANDREJ AND     S. UROS 
+
+accessible cave is known. Direction of the profile is 300u. In                upper  part  of  central  section  of  the  profile,  material  with 
+this  profile,  too,  bedrock  with  resistivity  value  more  than           resistivity  values  lower  than  150  ohm-m  appears  up  to  a 
+1000    ohm-m     is  partially   covered    by  thin   layers   of  less     depth  of  5  m.  This  is  most  likely  loamy  outwash  of  the 
+resistive   soil,  mechanically      weathered      rock,   or   loamy        denuded  cave  fill  from  the  slope.  Below  the  outwash,  at 
+material  with  resistivity  about  500  ohm-m.  In  the  central             depths    between    5  to  15   m,  the   profile  shows    resistivity 
+part of the profile, from the surface to the depth of about                   values  from  150  to  500  ohm-m  that  most  likely  represent 
+10 m, there is evidence of a small subsurface structure with                  weathered bedrock accumulated as scree at the foot of the 
+resistivity  values    less than    500  ohm-m.      Most    likely  the      slope.   Below,    there   is  again   the   material    that  exhibits 
+structure    is part   of  an   epikarst   void   filled  with   loamy        resistivity values lower than 150 ohm-m, suggesting loamy 
+material or soil. Here too, distinct grikes are present on the                fill in the doline (Stepisˇnik, 2008). 
+surface. In the southeastern section of the profile at depths 
+greater than 17 m, a subsurface structure with a diameter                                                 CONCLUSIONS 
+of about 30 m is evident.  With resistivity values less than 
+500   ohm-m,     the   structure   is  apparently     a  cave   passage           Electrical resistivity imaging data were collected for eight 
+completely filled with loamy material. This presumably is a                   lines over caves Divasˇka jama and Trhlovca and across their 
+continuation of Divasˇka jama.                                                denuded  continuation  on  the  slope  of  the  collapse  doline 
+    Lines 5 through 8 ran across the unroofed cave section                    Gorenjski Radvanj. 
+completely      filled  with    loamy     material    and    flowstone            The ERI profiles across Divasˇka jama (profiles 1, 2 and 3) 
+(Fig. 5). Results of ERI exhibit a clear difference between                   exhibit relatively uniform subsurface structure that is a result 
+cave fill and bedrock. Line 5, in the direction of 290u, was                  of the high electrical resistivity of limestone bedrock and cave 
+placed over the southwestern section of the denuded cave                      voids. Although the cave passages are relatively close to the 
+trench.  Its  profile  exhibits  some  bedrock  with  resistivity             surface, they were not detected with the application of ERI, 
+value around 1000 ohm-m in the southeastern section. It is                    even  at  the  highest  resistivity  values  that  should  show  the 
+covered  with  a  thin  layer  of  electrically  less  resistive  soil,       difference between bedrock and void. 
+mechanically  weathered  rock,  or  loamy  material  with  re-                    Profile  4,  across  the  presumed  underground  continua- 
+sistivity  value  about  500  ohm-m.  All  other  parts  of  the              tion of Divasˇka jama in the direction of the unroofed cave 
+profile exhibit some resistivity values lower than 150 ohm-                   shows  some  differences  in  subsurface  electrical  resistivity 
+m that indicates loamy material and flowstone fill material                   that may indicate the existence of cave conduits completely 
+in a denuded cave. Material with resistivity values around                    filled  with   less  resistive   loamy    material.    The    unroofed 
+500  ohm-m  located  in  the  central  and  northwestern  sec-                section of the cave is completely filled with loamy material 
+tions  of  the  profile  at  a  depth  between  10  and  15  m  is            and  flowstone.  ERI  profiles  4,  5,  6,  and  7  exhibit  a  clear 
+probably weathered bedrock that accumulated there due to                      difference  between  allogenic  cave  fill  and  bedrock.  In  the 
+slope processes inside the denuded cave.                                      upper section above the slopes of the collapse doline, where 
+    Line   6  was    situated   on   the  denuded     cave   northeast        the denuded cave is up to 20 m wide, the loamy fill is 15 m 
+of line 5, on the rim of the collapse doline. The line was run                thick. On the slopes, the thickness of loamy fill diminishes, 
+at 290u, perpendicular to the direction of the denuded cave.                  probably because it has been washed into the doline. The 
+In the resulting profile, bedrock with resistivity value more                 ERI profile in the lower section of the slope exhibits up to 
+than 1000 ohm-m is present on both slopes of the trench.                      25 m of loamy material fill. 
+It  is  partially   covered     with   thin   layers   of   electrically          Application of the ERI method has proved appropriate 
+less  resistive  soil,  mechanically  weathered  rock,  or  loamy             for detailed investigation of subsurface structures with large 
+material    with   resistivity   value   about    500   ohm-m.      The       differences  in  electrical  resistivity.  Parts  of  denuded  caves 
+central   part   of  the   profile  shows    over   15   m   of  loamy        and cave passages that are filled with loamy material can be 
+material    and   flowstone    fragments     with   resistivity  values       clearly distinguished from less resistive carbonate bedrock. 
+below 150 ohm-m.                                                              In the measured ERI profiles, resistivity values of soil- and 
+    Line  7,  run  at  350u,  was  placed  on  the  western  slope            sediment-filled     features   are  lower    than   150   ohm-m     and 
+of the collapsed doline close to the denuded cave. Bedrock,                   weathered  bedrock  is  around  500  ohm-m,  while  bedrock 
+with  resistivity  values  more  than  1000  ohm-m,  is  present              exhibits values higher than 1000 ohm-m. 
+along    the  whole     profile.  A   low-resistivity     area   (below           On the other hand, underground parts of the caves with 
+150  ohm-m)  in  the  central  part  of  the  profile,  where  the            huge  chambers  were  not  detected  in  this  survey  by  ERI 
+surface is covered with loam and flowstone particles, is up                   method,     as  resistivity  differences    between    voids  and  the 
+to 10 m thick.                                                                highly   resistive   carbonate     bedrock     are  insignificant.    In 
+    Line 8 was situated on the floor of the western part of                   calculated profiles with high maximum resistivity (Fig. 4), 
+the collapse doline just under the slope where the denuded                    limestone bedrock exhibits resistivity values approximately 
+cave  is  disintegrating.  Both  ends  of  the  profile  show  the            between 5000 and 10000 ohm-m. Previous applications of 
+presence    of  bedrock,    with   resistivity   values   higher   than       ERI over cave passages gave resistivity values of limestone 
+1000  ohm-m,  on  the  slopes  of  the  collapse  doline.  In  the            bedrock up to 5000 ohm-m, while voids have higher values 
+
+                                                                                     Journal of Cave and Karst Studies, December 2012 N 241 
+
+----------------------- Page 8-----------------------
+
+                                                               ˇ 
+ELECTRICAL RESISTIVITY IMAGING OF CAVE  DIVASKA JAMA,  SLOVENIA 
+
+(e.g.,  Barbadello  et  al.,  2002;  Brown  et  al.,  2011).  In  this                                phology,     Karst    Geomorphology          (Geografia      Fisica   e   Dinamica 
+                                                                                                      Quaternaria, Supplement 3, part 3), p. 69–74. 
+case, the problem of not detecting the voids seems to be a                                       Roman, I., 1952, Resistivity reconnaissance, in Symposium on Surface and 
+consequence  of  the  very  high  electrical  resistivity  of  this                                   Subsurface      Reconnaissance,       Philadelphia,      American      Society    for 
+type of limestone.                                                                                    Testing Materials, Special Technical Publication 122, p. 171–226. 
+                                                                                                 Stepisˇnik,  U.,  2007,  Loamy  sediment  fills  in  collapse  dolines  near  the 
+                                                                                                      Ljubljanica  River  springs,  Dinaric  Karst,  Slovenia:  Cave  and  Karst 
+                                   REFERENCES                                                         Science, v. 33, p. 105–110. 
+                                                                                                 Stepisˇnik,  U.,  2008,  The  application  of  electrical  resistivity  imaging  in 
+                                                                                                                                         ˇ 
+                                                                                                      collapse doline floors: Divaca karst, Slovenia: Studia Geomorpholo- 
+Barbadello, L., Bratus, A., Yabar, D.N., Paganini, P., and Palmieri, F., 2002, 
+                                                                                                      gica Carpatho-Balcanica, v. 42, p. 41–56. 
+     Integrated geophysical methods to define hypogenous karstic features: Atti 
+                                                                                                 Stepisˇnik, U., and Mihevc, A., 2008, Investigation of structure of various 
+     del Museo Civico di Storia Naturale di Trieste, v. 40, p. 15–21.                                 surface   karst   formations     in  limestone    and   dolomite     bedrock    with 
+Brown, W.A., Stafford, K.W., Shaw-Faulkner, M., and Grubbs, A., 2011, 
+                                                                                                      application     of  the  electrical   resistivity  imaging:    Acta   Carsologica, 
+     A  comperative  integrated  geophysical  study  of  Horseshoe  Chimney                           v. 37, no. 1, p. 133–140. 
+     Cave,    Colorado     Bend    State  Park,   Texas:    International    Journal    of       Telford, W.M., Geldart, L.P., and Sheriff, R.E., 1990, Applied Geophysics 
+     Speleology, v. 40, no. 1, p. 9–16.                                                               (2. edition): New York, Cambridge University Press, 790 p. 
+             ˇ 
+Gospodaric,  R.,  1985,  O  speleogenezi  Divasˇke  jame  in  Trhlovce:  Acta                    Zhou, W., Beck, B.F., and Adams, A.L., 2002, Effective electrode array in 
+     Carsologica, v. 13, p. 5–34.                   ˇ                                                 mapping karst hazards in electrical resistivity tomography: Environ- 
+Jurkovsˇek, B., Toman, M., Ogorelec, B., Sribar, L., Drobne, K., Poljak,                              mental Geology, v. 42, p. 922–928. doi:10.1007/s00254-002-0594-z. 
+                 ˇ 
+     M.,  and  Sribar,  L.,  1996,  Formacijska  geolosˇka  karta  juzˇnega  dela                Zhou, W., Beck, B.F., and Stephenson, J.B., 2000, Reliability of dipole- 
+     Trzˇasˇko   –   komenske       planate    1:50.000:    kredne     in   paleogenske               dipole electrical resistivity tomography for defining depth to bedrock 
+     karbonatne  kamnine,  Ljubljana,  Insˇtitut  za  geologijo,  geotehniko  in                      in covered karst terrains: Environmental Geology, v. 39, p. 760–766. 
+     geofiziko, 143 p.                                                                                doi:10.1007/s002540050491. 
+Mihevc,     A.,  1997,   Dolines,    their  morphology       and   origin,   case  study:        Zupan     Hajna,     N.,   Mihevc,     A.,   Pruner,    P.,   and   Bosa´k,    P.,  2008, 
+                                                         ˇ 
+     dolines from the Kras, west Slovenia (the Skocjan karst), in James, J.,                          Paleomagnetism        and    magnetostratigraphy        of   karst   sediments     in 
+     and   Forti,   P.,  eds.,  Fourth    International    Conference      on  Geomor-                Slovenia, Ljubljana, Zalozˇba ZRC, Carsologica Series, 266 p. 
+
+242 N Journal of Cave and Karst Studies, December 2012 

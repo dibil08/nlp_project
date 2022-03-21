@@ -1,0 +1,509 @@
+﻿----------------------- Page 1-----------------------
+
+RAZPRAVE                                                                   Dela 43 ● 2015 ● 29–40 
+
+THE PROBLEM OF DISSOLUTION DOLINE  
+DEFINITION 
+
+Uroš Stepišnik, PhD. 
+Department of Geography, Faculty of Arts, University of Ljubljana 
+Aškerčeva 2, SI-1000 Ljubljana 
+E-mail: uros.stepisnik@ff.uni-lj.si 
+
+Original scientific article 
+COBISS 1.01 
+DOI: 10.4312/dela.43.2.29­40 
+
+Abstract 
+Dolines are regularly referred as diagnostic karst landforms, as their formation is usually  
+attributed to chemical weathering or dissolution, which is the most typical karst process.  
+In this paper, we re-evaluate the formation of the two most typical dissolution dolines,  
+provided  by  Cvijić. Within  this  study,  we  stated  that  both  cases,  which  constitute  the  
+foundations  of  interpretation  of  dissolution  dolines  formation,  are  actually  not  caused  
+by dissolution of the surface. The purpose of the article is to provide a doubt about the  
+understanding of formation of the most common karst landform. 
+
+Key words: geomorphology, karst, doline, dissolution, ERI (electrical resistivity ima- 
+ging), Dinaric karst, Slovenia 
+
+PROBLEM DEFINICIJE KOROZIJSKIH VRTAČ 
+
+Izvleček 
+Vrtače  so  najbolj  pogoste  kraške  oblike  zmerno  toplega  pasu,  saj  njihov  nastanek  
+navadno pripisujemo kemičnem preperevanju oziroma koroziji, ki je najbolj tipičen  
+proces  na  krasu. V  članku  smo  ponovno  ovrednotili  nastanek  dveh  najbolj  tipičnih  
+primerov korozijskih vrtač, ki jih je podal Cvijić. V raziskavi smo ugotovili, da oba  
+primera, ki predstavljata temelje korozijske razlage nastanka vrtač, pravzaprav nista  
+nastala s korozijo površja. Namen članka je podati dvom o razumevanju nastanka naj- 
+bolj tipičnih kraških oblik. 
+
+Ključne besede: geomorfologija, kras, vrtača, korozija, ERI (električna upornost tal),  
+dinarski kras, Slovenija 
+
+                                                                                               29 
+
+----------------------- Page 2-----------------------
+
+Uroš Stepišnik / Dela 43 ● 2015 ● 29–40 
+
+ 1 INTRODUCTION 
+
+    Dolines are small to middle-sized closed depressions of various shapes. They are  
+the most typical unit landform in the temperate latitude karst since they are giving the  
+relief  distinctive  pitted  character. The  term  doline  was  first  used  by Austrian  geolo- 
+gists in the middle of 19th  century (Šušteršič, 1994; Gams, 2003) while studying the  
+
+Classical karst in Carniola. At that time a number of different typologies of dolines ap- 
+peared. Scholars recognized several different types according to their morphographic  
+and  morphometric  properties.  On  the  other  hand,  there  was  extensive  disagreement  
+about  morphogenesis  of  dolines,  whether  they  form  by  a  collapse  of  cave  chamber  
+ceiling or predominantly by a dissolution action on the surface. The oldest description  
+introduced by early researchers of the Classical karst in Carniola connected the doline  
+origin to a collapse (Cvijić, 1893). They recognized the role of dissolution action on  
+the surface mostly in a role of doline slope remodeling. Other group of scientists sup- 
+ported the findings of Cvijić (1893) who claimed that middle-sized surface depressions  
+are formed solely by surface dissolution. They supported his statements with variety of  
+examples from different karst environments, which were confirming dominant role of  
+dissolution in a dolines formation. 
+    The most influential karstologic publication written by Cvijić at the end of 19th cen- 
+
+tury was the monograph titled Das Karstphänomen (1893). Among other topics, he dis- 
+cussed morphogenesis of dolines in detail. He claimed that although dolines might be  
+formed by other mechanisms, the most characteristic dolines are formed by the action  
+of dissolution (Cvijić, 1893). He listed a number of examples from the Dinaric karst but  
+he presented only one example of a doline cross-section profile. This example was the  
+evidence of a fractured zone that is contributing to a concentrated runoff of rainwater  
+and  consequential  accelerated  dissolution  on  which  he  explained  the  morphogenetic  
+formation of all dissolution dolines. This illustration of a dissolution doline cross-sec- 
+tion became one of the most reproduced in all geomorphologic literature. Cvijić did  
+mention a number of areas where comparable examples of dissolution dolines appear.  
+Among other examples of such areas he specified only one location where typical ex- 
+amples of dissolution dolines are situated. This is an area named Skalčen kamen close  
+to Logatec, Slovenia. 
+    The aim of the article is to re-evaluate classical examples of dissolution dolines pro- 
+vided by Cvijić (1893). The first objective is to discuss and re-evaluate morphogenesis of  
+the doline cross-section that became classical example of dissolution doline presented by  
+Cvijić (1893). Morphogenesis of this doline at Logatec train station will be established  
+through earlier findings recorded in a literature. The second objective is a geomorpho- 
+logic analysis of the doline in the Skalčen kamen area. It will be studied through morpho- 
+graphic and sediment analysis as well as by application of electrical resistivity imaging  
+(ERI). The results of the article will not present a new proposal of doline morphogenesis  
+mechanism. However, it will bring to focus reasonable doubt about contemporary under- 
+standing of dissolution doline formation. 
+
+30 
+
+----------------------- Page 3-----------------------
+
+                                                               The problem of dissolution doline definition 
+
+2 THEORETICAL CONCEPTS OF DISSOLUTION DOLINES 
+
+     Contemporary understanding of dissolution doline formation dates back in the end of  
+   th  
+19    century. The  monographs Der  Karstphänomen  in  German  language,  followed  by  a  
+slightly updated version with title Karst in Serbian language, both written by Cvijić (1893;  
+1895) have had great impact on karstology as a science. Among many karst phenomena, he  
+discussed in detail geomorphologic properties of dolines. He recognized a couple of doline  
+forming processes but he finally concluded that the most common dolines are formed by  
+dissolution and he even terms them as true dolines (in German: die echte Dolinen; Serbian:  
+лравe вртачe) (Cvijić, 1893; 1895). He explained them as the places of more intensive dis- 
+solution lowering of the surface, which is controlled by bedrock fractures. 
+     Cvijić (1893) even proposed several arguments and evidences against theories of col- 
+lapse origin of dolines. He stated that there are no reliable reports in the literature in which  
+a bedrock doline would be disturbed by a collapse. In addition, he claimed that majority of  
+typical bowl- and funnel-shaped dolines are not connected to caves. Even if dolines lead  
+to caves that does not mean that they are automatically to be explained as a product of col- 
+lapse. In addition, existence of detritus cones and other debris in the caves does not justify  
+the conclusion that dolines are sited over them. Such accumulations may be formed for a  
+variety of reasons (Cvijić, 1893). On the other hand, Cvijić offered detailed reports about  
+bedrock dolines from various parts of the Dinaric karst. He claimed that those examples are  
+a proof that majority of dolines are surface features formed by dissolution. The presented  
+examples have no connection with subsurface cavities since bedrock strata beneath them  
+are not repositioned. Additionally, bedrock beneath them is fractured by numerous cracks  
+that are enlarged by dissolution and filled by terra rossa and fragments of limestone. 
+     Though  Cvijić  presented  many  areas  where  dissolution  dolines  appear,  he  offered  
+only one example of doline cross-section as an explanatory model of dissolution doline  
+formation. The example is positioned within a railway cut at the Logatec train station,  
+Slovenia.  This  doline  cross-section  has  become  the  most  reproduced  figure  of  doline  
+cross-section in the following literature (Fig. 1). 
+
+Figure 1: Original sketch of the cross­section of a dissolution doline (Cvijić, 1893, p. 63) (left)  
+along with photo of present situation of the railway cut (right) (photo: U. Stepišnik) 
+Slika 1: Izvirna skica profila korozijske vrtače (Cvijić, 1893, str. 63) (levo) s fotografijo današ- 
+njega stanja železniškega useka (desno) (foto: U. Stepišnik) 
+
+                                                                                                          31 
+
+----------------------- Page 4-----------------------
+
+Uroš Stepišnik / Dela 43 ● 2015 ● 29–40 
+
+    By this cross-section example Cvijić (1893) noted that there is no evidence of un- 
+derlying cavity, since all underlying strata are undisturbed. Nevertheless, the bedrock is  
+intensively fractured directly under the lowest point of the doline. An area of limestone  
+fragments is positioned just below the doline floor in a shape of a wedge (on Fig 1 left  
+marked with dotted lines). The wedge is completely fractured and limestone fragments  
+are embedded in terra rossa (Cvijić, 1893; 1895). 
+    The  definition  and  cross-section  sketch  of  dissolution  dolines  provided  by  Cvijić  
+(1893)  had  a  tremendous  impact  on  subsequent  theories  about  doline  morphogenesis.  
+Following literature did not question the presented dissolution morphogenesis but it was  
+more concerned with distribution and morphometry of dolines. Even contemporary lit- 
+erature (e.g. Gams, 2000; Sauro, 2003; 2012; 2013; Williams, 2003) defines dissolution  
+dolines following theoretical background of Cvijić (1893) as closed surface depressions  
+which were formed in the areas of focused chemical attack on bedrock. 
+    Modern  interpretations  of  dissolution  dolines  morphogenesis  were  summarised  by  
+Sauro (2012) into three types. The first type is a point-recharge doline which is strongly  
+connected to outflow of surface streams into karst subsurface. The second type is a draw- 
+down doline. The formation of later is result of focusing of the dissolution inside the  
+water infiltration zone of the rock through centripetal convergence of the mainly subsur- 
+face water held inside the epikarst. This type of morphogenesis exactly corresponds the  
+dissolution dolines proposed by Cvijić (1893). The third type is an inception doline that  
+also originates from the centripetal convergence of water; this occurs inside a pre-existing  
+hydrogeological structure and is triggered by a change of hydraulic conductivity due to  
+lithological and structural factors. 
+    The cross-section of the doline at the Logatec train station was partially destroyed and  
+built up by a protective wall, so cross-section is not visible any more. But according to  
+Šušteršič (1994), who studied morphometry of the surrounding area in detail, the doline  
+ground plan is not circular but it is rather lengthened depression along a tectonic crushed  
+zone. Therefore, the basic example of the doline cross-section is accordingly not a doline  
+but preferably a type of a karst channel termed bogaz (Šušteršič, 1994) or karst corridor  
+(Tîrlă, Vijulie, 2013). It means, that most cited and reproduced example of dissolution  
+doline is not a dissolution doline at all. 
+    Since the structure presented by Cvijić is not a doline, a new holotype of a dissolu- 
+tion doline was required. Cvijić did mention numerous areas where similar examples of  
+dissolution dolines appear. Among a large number of general locations, he specifically  
+noted the area of typical dissolution dolines in the Skalčen kamen about 6 km southeast  
+of Logatec, Slovenia. The area is densely covered by dolines of various shapes so it was  
+not completely clear which doline Cvijić specifically mentioned. Detailed morphometric  
+analysis of dolines in the area was performed by Šušteršič (1994). One doline that is  
+positioned closest to the road crossing at the Skalčen kamen with study name SK-022  
+was determined as the most typical and was defined as a new holotype of the dissolution  
+doline (Šušteršič, 1994). 
+
+32 
+
+----------------------- Page 5-----------------------
+
+                                                           The problem of dissolution doline definition 
+
+Figure 2: Location of the doline cross­section in railway cut in Logatec (1) and doline SK­022  
+in the Skalčen kamen area (2) 
+Slika 2: Lokacija profila vrtače v useku železnice v Logatcu (1) in vrtače SK­022 v Skalčnem  
+kamnu (2) 
+
+Source/Vir: GURS, 2015 
+
+3 RESEARCH METHODS 
+
+    Morphometric analysis of the doline in Skalčen kamen with study name SK-022 pro- 
+vided by Šušteršič (1994) was used to prepare cartographic background for further mor- 
+phographic survey. Morphographic analysis included identification of micro-scale fea- 
+tures, types of slopes (Stepišnik, Kosec, 2011) as well as identification of the sediments  
+exposed on the surface. 
+    Since the formation of the dissolution doline cannot be interpreted solely by surface  
+morphology, the geophysical method of electrical resistivity imaging (ERI) was applied  
+to identify the subsurface structures. The SuperSting R1/IP Earth resistivity meter de- 
+veloped  by Advanced  Geosciences  Inc.  was  used  for  the  data  collection.  The  survey  
+was conducted with a dipole-dipole array and 20 electrodes were used simultaneously  
+with alternation of two currents and two potential electrodes. The data were processed  
+to generate two-dimensional resistivity models, using EarthImager 2D resistivity inver- 
+sion software developed by Advanced Geosciences Inc. The root-mean-square (RMS)  
+error quantifies the difference between the measured resistivity values and those calcu- 
+lated from the true resistivity model. A small RMS value indicates small differences. The  
+
+                                                                                                    33 
+
+----------------------- Page 6-----------------------
+
+Uroš Stepišnik / Dela 43 ● 2015 ● 29–40 
+
+minimum RMS error in the survey was 5.8%, and the maximum error was 13.56%. The  
+method turned out to be appropriate for subsurface tomography of karst terrains where  
+significant differences of electrical resistivity values of material within the profile exist  
+(Stepišnik, Mihevc, 2008; Kaufmann, Deceuster, Quinif, 2012; Mihevc, Stepišnik, 2012;  
+Yeboah-Forson, Comax, Whitman, 2014). 
+
+4 GEOMORPHOLOGIC ANALYSIS OF A DISSOLUTION  
+DOLINE 
+
+    Within our study we performed detailed geomorphologic analysis of the doline SK-022  
+in the area of Skalčen kamen, which was defined as the new holotype of dissolution doline  
+(Šušteršič, 1994). The doline is positioned in the northern part of an extensive levelled  
+karst area named Logaški ravnik that is morphogenetically interpreted as corrosion plain  
+or a relict polje (Šušteršič, Šušteršič, 2003; Šušteršič, 2004). The whole area is levelled  
+at elevation of about 530 m. The doline is positioned in close proximity of the only road  
+crossing in the area of Skalčen kamen at coordinates 45.883° N 14.296° E (WGS 84). 
+
+Figure 3: The doline SK­022 in the Skalčen kamen area from the southwest (photo: U. Stepišnik) 
+Slika 3: Vrtača SK­022 v Skalčnem kamnu od jugozahoda (foto: U. Stepišnik) 
+
+    Detailed survey of the doline revealed that the doline longer axis is 50 m and shorter  
+axis 45 m. The depth of the doline is 7.5 m and it covers an area of about 8000 m2. The do- 
+
+line is positioned completely within Upper Jurassic limestone with dip of strata about 30  
+degrees towards east. Slopes of the doline are mostly balanced (Stepišnik, Kosec, 2011)  
+with inclinations up to 20 degrees. Only southern slopes are steeper, with inclination up  
+to 30 degrees and covered by coarse material which is prone to limited mass wasting. On  
+the southern slope, there is a section with about 1.5 m high vertical wall. Loamy material  
+is exposed in the lower sections of the northern slope as well as in the floor of the doline.  
+
+34 
+
+----------------------- Page 7-----------------------
+
+                                                            The problem of dissolution doline definition 
+
+Within loamy material fragments of flowstone and up to fine pebble size grains of bauxite  
+are to be found. 
+    Two ERI profiles were measured through the doline. The first profile (Fig. 4) was con- 
+ducted approximately along east-west axis across the lowest point of the doline floor. The  
+azimuth of the profile was 260 degrees. Results from the electrical resistivity imaging, with  
+electrodes at 3 m spacing, exhibited subsurface resistivity values on the slopes of more than  
+1000 ohm-m. The floor of the doline and its subsurface has resistivity values less than 500  
+ohm-m to a depth of 8 m and more. Below the floor in depth of about 3 m there are two cir- 
+cular structures with a diameter of 4 to 5 m and resistivity more than 1000 ohm-m (Fig. 5). 
+
+Figure 4: The first ERI profile of the doline SK­022 in east­west direction 
+Slika 4: Prvi ERI profil vrtače SK­022 od vzhoda proti zahodu 
+
+    The second ERI profile (Fig. 5) was conducted approximately across south-north axis  
+across the lowest point of the floor. The azimuth of the profile was 170 degrees. Electri- 
+cal resistivity imaging profile was conducted by electrode spacing 3 m. The southern and  
+the upper section of the northern slope have resistivity values higher than 1000 ohm-m.  
+The same values are in the subsurface below them. Lower section of the northern slope  
+and the floor along it exhibit resistivity vales lower than 500 ohm-m. The depth of low  
+resistivity structure below it is at least 8 m (Fig. 6). 
+
+Figure 5: The second ERI profile of the doline SK­022 in south­north direction 
+Slika 5: Drugi ERI profil vrtače SK­022 od juga proti severu 
+
+5 DISCUSSION 
+
+    Dolines are natural enclosed depressions of different shapes and sizes found in karst  
+landscapes. They are considered a diagnostic karst landform. We recognize several dif- 
+ferent types of dolines, but the most common are formed due to dissolution, so they are  
+
+                                                                                                      35 
+
+----------------------- Page 8-----------------------
+
+Uroš Stepišnik / Dela 43 ● 2015 ● 29–40 
+
+termed dissolution dolines (Ford, Williams, 2007). They are believed to have a similar  
+function  to  the  drainage  basin  in  fluvial  landscape.  Dolines  are  discharging  rainwater  
+into underground via enlarged fissures in the lowest point of the doline (Williams, 2003).  
+This interpretation was initiated in 19th century understandings which were summarized  
+
+in work of Cvijić (1893). Contemporary literature recognises several types of dissolution  
+dolines (e.g. Gams, 2000; Williams, 2003; Sauro et al., 2009; Sauro, 2012; 2013) which  
+have foundation in definition provided by Cvijić (1893). 
+    The doline morphometry at Skalčen kamen was initially well documented by Šušteršič  
+(1994). We conducted morphographic analysis, which revealed that southern slope is ac- 
+tive while other slopes are balanced. The floor and lower sections of northern slopes are  
+covered by loamy material. Within the loamy material fragments of flowstone and up to  
+fine pebble size grains of bauxite are to be found. Flowstone in the local climate cannot be  
+generated on the surface, but only in cave environment. Bauxite deposits were not formed  
+in situ. Their only location in the area is about 15 kilometers towards southeast in the wa- 
+tershed of the Cerkniščica River (Šušteršič, Šušteršič, 2003). Bauxite is being transported  
+into karst aquifer by the Cerkniščica River from the area of the Cerkniško polje. The only  
+spots where bauxite-derived deposits can be found in the area are fillings of caves and  
+denuded caves (Geršl, Stepišnik, Šušteršič, 1999; Šušteršič, Šušteršič, 2003). Therefore,  
+sediments fill analysis suggests that the doline is filled with sediments which are typi- 
+cal for caves in the area (Šušteršič, 2004). Those kinds of sediments are typical for cave  
+environment and could not be formed inside a dissolution doline that is functioning as a  
+vertical drainage for rainwater. 
+    ERI profiles exhibit two different sets of electrical conductivity in the doline sub- 
+surface. Bedrock has resistivity values higher than 1000 ohm-m while loamy material  
+and weathered or fractured bedrock has values lower than 500 ohm-m. Lower resistiv- 
+ity values are located beneath the floor of the doline as well as beneath lower sections  
+of the northern slopes exactly where patch of loamy sediment is positioned on the sur- 
+face. Therefore,  we  know  that  subsurface  profile  values  with  resistivity  less  than  500  
+ohm-m are as well of loamy material. Slopes as well as subsurface in those sections are  
+built  of  limestone bedrock  which  exhibits  resistivity values  higher  than  1000  ohm-m.  
+Consequently,  we  assume  that  subsurface  structure  with  those  values  is  relatively  un- 
+disturbed bedrock. Span of those two electrical resistivity values sets are comparable to  
+previous applications of this method in various karst surface features on the Slovenian  
+karst (Stepišnik, 2007; Stepišnik, Mihevc, 2008; Stepišnik, 2009). Earlier applications of  
+the method revealed that the resistivity value for carbonate rock exceeds 1000 ohm-m.  
+Soil and weathered bedrock exhibit the resistivity values between 200 and 1000 ohm-m.  
+Loamy material has resistivity values lower than 500 ohm-m (Stepišnik, 2007; Stepišnik,  
+Mihevc, 2008; Stepišnik, 2009). 
+    The depth of loamy material below the doline in the Skalčen kamen area is well exhib- 
+ited on both ERI profiles and it exceeds 8 m. Loamy material is not positioned only below  
+the doline floor but also beneath a part of its northern slope. Thickness of this loamy fill  
+is preventing vertical runoff of rainwater, thus the investigated doline cannot be a result  
+of accelerated dissolution due to concentrated vertical runoff. 
+
+36 
+
+----------------------- Page 9-----------------------
+
+                                                            The problem of dissolution doline definition 
+
+6 CONCLUSIONS 
+
+    Most of the karstologic literature explains formation of dolines through dissolution ef- 
+fects of rainwater discharge via fissures in the lowest point of the doline (Williams, 2003;  
+Ford, Williams, 2007). It is the most obvious deduction since the dominant process on  
+karst is dissolution. Contemporary understanding of doline formation originates from a  
+century old theories. Therefore, the aim of the article was to revaluate morphogenesis of  
+the most common examples of dissolution dolines. The main objective of the article is not  
+to propose new explanation of doline morphogenesis but to put focus upon understanding  
+of dissolution doline formation. 
+    A dissolution doline holotype introduced by Cvijić (1893) which became a basis for  
+understanding dissolution formation of dolines as well as famous for its cross-section  
+reproduced by many authors, turned out not to be a dissolution doline at all (Šušteršič,  
+1994). Since the first example of doline was recognized to be an elongated tectonic de- 
+pression termed bogaz or corrosion corridor, another example of Cvijić (1893) was de- 
+fined as a dissolution doline holotype (Šušteršič, 1994). The new holotype is positioned  
+in  the  area  of  Skalčen  kamen  close  to  Logatec,  Slovenia,  and  became  a  focus  of  our  
+geomorphologic survey. 
+    Morphographic analysis of the doline in the Skalčen kamen area revealed that a patch  
+of loamy material is covering the floor and lower sections of the northern slope. This  
+loamy material would not be uncommon if accelerated corrosion in the doline floor would  
+result in formation of insoluble infill (Gams, 2003). Nevertheless, within the loamy mate- 
+rial pebble size bauxite clasts as well as pieces of flowstone are found which are typical  
+cave sediments in the area (Geršl, Stepišnik, Šušteršič, 1999; Šušteršič, 2004). Excessive  
+amount  of  loamy  material below  the  doline  floor  revealed  by  application of  ERI  also  
+implies that it could not be solely a residual of a chemical weathering. Consequently,  
+vertical runoff through the doline floor is not possible due to impermeable loamy mate- 
+rial. Therefore, we must conclude that another holotype of a dissolution doline is rather a  
+denuded cave (Mihevc, Slabe, Šebela, 1998; Mihevc, 2007). 
+    Technically speaking, we do not have any particular example of a dissolution doline  
+for which it was proven that it was formed by a process of dissolution. Furthermore, we  
+do understand that epikarst zone seepage concentrated in a vadose zone is forming shafts  
+(e.g. Ford, Williams, 2007). Enlarging of fissures in the subsurface beneath dissolution  
+dolines would eventually lead to opening of the shaft. Since we have almost no examples  
+from any karst area, where shaft entrances in doline floors would be common, we can  
+conclude that it is highly unlikely that dissolution dolines would be formed by accelerated  
+focused corrosion of epikarst. 
+
+                                                                                                     37 
+
+----------------------- Page 10-----------------------
+
+Uroš Stepišnik / Dela 43 ● 2015 ● 29–40 
+
+References 
+Cvijić,  J.,  1893.  Das  Karstphänomen:  Versuch  einer  morphologischen  Monographie.  
+    Wien, Hölzel, 113 pp. 
+Cvijić,  J.,  1895.  Karst:  geografska  monografija.  Beograd,  Srpska  akademija  nauka  i  
+    umetnosti, 176 pp. 
+Ford,  D., Williams,  P.  D.,  2007.  Karst  hydrogeology  and  geomorphology.  Chichester,  
+    Wiley, 576 pp. 
+Gams, I., 2000. Doline morphogenetic processes from global and local viewpoints. Acta  
+    carsologica, 29, 2, p. 123–138. 
+Gams, I., 2003. Kras v Sloveniji v prostoru in času. Ljubljana, Založba ZRC, 516 pp. 
+Geršl, M., Stepišnik, U., Šušteršič, S., 1999. The “unroofed cave” near the bunker (Laški  
+    Ravnik). Acta carsologica, 28, 2, p. 77–90. 
+GURS, 2015. Slovenian topographic maps in scale 1 : 50,000. DTK 50. URL: http://  
+    www.gu.gov.si (Cited 10. 11. 2015). 
+Kaufmann,  O.,  Deceuster,  J.,  Quinif, Y.,  2012. An  electrical  resistivity  imaging-based  
+    strategy to enable site-scale planning over covered palaeokarst features in the Tournai- 
+    sis area (Belgium). Engineering geology, 133–134, p. 49–65. 
+Mihevc, A., 2007. New interpretations of fluvial sediments from the Kras. Dela, 28, p. 15–28. 
+Mihevc, A., Slabe, T., Šebela, S., 1998. Denuded caves – an inherited element in the karst  
+    morphology, the case from Kras. Acta carsologica, 27, 1, p. 165–174. 
+Mihevc, A., Stepišnik, U., 2012. Electrical resistivity imaging of cave Divaška jama, Slove- 
+    nia. Journal of caves and karst studies, 74, 3, p. 235–242. DOI: 10.4311/2010ES0138R1 
+Sauro, U., 2003. The dolina: emblematic and problematic karst landform. Dela, 20, p. 43–60. 
+Sauro, U., 2012. Closed depressions in karst areas. In: White, W. B., Culver, D. C. (Eds.).  
+    Encyclopedia of caves (2nd edition). Amsterdam, Academic Press, p. 140–155. 
+
+Sauro, U., 2013. Landforms of mountainous karst in the middle latitudes: reflections, trends  
+    and research problems. Acta carsologica, 42, 1, p. 5–16. DOI: 10.3986/ac.v42i1.629 
+Sauro, U., Ferrarese, F., Francese, R., Miola, A., Mozzi, P., Rondo, G. Q., Trombino, L.,  
+    Valentini, G., 2009. Doline fills – case study of the Faverghera Plateau (Venetian Pre- 
+    -Alps, Italy). Acta carsologica, 38, 1, p. 51–63. 
+Stepišnik, U., 2007. Loamy sediment fills in collapse dolines near the Ljubljanica River  
+    springs, Dinaric Karst, Slovenia. Cave and karst science, 33, 3, p. 105–110. 
+Stepišnik, U., 2009. The application of electrical resistivity imaging in collapse doline floors:  
+    Divača karst, Slovenia. Studia geomorphologica Carpatho-Balcanica, 42, 1, p. 41–51. 
+Stepišnik, U., Kosec, G., 2011. Modelling of slope processes on karst. Acta carsologica,  
+    40, 2, p. 267–273. DOI: 10.3986/ac.v40i2.11 
+Stepišnik, U., Mihevc, A., 2008. Investigation of structure of various surface karst forma- 
+    tions in limestone and dolomite bedrock with application of the electrical resistivity  
+    imaging. Acta carsologica, 37, 1, p. 133–140. DOI: 10.3986/ac.v37i1.165 
+Šušteršič, F., 1994. Classic dolines of classical site. Acta carsologica, 23, p. 123–154. 
+Šušteršič, F., 2004. Cave sediments and denuded caverns in the Laški Ravnik, Classical  
+    Karst of Slovenia. In: Sasowsky, I. D., Mylroie, J. (Eds.). Studies of cave sediments.  
+    New York, Springer, p. 123–134. 
+
+38 
+
+----------------------- Page 11-----------------------
+
+                                                            The problem of dissolution doline definition 
+
+Šušteršič, F., Šušteršič, S., 2003. Formation of the Cerkniščica and the flooding of Cerk- 
+    niško polje. Acta carsologica, 32, 2, p. 121–136. 
+Tîrlă, L., Vijulie, I., 2013. Structural-tectonic controls and geomorphology of the karst  
+    corridors in alpine limestone ridges: Southern Carpathians, Romania. Geomorpho- 
+    logy, 197, 1, p. 123–136. 
+Williams, P.  D.,  2003.  Doline. In: Goudie, A.  (Ed.). Encyclopedia of  geomorphology.  
+    New York, Routledge, p. 266–270. 
+Yeboah-Forson, A., Comas, X., Whitman, D., 2014. Integration of electrical resistivity  
+    imaging and ground penetrating radar to investigate solution features in the Biscayne  
+    aquifer. Journal of hydrology, 515, p. 129–138. 
+
+PROBLEM DEFINICIJE KOROZIJSKIH VRTAČ 
+
+Povzetek 
+    Vrtače so majhne do srednje velike kraške kotanje različnih oblik. So najbolj tipič- 
+na oblika krasa zmerno toplega podnebja. Začetek znanstvenega preučevanja vrtač sega  
+v sredino 19. st., ko so različni krasoslovci pričeli s prvimi opisi in tipizacijami vrtač  
+na osnovi njihovih morfografskih in morfometričnih značilnosti. Hkrati so se že takrat  
+pojavila prva nesoglasja glede morfogeneze te najpogostejše kraške oblike. Najstarejše  
+razlage pripisujejo nastanek vrtač procesu udiranja jamskih stropov. Učinek korozije so  
+videli le v preoblikovanju vrtač in ne njihovem nastanku (Gams, 2004). Kasneje je Cvijić  
+zavrnil udorni nastanek vrtač in zaključil, da nastanejo izključno z delovanjem površin- 
+ske korozije (Cvijić, 1893). Njegovo interpretacijo je sprejela cela vrsta krasoslovcev v  
+drugi polovici 19. st. (Cvijić, 1893). 
+    Najpomembnejše delo iz konca 19. st., Das Karstphänomen, je objavil Cvijić (1893).  
+Med drugimi oblikami in procesi se je Cvijić (1893) podrobno ukvarjal tudi z nastankom  
+vrtač. Priznaval je, da lahko vrtače nastanejo na različne načine, tudi z udorom, daleč najpo- 
+membnejši in najpogostejši proces oblikovanja vrtač pa je po njegovih ugotovitvah korozija.  
+Ta tip vrtač je Cvijić (1893) poimenoval korozijske vrtače oziroma celo prave vrtače  (nem- 
+ško die echte Dolinen). V svojem delu je navedel celo vrsto primerov korozijskih vrtač iz  
+dinarskega krasa, vendar je predstavil le en primer prečnega profila vrtače (slika 1). V tem  
+profilu, ki se nahaja v useku železniške postaje Logatec, je pod vrtačo jasno vidna zdrobljena  
+cona, ki naj bi delovala kot zbiralec koncentriranega odtoka padavinske vode v podzemlje in  
+posledično tudi pospešene korozije (Cvijić, 1893). Skico tega profila danes najdemo skoraj v  
+vseh krasoslovnih knjigah in učbenikih. Cvijić je v svojih delih omenil številna območja, na  
+katerih se pojavljajo podobni primeri vrtač, ampak je posebej imenoval le vrtačo v Skalčnem  
+kamnu na Logaškem ravniku kot tipičen primer korozijske vrtače (Cvijić, 1893). 
+    Šušteršič (1994) je podrobno preučil profil vrtače pri logaški železniški postaji in ugo- 
+tovil, da opisana oblika pravzaprav ni vrtača, ampak podolgovato znižanje v reliefu, ki je  
+nastalo ob tektonsko zdrobljeni coni. Torej, največkrat navajan primer profila korozijske  
+vrtače  pravzaprav  ni  vrtača.  Šušteršič  (1994)  je  tako  za  nov  holotip  korozijske  vrtače  
+predlagal vrtačo v Skalčnem kamnu, ki jo je omenil že Cvijić (1893). 
+
+                                                                                                     39 
+
+----------------------- Page 12-----------------------
+
+Uroš Stepišnik / Dela 43 ● 2015 ● 29–40 
+
+    Naša geomorfološka analiza vrtače v Skalčnem kamnu je pokazala, da sta njeno dno  
+in del severnega pobočja prekrita z zaplato ilovnatega materiala. Prisotnost ilovic ni nič  
+nenavadnega, saj naj bi v dneh vrtač zaradi pospešene korozije ostajal netopni material  
+(Gams, 2003), vendar so v ilovnatem materialu prisotni tudi posamezni manjši prodniki  
+boksita in kosi sige. Tako smo lahko zaključili, da sediment v vrtači najverjetneje ni ne- 
+topni ostanek, pač pa alogeni material, značilen za jamska polnila na celotnem območju  
+Logaškega ravnika (Šušteršič, 2004; Geršl, Stepišnik, Šušteršič, 1999). Pri analiziranju  
+zgradbe vrtače pod površjem, ki smo jo opravili z metodo električne upornosti tal (ang.  
+electrical resistivity imaging; ERI) smo ugotovili, da je ilovnati sediment v dnu vrtače  
+in pod severnim pobočjem globok najmanj 10 metrov. Takšna količina ilovnatega sedi- 
+menta ne more biti netopni ostanek kemičnega preperevanja, saj hkrati preprečuje odtok  
+padavinske vode skozi dno vrtače v podzemlje. Zaključili smo, da je drugi, novi holotip  
+korozijske vrtače najverjetneje brezstropa jama (Mihevc, Slabe, Šebela, 1998). 
+    Kljub temu da razumemo nastanek vrtač kot rezultat korozije kraškega površja in dela  
+epikraške cone, nimamo primera, ki bi nedvomno dokazoval ta proces. Poleg tega sodob- 
+no krasoslovje razume funkcijo epikraške cone kot območje združevanja razpršenih vod- 
+nih curkov, ki vodi v oblikovanje vertikalnih votlin vadozne cone oziroma brezen. Ker pa  
+so primeri, kjer bi bili v dneh vrtač vhodi v brezna, izredno redki, lahko zaključimo, da je  
+malo verjetno, da bi vrtače nastale s korozijo površja oziroma s točkastim raztapljanjem  
+razpoklinskih območij epikrasa. 
+
+40 

@@ -1,0 +1,1337 @@
+﻿----------------------- Page 1-----------------------
+
+                                                             Journal  for  Nature  Conservation  22  (2014)  132–141 
+
+                                                               Contents    lists  available  at  ScienceDirect 
+
+                                                     Journal          for     Nature          Conservation 
+
+                                                         jo  ur  nal  ho  m epag e :   www. els evi er.de/jnc 
+
+ Human impact 
+                                  on    underground                   cultural         and       natural         heritage           sites, 
+                       parameters of 
+biological                                            monitoring               and      remediation                actions          for 
+                         surfaces:           Case       of   Slovenian              show        caves 
+ insensitive 
+
+Janez     Mulec ∗ 
+
+Karst  Research  Institute,  Research  Centre  of  the  Slovenian  Academy  of  Sciences  and  Arts,  Titov  trg  2,  6230  Postojna,  Slovenia 
+
+a  r  t  i  c  l  e   i  n  f  o                         a  b  s  t  r  a  c  t 
+
+Article  history:                                       Underground     tourist  cultural  and  natural  heritage  sites  in  Slovenia  that  share  similar  management  prob- 
+           13  May  2013 
+Received                                                lems 
+                                                               with  other such 
+                                                                                  sites  worldwide include 
+                                                                                                             Postojna  Cave  with  more  than  a  half  million  annual  visitors 
+           in  revised  form  6  September  2013 
+Received                                                                                         ˇ 
+                                                              the  UNESCO  World  Heritage   Site Skocjan  Caves.  The  underground   environment    is  challenged  by  ultra- 
+                                                        and 
+            13  October  2013 
+Accepted                                                sonic 
+                                                                noise derived 
+                                                                                from different 
+                                                                                               electric 
+                                                                                                          devices  in  a  broad  range  (10–123  kHz)  that  can  be  minimised 
+                                                               protective  housings.  Lamps  which  increase  temperature    and  lower  relative  humidity  should  be  omit- 
+                                                        with 
+Keywords:                                               ted. Chlorella 
+                                                                        vulgaris thrived 
+                                                                                         very 
+                                                                                                well under 
+                                                                                                             a  halogen  lamp  and  LEDs  whose  spectra  were   modiﬁed    to 
+                heritage 
+Underground 
+                                                               a  natural  appearance  to  illuminated  features  and  emitted  photon  quanta  close  to  the  photosynthetic 
+                                                        give 
+       eutrophication 
+Light                                                                                                    2 
+                                                        compensation 
+                                                                          point (∼20 
+          contamination                                                                mol  photons/m     s).  Remediation  of  insensitive  calcite  surfaces  colonised  by 
+Surface 
+Aerobiology                                             lampenﬂora     with  a  15%  (v/v)  solution  of  hydrogen  peroxide  (pH  7.0–7.5)  was  successful.  Because   visi- 
+                                                        tors introduce 
+                                                                          and spread, 
+Remediation                                                                             especially  by  footprints,  many  live  microorganisms   (>10  000  colony-forming 
+                                                        units              2 
+                                                                per  100  cm ),  measures  to  reduce  such  input  should  be  implemented.  Bacterial  counts  expressed  as 
+                                                        colony-forming units           3 
+                                                                                per 
+                                                                                      m were   more  indicative  for  the  presence/absence  of  tourists  than  were  changes 
+                                                        in  carbon  dioxide  concentration.   Not  only  tourists,  but  also  external  climatic  conditions  inﬂuenced  the 
+                                                        concentration of 
+                                                                             airborne bacteria. 
+                                                                                                 Microbiological   parameters   should   be  included  in  estimating  tourist 
+                                                        carrying 
+                                                                   capacity  for  sensitive  underground  sites. 
+                                                                                                                             © 
+                                                                                                                                 2013  Elsevier  GmbH.  All  rights  reserved. 
+
+Introduction                                                                                  The  most 
+                                                                                                            obvious   effect  of  tourist  use  is  artiﬁcial  lighting  and 
+                                                                                                             of  heterotrophic    bioﬁlms    (Jurado    et  al.  2009;  Saiz- 
+                                                                                          development 
+    Underground       and   other  light-devoid     environments      hold  a  very       Jimenez    et  al.  2011)  and  phototrophic    communities      which    serve  as 
+special   place   in  human    history.   Early   humans     used   natural   cavi-                   producers   (Bastian   &  Alabouvette     2009).   This  community, 
+                                                                                          primary 
+ties 
+       for  rituals,  shelters,  storage,  and   places   of  inspiration    (Bahn        termed 
+                                                                                                     lampenﬂora     and  composed     of  different  microbes,   algae,  and 
+2010).   Later   in  history  humans     started  to  build  underground       tun-                       also  mosses  and  ferns,  is  usually  strongly  adhered    to  the 
+                                                                                          sometimes 
+nels 
+       and   labyrinths    such   as  catacombs      (Adams     1886).   Today    in      substratum 
+                                                                                                           and  deteriorates  speleothems      and  other   objects  (Mulec 
+         of  these   places    remnants      of  prehistoric    man    are   found 
+many                                                                                      2012).   Biomass     ﬁxed   due   to  light  energy   and   other  organic    mat- 
+linked    to  burials,  artefacts,   daily  life,  drawings    and   inscriptions         ter 
+                                                                                                brought  by  tourists   on  clothing,   skin,  etc.  become   available   for 
+( 
+ Ziegert   2002).   The  most   important     natural   and  man-made      under-         cave 
+                                                                                                  organisms.   To  attract  visitors’  attention,   “artiﬁcial”  waterfalls 
+ground 
+           cavities  of  natural   and   cultural   importance      are  listed  on       in 
+                                                                                               caves  are  frequently  introduced,    resulting   in  additional   boosting 
+      United   Nations    Educational,    Scientiﬁc,   and   Cultural   Organisa- 
+the                                                                                            microbial  bioﬁlms.    Generally,   the  organic   input   in  underground 
+                                                                                          of 
+tion 
+       (UNESCO)    World    Heritage   List  (http://whc.unesco.org/en/list/;             environments 
+                                                                                                              is  not  high  (Simon    et  al.  2007),  and  higher    nutri- 
+Williams 
+              2011).  There   are  also  many     other  underground       objects        ent 
+                                                                                                input  into  cave  environments       enables   newcomers       to  be  more 
+of 
+     regional  and   local  importance     offered   on  display   to  the  public.       competitive 
+                                                                                                           than  the  originally   present    troglomorphic      organisms 
+             these  places  to  the  public  bring  changes   that  on  occasions 
+Opening                                                                                   (Mulec    &  Kosi  2009).   Changes     in  underground      environment      may 
+irreversibly 
+                 alter  the  environment,    such  as  construction    of  walking        cause 
+                                                                                                   some  animals,    such  as  bats,  to  abandon   their  natural   habitat 
+             and  infrastructure   for  electricity  and  water. 
+surfaces                                                                                  (Fong   2011). 
+                                                                                              Some 
+                                                                                                       managers     of  underground       places   ignore   the  impact    of 
+                                                                                                                 and  bioﬁlms     until  this   problem     becomes     very 
+                                                                                          microorganisms 
+                                                                                          obvious 
+                                                                                                      and  difﬁcult   to  solve.  A  few   prehistoric    places   are  now 
+                                                                                                     or  even  closed  to  the  public,  for  example   the  UNESCO     sites 
+                                                                                          limited 
+  ∗       +386  5  700  1900;  fax:  +386  5  700  1999. 
+    Tel.: 
+                                                                                          Altamira 
+    E-mail                                                                                             (Spain)   and   Lascaux    (France)   with    famous    Palaeolithic 
+             address:  janez.mulec@guest.arnes.si 
+
+               –  see  front  matter  ©  2013  Elsevier  GmbH.  All  rights  reserved. 
+1617-1381/$ 
+http://dx.doi.org/10.1016/j.jnc.2013.10.001 
+
+----------------------- Page 2-----------------------
+
+                                                      J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141                                     133 
+
+cave   paintings.   For  instance,   in  Altamira   Cave   visitors  provoked         added   to  the  media.  Conspicuous    colony-forming      units  (CFU)  were 
+aerosolisation                                                                        screened 
+                   of  ﬁne  particles  from  cave   ﬂoor  sediments     includ-                    under  a  zoom  stereomicroscope      (Nikon   SMZ800). 
+ing 
+      bacterial  and  fungal  spores,  and  because   of  biodeterioration    of 
+        paintings,  Altamira  Cave  was   closed  to  the  public.  Installation      Growth   and  analyses   of  phototrophs  with  different  light  regimes 
+cave 
+of 
+     a  thermally  insulated  door   reduced   the  entry  of  airborne  parti- 
+       the  condensation    rate  in  the  entrance  area,  and  the  metabolic           To  study  growth    of  lampenﬂora     at  underground      temperature 
+cles, 
+activity  of  microbial  colonies   (Saiz-Jimenez    et  al.  2011).  In  Lascaux     conditions    under   different   quality  of  lights,  104  cells  per  millil- 
+
+Cave                                                                                  itre 
+        chemical   products    and  antibiotics   were   applied   to  address              of  Chlorella  vulgaris  SAG   211-12    (DSMZ,    German     collection 
+this                                                                                  of 
+       problem,  but  consequently    more   problems    arose  (Bastian   et  al.        microorganisms      and   cell  cultures)  in  exponential    phase   were 
+2010                                                                                  inoculated 
+      ).  A  wide  range  of  biocidal  chemicals  have  already  been  applied                      into  liquid  medium  and  cultured  under   controlled   light- 
+     different  caves,  but  hydrogen  peroxide   seems   to  be  currently  the            conditions   in  an  unvisited   portion   of  Postojna   Cave  (Fig.  1). 
+in                                                                                    ing 
+most   favourable    one   (Faimon    et  al.  2003;  Mulec  and  Kosi  2009).        C.  vulgaris  was   selected   as  a  proxy   organism    in  order   to  com- 
+Remediation                                                                           pare 
+                  actions  that  are  done  without    careful  planning    and              results  with  previous  studies   (Mulec   et  al.  2008)  and  because 
+                 may  not  solve,  and  may  even  exacerbate,   the  problem.              organism   is  frequent  in  lampenﬂora    community      (Mulec   2012; 
+forethought                                                                           this 
+Another                                                                               Roldán 
+            example    connected     with   management       of  underground                    and   Hernández-Mariné,        2009;   Smith    and   Olson   2007). 
+sites                                                                                 Three 
+        is  installation  of  LED  lamps   without    previous   studies,   and                different  lamps    that   are  currently    being   used   in  show 
+expectation    that  this  step  will  be  enough   to  stop  proliferation   of      caves   were   selected   as  light  sources:  a  200  W   halogen,   (Osram, 
+lampenﬂora.                                                                           Germany, 
+                                                                                                    abbreviated as 
+                                                                                                                      Hal);  a  12  W  cool-white  LED  (Cree,  USA, 
+    Loss 
+           or  irreversible  damage    of  paintings   and   other  objects   of                      as  LED   Cool);  and,   a  22  W  61Y10G1B      LED   (Enlux, 
+                                                                                      abbreviated 
+cultural  and                                                                         USA)  which 
+                 natural  value   in  the  underground     due   to  biological                       uses  a  combination     of  yellow,  green   and   blue  LEDs 
+activities                                                                            (LED 
+             is  an  urgent  problem.   Based   on  experiments      from  two               ygb).  These    LED   lamps   were    also  selected   in  the  experi- 
+Slovenian show                                                                        ment because 
+                     caves  –  the  highly  visited  Postojna   Cave   and  the                          their  light  resembles  natural  light,  from  white  (LED 
+                ˇ 
+            site Skocjan  Caves  –  the  paper  presents  evidence,  solutions                to  yellowish  (LED   ygb).  Cultivation    conditions   included    an 
+UNESCO                                                                                Cool) 
+for remediation                                                                       8:16 light/dark 
+                     of  insensitive  surfaces  and   a  monitoring    plan  for                          period  with  a  photosynthetic     photon   ﬂux   density 
+        eutrophication,   ultrasonic   smog,   and   microclimatic    changes                   <  20  mol  photons/m2 s   or  PPFD  >  20  mol  photons/m2 s   for 
+light                                                                                 (PPFD) 
+and                                                                                   24 
+       surface  contamination    due  to  tourist  use.                                    weeks.  This  PPFD   threshold   was   selected   to  allow  observation 
+                                                                                      of 
+                                                                                          the  response  of  C.  vulgaris  when  growing  below   and   close/above 
+                                                                                      the 
+Materials                                                                                   photosynthetic    compensation     point   (PCP).  PCP  for  green  algae 
+              and  methods 
+                                                                                            at  about  21  mol  photons/m2 s   (Stevenson    et  al.  1996).  On  a  LI- 
+                                                                                      lies 
+Experimental    sites                                                                 1000   datalogger   (LI-COR,   USA)   were  plugged    a  LI-190SA   quantum 
+                                                                                                (range  400–700   nm,  sensitivity  8  A  per  1000  mol/m2 s)   to 
+                                                                                      sensor 
+                                                                                                                               2 
+                                                                                      measure 
+    The  experiments     and   measurements      were   conducted     in  a  nat-                 PPFDs  (mol   photons/m      s)  and  a  LI200  SA  pyranometer 
+                                                                       ˇ                                                                                      2 
+                                                                                      sensor 
+ural                                                                                            (range  400–1100   nm,  sensitivity  80  A  per  1000  W/m     )  that 
+       cave  environment, 
+                               in  two 
+                                         show   caves  in  Slovenia.  Skocjan 
+         ˇ                                                                            served                                       2 
+         (Skocjanske   jame,   total  length  5.8  km)  are  on  the  UNESCO                    to  measure   irradiances   (W/m     ).  Illumination  levels  (Lux) 
+Caves 
+World                                                                                 were   measured     by  a  Miniluxmeter     4  (Optronik,   Germany,     range 
+          Heritage List 
+                         and 
+                               were  recognised    as  the  ﬁrst  underground 
+                                                                                                  nm,  sensitivity  typically   20  A  per  100  kLux)   and   were 
+        wetland    under   the  Ramsar    Wetland     Classiﬁcation    System.        400–700 
+karst 
+                                                                                      adjusted 
+This                                                                                              by  insertion  of  screens  and  by  adjustment   of  the  distance 
+       place  is 
+                  visited  by  approximately     100  000  tourists  per  year. 
+                                                                                      from 
+    subset  of  experiments   were   conducted     in  Postojna  Cave  (Posto-                cultures  to  the  light  source.  Cultures  were  cultivated  in  tripli- 
+A 
+                                                                                               mixed  daily,  and  counted  under   a  microscope   (Nikon   Eclipse 
+jnska  jama,  total  length  20.6  km)  which   attracts  more   than  500   000      cates, 
+                                                                                      600) 
+visitors                                                                                     with  a  hemocytometer.     Emission    spectra  of  lights  used  in  the 
+           annually  (Fig.  1).  Both  caves  share  similar  problems    with 
+                                                                                               were  measured    in  the  cave  with  a  Jaz  spectrometer   (Ocean 
+other                                                                                 study 
+         underground    caves   around   the  world   exploited   for  tourism, 
+                                                                                      Optics, 
+including                                                                                       USA;  detector   200–1000     nm,  sensitivity   75  photons/count 
+              climate  changes,  introduction   of  tourist-originated   parti- 
+                                                                                          400  nm,  41  photons/count    at  600  nm). 
+cles,                                                                                 at 
+       surface  contamination,     light  eutrophication,   lampenﬂora      and 
+                                                                                          After 
+ultrasonic                                                                                        incubation,   a  certain  volume    of  C.  vulgaris  was  ﬁltered 
+              smog   due   to  various   electric  devices   installed   in  the 
+                                                                                      through 
+underground.                                                                                      a  glass  ﬁbre  (GF)   ﬁlter  (Millipore,   USA)    and   dried  at 
+                                                                                      105 ◦ C  to  estimate  dry  weight.   The  remained     culture  was   ﬁltered 
+
+                                                                                                  another  GF  ﬁlter.  Cells  attached   on  a  GF  ﬁlter  with  cold 
+Atmospheric    parameters                                                             through 
+                                                                                      90%  acetone   were   mechanically    disrupted    in  a  mortar.  Extract  with 
+                                        ◦                         ◦                   photosynthetic 
+    Temperature      (accuracy,   ±1.0   C;  range  −45   to  125  C)  and  rel-                          pigments   was  centrifuged   10  min  at  4000  RPM,  and 
+                                                                                                      was   used   to  measure    absorption    spectra   from     350 
+        humidity    (RH,  accuracy    ±3%    RH,  range   0.0–100.0%)     were        supernatant 
+ative 
+                                                                                      to 
+measured                                                                                  750  nm  with  a  Lambda    25  UV–Vis   Spectrometer     (Perkin-Elmer, 
+              using  a  portable   Kestrel  4500   PocketWeather       Tracker 
+                                                                                      USA). 
+(USA)                                                                                         Concentration    of  photosynthetic   pigments    chlorophylls   a  and 
+         to  observe     effects  of   different   lights   and   tourists   on 
+                                                                                         (Chl  a,  Chl  b)  and  carotenoids  as  -carotene    were    determined 
+cave  atmosphere.                                                                     b 
+                        In  addition,  atmospheric     carbon    dioxide   was 
+                                                                                      as 
+              during  tourist  visits  with  a  MI70  Vaisala  handheld    car-           previously    described    (Wetzel    and   Likens   1995),   and   evalu- 
+measured 
+bon                                                                                   ated. 
+       dioxide  metre    (Finland;   probe   GMP222,     accuracy    ±1.5%    of 
+range 
+         +  2%  of  reading;  range  0–3000  ppm). 
+                                                                                      Remediation    of  lampenﬂora    locations 
+Culture  media 
+                                                                                          At  carefully  selected   sites  around   lamps   in  caves,  a  15%  solu- 
+                                                                                      tion 
+    Liquid  Jaworski    medium     (Warren    et  al.  1997)  was  adopted    to             of  hydrogen    peroxide    was   tested   to  observe   the   efﬁcient 
+                                                                                      removal/oxidation 
+             effects  of  different  lights  on  algal  growth.  To  estimate  the                            of  organic  bioﬁlms   formed   by  lampenﬂora     and 
+estimate 
+                                                                                      dead 
+culturable                                                                                    lampenﬂora    incrusted   within   the  calcite.  Before  application, 
+               airborne  microbiota   introduced   by  tourists,  a  1.5%  nutri- 
+                                                                                      inspection 
+      agar  (NA,  Sigma,  USA)  was   used.  NA  was   selected  because    it  is                  of  the  site  was  needed  to  check  for  the  presence  of  cave 
+ent 
+                                                                                                    fauna,  and  to  remove  mosses  and  ferns  from  lampenﬂora 
+frequently                                                                            terrestrial 
+               used  to  isolate  bacteria,  and  because  bacteria  grown   on 
+                                                                                      community 
+NA                                                                                                    to  ensure  good   contact    between    biocidal   hydrogen 
+      are  good  estimators  of  introduced  microbes    during  tourist  visits 
+                                                                                                  and  lampenﬂora      algae  that  were   attached    or  incrusted 
+in                                                                                    peroxide 
+     caves  (Mulec   et  al.,  2012a).  No  antimicrobial   substances    were 
+
+----------------------- Page 3-----------------------
+
+134                                                      J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141 
+
+                                           ˇ 
+Fig. 1. 
+       Location 
+                  of experiments 
+                                  (A)  part  of Skocjan  Cave  with  a  designated  location  for  bioaerosol  sampling  along  tourist  footpath  before  and  during  tourist  visits;  along  the 
+tourist  footpath  swabs  of  microorganisms  were  taken  from  different  surfaces  (Table  4),  (B)  part  of  Postojna  Cave  ground  plan  with  designated  location  of  a  cave  laboratory 
+    an  unvisited  portion  of  the  cave  where  different  lights  were  installed  for  the  growth  experiment  with  Chlorella  vulgaris,  and  with  a  marked  demonstration  location  of 
+in 
+              efﬁcacy  of  lampenﬂora  removal  using  hydrogen  peroxide  (Fig.  4).  Ground  plan  from  Cave  Cadastre  of  the  Karst  Research  Institute  at  ZRC  SAZU. 
+remediation 
+
+within   the  calcite.  A  15%   (v/v)  solution   of  hydrogen    peroxide    (pH        Surface   contamination 
+            is  an  upgraded  procedure     to  kill  lampenﬂora,   initially  pro- 
+7.0–7.5) 
+posed 
+          by  Faimon  and   co-workers     (Faimon    et  al.  2003).  The  novelty           Besides   inﬂuencing      the  air  quality,  tourists  leave   microbes     on 
+    this  study   is  the  usage  of  carbonate/bicarbonate         buffer  in  the                  surfaces   in  caves   as  a  consequence      of  ﬁnger-    and   foot- 
+in                                                                                        various 
+                                                                                                      ˇ 
+ﬁnal                                                                                      prints. 
+        solution,  which   preserves     pH  in  the  range   that  is  not  corro-                 In Skocjan   Caves   several   sites  were  selected    to  observe   the 
+       for  cave  formations.    15%   (v/v)  H   O   (pH   7.0–7.5)   contained                  of  contamination     and  dispersion     caused   by  tourists.   Surface 
+sive                                            2   2                                     level 
+500                                                                                       swab                        2                                            ® 
+       ml  30%  H2 O2 ,  75  ml  NaHCO3 /Na2 CO3  buffer     and   425  ml  of  dis-               samples   (20  cm   )  were   taken   aseptically    by   RIDA    COUNT 
+tilled  water.  Due   to  instability   of  buffered  H2 O2 ,  the  solution   was        test  plates  for  total  bacteria   (RIDA® COUNT       Total   Aerobic    Count), 
+           to  speleothems     within   20  min   after  the  solution   was   pre-                           aureus  (RIDA® COUNT      Staph.   aureus),  Escherichia    coli 
+applied                                                                                   Staphylococcus 
+pared                                                                                     and                      ® 
+         at  the  spot.  40  ml  of  hydrogen   peroxide    solution    is  enough               coliforms  (RIDA    COUNT     E.coli/Coliform)    and  yeast  and  moulds 
+to                                       2                                                (RIDA®                                              ® 
+     spray  homogenously        on  1  m  .  Application    in  a  cave  was   car-                COUNT     Yeast   &  Mold  Rapid).   RIDA    COUNT     test  plates  have 
+       out  three  times   consecutively      with   one  week    between     each                recognised    as  an  easy-to-handle     and   rapid  indicator   tool  for 
+ried                                                                                      been 
+application.                                                                              microbial 
+                                                                                                        counts  on   solid  surfaces   in  caves  (Mulec    et  al.,  2012b). 
+                                                                                          In                                                                               ◦ 
+                                                                                              brief,  after  sampling,    bacterial   plates   were   incubated     at  35  C 
+                                                                                          for                                                              ◦ 
+                                                                                               24–48   h,  and  plates  for  yeasts  and  moulds    at  25  C  for  48–72   h. 
+Bioaerosols   before   and  during   tourist  visits                                                 microbial  colonies    were   enumerated      and  expressed     as  CFU 
+                                                                                          Finally, 
+                                                                                                                     2 
+                                                                                          per 
+                                                                                                surface  of  100  cm   after  48  h  of  cultivation  for  bacteria  and  72  h 
+    During   walking    tours,  tourists   introduce    many   microorganisms             for 
+                                                                                               yeast  and  moulds.   Swabs    were   taken  from:   a  tourist  trail  includ- 
+       caves,  and  they  also  help  to  disperse  them.  To  obtain   a  baseline 
+into 
+                                                                                          ing 
+                                                                                                at  a  location  with  bat  excrement;  a  touched   stalagmite   along   the 
+of airborne 
+                microorganisms      without    visitors,  air  was  continuously                 and  an  untouched    one  partly   covered   with   mud   that  is  located 
+                                                                                          trail 
+sampled 
+             several hours 
+                               before  the  tourist  visit.  Next,  air  was  sam- 
+                                                                                          5  m  out  from  a  tourist  path;  a  metal  protection   fence;  and  from   two 
+        during  passing    of  tourist  groups,   and   tourists  were    counted 
+pled                                                                                      visitors’ 
+                                        ˇ                                                             ﬁngers  and   rubber   soles. 
+as 
+     well.  The  sampling     site  in  Skocjan    Cave   was   selected    at  the 
+end                                               ˇ                   3 
+       of  a  large  chamber    in  Tiha  jama,   Sotor  (23  144  m   ),  approx- 
+imately                                                                                   Ultrasonic   smog   in  the  underground 
+            5  m  from  the  place  where    tourists   usually   pause    to  hear 
+                  by  a  guide.  To   minimise     the  inﬂuence     of  research 
+explanations 
+team                                                                                          Caves   equipped     with   electricity  host  different   housings,    cables 
+        on  bioarosols,    only  one   person    sampled     the  air  with   min- 
+                                                                                          and 
+imum                                                                                             electric  devices.  Because   caves   are  normally    free  of  ultrasonic 
+          exposed    skin  surfaces.   While    air  sampling,     operator    was 
+                                                                                                           other  than  those   produced     by  animals,    some    electri- 
+not present                                                                               frequencies 
+                 at  the  sampling  location.   Sampling     of  bioaerosols   was 
+                                                                                          cal 
+      m  above   the  ground    by   using   a  portable   rack   that  served   to            devices   were    tested  to  measure     production     and   the  range   of 
+1.5 
+                                                                                          ultrasounds 
+minimise                                                                                                   they  produce.   An  ultrasonic    detector   D240x    with   fre- 
+              the  detection    of  detached     microorganisms        from   cave 
+                                                                                          quency 
+sediments                                                                                            range  of  10–120  kHz   (accuracy   ±  0.15  kHz),  which   is  used  to 
+               due  to  operator’s   activities.  Sampling     campaigns      were                                                            ˇ 
+                                                                                                   bats,  was  used  in  Postojna  Cave  and Skocjan    Caves  (Pettersson 
+carried                                                                                   study 
+           out  in  low  (22  January  2012),  medium     (1  April  2012,  3  June 
+                                                                                          Elektronik, 
+         and  high   (22  July  2012,   22  August    2012)   tourist   season.   A                       Sweden). 
+2012) 
+Mas-100 
+             Air  Sample   Device    (Merck,   Germany)      was   used   to  inoc- 
+ulate                                                                                     Results 
+        NA  medium      through    the  surface-sterilised     perforated    plate. 
+Based 
+         on  previous   experiments      (Mulec   et  al.,  2012a)  and  expected 
+                                                                                          Impact 
+tourist                                                                                             of  lighting  and  light  eutrophication 
+          number     at  the  site,  500  or  1000  l  of  air  was  impacted    on 
+the 
+      agar  plate,  because     maximum       number     of  CFU   per   plate  for 
+this                                                                             ◦            Lights   have   a  measurable     effect   on  cave   climate   (Fig.  2).  The 
+       device  must    not  exceed    400.  Plates   were   incubated     at  37  C 
+                                                                                          biggest 
+      24  h,  and  the  counted   CFU   values   were   statistically   corrected                    effect  on  cave  climate  was  exerted   by  a  200  W  halogen  lamp 
+for 
+                                                                                                   which  at  the  distance  of  20  cm  from  the  lamp  raised   the  basal 
+according                                                                                 (Hal), 
+              to  Feller  (Feller  1950)   and   expressed    as  CFU   per  cubic 
+                                                                                          cave                              ◦            ◦ 
+metre.                                                                                            temperature    from   9.7  C  to  32.6  C,  at  the  distance  of  50  cm  to 
+
+----------------------- Page 4-----------------------
+
+                                                        J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141                                        135 
+
+Fig.  2.  Impact  of  different  lamps  on  cave  climate  during  eight  hours  of  illumination  at  different  distances  from  a  light  source:  (A)  temperature  changes  near  a  200  W  Hal 
+        (B)  relative  humidity  changes  near  a  200  W  Hal  lamp;  (C)  temperature  changes  near  a  12  W  LED  Cool;  and,  (D)  near  a  22  W  LED  ygb. 
+lamp; 
+
+23.8 ◦ C  and  at  150  cm   to  11.6 ◦ C.  The  effect  of  this  lamp  on  cave        (2.5 ×     8 
+                                                                                                  10  cells/ml 
+                                                                                                                 after  week    19)  (Fig.  3).  The  effect  of  elevated 
+           was  detected    even   at  longer  distances,    at  the  distance   of 
+climate                                                                                                    should   be  also   taken   into   consideration;     the   cul- 
+                                                                                         temperature 
+100               ◦                       ◦                                                                                                                              2 
+       cm  by  1.9 C,  at  185  cm  by  1.3 C,  and  at  the  distance  of  270  cm      ture 
+                                                                                                illuminated by 
+                                                                                                                   the  Hal  lamp  at  PPFD   >  20  mol  photons/m       s 
+        the  emitting   light  temperature     was   elevated    by  1.1 ◦ C  (data                                                       ◦ 
+from                                                                                                      a  temperature    rise  of  1.5  C  and  that  illuminated     by 
+                                                                                         experienced 
+not                                                                                                               ◦ 
+      shown).   Temperature      changes    were   also  reﬂected    in  the  rela-      the 
+                                                                                               LED  ygb   of  0.5  C.  The  slowest    growth     rate  was   in  the  cul- 
+       humidity   (RH),  where    at  a  distance  of  20  cm  from  the  lamp   it                                                                 2 
+tive                                                                                            cultivated    at  PPFD  <  20  mol   photons/m       s  under   the   LED 
+                                                                                         ture 
+dropped 
+             from  100%   to  28.1%,  at  50  cm  to  44.2%  and   at  150  cm  to       ygb, 
+                                                                                                with   prolonged 
+                                                                                                                     exponential     phase.   This   can   be  attributed 
+          A  12  W  cool  white  LED  Cool  raised  basal  cave  temperature     at 
+97.6%.                                                                                       the  unfavourable      emission    spectrum     for  absorption    by  Chl   a. 
+                                                                                         to 
+the                               ◦                                             ◦ 
+      distance  of  20  cm  by  2.1 C  and  at  the  distance  of  50  cm  by  1.1 C.    The 
+                                                                                               fastest growing 
+                                                                                                                    cultures  were   illuminated     with   the  Hal  with 
+At                                                                                                                        2 
+     a  20  cm  distance   from   this  lamp   RH   dropped     only  1.9%   from                >  20  mol  photons/m     s  and  LED  Cool,  when   stationary   phase 
+                                                                                         PPFD 
+cave 
+        basal  RH.  A  22  W  LED  ygb  at  the  distance  of  20  cm  raised  cave      was 
+                                                                                                reached   in  10  weeks,    while   cultures   growing     with   the  LED 
+                  by  only  0.5 ◦ C.  This  lamp  did  not  change  RH  (Fig.  2).                                                 2 
+temperature                                                                              ygb 
+                                                                                               at  PPFD  <  20  mol  photons/m      s  reached  a  peak  after  week    24 
+    All 
+         lamps   used   in  the  experiment     had   characteristic    emission         (Fig.  3).  At  week  24   concentration     of  C.  vulgaris  under   this  light 
+spectra                                                                                                      8 
+           (Fig.  3).  The  Hal  lamp  had  an  emission  peak  at  633  nm;  LED                    2.1  ×  10 cells/ml. 
+                                                                                         reached 
+        had  a  minor  peak  at  451  nm  and  a  major   peak  at  584  nm.  Due 
+Cool                                                                                         Analysis 
+                                                                                                         of  absorption   spectra  of  cultures   cultivated   under   dif- 
+to 
+     combined    LEDs   of  the  LED  ygb,  this  lamp  had   its  highest  emis-                 lamps  showed    that  the  absorption    peak  of  Chl  a  at  680  nm  ( 
+                                                                                         ferent 
+sion                                                                                                                                                                     2 
+       peak  at  588  nm,   corresponding      to  61  yellow    diodes,  a  peak        peak) 
+                                                                                                  were  higher   in  all  cultures  at  PPFD  <  20  mol  photons/m       s 
+    522  nm   due   to  10  green   diodes    and   a  minor   peak   at  448  nm                                                                                       2 
+at                                                                                       compared 
+                                                                                                       to  cultures  cultivated    at  PPFD  >  20  mol  photons/m       s. 
+corresponding 
+                    to  one  blue  diode  (Fig.  3).                                     Peaks 
+                                                                                                  of  accessory    pigments      of  Chl  b  and    carotenoids     which 
+        vulgaris   is  commonly       found   in  underground        and   affects 
+    C.                                                                                                    maximum         partially    overlap      (Wellburn       1994), 
+                                                                                         absorption 
+integrity 
+             of  displayed  formations    and   artefacts,  and   makes    a  good 
+          organism   for  lampenﬂora.     During   24  weeks   of  cultivation   of 
+model 
+                                                                                         Table 1 
+C.                                                                                              
+    vulgaris,  biomass    (expressed    as  dry  weight)    was   highest   when 
+                                                                                                       between  available  photons  for  photosynthesis  and  illuminance  for 
+                                                                                         Relationship 
+grown 
+          with   the  Hal   lamp.   The   highest   percentage     of  the   main 
+                                                                                                    lamps  (measurements  were  done  in  caves  and  are  of  information  value 
+                                                                                         different 
+photosynthetic 
+                     pigment    Chl   a  in  dry  weight   was    found   in  cul-       only). 
+        grown   at  PPFD   >  20  mol  photons/m2 s     with   a  LED  Cool  and 
+tures 
+                                     2                                                                                                        Illuminance  (Lux) 
+at 
+    PPFD  <  20  mol  photons/m       s  with  a  LED  ygb,  where  Chl  a  repre- 
+sented                                                                                     PPFD  (mol  photons/m2  s)         Hal             LED  Cool          LED  ygb 
+          nearly  2%  of  dry  mass.  This  culture  grown  under   the  LED  ygb 
+at                                   2 
+    PPFD  <  20  mol  photons/m       s  (Table  2)  also  exhibited  the  slow-          100                                 4796            6670               8407 
+      growth   rate  (Fig.  3D).  Macroscopically,    the  high  concentration 
+est                                                                                                                            2438            2806 
+                                                                                            50                                                                    4474 
+                                                                                            40 
+of                                                                                                                             1873            2427               3623 
+    Chl  a  in  these  cultures  led  to  a  pronounced  green   appearance. 
+                                                                                                                               1421            1835               2806 
+           growth   experiment     with   C.  vulgaris  showed    that  this  alga          30 
+    The 
+                                                                                                                                 984           1186               1985 
+                                                                                            20 
+grew 
+        well  at  all  three  different   light  qualities.   Stationary    phase                                                706            836               1349 
+                                                                                            15 
+       ﬁrst  reached   at  PPFD   >  20  mol  photons/m2 s      under    the  Hal 
+was                                                                                                                              472            674                905 
+                                                                                            10 
+                                                                 8                                                               236            321                440 
+        (after  week  13  concentration     reached    2.9  ×  10 cells/ml),   fol-          5 
+lamp 
+                                   8                                                                                              41             88                 92 
+lowed                                                                                        1 
+          by  LED  Cool  (2.8  ×  10 cells/ml   after  week   19)  and   LED  ygb 
+
+----------------------- Page 5-----------------------
+
+136 
+                                                           J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141 
+
+Fig.  3.  Relative  absorption  spectra  of  a  lampenﬂora  representative,  Chlorella  vulgaris,  cultivated  in  a  cave  at  photon  ﬂuxes  under  (<20  mol  photons/m2  s)  and  above 
+     mol              2 
+             photons/m   s)  the  photosynthetic  compensation   point,  along  with  the  relative  emission  spectra  of  lamps:  (A)  culture  cultivated  under  a  halogen  lamp  (Hal), 
+(>20 
+          luminous  efﬁciency  function  for  scotopic  (Sco)  and  photopic  vision  (Pho);  (B)  culture  under  a  Cool  white  LED  (LED  Cool);  (C)  culture  under  61Y10G1B  LED  (LED 
+spectral 
+        (D)  growth  curve  of  C.  vulgaris  during  24  weeks  of  culturing  under  different  lights  and  intensities,  control  grown  in  dark.  An  arrow  represents  absorption  maximum  of 
+ygb); 
+            photosynthetic  pigments,  Chl  b  and/or  carotenoids. 
+accessory 
+
+were                                                                                          2010. 
+         clearly    distinct                                                                           Two  complete 
+                                from                                                                                       applications 
+                                        the    440  nm       peak     of  Chl    a  at                                                      of  hydrogen     peroxide     solution 
+         >  20  mol  photons/m2 s,      most    clearly   in  the   culture   grown                year  were    generally    enough     to  control   its  re-growth.    Actively 
+PPFD                                                                                          per 
+with    the                                                                                   growing lampenﬂora 
+              LED   ygb   (Fig.  3).  Absorption      spectra     of  both   cultures                                       was  in  some   places   completely     removed;      the 
+           at  low  and  high  PPFDs   under    the  LED  Cool   lamp   were    nearly                     was   effective   even    at  sites  with   incrusted     lampenﬂora. 
+grown                                                                                         solution 
+the same                                                                                      The  applied 
+              because   this  lamp    emits   light  that  relative   well   overlaps                           volume    generally     did  not   exceed    the   recommended 
+          and    absorption    peaks    of  Chl  a.                                                      of  40  ml/m2 . 
+with                                                                                          quantity 
+
+Remediation      actions   with  hydrogen     peroxide                                        Bioaerosols    indicate   impact    of  tourists 
+
+                                                                                                                                  ˇ 
+    Actively     growing       lampenﬂora,        and    lampenﬂora        incrusted              In  the   studied    part   of  Skocjan    Caves    tourists   had    only   small 
+           calcium   carbonate     due   to  abiotic   or  biotic  precipitation     as                      effect  on   elevation    of  CO   .  Sampling     on  22   July     2012 
+within                                                                                        transitory                                       2 
+greenish                                                                                      revealed 
+             patches    around     lamps,    are  an   unpleasant      fact  in  many                      nearly   twofold     higher   baseline    CO2   concentration       com- 
+caves,                                                                                        pared 
+          mines,   tombs     and   catacombs       (Cigna    1993;    Fowler    2011;                   to  sampling    on  3  June   2012.   Regular    monitoring       of  CO2  at 
+Grobbelaar                                                                                    the 
+                 2000;    Mulec     2012;    Zammit      et   al.  2011).   A   single              same   location    showed     similar   relation,   average    concentration 
+                 was  generally    not   enough     to  kill/oxidise   lampenﬂora.                 June  2012  was   1820   ±  250  ppm,   and   2550   ±  660  ppm    in  July   2012 
+application                                                                                   in 
+Therefore                                                                                     (Vanja                         ˇ 
+               the  entire  treatment    included    three   consecutive     applica-                    Debevec   Gerjevic,    personal    communication,        2013).   Concen- 
+         with  one  week   between     each   application.    This  procedure      was                   of  CO    during   the   tourist   visit  on  22  July   2012    suddenly 
+tions                                                                                         tration           2 
+tested                                                                                        dropped 
+          at  a  few  places  of  limestone   and   ﬂowstone      in  Postojna   Cave,                     around   10:37    and  11:30    (Fig.  5B).  After  this  short  disturb- 
+      an  example     (Figs.  1A   and  4).  In  Postojna    Cave   this  procedure                    the  concentration      of  CO    quickly    acquired    previous     values. 
+see                                                                                           ance,                                   2 
+has                                                                                           This 
+       been  applied   on  heavily   affected    places  with   lampenﬂora       since                can  be  attributed    to  brief   opening     of  the  inner   tourist   cave 
+
+Table  2 
+           and  pigment  changes  in  Chlorella  vulgaris  grown  under  various  light  sources. 
+Biomass 
+
+  Lamp                                        Light  characteristics                                                                Physiological  changes 
+
+                 PPFD  (mol   photons/m2  s)       Illumination  (Lux)      Irradiance  (W/m2 )      Dry  weight  (mg/l)      %  Chl  a  in  dry  weight  Chl  a:Chl  b:carotenoids 
+
+  PPFD  >  20 
+                 23                                 1111                   39                         623                      0.13                        2.4:1.0:2.9 
+  Hal 
+        Cool     33                                 2181                     6                        602                      0.46                        3.4:1.0:2.8 
+  LED 
+  LED 
+        ygb      29                                 3025                     6                        587                      0.15                        2.4:1.0:3.8 
+
+         <  20 
+  PPFD 
+                  19                                 947                   30                         495                      0.59                        3.1:1.0:2.3 
+  Hal 
+        Cool      13                                 780                     2                        405                      1.04                        3.2:1:0:2.0 
+  LED 
+        ygb       16                                1652                     3                        320                      1.90                        3.8:1.0:1.9 
+  LED 
+
+----------------------- Page 6-----------------------
+
+                                                           J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141                                                137 
+
+Fig. 
+      4.  Remediation  of  a  selected  surface  with  lampenﬂora  in  Postojna  Cave  in  the  portion  named  Lepe  jame:  (A)  surface  before  treatment;  (B)  ﬂowstone  surface  after 
+              of  hydrogen  peroxide. 
+application 
+
+door that                                                                                     bacteria    and 
+               normally    isolates   the  cave   from    the  exterior.   Sampling                              fungi.   A   high   number       of  cultivable    bacteria     and 
+     August   2012    showed     similar   values   of  CO    to  sampling     in  June                are  introduced      into   the   cave   on   shoes.   The    highest    bac- 
+in                                                          2                                 fungi 
+2012.                                                                                         terial   counts                                                                      2 
+                                                                                                                 were    at   the   cave   entrance     (10  350   CFU/100     cm   ), 
+     During 
+                all  samplings,  elevated    concentration      of  airborne    bacte-               on  walking     surfaces    inside    the  cave    they   were    lower.    The 
+                                                                                              but 
+ria was                                                                                       number      of 
+            clearly  related  to  the  presence    of  tourists   and  persisted    for                        bacteria    was    also   high   at  the   site   with   bat   drop- 
+    few  hours   even   after  tourists  had   left  the  sampling    area   (Table   3,                the  same   location   where    indicators    of  faecal  contamination 
+a                                                                                             pings, 
+                                                                                              (E.                                                  2 
+Fig.  5).  Although   no  tourists  were    present   at  the  time  of  sampling    on            coli/coliforms,    100/4400     CFU/100     cm   )  were   the  highest.   Inter- 
+22                                                                                            estingly, 
+      January  2012,   a  low  basal  concentration      of  airborne  bacteria    was                     on  a  stalagmite    with   brown    patina    that  clearly   indicates 
+still  detected    (11  ±  2  CFU/m3 ;  Table   3).  Contribution      of  tourists  to       tourists’   touches    along   the  path,  only   a  few  bacteria   were   detected 
+
+airborne    bacterial    counts    was   clearly  evident    during    samplings     in       and   many     more    fungi.   This   differed   from    the  swab     of  a  protec- 
+April  and  June   2012.   Sampling     in  July  2012  revealed    nearly   10  times        tive  metal   fence   where    relatively   higher   bacterial   counts   compared 
+           baseline  concentration      of  bioaerosols    compared     to  sampling               fungi   were    observed.     Tourists     host   many     bacteria    on   their 
+higher                                                                                        to 
+in                                                                                            ﬁngers, 
+     June.  Values    of  sampling     in  August    2012    before   and   during    a                   including    Staphylococcus       aureus.    Swabs    of  ﬁngers     on   S. 
+           visit  showed     comparable      bacterial    counts    to  sampling     in                             plates  showed     presence     of  -haemolytic       isolates. 
+tourist                                                                                       aureus-speciﬁc 
+June                                                                                          S. 
+        2012.                                                                                     aureus   was   also  detected     on  a  tourist   trail  and  on   rubber    shoe 
+                                                                                                       The  lowest    fungal   counts    were    on  human-related        surfaces, 
+                                                                                              soles. 
+                                                                                              skin 
+Indicators and                                                                                        and  on   a  metal   fence   which     is  very  frequently     touched     by 
+                    spreading   of  surface  contamination 
+                                                                                              tourists 
+                                                                                                          (Table   4).  This   fence    is  located   inside    the  cave    on  the 
+                                                                                              most 
+    At         ˇ                                                                                       picturesque     bridge    where    tourists    always    stop   during    the 
+         the   Skocjan    Caves    UNESCO       World     Heritage     Site  surfaces 
+             to  tourists  were    screened     for  the  presence     of  cultivable         visit. 
+exposed 
+
+                                                                                                                        ˇ 
+Fig. 
+      5.  Carbon  dioxide  and  bacterial  concentration  in  the  air  versus  time  of  day  before  and  during  tourist  visits  in Skocjan  Caves,  and  number  of  visitors  at  the  sampling  site 
+    low  (1  April  2012:  A  and  C)  and  high  (22  July  2012:  B  and  D)  tourist  season.  The  solid  black  line  in  (B)  indicates  the  suggested  limit  value  of  300  CFU/m3 of  total  microbial 
+in 
+        for 
+             residential  environments  (Robertson,  1997).  See  text  for  details. 
+counts 
+
+----------------------- Page 7-----------------------
+
+138                                                        J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141 
+
+Table  3 
+                                                                              ˇ 
+                changes  in  carbon  dioxide  and  bacterial  concentrations  in Skocjan  Caves  before  and  during  tourist  visit  with  average,  minimum  and  maximum  values  and 
+Atmospheric 
+          of  tourists  present  during  experiments. 
+number 
+
+  Date  dd/mm/yy                                     Before visit                                                                      During 
+                                                                                                                                                visit 
+
+                               CO2  (ppm)                          CFU/m3                         CO2  (ppm)                          CFU/m3                          Sum   tourists 
+
+  22/01/12                            437  ±  11                         11  ±  2 
+                               410 
+                                                 460               8              15 
+                                                                      
+
+  01/04/12 
+                                      593  ±  12                        11  ±  19                        625  ±  13                         71  ±  32                   95 
+                                                 620               1              54              580               650               25             114 
+                               560 
+                                      1258  ±  17                         8  ±  4                        1284  ±  24                       256  ±  138                281 
+  03/06/12 
+                                                 1310              2              13              1230              1340              78             558 
+                               1210 
+                                      2007  ±  38                       91  ±  34                        1957  ±  50                       382  ±  253                310 
+  22/07/12 
+                                                 2100              41 
+                                                                                  138             1820              2040              74 
+                               1900                                                                                                                  1008 
+  22/08/12 
+                                      1062 ± 
+                                               43                        19  ±  7                        1040  ±  49                       250  ±  87                 296 
+                               960 
+                                                 1170              10             30              920               1160              80             438 
+
+Table  4 
+        analyses  of  microorganisms  from  various  cave  surfaces  expressed  as  colony-forming  units  per  surface  (after  cultivation  of  48  h  for  bacteria  and  72  h  for  yeast  and 
+Swab 
+moulds). 
+
+  Swab type                                                                                                           CFU/100     2 
+                                                                                                                                 cm 
+
+                                                                 Bacteria                     E.  coli/coliforms                  S.aureusa                     Yeasts  and  moulds 
+
+  Concrete, tourist 
+                    trail                                          350                        0/0 
+                           at  cave  entrance                   10                                                                 1550                         1800 
+  Concrete, 
+              tourist  trail  inside  cave,  humid               5300                         25/2800                               295                         2400 
+           tourist  trail  with  guano                           7100                         100/4400                              600                          600 
+  Stone, 
+                untouched  with  mud                               800                        0/5                                      0                         305 
+  Stalagmite, 
+                touched                                             15–30                     0/0                                      0                        2025–3200 
+  Stalagmite, 
+           protection fence,                                                                  0/0 
+                            touched                                570                                                                 0 
+  Metal,                                                                                                                                                           75 
+  Rubber 
+            sole                                                 1300–8600                    0/0                                   100–300                     5100–6600 
+        ﬁnger                                                      700–5125 
+                                                                                              0/5                                   200–800                      100 
+  Skin, 
+
+  a All colonies 
+                 were 
+                        counted  including  with  a  blue  halo  that  indicates  -haemolytic  activity. 
+
+Ultrasonic    smog                                                                            Discussion 
+
+                                 ˇ 
+    In  Postojna    Cave   and Skocjan      Caves,   the  noise   frequency     range         Impact    of  installed  devices  in  the  underground 
+of 
+     different  electric   devices    was   measured      along    the  tourist   trail, 
+       practically   all  devices    produced      some    level  of  noise,   except 
+and                                                                                               Underground        cavities   are  generally    well   isolated   from   human- 
+those 
+         which   are  very   well  insulated.    The   ultrasonic    frequencies     of                   electromagnetic      and   ultrasonic    frequencies.     Many    electric 
+                                                                                              derived 
+many 
+          tested  devices  ranged    from   10  to  123  kHz.  Especially   noisy   are       devices 
+                                                                                                          in  the  underground     inﬂuence    cave   environment       by  produc- 
+                   and  non-insulated      LED  and   halogen    lamps.   Ultrasonic 
+transformers                                                                                  ing 
+                                                                                                    ultrasonic   noise   in  a  broad  spectrum,     and,  in  the  case  of  lamps, 
+frequencies 
+                 were   detected    within    close  proximity     (10  cm)   of  even             also  affecting    atmospheric       temperature       and   humidity.      Some 
+                                                                                              by 
+        electric  housings.   The  distance    at  which   ultrasonic    noise   could 
+new                                                                                           cave 
+                                                                                                      animals,    such   as  bats,  use   ultrasonic    frequencies      for  orien- 
+be 
+     detected    was   generally    not  very   large,  but   in  the  case  of  a  LED       tation 
+                                                                                                        in  light  deprived  spaces.   Certain   bat  species   produce     speciﬁc 
+        White   with   no  protective     housing    the  outreach     of  ultrasonic 
+Cool                                                                                                           that  may    be  used    for  their  identiﬁcation      by   special- 
+                                                                                              frequencies 
+noise 
+         was   longer   and   detected     frequencies      varied   with   different         ists 
+                                                                                                     (Ahlen  and   Baagoe    1999).   In  nature  there   are  also  some    insects 
+distances 
+              from  the   lamp   (Table   5).                                                 which 
+                                                                                                        use  ultrasonic    communication         (Römer     1998).   Even   though 
+                                                                                              no 
+                                                                                                   comprehensive        studies   have   yet   been   done    on  how    ultrasonic 
+                                                                                                       affects  cave  biota,  human-derived        smog   of  any  kind  should    be 
+                                                                                              noise 
+                                                                                              minimised. 
+                                                                                                               Remediation     of  electronic   noise   can  be  simply   achieved 
+                                                                                              by 
+                                                                                                   measuring     its  level  with  a  proper  indicator    and  by  adding    a  pro- 
+                                                                                              tective 
+Table  5                                                                                                 housing   or  insulation   material    over  already   existing   devices. 
+                                                                                                            data  transfer  signals   are  used   in  some   caves,   for  example 
+                                                                                              Wireless 
+             smog  detected  around  various  electric  devices  in  caves. 
+Ultrasonic 
+                                                                                              in 
+                                                                                                   Grotta  Gigante,    Italy  (Arbulla    2011);   although     such   technology 
+  Device                               Distance  (cm)         Frequency  range  (kHz) 
+                                                                                              minimises 
+                                                                                                              impact   by  reducing    trafﬁc  of  researchers     through    caves, 
+  Transformer   110  V→230   V         10                     25–40                                        the  wireless   signals   themselves      may   have   environmental 
+                                                                                              whether 
+                 230  V→24  V          10                     18,  42–58,  96–109 
+  Transformer                                                                                 effects 
+                                                                                                         remains   completely      unknown. 
+            housing-old                10                     89–95 
+  Electric 
+                                                                                                  In 
+            housing-new                10                     31–40,  90                               many   caves   and   other   subterranean      spaces    open   to  the  pub- 
+  Electric 
+                  a                                                                                around    the  world,   halogen     lamps    are  still  frequently    used,  but 
+        Cool, 10                       10                     13–15                           lic 
+  LED            W                         
+  LED             a 
+        Cool,  10  W                   30                     21,  38–48                      slowly 
+                                                                                                         they  are  being  replaced    by  LEDs.  Halogen     lamps   are  not  con- 
+        Cool,  10  Wa                  40                     76–80 
+  LED                                                                                                     in  the  sense   of  preserving     cave   conditions     because     they 
+                                                                                              venient 
+        Cool,  10  Wa                  30                     80,  89,  100–120 
+  LED 
+                                                                                              drastically 
+                  a                                                                                           change   temperature       and   humidity.     LEDs    seem    to  be  a 
+        Cool,  10  W                   65                     123 
+  LED 
+                                                                                                            alternative    because    they   have   generally     smaller    impact 
+                  lamp,  23  W         15                     8–15                            plausible 
+  Fluorescence 
+                             a                                                                on 
+                  lamp,  23  W         10                     20–50                                cave  atmosphere,       consume     less  electricity   and   do  not   irradiate 
+  Fluorescence 
+             lamp,  1000  Wa           10                     15,  30–38,  90–95 
+  Halogen                                                                                     in 
+                                                                                                   the  IR  part  of  the  spectrum     (Fig.  3A).  Furthermore,       LEDs    have 
+a                                                                                             lower 
+ No  protective  housing.                                                                               irradiance,  and   with   the  proper    selection   of  a  spectrum    they 
+
+----------------------- Page 8-----------------------
+
+                                                       J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141                                      139 
+
+can  have  very  high  illuminance    values  and  create  desirable   contrast        photosynthetic     pigments    (Roldán   et  al.  2006).  In  algal  suspensions, 
+with                                                                                   penetration 
+        the  illuminated  objects  (Tables  1  and  2).  In  addition  their  light                    of  green  light  is  even  attenuated  due  to  the  scattering 
+beam                                                                                   effect 
+         can  be  easily  focused  on  desired  formations.                                     (Yun  and  Park  2001).  Because  green   light  completely   changes 
+                 photons    inﬂuence     concentration     of  Chl   a  of  pho-             natural  appearance   of  illuminated   objects,  this  approach   is  gen- 
+    Available                                                                          the 
+totrophs                                                                               erally 
+            in  caves.  In  green  algae  Chl  b/Chl  a  frequently   increases                 not  approved  by  the  managers    of  underground     sites. 
+    dim   light  (Govindjee    and   Zilinskas   Braun    1974).   In  caves,  at               control  lampenﬂora    expansion    a  treatment  with  15%  v/v  solu- 
+in                                                                                         To 
+low   photon   ﬂuxes    (2.5–10   mol   photons/m2 s)     the  concentration          tion  of  hydrogen    peroxide    diluted   ml   NaHCO3 /Na2 CO3      buffer   is 
+
+of                                                                                     currently 
+    accessory   pigments    in  Chlorella  was   elevated;   between    20  and                     the  most  environmentally     friendly  for  insensitive  carbon- 
+100                       2                                                            ate 
+       mol  photons/m      s  the  concentration    of  Chl  a  increased,   up            surfaces.  Use  of  this  solution  is  not  recommended     for  sensitive 
+until                           2                                                      surfaces, 
+        100  mol  photons/m      s  when  the  ratio  Chl  a  vs.  Chl  b  was  3:1,              especially  those  with  drawings   and   inscriptions.  Effects  on 
+   typical  ratio  for  green  algae  (Mulec  et  al.  2008).  These  results  show                areas  should   be  ﬁrst  well  examined     and  tested.  In  com- 
+a                                                                                      different 
+that  very  important    changes   in  pigment   composition     start  to  occur      parison   with   aggressive   bleach   (Mulec    and  Kosi  2009),   hydrogen 
+around                            2                                                    peroxide 
+           20  mol  photons/m     s,  which  is  the  PCP  for  green  algae,  and                 solution  is  less  effective  and  its  triple  application  is  more 
+        drastically  below    this  value.  Photon   ﬂuxes    near  and  below                consuming,    but  on  the  other   hand   it  is  odour-free,  less  haz- 
+more                                                                                   time 
+the                                                                                    ardous 
+      PCP  are  frequently  used  to  illuminate   speleothems     (Mulec   and                  for  users  and  produces  less  toxic  end  products   of  oxidation 
+      ˇ 
+Kubesová                                                                               reactions 
+              2010;  Mulec   et  al.  2008).  Different  emission    spectra   of                   (Faimon  et  al.  2003).  In  Postojna  Cave  this  approach  gave 
+                                                                                                                                                                    ˇ 
+LEDs,   such  as  those   generated    by  LED   Cool  and   LED   ygb,  stimu-        promising     results  in  controlling   lampenﬂora      (Mulec    and   Glazar 
+lated                                                                                  2011 
+        C. vulgaris                                                                          ). Hydrogen 
+                     to  synthesise  higher  levels  of  Chl  a  (Table  2).  These                          peroxide   solution   is  not  the  ultimate  solution  to 
+         a  very  complex   response    by  a  single  organism    to  different             lampenﬂora    because    it  is  an  unselective  oxidiser  and  also  kills 
+show                                                                                   kill 
+light quality                                                                          other biota 
+                 and  quantity.   Pigment    ratio  changes   and   alterations                        at  the  sites.  This  procedure  must   be  avoided    on  sur- 
+in                                                                                     faces 
+    photosynthetic     spectral  response    are  known    for  many  different                populated   by  cave  fauna.  Before   starting  with   application   of 
+algae as                                                                               this  solution 
+            chromatic  adaptation.    In  many  species   the  photosynthetic                           on  various   cave  surfaces,   cave   biologists  should    be 
+              of  Chl  a  is  low  under  certain  light  colours  (Govindjee  and                   to  establish  condition  and   eventual   presence    of  terres- 
+efﬁciency                                                                              consulted 
+Zilinskas Braun                                                                        trial cave 
+                     1974).                                                                         fauna.  The  adoption   of  remediation   step  should   be  based 
+        complex   lampenﬂora      communities      the  response   of  different            detailed  inventory  data  of  cave  fauna.  A  crucial  factor  in  spelobi- 
+    In                                                                                 on 
+organisms                                                                              ology 
+               to  light  conditions  can  be  very  complex.     Lampenﬂora                   is  risk  of  extinction  and  geographical   rarity  of  subterranean 
+algae                                                                                  fauna; 
+        are  usually  ubiquitous,   fast  reproducing,    and  very  adaptable                  furthermore     endemism      at  the  scale  of  a  single  site  is  not 
+soil                                                                                   exceptional 
+      algae  (Mulec    et  al.  2008).  From  the  aesthetic   perspective     at                      (Culver  and  Pipan   2009).  If  a  certain  place  still  has  to 
+       low  illuminance,     relatively  low   concentration     of  Chl  a  and            treated  and  cave  fauna  is  present,  one  potential  solution   would 
+very                                                                                   be 
+green-yellowish      appearance    of  biomass   due   to  high  concentration         be  picking   of  cave  fauna  from   such   site  and  its  deposition   on  an 
+    accessory   pigments     can  be  masked    to  the  visitor’s  eye  due  to                     site. 
+of                                                                                     untreated 
+physiological                                                                              Perhaps 
+                  eye  adaptation    of  scotopic   vision  when    maximum                           a  feasible  biotechnological     approach    could   be  devel- 
+sensitivity                                                                            oped 
+               moves   to  the  lower   wavelengths.     The  sensitivity   of  a              to  selectively  inactivate  phototrophic   organisms,    for  example 
+human                                                                                  by 
+           eye  changes  from   the  peak  sensitivity  in  the  yellow  part  of           triggering  the  shikimate    pathway     which    links  metabolism     of 
+the  spectrum    (555  nm)   during   photopic   vision,  i.e.  illumination  >  3     carbohydrates     to  biosynthesis     of  aromatic   compounds       in  plants 
+       to  a  peak  in  the  green  part  of  the  spectrum  (peak  ∼507  nm)  dur-          microorganisms      (Herrmann     and   Weaver    1999).   Any  biotech- 
+Lux,                                                                                   and 
+ing                                                                                    nological 
+      scotopic  vision  (Judd  and  Wyszecki   1975;  Sharpe   et  al.  2005;  Vos                  approach    in  sensitive   areas   should    be  very   carefully 
+1978                                                                                   considered. 
+      ).  The  available  quantity   of  photons   for  photosynthesis     does                        Eradication   of  phototrophic    bioﬁlms    by  exposition   to 
+      correspond    to  the  level  of  illumination  sensed    by  the  human                        UV-C   irradiance   is  not  a  proper  procedure    for  under- 
+not                                                                                    deleterious 
+eye.                                                                                   ground 
+       For  example,   in  our  case  the  same  quantity   of  photons   avail-                  habitats,  especially  for  places  populated  by  cave  animals   as 
+       for  photosynthesis   (PPFD)   gave  different  levels  of  illumination               recently  proposed   by  Borderie   and  co-workers     (Borderie   et  al. 
+able                                                                                   was 
+for                                                                                    2011 
+     all  three  lamps.  The  highest   illuminance    was   for  LED  ygb,  fol-            ). 
+          by  LED  Cool  and  Hal  (Table  1).  In  short,  at  low  illumination 
+lowed 
+a 
+   human    eye  is  more  sensitive  to  the  wavelengths    in  the  blue  and       Direct  tourist  inﬂuence  on  underground     habitats 
+green 
+         part  of  the  spectrum  (Fig.  3A). 
+    Results 
+               from  this  study  showed   that,  if  lampenﬂora   algae  are  in          Mass   tourism   affects  underground     habitats   in  very  pronounced 
+        condition  and  they   have  available   nutrients,  the  light  quality               including  air,  and  solid  surfaces  by  ﬁnger-   and  footprints   of 
+good                                                                                   ways 
+which   is  not  optimal  for  their  growth   will  only  slightly  slow  their       tourists.  Tourists  bring  and   spread  many    live  microorganisms      that 
+proliferation.                                                                         can 
+                  Before  installing  LEDs   in  the  underground,    selection              persist  in  the  cave  environment.   Regarding    the  proposed    esti- 
+    emission  spectra   that  resembles   natural  light  is  from  the  aspect  of              of  microbial  load  in  the  underground   (Mulec   et  al.  2012b)  in 
+of                                                                                     mators 
+                                                                                       ˇ 
+lampenﬂora                                                                             Skocjan 
+                 growth  less  important.   To  reduce   lampenﬂora     growth                    Caves  the  entrance  part  can  be  considered   highly  colonised 
+the                                                                                    by                                         2 
+      lighting  regime    should   be  very   restricted;   illuminated    sites            microbes    (≥10  001  CFU/100    cm   ).  Cave  walking    surfaces   had 
+          be  exposed    to  minimum      PPFDs    and  duration    of  lighting                           total  load  (1001–10    000  CFU/100    cm2 ).  Around    a 
+should                                                                                 lower-medium 
+should                                                                                 source 
+          be  as  short  as  possible.   Some    algae   like  C.  vulgaris  can                 of  faecal  contamination,     bat  guano,   indicators    for  faecal 
+                                                                                                                                                              ˇ 
+proliferate                                                                            bacteria 
+               in  the  absence  of  light  by  switching    to  heterotrophic                     were  elevated.  A  stalagmite  touched    by  tourists  in Skocjan 
+metabolism                                                                             Caves 
+                 and  even  ﬁx  CO2  heterotrophically    (Droop   1974;  Lloyd                 had  fewer  colonising   bacteria   than  an  untouched     one.  Pres- 
+         Raven   1974).  In  C.  vulgaris  light  at  425  nm  is  four  times  as            of  -haemolytic    S.  aureus  on  trails  and  boots  indicate  a  high 
+1974;                                                                                  ence 
+effective                                                                              level 
+            as  white  light  in  stimulating   heterotrophic    growth.    Fur-               of  introduction  of  this  microbe  into  the  underground,     but  its 
+thermore,                                                                              density 
+              the  respiration   of  this  organism    is  stimulated   by  low                   on  touched   surfaces  in  the  underground      seems   to  be  low 
+intensities                                                                            ( 
+               of  white  light  (Karlander  and  Krauss  1966).   Illuminated          Table  4).  Further   analysis  of  these  isolates   should   be  performed 
+spots                                                                                  because 
+        with  seeping    water   are  very  prone   to  lampenﬂora     growth,                    such   strains   acquire   fast  resistance   against    commonly 
+because                                                                                used 
+            some  of  these  organisms    prefer  water   habitats   instead   of             antibiotics  (e.g.  MRSA   –  methicillin-resistant     Staphylococcus 
+aerophytic                                                                             aureus, 
+               ones.  Another  alternative   approach    to  attenuate  growth                   Hiramatsu   et  al.  2001).  To  prevent  introduction   of  microbes 
+    phototrophic     organisms     could   be   application    of  green   light.             footprints,  a  disinfection  barrier   can  be  installed  outside   the 
+of                                                                                     with 
+Green                                                                                  cave. 
+         light  could  prevent  growth    of  lampenﬂora    phototrophs,     but               A  disinfection   barrier   should   consist   of  two   parts,  a  con- 
+       successfully  of  those  organisms     which   can   modify   accessory                  with  odour-free    disinfectant   where    solution   kills  microbes 
+less                                                                                   tainer 
+
+----------------------- Page 9-----------------------
+
+140                                                       J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141 
+
+and   germs,    and  the   second    part  an  ordinary    doormat     that   would         (lampenﬂora).       In  addition,   CO2   also   has  a  catalytic   role  in  some 
+remove                                                                                      biochemical 
+            residues  of  organic   and  other   material    from   soles  of  shoes.                         reactions  in  phototrophs,     for  example    biosynthesis     of 
+    In                                                                                      fatty 
+         a  large  karst  cave   system    such   as  Postojna     Cave,   dynamic                  acids  or  urea  assimilation    (Raven    1974). 
+                   atmospheric       conditions     are   reﬂected     in  airborne 
+underground 
+microbiota. 
+                 Natural  air  circulation   brings   microbes    into  the  under-         Conclusions 
+           through    natural   openings.    Human     presence     and  activities, 
+ground 
+especially    linked   to  mass   tourism    facilitate  the  spread   of  airborne             A  holistic   approach     to  management        and  monitoring      plans   for 
+microorganisms 
+                       in  caves.  Airborne    fungi   and   bacteria   have    been        underground       places   of  cultural   and   natural   importance      must    not 
+shown 
+           to  be  distributed   throughout      cave   networks     with   visitors        exclude    microbial     indicator   groups.    When     lampenﬂora       begins   to 
+having 
+           a  signiﬁcant    inﬂuence     on  the   type   and   concentration      of                visibly  in  the  underground,      changing     only  the   illumination 
+                                                                                            grow 
+      biological   aerosols   (Docampo       et  al.  2011;  Dredge    et  al.  2013; 
+the                                                                                         system 
+                                                                                                       will  not  prevent  its  expansion.    LED  lamps,   which    emit   light 
+Fernandez-Cortes        et  al.  2011;  Jurado  et  al.  2010;  Mulec  et  al.,  2012a;     of 
+                                                                                                natural  appearance      compared     to  frequently    used  halogen    lamps, 
+Porca 
+         et  al.  2011;  Wang   et  al.  2010,  2011).  The   situation    is  aggra-       over 
+                                                                                                    the  long  term   did   not  notably    reduce    growth    of  C.  vulgaris. 
+         in  small  caves  without    natural   air  circulation. 
+vated                                                                                                         to  prevent   bioﬁlm    expansion     is  an  important    step  to 
+                                                                                            Remediation 
+    Unexpectedly 
+                        high  basal  concentrations      of  airborne   bacteria   in       control 
+                                                                                                       phototrophic     bioﬁlms,    but  adequacy      of  application   of  15% 
+                                                         ˇ 
+the 
+      cave   atmosphere       on  22   July  2012    in  Skocjan    Caves    can   be       (v/v)  hydrogen     peroxide     for  underground       surfaces   should    be  dis- 
+attributed    to  extreme     weather     conditions     in  that  period,   a  sud-        cussed 
+                                                                                                       with  cave  biologists.  Because   visitors   introduce    and  disperse 
+den 
+       cold and 
+                   strong  Burja/Bora     wind.   Cold   Burja   with   strong   and        many    microorganisms        inside  underground       features   on  various   sur- 
+         winds  is  attributed  to  the  synoptic   scale  effects  upon   the  local 
+gusty                                                                                       faces 
+                                                                                                    and  in  the  air,  determination     of  tourist  carrying    capacity   for 
+ﬂow intensiﬁcation                                               ˇ 
+                           and  inland  cold  air  supply   (Jur cec  1981).  These                        underground     places   should   include   microbial    indicators. 
+                                                                                            individual 
+conditions 
+                very  likely  helped   to  create  an  air  pocket   with   concen-         Electric 
+                                                                                                        devices  that  produce    ultrasonic   noise   should   be  avoided    or 
+trated biological 
+                       particles   and  prevented      air  mixing   and   dilution.        equipped 
+                                                                                                          with  proper   insulation.    In  natural  environments       devices 
+         wind   can  be   very   strong,   especially    in  the  coastal   Adriatic 
+Burja                                                                                       which    alter  cave   climate   (temperature,      RH)   should    be  omitted    as 
+and  mountain 
+                     areas  where    hourly   mean     wind   speeds    frequently          well. 
+            20  m/s,  and  gusts  reach  up  to  50  or  even  70  m/s  what  resem- 
+surpass 
+bles 
+       hurricane    speeds.   Burja   wind    is  also  characteristic    by  a  very       Acknowledgements 
+dynamic 
+             transition  from   weak   to  moderate    to  strong  to  severe  ﬂows 
+(Grisogono     and   Belusic   2009).                                                                  study    was    supported      by   the   research     program      Karst 
+                                                                                                The 
+        is  advisable  to  include  tourist-derived     airborne   microbiota     for 
+    It                                                                                      Research 
+                                                                                                          P6-0119    funded    by  the  Slovenian     Research    Agency     and 
+calculating    the  tourist  carrying   capacity.   The  tourist  carrying   capac-         monitoring                                          ˇ 
+                                                                                                             plans  for  Postojna   Cave  and Skocjan      Caves.   The  author 
+     deﬁnes   the   maximum       intensity   of  visitation  in  a  given  interval 
+ity                                                                                         acknowledges 
+                                                                                                                Dragan    Abram,    Mihael    Bricelj,  Alexander     Chrapko, 
+of 
+     time  without   causing   irreversible    alterations   in  the  natural  envi-                                     ˇ                  ˇ 
+                                                                                                     Debevec   Gerjevic,   Stanislav   Glazar,   Andrej   Kozinc,   Janez  Mar- 
+                                                                                            Vanja 
+ronmental 
+                dynamics    including     environmental       seasonality     (Cigna        gon,                                                                       ˇ 
+                                                                                                   Andreea    Oarga,   Rick  Olson,   Slavko   Polak,  Mitja   Prelovsek,   Jaka 
+1993;                                                                                                             ˇ 
+          Huppert   et  al.  1993;  Lobo  et  al.  2013;  Mangin  et  al.  1999).  For                     Samo Sturm,     Rick  Toomey     and  Mateja    Zadel  for  ﬁeld  and 
+                                                                                            Raimondi, 
+example,     based   on  the  impact    of  air  temperature     in  the  Candamo           facility 
+                                                                                                       support.  The   author   acknowledges       Elizabeth    Covington     for 
+         cave  (Spain)  a  maximum      limit  of  32  people  was  established    at 
+show                                                                                                      assistance. 
+                                                                                            language 
+any 
+       time  in  the  cave  (Hoyos  et  al.  1998),  and  in  the  Cueva  de  agua  de 
+Iznalloz 
+            (Spain)  53  visitors  (Calaforra   et  al.  2003).  On  a  basis  of  CO2      References 
+                 and  temperature      ﬂuctuations,     some   spatial  restriction 
+distribution 
+in                                                                                          Adams,  W.  H.  D.  (1886).  Famous  caves  and  catacombs  described  and  illustrated.  Lon- 
+     show   caves   can  be  established     (Fernandez-Cortes        et  al.  2006a, 
+                                                                                                       T.  Nelson  &  Sons. 
+2006b).    Elevated    RH   as  a  consequence      of  visitation   can  also  lead            don: 
+                                                                                                     I.,  &  Baagoe,  H.  (1999).  Use  of  ultrasound  detectors  for  bat  studies  in  Europe: 
+                                                                                            Ahlen, 
+to 
+     condensation     corrosion    due   to  water   condensation      on  the   sur- 
+                                                                                                Experiences from 
+                                                                                                                    ﬁeld identiﬁcation, 
+                                                                                                                                         surveys  and  monitoring.  Acta  Chiroptero- 
+       of  speleothems    (Dreybrodt     et  al.  2005a;  Fernandez-Cortes      et  al. 
+face                                                                                                    1,  137–150. 
+                                                                                                logica, 
+2006c;                                                                                      Arbulla,  D.  (2011).  Grotta  gigante .  Trieste:  Italo  Svevo. 
+           Sánchez-Moral      et  al.  1999).  Besides    continuous      measure- 
+                                                                                            Bahn,  P.  G.  (2010).  Prehistoric  rock  art:  Polemics  and  progress:  The  2006  Rhind  lectures 
+ments 
+          of  temperature,    RH,   air  pressure,   CO2  and   physical    damage              for   the  Society  of  Antiquaries  of  Scotland.  Cambridge:  Cambridge  University  Press. 
+to 
+     speleothems    to  monitor   tourist  impact    (Lobo  et  al.  2013),  concen-        Bastian,  F.,  &  Alabouvette,  C.  (2009).  Lights  and  shadows  on  the  conservation  of  a 
+                                                                                                       art  cave:  The  case  of  Lascaux  Cave.  International  Journal   of  Speleology,  38, 
+           of  airborne  microbes   should   be  monitored     as  well.  The  upper            rock 
+tration 
+                                                                                                55–60. 
+limit  of  airborne    microorganisms         in  cave  air  is  not  deﬁned,    but 
+                                                                                                      F.,  Jurado,  V.,  Novakova,  A.,  Alabouvette,  C.,  &  Saiz-Jimenez,  C.  (2010).  The 
+                                                                                            Bastian, 
+                                                                                 3 
+one 
+       can  consider   the   recommended        limit  value   of  300  CFU/m      of           microbiology 
+                                                                                                                of  Lascaux  Cave.  Microbiology,  156,  644–652. 
+                                                                                            Borderie, 
+        microbial   counts   that  is  suggested   for  indoor   commercial      and                   F.,  Laurence,  A.  S.,  Naoufal,  R.,  Faisl,  B.,  Geneviève,  O.,  Dominique,  R.,  et  al. 
+total 
+                                                                                                         UV-C  irradiation  as  a  tool  to  eradicate  algae  in  caves.  International  Biode- 
+residential                                                                                     (2011). 
+                environments      (Robertson     1997).   Introducing     microbial 
+                                                                                                             and  Biodegradation,  65,  579–584. 
+                                                                                                terioration 
+indicators 
+               into  a  monitoring   plan  will  help  to  manage    tourist  visits,       Calaforra,  J.,  Fernandez-Cortes,  A.,  Sanchez-Martos,  F.,  Gisbert,  J.,  &  Pulido-Bosch, 
+
+                                                                                                    (2003).  Environmental  control  for  determining  human  impact  and  perma- 
+              maximum      number     of  tourists  and   frequency     of  visits,  in         A. 
+including 
+a                                                                                               nent  visitor  capacity  in  a  potential  show  cave  before  tourist  use.  Environmental 
+   more   sustainable     manner,     deﬁning    time   needed     to  restore   nat- 
+                                                                                                Conservation, 
+                                                                                                                30,  160–167. 
+ural 
+       conditions.    Exceeding     the   limit  value   for  airborne    microbes          Cigna, A. 
+                                                                                                       (1993).  Environmental  management    of  tourist  caves  –  The  examples  of 
+                                                                                                         di  Castellana  and  Grotta  Grande  del  Vento,  Italy.  Environmental  Geology, 
+represents                                                                                      Grotta 
+                not  only  a  biohazard   for  visitors,  but  also  inoculum    and 
+                                                                                                     173–180. 
+              for  deteriorating   bioﬁlms     that  may   form   on  cave   forma-             21, 
+nutrients 
+                                                                                            Culver,  D.  C.,  &  Pipan,  T.  (2009).  The  biology  of  caves  and  other  subterranean  habitats. 
+tions 
+        or  other  artefacts.   On  the  other   hand   this  aeroplankton      may                       Oxford  University  Press. 
+                                                                                                Oxford: 
+become 
+            a  signiﬁcant  and   constant   food   source   for  cave  biota  which         Docampo,   S.,  Trigo,  M.  M.,  Recio,  M.,  Melgar,  M.,  García-Sánchez,  J.,  &  Cabezudo,  B. 
+                                                                                                (2011). 
+is                                                                                                       Fungal  spore  content  of  the  atmosphere  of  the  Cave  of  Nerja  (southern 
+    adapted    to  generally    lower    levels  of  nutrient    input.  Increased 
+                                                                                                         Diversity  and  origin.  Science  of  the  Total  Environment,  409,  835–843. 
+                                                                                                Spain): 
+concentration 
+                    of  CO2  in  higher  tourist  season   (June,  July)  cannot   be                 J.,  Fairchild,  I.  J.,  Harrison,  R.  M.,  Fernandez-Cortesc,  A.,  Sanchez-Moralc, 
+                                                                                            Dredge, 
+simply 
+           attributed   to  the  presence    of  tourists  but  also  to  speleoge-             S., 
+                                                                                                    Jurado,  V.,  et  al.  (2013).  Cave  aerosols:  Distribution  and  contribution  to 
+                                                                                                              geochemistry.  Quaternary  Science  Reviews,  63,  23–41. 
+netic                                                                                           speleothem 
+        processes   (Dreybrodt     et  al.  2005b).  Elevated  concentrations      of                               ˇ 
+                                                                                            Dreybrodt, 
+CO2 due    to  tourists  and/or  in  combination     with   natural   atmospheric                        W.,  Grabrovsek,  F.,  &  Perne,  M.  (2005a).  Condensation  corrosion:  A  the- 
+                                                                                                oretical 
+                                                                                                          approach.  Acta  Carsologica,  34,  317–348. 
+conditions 
+                not  only  inﬂuence    natural   speleogenetic      processes,   but                               ˇ 
+                                                                                            Dreybrodt,  W.,  Gabrovsek,  F.,  &  Romanov,  D.  (2005b).  Processes  of  speleogenessis:  A 
+                                                                                                modeling 
+     show   caves   can   also  enhance      photosynthesis       of  green   plants                       approach.  Ljubljana:  ZRC  Publishing. 
+in 
+
+----------------------- Page 10-----------------------
+
+                                                                        J.   Mulec  /  Journal   for   Nature  Conservation  22  (2014)  132–141                                                                        141 
+
+Droop,   M.  R.  (1974).  Heterotrophy     of  carbon.  In  W.  D.  P.  Stewart  (Ed.),  Algal  physiology       Mulec,   J.,  &  Kosi,  G.  (2009).  Lampenﬂora   algae  and  methods     of  growth   control.  Journal 
+     and   biochemistry    (pp.  530–559).    Oxford:    Blackwell    Scientiﬁc   Publications.                          Cave 
+                                                                                                                                 and  Karst  Studies,  71,  109–115. 
+                                                                                                                      of 
+               ˇ 
+                                 ˇ                                                                                                     ˇ 
+Faimon,    J., Stelcl,  J.,  Kubesová,   S.,  &  Zímak,  J.  (2003).  Environmentally       acceptable           Mulec,   J.,  &  Kubesová,   S.  (2010).  Diversity   of  bryophytes     in  show   caves   in  Slovenia 
+     effect  of  hydrogen     peroxide    on  cave  lamp-ﬂora,     calcite  speleothems      and   lime-                     relation  to  light  intensities.  Acta  Carsologica,  39,  587–596. 
+                                                                                                                      and 
+                                                                                                                                                   ˇ 
+                Environmental     Pollution,  122,  417–422.                                                     Mulec,   J.,  Kosi,  G.,  &  Vrhovsek,  D.  (2008).  Characterization      of  cave  aerophytic     algal 
+     stones. 
+Feller,  W.  (1950).   An   introduction    to  the  probability  theory   and   its  application.  New                                  and  effects  of  irradiance  levels  on  production    of  pigments.   Journal 
+                                                                                                                      communities 
+              John  Wiley   and  Sons.                                                                                    Cave  and  Karst  Studies,  70,  3–12. 
+     York:                                                                                                            of 
+Fernandez-Cortes,        A.,  Calaforra,                                                                                                ˇ 
+                                           J.,  &  Sanchez-Martos,     F.  (2006a).   Spatiotemporal             Mulec,   J.,  Vaupotic,  J.,  &  Walochnik,   J.  (2012a).  Prokaryotic    and  eukaryotic     airborne 
+                 of  air  conditions  as  a  tool  for  the  environmental  management        of  a  show 
+     analysis                                                                                                         microorganisms        as  tracers  of  microclimatic     changes    in  the  underground      (Pos- 
+     cave 
+             (Cueva  del  Agua Spain).                                                                                tojna   Cave Slovenia). 
+                                            Atmospheric   Environment,      40,  7378–7394.                                                        Microbial  Ecology,   64,  654–667. 
+                                                                                                                                 ˇ  ˚                   ˇ 
+Fernandez-Cortes,        A.,  Calaforra,    J.,  Jimenez-Espinosa,       R.,  &  Sanchez-Martos,        F.       Mulec,   J.,  Kristufek,  V.,  &  Chronaková,    A.  (2012b).   Comparative      microbial    sampling 
+     (2006b).  Geostatistical                                                                                         from                                                                         ® 
+                                    spatiotemporal      analysis    of  air  temperature                                      eutrophic    caves   in  Slovenia 
+                                                                                              as  an  aid                                                           and  Slovakia    using   RIDA    COUNT     test  kits. 
+          delineating   thermal     stability  zones    in  a  potential  show    cave:   Implications                                  Journal   of  Speleology,  41,  1–8. 
+     to                                                                                                               International 
+           environmental       management. Journal                                                               Porca, E., 
+     for                                                     of  Environmental      Management,                               Jurado,  V.,  Martin-Sanchez, P., 
+                                                                                                      81,                                                           Hermosin,   B.,  Bastian,  F.,  Alabouvette,  C.,  et  al. 
+                                                                                                                                 Aerobiology:    An   ecological   indicator    for  early  detection   and   control   of 
+     371–383.                                                                                                         (2011). 
+Fernandez-Cortes, A., 
+                             Calaforra,  J.,  Sanchez-Martos, F.,                                                               outbreaks   in caves. 
+                                                                       & Gisbert,                                     fungal                             Ecological Indicators, 
+                                                                                     J.  (2006c).  Micro-                                                                           11,  1594–1598. 
+                 processes   characterization     of  the  giant  Geode   of  Pulpi  (Almeria    Spain):         Raven,   J.  A.  (1974).  Carbon  dioxide   ﬁxation.   In  W.  D.  P.  Stewart  (Ed.),  Algal  physiology 
+     climate 
+                   criteria   for  conservation.                                                                            biochemistry 
+     Technical                                        International    Journal   of  Climatology,                     and                    (pp.  434–455). 
+                                                                                                      26,                                                        Oxford: Blackwell 
+                                                                                                                                                                                        Scientiﬁc  Publications. 
+     691–706.                                                                                                    Robertson,     L.  D.  (1997).  Monitoring    viable   fungal   and  bacterial   bioaerosol    concen- 
+Fernandez-Cortes, 
+                         A.,  Cuezva,  S.,  Sanchez-Moral,     S.,  Canaveras,   J.,  Porca,  E.,  Jurado,            trations   to  identify  acceptable    levels   for  common     indoor   environments.       Indoor 
+          et  al.  (2011).  Detection   of  human-induced       environmental       disturbances     in  a 
+     V.,                                                                                                              and 
+                                                                                                                             Built  Environment,   6,  295–300. 
+              cave.  Environmental     Science  and   Pollution  Research,    18,  1037–1045. 
+     show                                                                                                        Roldán,    M.,  &  Hernández-Mariné,         M.   (2009).   Exploring    the   secrets   of  the  three- 
+Fong,   D.  W.  (2011).  Management       of  subterranean    fauna  in  karst.  In  P.  E.  van,  &  Beynen          dimensional architecture 
+                                                                                                                                                        of phototrophic 
+                                                                                                                                                                            bioﬁlms in 
+                                                                                                                                                                                          caves.  International  Journal 
+     (Eds.),  Karst  management       (pp.  201–224).    Dordrecht:     Springer.                                         Speleology,  38,  41–53. 
+                                                                                                                      of 
+Fowler,    R.  (2011).  Development        of  a  speciﬁc   quantitative    real-time    PCR   assay   to        Roldán,    M.,  Oliva,   F.,  Gónzalez    Del  Valle,   M.  A.,  Saiz-Jimenez,     C.,  &  Hernández- 
+                  Chlorella  DNA:   A  case  study   from   Mammoth       Cave   National    Park,  Ken- 
+     monitor                                                                                                                      M.  (2006).  Does   green   light  inﬂuence     the  ﬂuorescence      properties    and 
+                                                                                                                      Mariné, 
+               USA.  Acta  Carsologica,   40,  381–390. 
+     tucky,                                                                                                           structure of 
+                                                                                                                                       phototrophic bioﬁlms? 
+                                                                                                                                                                     Applied  and Environmental 
+                                                                                                                                                                                                       Microbiology,   72, 
+Govindjee,                                                                                                            3026–3031. 
+                &  Zilinskas  Braun,   B.  (1974).  Light  absorption,     emission    and   photosyn- 
+     thesis.  In  W.  D.  P.  Stewart  (Ed.),  Algal  physiology  and  biochemistry    (pp.  346–390).           Römer,    H.  (1998).   The  sensory    ecology    of  acoustic  communication        in  insects.  In  R. 
+     Oxford:    Blackwell    Scientiﬁc   Publications.                                                                     Hoy,  A.  N.  Popper,  &  R.  R.  Fay  (Eds.),  Comparative  hearing:  Insects  (pp.  63–96). 
+                                                                                                                      R. 
+                B.,  &  Belusic,  D.  (2009).  A  review  of  recent   advances     in  understanding 
+Grisogono,                                                                                                                    York:  Springer. 
+                                                                                                                      New 
+          meso-                                                                                                  Saiz-Jimenez, 
+     the            and  microscale    properties     of  the  severe  Bora   wind.   Tellus  Series  A  –                          C.,  Cuezva,  S.,  Jurado,  V.,  Fernandez-Cortes,   A.,  Porca,  E.,  Benavente,  D., 
+     Dynamic     Meteorology     and  Oceanography,      61,  1–16.                                                   et  al.  (2011).  Paleolithic  art  in  peril:  Policy  and  science  collide  at  Altamira   Cave. 
+                 J.  U.  (2000).  Lithophytic  algae:  A  major   threat  to  the  karst  formation    of                         333,  42–43. 
+Grobbelaar,                                                                                                           Science, 
+                                                                                                                                                        ˜ 
+     show    caves.  Journal   of  Applied  Phycology,    12,  309–315.                                          Sánchez-Moral,       S.,  Soler,  V.,  Canaveras,  J.  C.,  Sanz-Rubio,  E.,  van  Grieken,  R.,  &  Gysels, 
+Herrmann,                                                                                                             K. 
+                K., &                                                                                                      (1999). Inorganic 
+                       Weaver,   L.  (1999).  The  shikimate     pathway.    Annual    Review   of  Plant                                         deterioration   affecting   the  Altamira    Cave,   N  Spain:   Quan- 
+                    and  Plant  Molecular   Biology,   50,  473–503.                                                             approach    to  wall-corrosion      (solutional   etching)    processes    induced    by 
+     Physiology                                                                                                       titative 
+Hiramatsu,     K.,  Cui,  L.,  Kuroda,  M.,  &  Ito,  T.  (2001).  The  emergence    and  evolution    of                         Science  of  the  Total  Environment,   243–244,    67–84. 
+                                                                                                                      visitors. 
+                                 Staphylococcus     aureus.  Trends   in  Microbiology,   9,  486–493.           Sharpe,   L.,  Stockman,   A.,  Jagla,  W.,  &  Jagle,  H.  (2005).  A  luminous  efﬁciency   function, 
+     methicillin-resistant 
+Hoyos,    M.,                                                                                                         V*(lambda), for 
+                Soler,  V.,  Canaveras,     J.,  Sanchez-Moral,      S.,  &  Sanz-Rubio,     E.  (1998).                                    daylight  adaptation.   Journal   of  Vision,  5,  948–968. 
+     Microclimatic      characterization      of  a  karstic  cave:   human     impact    on  microen-           Simon,    K.,  Pipan,  T.,  &  Culver,  D.  (2007).  A  conceptual   model    of  the  ﬂow  and   distri- 
+                       parameters    of  a  prehistoric  rock  art  cave  (Candamo     Cave,  northern                           of  organic  carbon  in  caves.  Journal   of  Cave  and  Karst  Studies,  69,  279–284. 
+     vironmental                                                                                                      bution 
+     Spain).   Environmental      Geology,   33,  231–242.                                                       Smith,   T.,  &  Olson,  R.  (2007).  A  taxonomic   survey   of  lamp  ﬂora  (Algae   and  Cyanobac- 
+Huppert,                                                                                                              teria) 
+              G., Burri,                                                                                                       in electrically 
+                          E.,  Forti,  P.,  &  Cigna,  A.  (1993).  Effect  of  tourist  development  on                                         lit  passages  within  Mammoth      Cave   National   Park,  Kentucky. 
+             and                                                                                                                      Journal 
+                    karst.  Catena  Special  Supplement,    25,  251–268.                                                                         of  Speleology,  36,  105–114. 
+     caves                                                                                                            International 
+Judd,   D.  B.,  &  Wyszecki,  G.  (1975).  Color  in  business,  science  and   industry.  New    York:         Stevenson,     R.  J.,  Bothwell,  M.  L.,  &  Lowe,  R.  L.  (1996).  Algal  ecology:  Freshwater  benthic 
+     Wiley.                                                                                                           ecosystems.    San   Diego:  Academic      Press. 
+Jurado, V.,                                                                                                      Vos,  J.                                                                               ◦ 
+              Fernandez-Cortes,                                                                                           J. 
+                                       A.,  Cuezva,  S.,  Laiz,  L.,  Canaveras,  J.,  Sanchez-Moral,  S.,                    (1978).   Colorimetric      and   photometric      properties    of  a  2   fundamental 
+         al.                                                                                                                       Color 
+     et      (2009).  The   fungal  colonisation     of  rock-art  caves:   Experimental      evidence.               observer.            Research  and  Application ,   3,  125–128. 
+                                                                                                                 Wang, 
+                                 96,  1027–1034.                                                                           W.,  Ma,  Y.,  Ma,  X.,  Wu,  F.,  Ma,  X.,  An,  L.,  et  al.  (2010).  Seasonal  variations  of 
+     Naturwissenschaften, 
+Jurado,   V.,  Porca,   E.,  Cuezva,   S.,  Fernandez-Cortes,      A.,  Sanchez-Moral,      S.,  &  Saiz-                          bacteria  in  the  Mogao   Grottoes,    Dunhuang,     China.   International    Biode- 
+                                                                                                                      airborne 
+     Jimenez,     C.                                                                                                  terioration & 
+                      (2010).    Fungal    outbreak     in  a  show     cave.  Science    of  the   Total                               Biodegradation,    64,  309–315. 
+                                                                                                                 Wang, 
+                        408,  3632–3638.                                                                                   W.,  Ma,  X.,  Ma,  Y.,  Mao,  L.,  Wu,  F.,  Ma,  X.,  et  al.  (2011).  Molecular   charac- 
+     Environment, 
+    ˇ 
+Jur cec,  V.  (1981).  On  mesoscale    characteristic    of  Bora  conditions    in  Yugoslavia.   Pure              terization    of  airborne   fungi  in  caves  of  the  Mogao    Grottoes,    Dunhuang,      China. 
+            Applied  Geophysics,    119,  640–657. 
+     and                                                                                                              International 
+                                                                                                                                        Biodeterioration    &  Biodegradation,    65,  726–731. 
+Karlander,     E.  P.,  &  Krauss,  R.  W.  (1966).    Responses     of  heterotrophic      cultures   of        Warren, 
+                                                                                                                              A.,  Day,  J.  G.,  &  Brown,  S.  (1997).  Cultivation  of  algae  and  protozoa.   In  C.  J. 
+                  vulgaris  Beyerinck     to  darknes    and   light,  II.  Action  spectrum    for  and 
+     Chlorella                                                                                                        Hurst,   G.  R.  Knudsen,   M.  J.  McInerney,    L.  D.  Stetzenbach,   &  M.  V.  Walter   (Eds.), 
+     mechanism       of  the  light  requirement    for  heterotrophic    growth.    Plant  Physiology,                           of  environmental   microbiology.    Washington,      DC:  ASM    Press. 
+                                                                                                                      Manual 
+           7–14. 
+     41,                                                                                                         Wellburn,    A.  R.  (1994).  The  spectral  determination      of  chlorophylls    a  and  b,  as  well  as 
+Lloyd,  D. 
+              (1974).  Dark   respiration.    In  W.  D.  P.  Stewart   (Ed.),  Algal  physiology    and                      carotenoids    using   various   solvents   with   spectrophotometers         of  different 
+                                                                                                                      total 
+                       (pp.  505–529).   Oxford:    Blackwell    Scientiﬁc   Publications.                                            Journal   of  Plant  Physiology,  144,  307–313. 
+     biochemistry                                                                                                     resolution. 
+Lobo,   H.  A.  S.,  Trajano,  E.,  Marinho,  M.  A.,  Bichuette,  M.  E.,  Scaleante,  J.  A.  B.,  Scaleante,  Wetzel,    R.,  &  Likens,  G.  (1995).  Limnological   analyses.   New   York:   Springer. 
+     O.  A.  F.,  et  al.  (2013).  Projection  of  tourist  scenarios  onto  fragility  maps:   Frame-          Williams,    P.  W.  (2011).  In  P.  E.  van  Beynen  (Ed.),  Karst  in  UNESCO  world  heritage   sites. 
+              for  determination     of  provisional    tourist  carrying    capacity    in  a  Brazilian 
+     work                                                                                                             Karst  management 
+                                                                                                                                                (pp.  459–480).    Dordrecht,     Heidelberg,    London,     New    York: 
+              cave.  Tourism   Management,      35,  234–243. 
+     show                                                                                                             Springer. 
+                                    
+Mangin,    A.,  Burgues,   F.,  &  D Hulst,  D.  (1999).  La  conservation   des  grottes   ornées:   un         Yun, 
+                                                                                                                         Y.  S.,  &  Park,  J.  M.  (2001).  Attenuation  of  monochromatic       and   polychromatic 
+                                                             
+     problem     de  stabilité  d un  système    natural   (l exemple    de  la  grotte  préhistorique                         in  Chlorella  vulgaris  suspensions.    Applied   Microbiology     and   Biotechnology, 
+                                                                                                                      lights 
+          Gargas,   Pyrénées     francaises).   Comptes      Rendus    Royale    Académie      Sciences 
+     de                                                                                                                     765–770. 
+                                                                                                                      55, 
+              Sciences  de  la  terre  et  des  planets,  328,  295–301. 
+     Paris.                                                                                                      Zammit, G., 
+                                                                                                                                  Sanchez-Moral,     S.,  &  Albertano,   P.  (2011).  Bacterially   mediated     miner- 
+Mulec,   J.  (2012).  Lampenﬂora.      In  W.  B.  White,   &  D.  C.  Culver  (Eds.),  Encyclopedia   of                          processes   lead  to  biodeterioration      of  artworks   in  Maltese   catacombs. 
+                                                                                                                      alisation 
+              (pp.  451–456).   Amsterdam:       Elsevier. 
+     caves                                                                                                            Science 
+                                                                                                                                 of  the  Total  Environment,  409,  2773–2782. 
+                   ˇ 
+Mulec,   J.,  &  Glazar,  S.  (2011).  First  results  on  use  of  a  hydrogen  peroxide   solution   in        Ziegert,   H.  (2002).  Archaeology      as  history.  Books  on  Demand      GmbH,    Hamburg     [i.  e.] 
+     Postojnska                                                                               ˇ 
+                     jama (Slovenia) 
+                                         to  remove   lampenﬂora.      In  P.  Bella,  &  P.  Gazík  (Eds.),          Norderstedt. 
+                      (pp.  128–131).   Demänovska       Valley:   Slovak   Caves   Administration. 
+     Proceedings 
