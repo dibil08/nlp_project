@@ -1,0 +1,29 @@
+Proposed methodology:
+
+        1. Datasets collection & description (other relationship/ontology building datasets).
+
+                - finding similar/same semantic relations to Karstology in other datasets
+
+        2. Definition of clear evaluation setups for your work, for example:
+
+                - training/fine-tuning on other datasets, testing on karstology
+
+                - using an English model only
+
+                - using a multilingual model for zero-shot transfer learning (e.g., English -> Slovene)
+
+                - definition of manual rules/feature extractors (together with UL FF) for traditional methods usage
+
+                - evaluation of a model fine-tuned on Karstology on a new corpus (prepared by UL FF)
+
+        3. Identification tools (papers with runnable repositories) that you can use for your evaluation setups.
+
+        4. Analysis setup and running, preparing results, for example:
+
+                - reporting on scores for selected evaluation setups (choose correct measures)
+
+                - qualitative analysis of results (UL FF)
+
+                - changing parameters, using different setups/models to provide comparison tables
+
+	5. Writing a final report + additional tests if needed (reserve one week for doing this).

@@ -1,0 +1,6 @@
+https://github.com/vpodpecan/webanno2csv
+https://github.com/neuged/webanno_tsv
+https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets#traditional-information-extraction
+https://github.com/vpodpecan/reldi-tokeniser
+
+https://drive.google.com/drive/folders/17LF5gKGX-bgBL9NAa037pum4-i7gpqhm
