@@ -1,0 +1,16 @@
+[0] Vintar Š., Saksida A., Vrtovec K., Stepišnik U.: Modelling Specialized Knowledge With Conceptual Frames: The TermFrame Approach to a Structured Visual Domain Representation (2019)
+[1] Mikolov, Chen, Corrado, Dean: Efficient Estimation of Word Representations in Vector Space (2013)
+[2] Yuhao Zhang, Victor Zhong, Danqi Chen, Gabor Angeli, and Christopher D. Manning. Position aware attention and supervised data improve slot filling (2017)
+[3] Yao, Yuan, Deming Ye, Peng Li, Xu Han, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Lixin Huang, Jie Zhou, and Maosong Sun. DocRED: A large-scale document-level relation extraction dataset. (2019)
+[4] Liu, K. A survey on neural relation extraction. (2020)
+[5] Li, X., Yin, F., Sun, Z., Li, X., Yuan, A., Chai, D., ... & Li, J. Entity-relation extraction as multi-turn question answering (2019)
+[6] Christensen, J., Soderland, S., & Etzioni, O. An analysis of open information extraction based on semantic role labeling (2011)
+[7] Guo, J., Che, W., Wang, H., Liu, T., & Xu, J. A unified architecture for semantic role labeling and relation classification (2016)
+[8] Shi, P., & Lin, J. Simple bert models for relation extraction and semantic role labeling. (2019)
+[9] Mandya, A., Bollegala, D., Coenen, F., & Atkinson, K. Frame-based semantic patterns for relation extraction. (2017)
+
+http://nlpprogress.com/english/relationship_extraction.html
+https://www.ldc.upenn.edu/collaborations/past-projects/ace
+https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets#traditional-information-extraction
+https://paperswithcode.com/task/relation-extraction
+

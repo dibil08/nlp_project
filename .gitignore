@@ -132,3 +132,4 @@ dmypy.json
 dataset/ONJ-KiL Projects 2022/
 
 karst/*.zip
+karst/*/
