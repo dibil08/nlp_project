@@ -1,0 +1,12 @@
+{
+    "lemmas": 42546,
+    "examples": 350,
+    "synonyms": 70949,
+    "definitions": 3177,
+    "POS": {
+        "noun": 51205,
+        "verb": 13766,
+        "adjective": 12356,
+        "adverb": 961
+    }
+}
