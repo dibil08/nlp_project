@@ -16,6 +16,12 @@ EN
    "STUDIES": 85,
    "OCCURS_IN_TIME": 158
 }
+{
+   "DEFINIENDUM": 1245,
+   "DEFINITOR": 642,
+   "GENUS": 1080,
+   "SPECIES": 146
+}
 HR
 {
    "AFFECTS": 16,
@@ -34,6 +40,12 @@ HR
    "STUDIES": 126,
    "OCCURS_IN_TIME": 99
 }
+{
+   "DEFINIENDUM": 1078,
+   "DEFINITOR": 46,
+   "GENUS": 922,
+   "SPECIES": 270
+}
 SL
 {
    "AFFECTS": 4,
@@ -51,4 +63,10 @@ SL
    "HAS_SIZE": 406,
    "STUDIES": 198,
    "OCCURS_IN_TIME": 265
+}
+{
+   "DEFINIENDUM": 1519,
+   "DEFINITOR": 365,
+   "GENUS": 998,
+   "SPECIES": 203
 }
