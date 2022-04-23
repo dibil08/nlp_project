@@ -18,7 +18,9 @@ class KarstInspector:
         "HAS_RESULT", 
         "HAS_SIZE", 
         "STUDIES", 
-        "OCCURS_IN_TIME"]
+        "OCCURS_IN_TIME",
+        "OCCURS_IN_MEDIUM",
+        "COMPOSED_OF"]
 
     definitionElements = [
         "DEFINIENDUM",
@@ -72,6 +74,8 @@ class KarstInspector:
                     "definitionElements": {}}
 
             self.exploreLanguage(language)
+            self.count[language]["semanticRelations"] = self.sortDict(self.count[language]["semanticRelations"])
+            self.count[language]["definitionElements"] = self.sortDict(self.count[language]["definitionElements"])
 
     def exploreLanguage(self, language):
         path = self.path + "/" + language
@@ -105,14 +109,14 @@ class KarstInspector:
                     for relation in self.semanticRelations:
                         if part.find(relation) != -1:
                             number = part[len(relation)+1:-1]
-                            if number not in self.index:
+                            if number not in self.index[language][filename]:
                                 self.count[language]["semanticRelations"][relation] += 1
                                 self.index[language][filename].append(number)
 
                     for element in self.definitionElements:
                         if part.find(element) != -1:
                             number = part[len(relation)+1:-1]
-                            if number not in self.index:
+                            if number not in self.index[language][filename]:
                                 self.count[language]["definitionElements"][element] += 1
                                 self.index[language][filename].append(number)
 
@@ -122,13 +126,20 @@ class KarstInspector:
             form[relation] = 0
         return form
 
+    def sortDict(self, dictionary):
+        sorted_dict = {}
+        sorted_keys = sorted(dictionary, key=dictionary.get, reverse=True)
+        for key in sorted_keys:
+            sorted_dict[key] = dictionary[key]  
+        return sorted_dict
+
 if __name__ == "__main__":
 
     path = ""
     if len(sys.argv) == 2:
         path = sys.argv[1]
     else:
-        path = "KarstAnnotatedDefinitions/"
+        path = "../datasets/karstAnnotatedDefinitions"
 
     sri = KarstInspector(path)
     sri.inspect()
