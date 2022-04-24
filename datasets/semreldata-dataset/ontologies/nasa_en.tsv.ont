@@ -1,0 +1,16 @@
+images	Hyponym	Data
+icecap	Holonym	ice
+ice	Meronym	icecap
+Data	Hypernym	images
+wind	Hyponym	weather factors
+weather factors	Hypernym	wind
+icecap	Holonym	water
+water	Meronym	icecap
+perennial ice	Co-Hyponym	seasonal ' ice
+seasonal ' ice	Co-Hyponym	perennial ice
+icecap	Holonym	ice
+ice	Meronym	icecap
+reduction	Hyponym	changes
+changes	Hypernym	reduction
+researcher	Synonym	scientist
+scientist	Synonym	researcher

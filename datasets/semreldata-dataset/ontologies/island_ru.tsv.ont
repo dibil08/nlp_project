@@ -1,0 +1,14 @@
+движение	Hyponym	активность
+активность	Hypernym	движение
+активность	Hypernym	извержение
+извержение	Hyponym	активность
+вулкана	Co-Hyponym	ледником
+ледником	Co-Hyponym	вулкана
+человек	Hypernym	жители
+жители	Hyponym	человек
+извержении	Holonym	пепла
+пепла	Meronym	извержении
+двигателей	Meronym	самолётов
+самолётов	Holonym	двигателей
+пепла	Co-Hyponym	пыли
+пыли	Co-Hyponym	пепла

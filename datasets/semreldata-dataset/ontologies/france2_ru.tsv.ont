@@ -1,0 +1,10 @@
+кольцо	Hypernym	перстенек
+безыменном пальце	Meronym	руки
+руки	Holonym	безыменном пальце
+руки	Co-Hyponym	глаз
+перстенек	Hyponym	кольцо
+глаз	Co-Hyponym	руки
+дверь	Meronym	квартиры
+квартиры	Holonym	дверь
+лестнице	Co-Hyponym	окно
+окно	Co-Hyponym	лестнице

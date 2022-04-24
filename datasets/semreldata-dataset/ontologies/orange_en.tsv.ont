@@ -1,0 +1,60 @@
+orange	Hypernym	sweet orange
+orange	Hyponym	citrus species
+orange	Hyponym	fruit
+sweet orange	Hyponym	orange
+sweet orange	Hyponym	citrus species
+sweet orange	Hyponym	fruit
+orange	Hyponym	fruit
+fruit	Hypernym	orange
+fruit	Hypernym	sweet orange
+fruit	Hypernym	orange
+citrus species	Hypernym	orange
+citrus species	Hypernym	sweet orange
+sweet orange	Holonym	pomelo
+sweet orange	Holonym	mandarin
+sweet orange	Hyponym	orange
+fruit	Hypernym	bitter orange
+fruit	Hypernym	pomelo
+fruit	Hypernym	mandarin
+bitter orange	Holonym	pomelo
+bitter orange	Holonym	mandarin
+bitter orange	Hyponym	fruit
+bitter orange	Hyponym	orange
+orange	Hypernym	sweet orange
+orange	Hypernym	bitter orange
+orange	Holonym	pomelo
+orange	Holonym	mandarin
+orange	Hyponym	hybrid
+hybrid	Hypernym	orange
+pomelo	Hyponym	fruit
+pomelo	Meronym	orange
+pomelo	Meronym	sweet orange
+pomelo	Meronym	bitter orange
+mandarin	Hyponym	fruit
+mandarin	Meronym	orange
+mandarin	Meronym	sweet orange
+mandarin	Meronym	bitter orange
+orange trees	Hyponym	fruit tree
+fruit tree	Hypernym	orange trees
+Orange trees	Holonym	fruit
+fruit	Meronym	Orange trees
+fruit	Hypernym	oranges
+fruit	Meronym	orange tree
+orange tree	Holonym	fruit
+orange tree	Holonym	oranges
+orange tree	Holonym	sweet oranges
+juice	Meronym	oranges
+juice	Meronym	sweet oranges
+peel	Meronym	oranges
+peel	Meronym	sweet oranges
+sweet oranges	Holonym	juice
+sweet oranges	Holonym	peel
+sweet oranges	Hyponym	oranges
+sweet oranges	Meronym	orange tree
+citrus production	Hyponym	production
+oranges	Hypernym	sweet oranges
+oranges	Holonym	juice
+oranges	Holonym	peel
+oranges	Hyponym	fruit
+oranges	Meronym	orange tree
+production	Hypernym	citrus production

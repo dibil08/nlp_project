@@ -1,0 +1,44 @@
+thorax	Synonym	chest
+thorax	Meronym	animals
+thorax	Meronym	humans
+chest	Synonym	thorax
+chest	Meronym	animals
+chest	Meronym	humans
+humans	Holonym	thorax
+humans	Holonym	neck
+humans	Holonym	abdomen
+humans	Holonym	chest
+humans	Hyponym	animals
+animals	Hypernym	humans
+animals	Holonym	thorax
+animals	Holonym	neck
+animals	Holonym	abdomen
+animals	Holonym	chest
+neck	Meronym	animals
+neck	Meronym	humans
+abdomen	Meronym	animals
+abdomen	Meronym	humans
+thorax	Synonym	chest
+thorax	Holonym	thoracic cavity
+thorax	Holonym	thoracic wall
+thorax	Holonym	muscles
+thoracic cavity	Meronym	thorax
+thoracic cavity	Meronym	chest
+thoracic wall	Meronym	thorax
+thoracic wall	Meronym	chest
+organs	Hypernym	heart
+organs	Hypernym	lungs
+organs	Hypernym	thymus gland
+heart	Hyponym	organs
+lungs	Hyponym	organs
+thymus gland	Hyponym	organs
+muscles	Hyponym	structures
+muscles	Meronym	thorax
+muscles	Meronym	chest
+structures	Hypernym	muscles
+chest	Synonym	thorax
+chest	Holonym	thoracic cavity
+chest	Holonym	thoracic wall
+chest	Holonym	muscles
+symptoms	Hypernym	chest pain
+chest pain	Hyponym	symptoms

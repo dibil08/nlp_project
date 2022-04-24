@@ -1,0 +1,12 @@
+Spiel	Hypernym	Endspiel
+Sieg	Synonym	Triumph
+Fußballnationalmannschaft	Hyponym	Team
+Team	Hypernym	Fußballnationalmannschaft
+Triumph	Synonym	Sieg
+Endspiel	Hyponym	Spiel
+Oktopus	Hyponym	Meeresbewohner
+Meeresbewohner	Hypernym	Oktopus
+Voraussage	Synonym	Prognosen
+Aquarium	Hyponym	Behälter
+Behälter	Hypernym	Aquarium
+Prognosen	Synonym	Voraussage

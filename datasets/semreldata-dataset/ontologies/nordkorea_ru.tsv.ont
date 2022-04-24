@@ -1,0 +1,6 @@
+державой	Synonym	стран
+заявление	Co-Hyponym	объявление
+объявление	Co-Hyponym	заявление
+стран	Synonym	державой
+бомбы	Hyponym	оружия
+оружия	Hypernym	бомбы

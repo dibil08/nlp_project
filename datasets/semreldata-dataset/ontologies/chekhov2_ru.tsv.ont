@@ -1,0 +1,12 @@
+барьер	Hypernym	стену
+ложе	Co-Hyponym	ярус
+ярус	Co-Hyponym	ложе
+стену	Hyponym	барьер
+руки	Co-Hyponym	лица
+лица	Co-Hyponym	руки
+клеем	Co-Hyponym	лаком
+лаком	Co-Hyponym	клеем
+человека	Hypernym	столяра
+столяра	Hyponym	человека
+комнатку	Holonym	обоями
+обоями	Meronym	комнатку

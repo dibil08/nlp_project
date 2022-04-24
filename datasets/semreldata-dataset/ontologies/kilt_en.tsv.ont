@@ -1,0 +1,34 @@
+kilt	Holonym	pleats
+kilt	Holonym	rear
+kilt	Holonym	cloth
+kilt	Hyponym	garment
+garment	Hypernym	kilt
+garment	Hypernym	dress
+garment	Holonym	rear
+garment	Holonym	cloth
+pleats	Meronym	kilt
+rear	Meronym	garment
+rear	Meronym	kilt
+rear	Meronym	dress
+dress	Holonym	rear
+dress	Holonym	cloth
+dress	Hyponym	garment
+men	Co-Hyponym	boys
+boys	Co-Hyponym	men
+culture	Hyponym	heritage
+heritage	Hypernym	culture
+cloth	Meronym	garment
+cloth	Meronym	kilt
+cloth	Meronym	dress
+kilt	Hyponym	clothing
+kilt	Hyponym	garment
+occasions	Hypernym	sports events
+sports events	Hyponym	occasions
+item	Hypernym	clothing
+item	Hypernym	garment
+clothing	Hypernym	kilt
+clothing	Synonym	garment
+clothing	Hyponym	item
+garment	Hypernym	kilt
+garment	Synonym	clothing
+garment	Hyponym	item

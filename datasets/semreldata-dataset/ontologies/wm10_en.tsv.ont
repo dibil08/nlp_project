@@ -1,0 +1,48 @@
+yellow cards	Co-Hyponym	red card
+red card	Co-Hyponym	yellow cards
+win	Synonym	victory
+victory	Synonym	win
+championship	Holonym	finals
+champion	Synonym	victors
+victors	Synonym	champion
+finals	Meronym	championship
+match	Synonym	game
+match	Holonym	regulation time
+regulation time	Meronym	match
+regulation time	Meronym	game
+match	Synonym	game
+match	Holonym	first half
+match	Holonym	second half
+match	Holonym	extra time
+coach	Co-Hyponym	players
+game	Synonym	match
+game	Holonym	first half
+game	Holonym	second half
+game	Holonym	extra time
+first half	Meronym	match
+first half	Meronym	game
+second half	Meronym	match
+second half	Meronym	game
+captain	Hyponym	players
+players	Hypernym	captain
+players	Co-Hyponym	coach
+extra time	Meronym	match
+extra time	Meronym	game
+game	Synonym	match
+game	Holonym	regulation time
+winning shot	Hyponym	goal
+match	Synonym	game
+match	Holonym	extra time
+midfielder	Co-Hyponym	goalkeeper
+extra time	Meronym	match
+extra time	Meronym	game
+goalkeeper	Co-Hyponym	midfielder
+goal	Hypernym	winning shot
+game	Synonym	match
+game	Holonym	extra time
+victory	Hyponym	result
+animal	Hypernym	Octopus
+Octopus	Hyponym	animal
+record	Hyponym	result
+result	Hypernym	victory
+result	Hypernym	record

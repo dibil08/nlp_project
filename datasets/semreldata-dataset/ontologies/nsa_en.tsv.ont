@@ -1,0 +1,40 @@
+publication	Hypernym	magazine
+publication	Hyponym	documents
+magazine	Hyponym	publication
+magazine	Hyponym	documents
+documents	Hypernym	publication
+documents	Hypernym	magazine
+computer specialist	Co-Hyponym	fugitive
+fugitive	Co-Hyponym	computer specialist
+operations	Hyponym	activities
+activities	Hypernym	operations
+property	Hypernym	assets
+assets	Hyponym	property
+search	Hyponym	interference
+requisition	Hyponym	interference
+confiscation	Hypernym	expropriation
+confiscation	Hyponym	interference
+expropriation	Hyponym	confiscation
+expropriation	Hyponym	interference
+interference	Hypernym	search
+interference	Hypernym	requisition
+interference	Hypernym	confiscation
+interference	Hypernym	expropriation
+interference	Hyponym	action
+action	Hypernym	interference
+embassies	Co-Hyponym	consulates
+consulates	Co-Hyponym	embassies
+article	Holonym	quotes
+article	Hyponym	documents
+quotes	Meronym	article
+documents	Hypernym	article
+data traffic	Hypernym	video teleconferences
+video teleconferences	Hyponym	data traffic
+communications	Hyponym	documents
+documents	Hypernym	communications
+documents	Hypernym	evidence
+evidence	Hyponym	documents
+spies	Co-Hyponym	President
+President	Co-Hyponym	spies
+President	Meronym	government
+government	Holonym	President

@@ -1,0 +1,20 @@
+Шляпа	Holonym	тульи́
+Шляпа	Holonym	полей
+Шляпа	Hyponym	головной убор
+головной убор	Hypernym	Шляпа
+тульи́	Meronym	Шляпа
+полей	Meronym	Шляпа
+перьями	Co-Hyponym	чучелами
+перьями	Co-Hyponym	лентами
+чучелами	Co-Hyponym	перьями
+чучелами	Co-Hyponym	лентами
+лентами	Co-Hyponym	перьями
+лентами	Co-Hyponym	чучелами
+головы	Holonym	волос
+волос	Meronym	головы
+осадков	Co-Hyponym	ветра
+осадков	Co-Hyponym	солнца
+ветра	Co-Hyponym	осадков
+ветра	Co-Hyponym	солнца
+солнца	Co-Hyponym	ветра
+солнца	Co-Hyponym	осадков

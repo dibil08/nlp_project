@@ -1,0 +1,64 @@
+class	Holonym	fellow
+head-master	Co-Hyponym	school servant
+fellow	Meronym	class
+school servant	Co-Hyponym	head-master
+head-master	Co-Hyponym	class-master
+class-master	Co-Hyponym	head-master
+pupil	Meronym	classes
+pupil	Meronym	second
+second	Holonym	pupil
+second	Hyponym	classes
+classes	Hypernym	second
+classes	Holonym	pupil
+fellow	Hypernym	country lad
+fellow	Synonym	lad
+country lad	Holonym	hair
+country lad	Holonym	forehead
+country lad	Holonym	legs
+country lad	Hyponym	fellow
+lad	Synonym	fellow
+lad	Holonym	wrists
+hair	Co-Hyponym	forehead
+hair	Co-Hyponym	wrists
+hair	Co-Hyponym	legs
+hair	Meronym	country lad
+forehead	Co-Hyponym	hair
+forehead	Co-Hyponym	wrists
+forehead	Co-Hyponym	legs
+forehead	Meronym	country lad
+school jacket	Holonym	cloth
+school jacket	Holonym	buttons
+school jacket	Holonym	arm-holes
+school jacket	Co-Hyponym	stockings
+school jacket	Co-Hyponym	trousers
+school jacket	Co-Hyponym	boots
+cloth	Meronym	school jacket
+buttons	Meronym	school jacket
+arm-holes	Meronym	school jacket
+opening	Meronym	cuffs
+cuffs	Holonym	opening
+wrists	Co-Hyponym	hair
+wrists	Co-Hyponym	forehead
+wrists	Co-Hyponym	legs
+wrists	Meronym	lad
+legs	Co-Hyponym	hair
+legs	Co-Hyponym	forehead
+legs	Co-Hyponym	wrists
+legs	Meronym	country lad
+stockings	Co-Hyponym	school jacket
+stockings	Co-Hyponym	trousers
+stockings	Co-Hyponym	boots
+trousers	Holonym	braces
+trousers	Co-Hyponym	school jacket
+trousers	Co-Hyponym	stockings
+trousers	Co-Hyponym	boots
+braces	Meronym	trousers
+boots	Co-Hyponym	school jacket
+boots	Co-Hyponym	stockings
+boots	Co-Hyponym	trousers
+ears	Co-Hyponym	legs
+ears	Co-Hyponym	elbow
+legs	Co-Hyponym	ears
+legs	Co-Hyponym	elbow
+elbow	Co-Hyponym	ears
+elbow	Co-Hyponym	legs

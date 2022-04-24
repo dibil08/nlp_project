@@ -1,0 +1,12 @@
+Schiffe	Co-Hyponym	Flugzeug
+Flugzeug	Co-Hyponym	Schiffe
+Flugzeug	Meronym	Luftwaffe
+Luftwaffe	Holonym	Flugzeug
+Eisberges	Holonym	Wasser
+Wasser	Meronym	Eisberges
+Leiter	Meronym	Luftwaffenstaffel
+Luftwaffenstaffel	Holonym	Leiter
+Festland	Holonym	Küste
+Küste	Meronym	Festland
+Erwärmung	Co-Hyponym	Veränderungen
+Veränderungen	Co-Hyponym	Erwärmung

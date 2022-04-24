@@ -1,0 +1,118 @@
+Trousers	Synonym	pants
+clothing	Hypernym	robes
+clothing	Hypernym	skirts
+clothing	Hypernym	dresses
+clothing	Hypernym	underwear
+clothing	Hypernym	school uniform
+clothing	Synonym	garment
+waist	Co-Hyponym	ankles
+waist	Co-Hyponym	legs
+ankles	Co-Hyponym	waist
+ankles	Co-Hyponym	legs
+legs	Co-Hyponym	waist
+legs	Co-Hyponym	ankles
+legs	Holonym	knee
+robes	Hyponym	clothing
+robes	Hyponym	garment
+skirts	Hyponym	clothing
+skirts	Hyponym	garment
+skirts	Meronym	school uniform
+dresses	Hyponym	clothing
+dresses	Hyponym	garment
+pants	Synonym	Trousers
+pants	Synonym	trousers
+pants	Holonym	legs
+underwear	Hyponym	clothing
+underwear	Hyponym	garment
+trousers	Synonym	pants
+trousers	Holonym	legs
+Shorts	Hyponym	trousers
+trousers	Hypernym	Shorts
+legs	Meronym	pants
+legs	Meronym	trousers
+knee	Meronym	legs
+garment	Hypernym	robes
+garment	Hypernym	skirts
+garment	Hypernym	dresses
+garment	Hypernym	underwear
+garment	Hypernym	school uniform
+garment	Synonym	clothing
+shorts	Hyponym	trousers
+shorts	Hyponym	long trousers
+shorts	Meronym	school uniform
+trousers	Hypernym	shorts
+trousers	Synonym	long trousers
+trousers	Meronym	school uniform
+long trousers	Hypernym	shorts
+long trousers	Synonym	trousers
+long trousers	Meronym	school uniform
+school uniform	Holonym	skirts
+school uniform	Holonym	trousers
+school uniform	Holonym	shorts
+school uniform	Holonym	long trousers
+school uniform	Hyponym	clothing
+school uniform	Hyponym	garment
+shorts	Synonym	short trousers
+short trousers	Synonym	shorts
+world	Holonym	regions
+world	Holonym	cultures
+trousers	Hypernym	shorts
+trousers	Hyponym	clothing
+trousers	Hyponym	garments
+clothing	Hypernym	trousers
+clothing	Hypernym	shorts
+clothing	Hypernym	kilts
+clothing	Hypernym	casual wear
+clothing	Synonym	garments
+males	Hyponym	sexes
+shorts	Hyponym	trousers
+shorts	Hyponym	clothing
+shorts	Hyponym	garments
+kilts	Hyponym	clothing
+kilts	Hyponym	garments
+garments	Hypernym	trousers
+garments	Hypernym	shorts
+garments	Hypernym	kilts
+garments	Hypernym	casual wear
+garments	Synonym	clothing
+regions	Meronym	world
+cultures	Meronym	world
+females	Hyponym	sexes
+Jeans	Holonym	denim
+Jeans	Hyponym	trousers
+denim	Meronym	Jeans
+trousers	Hypernym	Jeans
+trousers	Hypernym	Shorts
+casual wear	Hyponym	clothing
+casual wear	Hyponym	garments
+sexes	Hypernym	males
+sexes	Hypernym	females
+Shorts	Hyponym	trousers
+children	Co-Hyponym	teenagers
+teenagers	Co-Hyponym	children
+Trousers	Holonym	fastenings
+hips	Co-Hyponym	waist
+waist	Co-Hyponym	hips
+fastenings	Meronym	Trousers
+belt	Co-Hyponym	suspenders
+belt	Co-Hyponym	braces
+suspenders	Synonym	braces
+suspenders	Co-Hyponym	belt
+braces	Synonym	suspenders
+braces	Co-Hyponym	belt
+Leggings	Holonym	cotton
+Leggings	Holonym	spandex
+Leggings	Holonym	elastane
+Leggings	Hyponym	trousers
+trousers	Hypernym	Leggings
+material	Hypernym	cotton
+material	Hypernym	spandex
+material	Hypernym	elastane
+cotton	Hyponym	material
+cotton	Meronym	Leggings
+spandex	Synonym	elastane
+spandex	Hyponym	material
+spandex	Meronym	Leggings
+elastane	Synonym	spandex
+elastane	Hyponym	material
+elastane	Meronym	Leggings

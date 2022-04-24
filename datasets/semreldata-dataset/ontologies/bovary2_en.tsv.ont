@@ -1,0 +1,4 @@
+grandmother	Co-Hyponym	aunt
+grandmother	Hyponym	woman
+woman	Hypernym	grandmother
+aunt	Co-Hyponym	grandmother

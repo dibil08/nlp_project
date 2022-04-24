@@ -1,0 +1,1 @@
+['', 'Hypernym', 'Holonym', 'Co-Hyponym', '***UNCLEAR***', 'Synonym']
