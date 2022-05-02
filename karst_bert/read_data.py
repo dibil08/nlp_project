@@ -195,8 +195,8 @@ def semreldata_e1_e2_relations():
             for relation, i1, i2 in relations:
                 # word at i1 is *relation* of i2 --> i1 indicates e2, i2 indicates e1
                 current_sentence_annotated.append((deepcopy(sentence_list), relation))
-                current_sentence_annotated[-1][0][i1] = "[e2]{}[/e2]".format(current_sentence_annotated[-1][0][i1])
-                current_sentence_annotated[-1][0][i2] = "[e1]{}[/e1]".format(current_sentence_annotated[-1][0][i2])
+                current_sentence_annotated[-1][0][i1] = "<e2>{}</e2>".format(current_sentence_annotated[-1][0][i1])
+                current_sentence_annotated[-1][0][i2] = "<e1>{}</e1>".format(current_sentence_annotated[-1][0][i2])
 
             # add all variations of current sentence annotation to the main list
             all_e1_e2_sentences.extend(current_sentence_annotated)
