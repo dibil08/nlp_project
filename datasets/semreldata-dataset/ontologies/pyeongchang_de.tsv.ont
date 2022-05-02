@@ -1,6 +1,0 @@
-Komitee	Holonym	Abstimmung
-Abstimmung	Meronym	Komitee
-Austragung	Hypernym	Spiele
-Februar	Co-Hyponym	März
-März	Co-Hyponym	Februar
-Spiele	Hyponym	Austragung

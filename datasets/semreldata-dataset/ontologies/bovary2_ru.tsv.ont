@@ -1,8 +1,0 @@
-бабушке	Co-Hyponym	дедушку
-бабушке	Co-Hyponym	тетка
-Старушка	Co-Hyponym	девочку
-дедушку	Co-Hyponym	бабушке
-дедушку	Co-Hyponym	тетка
-девочку	Co-Hyponym	Старушка
-тетка	Co-Hyponym	бабушке
-тетка	Co-Hyponym	дедушку
