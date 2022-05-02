@@ -210,6 +210,7 @@ def create_semreldata_train_file(filepath):
         for i in range(len(e1_e2_sentences)):
             sentence, relation = e1_e2_sentences[i]
             sentence = " ".join(sentence)  # join words in sentence list into one string
+            sentence = "\"{}\"".format(sentence)  # embed sentence into quotes
             sentence_row = "{}\t{}\n".format(i + 1, sentence)
             f.write(sentence_row)
             f.write(relation)
