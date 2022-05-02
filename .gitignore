@@ -133,5 +133,6 @@ dataset/ONJ-KiL Projects 2022/
 
 datasets/*.zip
 datasets/*
+datasets/Karst
 
 .idea/
