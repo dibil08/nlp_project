@@ -135,5 +135,6 @@ karst/*.zip
 karst/*/
 datasets/*.zip
 datasets/karst/Karst Corpora
+datasets/
 
 .idea/
