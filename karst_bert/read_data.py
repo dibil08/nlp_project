@@ -1,6 +1,8 @@
 import os
 import csv
 
+from copy import deepcopy
+
 
 def get_sentences_dict():
     karst_annotated_en = "../datasets/karst/AnnotatedDefinitions/EN"  # path to annotated english sentences
@@ -29,7 +31,6 @@ def get_sentences_dict():
 
             # iterate through rows in file
             for row in reader:
-
                 # usually, when empty row appears, this is a sign of the end of current sentence
                 if not len(row):
                     # skip row if there is no current sentence
@@ -94,6 +95,67 @@ def get_sentences_dict():
     return all_sentences
 
 
+def semreldata_dict():
+    dataset_path = "../datasets/semreldata-dataset/curation"
+    files = [os.path.join(dataset_path, f) for f in os.listdir(dataset_path)
+             if os.path.isfile(os.path.join(dataset_path, f)) and "_en" in f]
+
+    all_sentences_dict = {}
+    file_i = 0
+    for file in files:
+        file_sentences = {}
+        sentence_i = -1  # set to -1, when 1st sentence is found, it will be incremented to 0
+        sentence, sentence_list, relation_list = "", [], []
+        with open(file, encoding="UTF-8") as f:
+
+            # Replace quotes in strings with some quote indicator,
+            # because otherwise reader will not know how to parse the file properly
+            # (will be replaced back once reader is created properly and we come to word containing the indicator)
+            reader = csv.reader((line.replace('"', '[quote]') for line in f), delimiter="\t")
+
+            for row in reader:
+                if not len(row):
+                    continue  # skip empty rows
+                if row[0][:4] == "#id=":
+                    # new sentence is starting, save current sentence's data if it exists
+                    if len(sentence_list):
+                        file_sentences[sentence_i] = {"file": file, "sentence": sentence,
+                                                      "sentence_list": sentence_list, "relations": relation_list}
+                        sentence, sentence_list, relation_list = "", [], []
+                    sentence_i += 1
+                elif row[0][:6] == "#text=":
+                    # Row with whole sentence text
+                    sentence = row[0][6:]
+                elif len(row) > 1:
+                    # Row with word annotation
+                    word = row[1].replace("[quote]", "\"")  # replace quote indicator with actual quote character
+                    sentence_list.append(word)
+                    relation = row[3]
+
+                    # save relation if it exists
+                    if relation != "_":
+                        # current row has marked index of "e1" word in its relation
+                        relation_i1 = row[4]
+                        # "e2" word in relation is current word --> use its index in sentence as "e2" index
+                        relation_i2 = int(row[0].split("-")[1]) - 1
+
+                        assert relation_i1 != "_"
+
+                        # multiple relations can exist for the same word, they are separated with | character
+                        relations = relation.split("|")
+                        relation_indices = relation_i1.split("|")
+                        assert len(relations) == len(relation_indices)
+
+                        for r, r_i1 in zip(relations, relation_indices):
+                            r_i1 = int(r_i1.split("-")[1]) - 1  # get actual index out of sentence's index string
+                            relation_list.append((r, r_i1, relation_i2))
+
+        all_sentences_dict[file_i] = file_sentences
+        file_i += 1
+
+    return all_sentences_dict
+
+
 def annotate_sentence_for_bert(sentence_dict):
     """
     Considers definiendum phrases as 'E1' and genus phrases as 'E2'. If more than one of each of these exist,
@@ -115,7 +177,51 @@ def annotate_sentence_for_bert(sentence_dict):
     return " ".join(sentence_list)
 
 
+def semreldata_e1_e2_relations():
+    """
+    Annotates all sentences in semreldata with relations as e1 and e2 pairs. Each relation is annotated in separate
+    sentence, even if it's from the same sentence (more than one instance of such sentence, each with different
+    relation, is created).
+    """
+    all_e1_e2_sentences = []
+    sentences_by_file = semreldata_dict()
+
+    for i in sentences_by_file:
+        for j in sentences_by_file[i]:
+            sentence_dict = sentences_by_file[i][j]
+            current_sentence_annotated = []
+            sentence_list = sentence_dict["sentence_list"]
+            relations = sentence_dict["relations"]
+            for relation, i1, i2 in relations:
+                # word at i1 is *relation* of i2 --> i1 indicates e2, i2 indicates e1
+                current_sentence_annotated.append((deepcopy(sentence_list), relation))
+                current_sentence_annotated[-1][0][i1] = "[e2]{}[/e2]".format(current_sentence_annotated[-1][0][i1])
+                current_sentence_annotated[-1][0][i2] = "[e1]{}[/e1]".format(current_sentence_annotated[-1][0][i2])
+
+            # add all variations of current sentence annotation to the main list
+            all_e1_e2_sentences.extend(current_sentence_annotated)
+
+    return all_e1_e2_sentences
+
+
+def create_semreldata_train_file(filepath):
+    e1_e2_sentences = semreldata_e1_e2_relations()
+    with open(filepath, "w+", encoding="UTF-8") as f:
+        for i in range(len(e1_e2_sentences)):
+            sentence, relation = e1_e2_sentences[i]
+            sentence = " ".join(sentence)  # join words in sentence list into one string
+            sentence_row = "{}\t{}\n".format(i + 1, sentence)
+            f.write(sentence_row)
+            f.write(relation)
+            f.write("\nComment:\n\n")
+
+
 if __name__ == "__main__":
+    # Example of annotated karst sentences with E1 and E2
     sentences_dict = get_sentences_dict()
     print(sentences_dict[12][7])
     print(annotate_sentence_for_bert(sentences_dict[12][7]))
+    print("------")
+
+    # create semreldata's train file for fine-tuning the BERT
+    create_semreldata_train_file("../datasets/train/semreldata_bert.txt")
