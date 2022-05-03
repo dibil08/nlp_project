@@ -207,14 +207,26 @@ def semreldata_e1_e2_relations():
 def create_semreldata_train_file(filepath):
     e1_e2_sentences = semreldata_e1_e2_relations()
     with open(filepath, "w+", encoding="UTF-8") as f:
-        for i in range(len(e1_e2_sentences)):
-            sentence, relation = e1_e2_sentences[i]
-            sentence = " ".join(sentence)  # join words in sentence list into one string
+        i = 1
+        for sentence, relation in e1_e2_sentences:
+            sentence = " ".join(sentence).split(" . ")
+            # remove sub-sentences without tagged words to shorten the sentence sequence
+            for s_i in range(len(sentence)):
+                s = sentence[s_i]
+                if "<e1>" not in s and "<e2>" not in s:
+                    sentence[s_i] = ""
+            sentence = list(filter(lambda x: x != "", sentence))
+            sentence = " . ".join(sentence)
+
+            if len(sentence) > 512:
+                continue
+
             sentence = "\"{}\"".format(sentence)  # embed sentence into quotes
-            sentence_row = "{}\t{}\n".format(i + 1, sentence)
+            sentence_row = "{}\t{}\n".format(i, sentence)
             f.write(sentence_row)
             f.write(relation)
             f.write("\nComment:\n\n")
+            i += 1
 
 
 if __name__ == "__main__":
