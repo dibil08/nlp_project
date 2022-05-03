@@ -174,14 +174,15 @@ def train_and_fit(args):
                 total_loss = 0.0; total_acc = 0.0
         
         scheduler.step()
-        results = evaluate_results(net, test_loader, pad_id, cuda)
         losses_per_epoch.append(sum(losses_per_batch)/len(losses_per_batch))
         accuracy_per_epoch.append(sum(accuracy_per_batch)/len(accuracy_per_batch))
-        test_f1_per_epoch.append(results['f1'])
         print("Epoch finished, took %.2f seconds." % (time.time() - start_time))
         print("Losses at Epoch %d: %.7f" % (epoch + 1, losses_per_epoch[-1]))
         print("Train accuracy at Epoch %d: %.7f" % (epoch + 1, accuracy_per_epoch[-1]))
-        print("Test f1 at Epoch %d: %.7f" % (epoch + 1, test_f1_per_epoch[-1]))
+        if test_loader is not None:
+            results = evaluate_results(net, test_loader, pad_id, cuda)
+            test_f1_per_epoch.append(results['f1'])
+            print("Test f1 at Epoch %d: %.7f" % (epoch + 1, test_f1_per_epoch[-1]))
         
         if accuracy_per_epoch[-1] > best_pred:
             best_pred = accuracy_per_epoch[-1]

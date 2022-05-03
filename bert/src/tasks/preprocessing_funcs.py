@@ -65,17 +65,17 @@ def preprocess_semeval2010_8(args):
         text = f.readlines()
     
     sents, relations, comments, blanks = process_text(text, 'test')
-    df_test = pd.DataFrame(data={'sents': sents, 'relations': relations})
+    #df_test = pd.DataFrame(data={'sents': sents, 'relations': relations})
     
     rm = Relations_Mapper(df_train['relations'])
     save_as_pickle('relations.pkl', rm)
-    df_test['relations_id'] = df_test.progress_apply(lambda x: rm.rel2idx[x['relations']], axis=1)
+    #df_test['relations_id'] = df_test.progress_apply(lambda x: rm.rel2idx[x['relations']], axis=1)
     df_train['relations_id'] = df_train.progress_apply(lambda x: rm.rel2idx[x['relations']], axis=1)
     save_as_pickle('df_train.pkl', df_train)
-    save_as_pickle('df_test.pkl', df_test)
+    #save_as_pickle('df_test.pkl', df_test)
     logger.info("Finished and saved!")
     
-    return df_train, df_test, rm
+    return df_train, None, rm
 
 class Relations_Mapper(object):
     def __init__(self, relations):
@@ -336,15 +336,18 @@ def load_dataloaders(args):
             df_train, df_test, rm = preprocess_semeval2010_8(args)
         
         train_set = semeval_dataset(df_train, tokenizer=tokenizer, e1_id=e1_id, e2_id=e2_id)
-        test_set = semeval_dataset(df_test, tokenizer=tokenizer, e1_id=e1_id, e2_id=e2_id)
-        train_length = len(train_set); test_length = len(test_set)
+        #test_set = semeval_dataset(df_test, tokenizer=tokenizer, e1_id=e1_id, e2_id=e2_id)
+        train_length = len(train_set)
+        #test_length = len(test_set)
         PS = Pad_Sequence(seq_pad_value=tokenizer.pad_token_id,\
                           label_pad_value=tokenizer.pad_token_id,\
                           label2_pad_value=-1)
         train_loader = DataLoader(train_set, batch_size=args.batch_size, shuffle=True, \
                                   num_workers=0, collate_fn=PS, pin_memory=False)
-        test_loader = DataLoader(test_set, batch_size=args.batch_size, shuffle=True, \
-                                  num_workers=0, collate_fn=PS, pin_memory=False)
+        #test_loader = DataLoader(test_set, batch_size=args.batch_size, shuffle=True, \
+        #                          num_workers=0, collate_fn=PS, pin_memory=False)
+        test_loader = None
+        test_length = None
     elif args.task == 'fewrel':
         df_train, df_test = preprocess_fewrel(args, do_lower_case=lower_case)
         train_loader = fewrel_dataset(df_train, tokenizer=tokenizer, seq_pad_value=tokenizer.pad_token_id,
