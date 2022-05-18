@@ -199,3 +199,6 @@ if __name__ == "__main__":
 
     #karst_stats.printDefinitionElementsStats("EN")
     karst_stats.printDefinitionElementsStats("EN", "DEFINITOR")
+    karst_stats.printDefinitionElementsStats("EN", "DEFINIENDUM")
+    karst_stats.printDefinitionElementsStats("EN", "SPECIES")
+    karst_stats.printDefinitionElementsStats("EN", "GENUS")
