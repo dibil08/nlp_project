@@ -128,11 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-dataset/ONJ-KiL Projects 2022/
-
-datasets/*.zip
-datasets/*
-datasets/Karst
-
+# Custom
+datasets
 .idea/

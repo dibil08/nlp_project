@@ -96,7 +96,7 @@ def get_sentences_dict():
 
 
 def semreldata_dict():
-    dataset_path = "../datasets/semreldata-dataset/curation"
+    dataset_path = "../datasets/SemRelData/curation"
     files = [os.path.join(dataset_path, f) for f in os.listdir(dataset_path)
              if os.path.isfile(os.path.join(dataset_path, f)) and "_en" in f]
 
@@ -237,4 +237,4 @@ if __name__ == "__main__":
     print("------")
 
     # create semreldata's train file for fine-tuning the BERT
-    create_semreldata_train_file("../datasets/train/semreldata_bert.txt")
+    create_semreldata_train_file("../train/semreldata_bert.txt")
