@@ -1,141 +1,201 @@
-import os, json
-import matplotlib.pyplot as plt
+import os
+from collections import Counter
 
 class karstInspector:
 
-    semanticRelations = [
-        "AFFECTS", 
-        "HAS_ATTRIBUTE", 
-        "HAS_CAUSE", 
-        "CONTAINS", 
-        "HAS_COMPOSITION", 
-        "DEFINED_AS", 
-        "HAS_FORM", 
-        "HAS_FUNCTION", 
-        "HAS_LOCATION", 
-        "MEASURES", 
-        "HAS_POSITION", 
-        "HAS_RESULT", 
-        "HAS_SIZE", 
-        "STUDIES", 
-        "OCCURS_IN_TIME",
-        "OCCURS_IN_MEDIUM",
-        "COMPOSED_OF"]
+    semantic_relations = [
+        "AFFECTS", "HAS_ATTRIBUTE", "HAS_CAUSE", "CONTAINS", "HAS_COMPOSITION", "DEFINED_AS", 
+        "HAS_FORM", "HAS_FUNCTION", "HAS_LOCATION", "MEASURES", "HAS_POSITION", "HAS_RESULT", 
+        "HAS_SIZE", "STUDIES", "OCCURS_IN_TIME", "OCCURS_IN_MEDIUM", "COMPOSED_OF", "COMPOSITION_MEDIUM"]
 
-    definitionElements = [
-        "DEFINIENDUM",
-        "DEFINITOR",
-        "GENUS", 
-        "SPECIES"]
+    definition_elements = ["DEFINIENDUM", "DEFINITOR", "GENUS", "SPECIES"]
+
+    languages = ["EN", "HR", "SL"]
 
     def __init__(self, path):
-        self.path = path  # path to annotated definitions
-        self.count = {}
-        self.index = {}
+        self.path = path
 
-    def print(self):
-        languages = list(self.count.keys())
-        for language in languages:
-            print(language)
-            print(json.dumps(self.count[language]["semanticRelations"], indent=3))
-            print(json.dumps(self.count[language]["definitionElements"], indent=3))
+        self.stats = self.getDictForm()
 
-    def visualize(self):
-        languages = list(self.count.keys())
+        self.getFiles()
+        self.getSemanticRelations()
+        self.getDefinitionElements()
 
-        for language in languages:
-            definitionElements = list(self.count[language]["definitionElements"].values())
-            semanticRelations = list(self.count[language]["semanticRelations"].values())
-            values = definitionElements + semanticRelations
+    def getDictForm(self):
+        stats = {}
+        for language in self.languages:
+            stats[language] = {
+                "path": None,
+                "file_count": 0,
+                "filenames": [],
+                "definition_elements": {},
+                "semantic_relations": {}
+            }
+            for definition_element in self.definition_elements:
+                stats[language]["definition_elements"][definition_element] = {
+                    "count": 0,
+                    "storage": []
+                }
+            for semantic_relation in self.semantic_relations:
+                stats[language]["semantic_relations"][semantic_relation] = {
+                    "count": 0,     
+                    "storage": []
+                }
+        return stats
 
-            plt.figure()
-            plt.title(language)
-            plt.hist(
-                self.definitionElements + self.semanticRelations, 
-                len(self.definitionElements) + len(self.semanticRelations),
-                weights = values)
-            plt.xticks(rotation = 90)
-            plt.tight_layout()
+    def getFiles(self):
+        for language in self.languages:
+            path_language = self.path + "/" + language
+            files =  os.listdir(path_language)
+            self.stats[language]["path"] = path_language
+            self.stats[language]["filenames"] = files
+            self.stats[language]["file_count"] = len(files)
 
-        plt.show()
+    def getElementIndex(self, element):
+        element = element.split("[")
+        if len(element) == 2:                   
+            return element[1][:-1], element[0]
+        else:
+            return None, element[0]
 
-    def inspect(self):
-        for language in os.listdir(self.path):
+    def getSemanticRelations(self):
+        for language in self.languages:
+            files = self.stats[language]["filenames"]      
+  
+            for file in files:
+                file_path = self.stats[language]["path"] + "/" + file
+                content = open(file_path, encoding="utf8")
 
-            if not os.path.isdir(self.path + "/" + language):
-                continue
+                relation_builder = {}
 
-            self.count[language] = {
-                    "semanticRelations": self.getCountForm(self.semanticRelations),
-                    "definitionElements": self.getCountForm(self.definitionElements)}
+                for line in content:
+                    
+                    if line[0] in ["\n", "\r", "#" ]:
+                        continue
 
-            self.index[language] = {
-                    "semanticRelations": {},
-                    "definitionElements": {}}
+                    segments = line.split("\t")
+                    word_index = segments[0]
+                    char_index = segments[1] 
+                    word = segments[2].lower()
+                    category = segments[4]
+                    definition_element = segments[5]
+                    relations = segments[6]
 
-            self.exploreLanguage(language)
+                    if relations == "_":
+                        continue
 
-    def exploreLanguage(self, language):
-        path = self.path + "/" + language
+                    relations = segments[6].replace("\\", "").split("|")
 
-        for filename in os.listdir(path):
-            if filename.endswith('.tsv'):
-                self.exploreFile(language, filename)
+                    for relation in relations:
+                        index, relation_type = self.getElementIndex(relation)
 
-    def exploreFile(self, language, filename):
-        path = self.path + "/" + language + "/" + filename
+                        if index == None:
+                            self.stats[language]["semantic_relations"][relation]["count"] += 1
+                            self.stats[language]["semantic_relations"][relation]["storage"].append(word)
+                        else:
+                            if relation in relation_builder.keys():
+                                relation_builder[relation]["string"] += " " + word              
+                            else:
+                                relation_builder[relation] = {
+                                    "string": word,
+                                    "type": relation_type
+                                }
 
-        self.index[language][filename] = []
+                for values in relation_builder.values():
+                    relation = values["type"]
+                    self.stats[language]["semantic_relations"][relation]["count"] += 1
+                    self.stats[language]["semantic_relations"][relation]["storage"].append(values["string"])
 
-        file = open(path, "rb")
 
-        for line in file:
-            
-            line = line.decode("utf-8") 
-            
-            if line[0] == "#":
-                continue
-            if line[0] in ["\n", "\r"]:
-                continue
+    def getDefinitionElements(self):
+        for language in self.languages:
+            files = self.stats[language]["filenames"]      
+  
+            for file in files:
+                file_path = self.stats[language]["path"] + "/" + file
+                content = open(file_path, encoding="utf8")
 
-            line = line.replace("\\", "")[:-1]
-            segments = line.split("\t")
+                definition_builder = {}
 
-            for segment in segments:
-                for part in segment.split("|"):
+                for line in content:
+                    
+                    if line[0] in ["\n", "\r", "#" ]:
+                        continue
 
-                    for relation in self.semanticRelations:
-                        if part.find(relation) != -1:
-                            number = part[len(relation)+1:-1]
-                            if number not in self.index[language][filename]:
-                                self.count[language]["semanticRelations"][relation] += 1
-                                self.index[language][filename].append(number)
+                    segments = line.split("\t")
+                    word_index = segments[0]
+                    char_index = segments[1] 
+                    word = segments[2].lower()
+                    category = segments[4]
+                    definitions = segments[5]
+                    relations = segments[6]
 
-                    for element in self.definitionElements:
-                        if part.find(element) != -1:
-                            number = part[len(relation)+1:-1]
-                            if number not in self.index[language][filename]:
-                                self.count[language]["definitionElements"][element] += 1
-                                self.index[language][filename].append(number)
+                    if definitions == "_":
+                        continue
 
-    def getCountForm(self, inputList):
-        form = {}
-        for relation in inputList:
-            form[relation] = 0
-        return form
+                    definitions = definitions.split("|")
 
-    def sortDict(self, dictionary):
-        sorted_dict = {}
-        sorted_keys = sorted(dictionary, key=dictionary.get, reverse=True)
-        for key in sorted_keys:
-            sorted_dict[key] = dictionary[key]  
-        return sorted_dict
+                    for definition in definitions:
+                        index, definition_type = self.getElementIndex(definition)
+
+                        if index == None:
+                            self.stats[language]["definition_elements"][definition_type]["count"] += 1
+                            self.stats[language]["definition_elements"][definition_type]["storage"].append(word)
+                        else:
+                            if definition in definition_builder.keys():
+                                definition_builder[definition]["string"] += " " + word              
+                            else:
+                                definition_builder[definition] = {
+                                    "string": word,
+                                    "type": definition_type
+                                }
+
+                for values in definition_builder.values():
+                    definition_type = values["type"]
+                    if definition_type in self.definition_elements:
+                        self.stats[language]["definition_elements"][definition_type]["count"] += 1
+                        self.stats[language]["definition_elements"][definition_type]["storage"].append(values["string"])
+
+    def printSemanticRelationsStats(self, language, relation=None):
+        print("\nLanguage:", language)
+        if relation:
+            data = self.stats[language]["semantic_relations"][relation]
+            print("{}: {}".format(data["count"], relation))
+            item_counter = Counter(data["storage"]).most_common()
+            for item in item_counter:
+                print("\t\t{}: {}".format(item[1], item[0]))
+        else:
+            for key, value in self.stats[language]["semantic_relations"].items():
+                print("{}: {}".format(key, value["count"]))
+                item_counter = Counter(value["storage"]).most_common()
+                for item in item_counter:
+                    print("\t\t{}: {}".format(item[1], item[0]))
+
+    def printDefinitionElementsStats(self, language, definition=None):
+        print("\nLanguage:", language)
+        if definition:
+            data = self.stats[language]["definition_elements"][definition]
+            print("{}: {}".format(data["count"], definition))
+            item_counter = Counter(data["storage"]).most_common()
+            for item in item_counter:
+                print("\t\t{}: {}".format(item[1], item[0]))
+        else:
+            for key, value in self.stats[language]["definition_elements"].items():
+                print("{}: {}".format(key, value["count"]))
+                item_counter = Counter(value["storage"]).most_common()
+                for item in item_counter:
+                    print("\t\t{}: {}".format(item[1], item[0]))
+
+
 
 if __name__ == "__main__":
 
     path = "../datasets/karst/Karst Annotated Definitions/AnnotatedDefinitions"
 
-    ki = KarstInspector(path)
-    ki.inspect()
-    ki.print()
-    ki.visualize()
+    karst_stats = karstInspector(path)
+    
+    #karst_stats.printSemanticRelationsStats("EN")
+    #karst_stats.printSemanticRelationsStats("EN", "HAS_CAUSE")
+
+    #karst_stats.printDefinitionElementsStats("EN")
+    karst_stats.printDefinitionElementsStats("EN", "DEFINITOR")
