@@ -11,7 +11,8 @@ class CustomArgs:
         self.model_size = "bert-base-uncased"
 
 
-inferer = infer_from_trained(CustomArgs(), detect_entities=False)
+inferer = infer_from_trained(CustomArgs(), detect_entities=False,
+                             model_dir_path="./models/finetuned_semreldata_11epochs")
 model_relations = inferer.rm.idx2rel
 
 karst_sentences_dict = get_sentences_dict()

@@ -19,26 +19,36 @@ from ..misc import save_as_pickle
 
 import logging
 
+import sys
+
+
 tqdm.pandas(desc="prog-bar")
 logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s', \
                     datefmt='%m/%d/%Y %I:%M:%S %p', level=logging.INFO)
 logger = logging.getLogger('__file__')
 
-def load_pickle(filename):
-    completeName = os.path.join("./data/",\
-                                filename)
+
+def load_pickle(filename, folder_path="data"):
+    completeName = os.path.join(folder_path, filename)
     with open(completeName, 'rb') as pkl_file:
         data = pickle.load(pkl_file)
     return data
 
+
 class infer_from_trained(object):
-    def __init__(self, args=None, detect_entities=False):
+    def __init__(self, args=None, detect_entities=False, model_dir_path="data"):
+        # add path of bert's src module to sys path so that pickle.load() function can find it
+        src_module_path = os.path.join(os.path.dirname(sys.path[0]), "bert")
+        sys.path.append(src_module_path)
+
         if args is None:
-            self.args = load_pickle("args.pkl")
+            self.args = load_pickle("args.pkl", folder_path=model_dir_path)
         else:
             self.args = args
         self.cuda = torch.cuda.is_available()
         self.detect_entities = detect_entities
+        self.model_dir_path = model_dir_path
+        print("Model directory:", self.model_dir_path)
         
         if self.detect_entities:
             self.nlp = spacy.load("en_core_web_lg")
@@ -79,17 +89,18 @@ class infer_from_trained(object):
                                                  task='classification',\
                                                  n_classes_=self.args.num_classes)
         
-        self.tokenizer = load_pickle("%s_tokenizer.pkl" % model_name)
+        self.tokenizer = load_pickle("%s_tokenizer.pkl" % model_name, folder_path=self.model_dir_path)
         self.net.resize_token_embeddings(len(self.tokenizer))
         if self.cuda:
             self.net.cuda()
-        start_epoch, best_pred, amp_checkpoint = load_state(self.net, None, None, self.args, load_best=False)
+        start_epoch, best_pred, amp_checkpoint = load_state(self.net, None, None, self.args,
+                                                            load_best=False, base_path=self.model_dir_path)
         logger.info("Done!")
         
         self.e1_id = self.tokenizer.convert_tokens_to_ids('[E1]')
         self.e2_id = self.tokenizer.convert_tokens_to_ids('[E2]')
         self.pad_id = self.tokenizer.pad_token_id
-        self.rm = load_pickle("relations.pkl")
+        self.rm = load_pickle("relations.pkl", folder_path=self.model_dir_path)
         
     def get_all_ent_pairs(self, sent):
         if isinstance(sent, str):
@@ -292,7 +303,7 @@ class FewRel(object):
             del checkpoint, pretrained_dict, model_dict
         
         logger.info("Loading Fewrel dataloaders...")
-        self.train_loader, _, self.train_length, _ = load_dataloaders(args)
+        self.train_loader, _, self.train_length, _ = load_dataloaders(args, data_path=self.model_dir_path)
         
     def evaluate(self):
         counts, hits = 0, 0

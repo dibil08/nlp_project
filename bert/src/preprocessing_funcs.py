@@ -399,9 +399,9 @@ class Pad_Sequence():
         return seqs_padded, labels_padded, labels2_padded, labels3_padded, labels4_padded,\
                 x_lengths, y_lengths, y2_lengths, y3_lengths, y4_lengths
 
-def load_dataloaders(args, max_length=50000):
+def load_dataloaders(args, max_length=50000, data_path="data"):
     
-    if not os.path.isfile("./data/D.pkl"):
+    if not os.path.isfile(os.path.join(data_path, "D.pkl")):
         logger.info("Loading pre-training data...")
         with open(args.pretrain_data, "r", encoding="utf8") as f:
             text = f.readlines()
@@ -423,10 +423,10 @@ def load_dataloaders(args, max_length=50000):
             
         logger.info("Total number of relation statements in pre-training corpus: %d" % len(D))
         save_as_pickle("D.pkl", D)
-        logger.info("Saved pre-training corpus to %s" % "./data/D.pkl")
+        logger.info("Saved pre-training corpus to %s" % os.path.join(data_path, "D.pkl"))
     else:
         logger.info("Loaded pre-training data from saved file")
-        D = load_pickle("D.pkl")
+        D = load_pickle("D.pkl", folder_path=data_path)
         
     train_set = pretrain_dataset(args, D, batch_size=args.batch_size)
     train_length = len(train_set)

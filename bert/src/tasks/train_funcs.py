@@ -18,9 +18,8 @@ logging.basicConfig(format='%(asctime)s [%(levelname)s]: %(message)s', \
                     datefmt='%m/%d/%Y %I:%M:%S %p', level=logging.INFO)
 logger = logging.getLogger(__file__)
 
-def load_state(net, optimizer, scheduler, args, load_best=False):
+def load_state(net, optimizer, scheduler, args, load_best=False, base_path="data"):
     """ Loads saved model and optimizer states if exists """
-    base_path = "./data/"
     amp_checkpoint = None
     checkpoint_path = os.path.join(base_path,"task_test_checkpoint_%d.pth.tar" % args.model_no)
     best_path = os.path.join(base_path,"task_test_model_best_%d.pth.tar" % args.model_no)

@@ -9,9 +9,8 @@ import pickle
 import re
 from itertools import permutations
 
-def load_pickle(filename):
-    completeName = os.path.join("./data/",\
-                                filename)
+def load_pickle(filename, folder_path="data"):
+    completeName = os.path.join(folder_path, filename)
     with open(completeName, 'rb') as pkl_file:
         data = pickle.load(pkl_file)
     return data

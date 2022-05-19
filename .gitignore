@@ -130,4 +130,5 @@ dmypy.json
 
 # Custom
 datasets
+karst_bert/models/
 .idea/
