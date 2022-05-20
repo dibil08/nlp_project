@@ -132,3 +132,7 @@ dmypy.json
 datasets
 karst_bert/models/
 .idea/
+
+dataset/
+data/
+cnn.txt
