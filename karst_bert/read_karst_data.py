@@ -40,7 +40,7 @@ def get_sentences_dict(karst_annotated_path):
         file_sentences = {}
         sentence_i = 0
         with open(f_path, encoding="UTF-8") as csv_file:
-            reader = csv.reader(csv_file, delimiter="\t")
+            reader = csv.reader(csv_file, delimiter="\t", escapechar='"')
             # skip first few info rows
             for _ in range(8):
                 next(reader)
@@ -229,7 +229,7 @@ def write_data(dataset, file):
 
 
 if __name__ == "__main__":
-    langs=["HR"]
+    langs=["EN","SL","HR"]
 
     for lang in langs:
         file=f"karst_{lang}_bert.txt"
