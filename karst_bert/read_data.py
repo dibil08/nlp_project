@@ -86,7 +86,10 @@ def get_sentences_dict():
                             build_definiendum = False
                             definiendum_i2 = int(row[0].split("-")[1]) - 2
                             definiendum_list.append((definiendum, definiendum_i1, definiendum_i2))
-
+        sentence_dict = {"sentence_index": (file_i, sentence_i), "sentence": sentence,
+                                    "sentence_list": sentence_list, "definiendums": definiendum_list,
+                                    "genuses": genus_list}
+        file_sentences[sentence_i] = sentence_dict
         # add dict for current file to dict with dicts for all files and increment file index
         all_sentences[file_i] = file_sentences
         file_i += 1
