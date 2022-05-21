@@ -87,8 +87,8 @@ def get_sentences_dict():
                             definiendum_i2 = int(row[0].split("-")[1]) - 2
                             definiendum_list.append((definiendum, definiendum_i1, definiendum_i2))
         sentence_dict = {"sentence_index": (file_i, sentence_i), "sentence": sentence,
-                                    "sentence_list": sentence_list, "definiendums": definiendum_list,
-                                    "genuses": genus_list}
+                         "sentence_list": sentence_list, "definiendums": definiendum_list,
+                         "genuses": genus_list}
         file_sentences[sentence_i] = sentence_dict
         # add dict for current file to dict with dicts for all files and increment file index
         all_sentences[file_i] = file_sentences
@@ -152,6 +152,11 @@ def semreldata_dict():
                         for r, r_i1 in zip(relations, relation_indices):
                             r_i1 = int(r_i1.split("-")[1]) - 1  # get actual index out of sentence's index string
                             relation_list.append((r, r_i1, relation_i2))
+
+            # save last sentence if it exists
+            if len(sentence_list):
+                file_sentences[sentence_i] = {"file": file, "sentence": sentence,
+                                              "sentence_list": sentence_list, "relations": relation_list}
 
         all_sentences_dict[file_i] = file_sentences
         file_i += 1
