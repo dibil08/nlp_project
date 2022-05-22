@@ -155,6 +155,10 @@ class infer_from_trained(object):
         return pairs
     
     def annotate_sent(self, sent_nlp, e1, e2):
+        # e1 or e2 entity doesn't have any tokens
+        if not len(e1) or not len(e2):
+            return None
+
         annotated = ''
         e1start, e1end, e2start, e2end = 0, 0, 0, 0
         for token in sent_nlp:
