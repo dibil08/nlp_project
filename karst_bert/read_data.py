@@ -4,6 +4,15 @@ import csv
 from copy import deepcopy
 
 
+# maps SemRelData's relations, which consist of 1 word only, to equivalent 2-word relations
+semreldata_two_words_relations = {
+    "Hypernym": "Hyponym-Hypernym",
+    "Holonym": "Meronym-Holonym",  # Meronym is part of Holonym in the same way as Hyponym is type of Hypernym
+    "Co-Hyponym": "Co-Hyponym-Co-Hyponym",  # both words in Co-Hyponym relation are Co-Hyponyms of "each other"
+    "Synonym": "Synonym-Synonym"  # both words in Synonym relation are Synonyms of each other
+}
+
+
 def get_sentences_dict():
     karst_annotated_en = "../datasets/karst/AnnotatedDefinitions/EN"  # path to annotated english sentences
     all_sentences = {}
@@ -212,11 +221,16 @@ def semreldata_e1_e2_relations():
     return all_e1_e2_sentences
 
 
-def create_semreldata_train_file(filepath):
+def create_semreldata_train_file(filepath, use_tag_relations=False, use_two_words_relations=False,
+                                 use_both_directions=False):
     e1_e2_sentences = semreldata_e1_e2_relations()
     with open(filepath, "w+", encoding="UTF-8") as f:
         i = 1
         for sentence, relation in e1_e2_sentences:
+            if use_two_words_relations:
+                relation = semreldata_two_words_relations[relation]
+            if use_tag_relations:
+                relation = "{}(e1,e2)".format(relation)
             sentence = " ".join(sentence).split(" . ")
             # remove sub-sentences without tagged words to shorten the sentence sequence
             for s_i in range(len(sentence)):
@@ -235,6 +249,14 @@ def create_semreldata_train_file(filepath):
             f.write(relation)
             f.write("\nComment:\n\n")
             i += 1
+            if use_both_directions:
+                sentence = sentence.replace("e1>", "e3>").replace("e2>", "e1>").replace("e3>", "e2>")
+                sentence_row = "{}\t{}\n".format(i, sentence)
+                f.write(sentence_row)
+                relation = relation.replace("e1,e2", "e1,e3").replace("e2,e1", "e1,e2").replace("e1,e3", "e2,e1")
+                f.write(relation)
+                f.write("\nComment:\n\n")
+                i += 1
 
 
 if __name__ == "__main__":
@@ -246,3 +268,17 @@ if __name__ == "__main__":
 
     # create semreldata's train file for fine-tuning the BERT
     create_semreldata_train_file("../train/semreldata_bert.txt")
+
+    # create train file with (e1,e2) brackets added to relation name
+    create_semreldata_train_file("../train/semreldata_bert_tagged_relations.txt",
+                                 use_tag_relations=True,
+                                 use_two_words_relations=True)
+    # two words relations but no (e1,e2) brackets
+    create_semreldata_train_file("../train/semreldata_bert_two_words_relations.txt",
+                                 use_two_words_relations=True)
+    # two words relations, with (e1,e2) brackets and each sequence added for relation in both direction
+    # (ie. Hyponym-Hypernym(e1,e2) and Hyponym-Hypernym(e2,e1) where tagged words are the same but tags are flipped)
+    create_semreldata_train_file("../train/semreldata_bert_both_directions.txt",
+                                 use_tag_relations=True,
+                                 use_two_words_relations=True,
+                                 use_both_directions=True)
