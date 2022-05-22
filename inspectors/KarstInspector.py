@@ -190,15 +190,18 @@ class karstInspector:
 
 if __name__ == "__main__":
 
-    path = "../datasets/karst/Karst Annotated Definitions/AnnotatedDefinitions"
+    path = "../karst/karst_annotated_definitions/Karst Annotated Definitions/AnnotatedDefinitions"
 
     karst_stats = karstInspector(path)
-    
-    #karst_stats.printSemanticRelationsStats("EN")
-    #karst_stats.printSemanticRelationsStats("EN", "HAS_CAUSE")
 
-    #karst_stats.printDefinitionElementsStats("EN")
-    karst_stats.printDefinitionElementsStats("EN", "DEFINITOR")
-    karst_stats.printDefinitionElementsStats("EN", "DEFINIENDUM")
-    karst_stats.printDefinitionElementsStats("EN", "SPECIES")
-    karst_stats.printDefinitionElementsStats("EN", "GENUS")
+    karst_stats.printDefinitionElementsStats("EN")
+    karst_stats.printSemanticRelationsStats("EN")
+
+    karst_stats.printDefinitionElementsStats("HR")
+    karst_stats.printSemanticRelationsStats("HR")
+
+    karst_stats.printDefinitionElementsStats("SL")
+    karst_stats.printSemanticRelationsStats("SL")
+    
+    #karst_stats.printDefinitionElementsStats("EN", "DEFINITOR")
+
