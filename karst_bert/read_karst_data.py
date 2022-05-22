@@ -201,7 +201,7 @@ def annotate_karst_for_training(all_files_with_sentences: dict):
                         print(sentence)
     return annotated_sentences
 
-def split_data(annotated_sentences):
+def split_data(annotated_sentences, train_to_test_ratio):
     test_data=dict()
     train_data=dict()
     for sentence in annotated_sentences:
@@ -240,7 +240,7 @@ if __name__ == "__main__":
 
         annotated_sents=annotate_karst_for_training(all_files_with_sentences)
 
-        train_data, test_data = split_data(annotated_sents)
+        train_data, test_data = split_data(annotated_sents, train_to_test_ratio)
 
         write_data(train_data, f"{rootDir}/train/{file}")
         write_data(test_data, f"{rootDir}/test/{file}")
