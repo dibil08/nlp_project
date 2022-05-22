@@ -54,8 +54,6 @@ class infer_from_trained(object):
             self.nlp = spacy.load("en_core_web_lg")
         else:
             self.nlp = None
-        self.entities_of_interest = ["PERSON", "NORP", "FAC", "ORG", "GPE", "LOC", "PRODUCT", "EVENT", \
-                                     "WORK_OF_ART", "LAW", "LANGUAGE", 'PER']
         
         logger.info("Loading tokenizer and model...")
         from .train_funcs import load_state
@@ -119,23 +117,39 @@ class infer_from_trained(object):
             sents_doc = self.nlp(sent)
         else:
             sents_doc = sent
-        sent_ = next(sents_doc.sents)
-        root = sent_.root
+        roots = [sent_.root for sent_ in sents_doc.sents]
         #print('Root: ', root.text)
         
         subject = None; objs = []; pairs = []
-        for child in root.children:
-            #print(child.dep_)
-            if child.dep_ in ["nsubj", "nsubjpass"]:
-                if len(re.findall("[a-z]+",child.text.lower())) > 0: # filter out all numbers/symbols
-                    subject = child; #print('Subject: ', child)
-            elif child.dep_ in ["dobj", "attr", "prep", "ccomp"]:
-                objs.append(child); #print('Object ', child)
-        
+        for root in roots:
+            for child in root.children:
+                #print(child.dep_)
+                if child.dep_ in ["nsubj", "nsubjpass"]:
+                    if len(re.findall("[a-z]+",child.text.lower())) > 0: # filter out all numbers/symbols
+                        subject = child; #print('Subject: ', child)
+                elif child.dep_ in ["dobj", "attr", "prep", "ccomp"]:
+                    objs.append(child); #print('Object ', child)
+
         if (subject is not None) and (len(objs) > 0):
             for a, b in permutations([subject] + [obj for obj in objs], 2):
                 a_ = [w for w in a.subtree]
                 b_ = [w for w in b.subtree]
+                if a_[0].text in ["to", "as"]:
+                    a_ = a_[1:]
+                if b_[0].text in ["to", "as"]:
+                    b_ = b_[1:]
+                a__ = []
+                for el in a_:
+                    if el.text in [",", "that", "which"]:
+                        break
+                    a__.append(el)
+                a_ = a__
+                b__ = []
+                for el in b_:
+                    if el.text in [",", "that", "which"]:
+                        break
+                    b__.append(el)
+                b_ = b__
                 pairs.append((a_[0] if (len(a_) == 1) else a_ , b_[0] if (len(b_) == 1) else b_))
                     
         return pairs
@@ -178,19 +192,57 @@ class infer_from_trained(object):
             
         annotated = annotated.strip()
         annotated = re.sub(' +', ' ', annotated)
+
+        # make sure all opening and closing tags appear in sentence
+        for tag in ["[E1]", "[/E1]", "[E2]", "[/E2]"]:
+            if tag not in annotated:
+                return None
+        e1_i1, e1_i2 = annotated.index("[E1]"), annotated.index("[/E1]")
+        e2_i1, e2_i2 = annotated.index("[E2]"), annotated.index("[/E2]")
+        # make sure opening tags appear before closing tags, otherwise return None
+        if e1_i1 >= e1_i2 or e2_i1 >= e2_i2:
+            return None
+        # make sure E1 and E2 entities don't overlap, otherwise return None
+        if not (e1_i1 > e2_i2 or e2_i1 > e1_i2):
+            return None
         return annotated
     
     def get_annotated_sents(self, sent):
         sent_nlp = self.nlp(sent)
+        sent_nlp2 = self.nlp(sent)
         pairs = self.get_all_ent_pairs(sent_nlp)
         pairs.extend(self.get_all_sub_obj_pairs(sent_nlp))
+        if len(pairs) == 0:
+            was_replaced = False
+            sent_split = sent.split(" ")
+            replacing = [":", "-"]
+            for i in [1, 2, 3]:
+                if sent_split[i] in replacing:
+                    sent_split[i] = "is"
+                    sent_split[i + 1] = sent_split[i + 1].lower()
+                    was_replaced = True
+                    break
+            if not was_replaced:
+                print('Found less than 2 entities!')
+                return
+            sent2 = " ".join(sent_split)
+            sent_nlp2 = self.nlp(sent2)
+            pairs = self.get_all_ent_pairs(sent_nlp2)
+            pairs.extend(self.get_all_sub_obj_pairs(sent_nlp2))
         if len(pairs) == 0:
             print('Found less than 2 entities!')
             return
         annotated_list = []
         for pair in pairs:
-            annotated = self.annotate_sent(sent_nlp, pair[0], pair[1])
-            annotated_list.append(annotated)
+            annotated = self.annotate_sent(sent_nlp2, pair[0], pair[1])
+            annotated_orig = self.annotate_sent(sent_nlp2, pair[0], pair[1])
+            if annotated is not None and annotated_orig is not None:
+                annotated_list.append((annotated, annotated_orig))
+
+        if not len(annotated_list):
+            print('Found less than 2 entities!')
+            return
+
         return annotated_list
     
     def get_e1e2_start(self, x):
@@ -198,7 +250,7 @@ class infer_from_trained(object):
                         [i for i, e in enumerate(x) if e == self.e2_id][0])
         return e1_e2_start
     
-    def infer_one_sentence(self, sentence):
+    def infer_one_sentence(self, sentence, sentence_orig):
         self.net.eval()
         tokenized = self.tokenizer.encode(sentence); #print(tokenized)
         e1_e2_start = self.get_e1e2_start(tokenized); #print(e1_e2_start)
@@ -215,22 +267,24 @@ class infer_from_trained(object):
         with torch.no_grad():
             classification_logits = self.net(tokenized, token_type_ids=token_type_ids, attention_mask=attention_mask, Q=None,\
                                         e1_e2_start=e1_e2_start)
-            predicted = torch.softmax(classification_logits, dim=1).max(1)[1].item()
-        print("Sentence: ", sentence)
-        print("Predicted: ", self.rm.idx2rel[predicted].strip(), '\n')
-        return predicted
+            prediction = torch.softmax(classification_logits, dim=1).max(1)
+            score = prediction[0].item()
+            predicted = prediction[1].item()
+        predicted_relation = self.rm.idx2rel[predicted].strip()
+
+        return sentence_orig, predicted_relation, score
     
     def infer_sentence(self, sentence, detect_entities=False):
         if detect_entities:
             sentences = self.get_annotated_sents(sentence)
             if sentences != None:
                 preds = []
-                for sent in sentences:
-                    pred = self.infer_one_sentence(sent)
+                for sent, sent_orig in sentences:
+                    pred = self.infer_one_sentence(sent, sent_orig)
                     preds.append(pred)
                 return preds
         else:
-            return self.infer_one_sentence(sentence)
+            return self.infer_one_sentence(sentence, sentence)
 
 class FewRel(object):
     def __init__(self, args=None):
