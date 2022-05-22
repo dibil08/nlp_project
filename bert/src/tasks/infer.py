@@ -36,7 +36,7 @@ def load_pickle(filename, folder_path="data"):
 
 
 class infer_from_trained(object):
-    def __init__(self, args=None, detect_entities=False, model_dir_path="data"):
+    def __init__(self, args=None, detect_entities=False, model_dir_path="data", spacy_model="en_core_web_lg"):
         # add path of bert's src module to sys path so that pickle.load() function can find it
         src_module_path = os.path.join(os.path.dirname(sys.path[0]), "bert")
         sys.path.append(src_module_path)
@@ -51,7 +51,7 @@ class infer_from_trained(object):
         print("Model directory:", self.model_dir_path)
         
         if self.detect_entities:
-            self.nlp = spacy.load("en_core_web_lg")
+            self.nlp = spacy.load(spacy_model)
         else:
             self.nlp = None
         
