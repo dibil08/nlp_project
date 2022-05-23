@@ -163,13 +163,21 @@ class karstInspector:
             print("{}: {}".format(data["count"], relation))
             item_counter = Counter(data["storage"]).most_common()
             for item in item_counter:
-                print("\t\t{}: {}".format(item[1], item[0]))
+                if int(item[1]) > 1:
+                    print("\t\t{}: {}".format(item[1], item[0]))
         else:
             for key, value in self.stats[language]["semantic_relations"].items():
                 print("{}: {}".format(key, value["count"]))
                 item_counter = Counter(value["storage"]).most_common()
+                count_m = 0
+                count_1 = 0
                 for item in item_counter:
-                    print("\t\t{}: {}".format(item[1], item[0]))
+                    if int(item[1]) > 1:
+                        count_m += item[1]
+                        print("\t\t{}: {}".format(item[1], item[0]))
+                    else:
+                        count_1 += item[1]
+                print("M: {}, 1: {}".format(count_m, count_1))
 
     def printDefinitionElementsStats(self, language, definition=None):
         print("\nLanguage:", language)
@@ -178,13 +186,22 @@ class karstInspector:
             print("{}: {}".format(data["count"], definition))
             item_counter = Counter(data["storage"]).most_common()
             for item in item_counter:
-                print("\t\t{}: {}".format(item[1], item[0]))
+                if int(item[1]) > 1:
+                    print("\"item[0]\",")
+                    #print("\t\t{}: {}".format(item[1], item[0]))
         else:
             for key, value in self.stats[language]["definition_elements"].items():
                 print("{}: {}".format(key, value["count"]))
                 item_counter = Counter(value["storage"]).most_common()
+                count_m = 0
+                count_1 = 0
                 for item in item_counter:
-                    print("\t\t{}: {}".format(item[1], item[0]))
+                    if int(item[1]) > 1:
+                        count_m += item[1]
+                        print("\t\t{}: {}".format(item[1], item[0]))
+                    else:
+                        count_1 += item[1]
+                print("M: {}, 1: {}".format(count_m, count_1))
 
 
 
@@ -197,11 +214,11 @@ if __name__ == "__main__":
     karst_stats.printDefinitionElementsStats("EN")
     karst_stats.printSemanticRelationsStats("EN")
 
-    karst_stats.printDefinitionElementsStats("HR")
-    karst_stats.printSemanticRelationsStats("HR")
+    #karst_stats.printDefinitionElementsStats("HR")
+    #karst_stats.printSemanticRelationsStats("HR")
 
-    karst_stats.printDefinitionElementsStats("SL")
-    karst_stats.printSemanticRelationsStats("SL")
+    #karst_stats.printDefinitionElementsStats("SL")
+    #karst_stats.printSemanticRelationsStats("SL")
     
     #karst_stats.printDefinitionElementsStats("EN", "DEFINITOR")
 

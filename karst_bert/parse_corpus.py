@@ -45,5 +45,55 @@ sentences = cleanSentences(sentences)
 
 print(len(sentences))
 
+
+definitors = [
+    "are",
+    "is a",
+    "is",
+    "is defined as",
+    "the term",
+    "are known as",
+    "is the",
+    "are defined as",
+    "refers to",
+    "known as",
+    "is an",
+    "are an",
+    "are called",
+    "are a",
+    "to describe",
+    "also known as",
+    "is a type of",
+    "is a term describing",
+    "is defined as a",
+    "refers to a",
+    "is used to describe",
+    "as a"]
+
+for s in sentences:
+    definiendum = 0
+    definitor = 0
+    genus = 0
+
+    if "sinkhole" in s:
+        definiendum = s.index("sinkhole")
+        s = s.replace("sinkhole", "SINKHOLE")        
+    
+        for d in definitors:
+            d2 = " " + d + " "
+            if d2 in s:
+                definitor = s.index(d2)
+                s = s.replace(d2, d2.upper())           
+                break
+
+        if definiendum < definitor:
+        
+            print(definiendum)
+            print(definitor)
+            print(s + "\n")
+
+    
+
+
 #for s in sentences[1000:10000]:
 #    print(s + "\n")
