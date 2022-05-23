@@ -1,3 +1,0 @@
-http://compling.hss.ntu.edu.sg/omw/
-https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets#traditional-information-extraction
-http://nlpprogress.com/english/relationship_extraction.html

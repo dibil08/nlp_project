@@ -9,8 +9,3 @@
 [8] Shi, P., & Lin, J. Simple bert models for relation extraction and semantic role labeling. (2019)
 [9] Mandya, A., Bollegala, D., Coenen, F., & Atkinson, K. Frame-based semantic patterns for relation extraction. (2017)
 
-http://nlpprogress.com/english/relationship_extraction.html
-https://www.ldc.upenn.edu/collaborations/past-projects/ace
-https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets#traditional-information-extraction
-https://paperswithcode.com/task/relation-extraction
-
