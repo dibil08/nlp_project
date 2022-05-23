@@ -35,15 +35,14 @@ def cleanSentences(sentences):
     return cleaned_sentences
 
 # download if missing
-# nltk.download('punkt')
+#nltk.download('punkt')
 
-file = open("E:/nlp_project/karst_bert/english_corpus__project_fri.txt", "r", encoding="utf8")
+file = open("./karst_bert/english_corpus__project_fri.txt", "r", encoding="utf8")
 corpus = file.read()
 
 sentences = getSentences(corpus)
 sentences = cleanSentences(sentences)
 
-print(len(sentences))
-
-#for s in sentences[1000:10000]:
-#    print(s + "\n")
+with open('./karst_bert/before_filter_english_corpus.txt', 'w', encoding="utf8") as f:
+    for s in sentences:
+        f.write(s+"\n")

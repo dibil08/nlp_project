@@ -186,6 +186,20 @@ class karstInspector:
                 for item in item_counter:
                     print("\t\t{}: {}".format(item[1], item[0]))
 
+    def getDefinitionElementsStats(self, language, definition=None):
+        print("\nLanguage:", language)
+        if definition:
+            data = self.stats[language]["definition_elements"][definition]
+            item_counter = Counter(data["storage"]).most_common()
+            return item_counter
+        else:
+            counters=[]
+            for key, value in self.stats[language]["definition_elements"].items():
+                print("{}: {}".format(key, value["count"]))
+                item_counter = Counter(value["storage"]).most_common()
+                counters.append(item_counter)
+            return counters
+
 
 
 if __name__ == "__main__":
@@ -199,6 +213,6 @@ if __name__ == "__main__":
 
     #karst_stats.printDefinitionElementsStats("EN")
     karst_stats.printDefinitionElementsStats("EN", "DEFINITOR")
-    karst_stats.printDefinitionElementsStats("EN", "DEFINIENDUM")
-    karst_stats.printDefinitionElementsStats("EN", "SPECIES")
-    karst_stats.printDefinitionElementsStats("EN", "GENUS")
+    #karst_stats.printDefinitionElementsStats("EN", "DEFINIENDUM")
+    #karst_stats.printDefinitionElementsStats("EN", "SPECIES")
+    #karst_stats.printDefinitionElementsStats("EN", "GENUS")
