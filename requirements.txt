@@ -3,3 +3,5 @@ classla
 zipfile
 matplotlib
 seqeval
+filelock
+sentencepiece

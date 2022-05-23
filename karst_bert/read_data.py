@@ -2,16 +2,25 @@ import os
 import csv
 
 from copy import deepcopy
+from read_karst_data import split_data, write_data
 
 
-def get_sentences_dict():
-    karst_annotated_en = "../datasets/karst/AnnotatedDefinitions/EN"  # path to annotated english sentences
+# maps SemRelData's relations, which consist of 1 word only, to equivalent 2-word relations
+semreldata_two_words_relations = {
+    "Hypernym": "Hyponym-Hypernym",
+    "Holonym": "Meronym-Holonym",  # Meronym is part of Holonym in the same way as Hyponym is type of Hypernym
+    "Co-Hyponym": "Co-Hyponym-Co-Hyponym",  # both words in Co-Hyponym relation are Co-Hyponyms of "each other"
+    "Synonym": "Synonym-Synonym"  # both words in Synonym relation are Synonyms of each other
+}
+
+
+def get_sentences_dict(karst_annotated_filepath="../datasets/karst/AnnotatedDefinitions/EN"):
     all_sentences = {}
     file_i = 0
 
     # iterate through each file in directory
-    for f in os.listdir(karst_annotated_en):
-        f_path = os.path.join(karst_annotated_en, f)
+    for f in os.listdir(karst_annotated_filepath):
+        f_path = os.path.join(karst_annotated_filepath, f)
         # make sure file is not folder
         if not os.path.isfile(f_path):
             continue
@@ -212,11 +221,16 @@ def semreldata_e1_e2_relations():
     return all_e1_e2_sentences
 
 
-def create_semreldata_train_file(filepath):
+def create_semreldata_train_file(filepath, use_tag_relations=False, use_two_words_relations=False,
+                                 use_both_directions=False):
     e1_e2_sentences = semreldata_e1_e2_relations()
     with open(filepath, "w+", encoding="UTF-8") as f:
         i = 1
         for sentence, relation in e1_e2_sentences:
+            if use_two_words_relations:
+                relation = semreldata_two_words_relations[relation]
+            if use_tag_relations:
+                relation = "{}(e1,e2)".format(relation)
             sentence = " ".join(sentence).split(" . ")
             # remove sub-sentences without tagged words to shorten the sentence sequence
             for s_i in range(len(sentence)):
@@ -235,6 +249,62 @@ def create_semreldata_train_file(filepath):
             f.write(relation)
             f.write("\nComment:\n\n")
             i += 1
+            if use_both_directions:
+                sentence = sentence.replace("e1>", "e3>").replace("e2>", "e1>").replace("e3>", "e2>")
+                sentence_row = "{}\t{}\n".format(i, sentence)
+                f.write(sentence_row)
+                relation = relation.replace("e1,e2", "e1,e3").replace("e2,e1", "e1,e2").replace("e1,e3", "e2,e1")
+                f.write(relation)
+                f.write("\nComment:\n\n")
+                i += 1
+
+
+def read_sentences_from_train_or_test_file(filepath, add_quotes=False):
+    sentences = []
+    relation_next = False
+    comment_indicator = "Comment: "
+    curr_sentence = ""
+    occurred_relations = set()
+
+    with open(filepath, encoding="UTF-8") as f:
+        i = 1
+        for row in f:
+            row = row.strip("\n")
+            row_split = row.split("\t")
+            if row_split[0] == str(i):
+                curr_sentence = row_split[1][1:-1]
+                if add_quotes:
+                    curr_sentence = f"\"{curr_sentence}\""
+                relation_next = True
+                i += 1
+            else:
+                if relation_next:
+                    curr_relation = row.replace("<e1>", "e1").replace("<e2>", "e2")
+                    occurred_relations.add(curr_relation)
+                    relation_next = False
+                elif row.startswith(comment_indicator):
+                    comment = row.split(comment_indicator)[1]
+                    sentences.append([i, curr_relation, curr_sentence, comment])
+
+    return sentences, occurred_relations
+
+
+def get_hypernym_sentences_for_training(filepath="../datasets/karst/AnnotatedDefinitions/EN", idx=0, add_quotes=False):
+    hypernym_sentences_dict = get_sentences_dict(filepath)
+    sentences_list = []
+    relation = "Hyponym-Hypernym(e1,e2)"
+    for i in hypernym_sentences_dict:
+        for j in hypernym_sentences_dict[i]:
+            sentence_dict = hypernym_sentences_dict[i][j]
+            annotated_sentence = annotate_sentence_for_bert(sentence_dict)
+            annotated_sentence = annotated_sentence.replace("[E1]", "<e1>").replace("[/E1]", "</e1>")
+            annotated_sentence = annotated_sentence.replace("[E2]", "<e2>").replace("[/E2]", "</e2>")
+            if add_quotes:
+                annotated_sentence = f"\"{annotated_sentence}\""
+            sentences_list.append([idx, relation, annotated_sentence, ""])
+            idx += 1
+
+    return sentences_list
 
 
 if __name__ == "__main__":
@@ -246,3 +316,40 @@ if __name__ == "__main__":
 
     # create semreldata's train file for fine-tuning the BERT
     create_semreldata_train_file("../train/semreldata_bert.txt")
+
+    # create train file with (e1,e2) brackets added to relation name
+    create_semreldata_train_file("../train/semreldata_bert_tagged_relations.txt",
+                                 use_tag_relations=True,
+                                 use_two_words_relations=True)
+    # two words relations but no (e1,e2) brackets
+    create_semreldata_train_file("../train/semreldata_bert_two_words_relations.txt",
+                                 use_two_words_relations=True)
+    # two words relations, with (e1,e2) brackets and each sequence added for relation in both direction
+    # (ie. Hyponym-Hypernym(e1,e2) and Hyponym-Hypernym(e2,e1) where tagged words are the same but tags are flipped)
+    create_semreldata_train_file("../train/semreldata_bert_both_directions.txt",
+                                 use_tag_relations=True,
+                                 use_two_words_relations=True,
+                                 use_both_directions=True)
+
+    train_file_path = "../train/karst_EN_bert.txt"
+    test_file_path = "../test/karst_EN_bert.txt"
+
+    train_sentences, _ = read_sentences_from_train_or_test_file(train_file_path, add_quotes=True)
+    test_sentences, _ = read_sentences_from_train_or_test_file(test_file_path, add_quotes=True)
+
+    sentences = train_sentences + test_sentences
+    for i in range(len(sentences)):
+        sentences[i][0] = i + 1
+
+    idx = sentences[-1][0]
+    hypernym_sentences = get_hypernym_sentences_for_training(idx=idx, add_quotes=True)
+    all_sentences = sentences + hypernym_sentences
+
+    train_to_test_ratio = 4
+    train_data, test_data = split_data(all_sentences, train_to_test_ratio)
+
+    train_save_path = "../train/karst_EN_with_hypernyms_bert.txt"
+    test_save_path = "../test/karst_EN_with_hypernyms_bert.txt"
+
+    write_data(train_data, train_save_path)
+    write_data(test_data, test_save_path)

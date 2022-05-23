@@ -4,16 +4,31 @@ from collections import defaultdict
 
 
 class CustomArgs:
-    def __init__(self):
+    def __init__(self, num_classes=4, model_size="bert-base-uncased"):
         self.use_pretrained_blanks = 1
         self.model_no = 0
-        self.num_classes = 4
-        self.model_size = "bert-base-uncased"
+        self.num_classes = num_classes
+        self.model_size = model_size
 
 
-inferer = infer_from_trained(CustomArgs(), detect_entities=False,
-                             model_dir_path="./models/finetuned_semreldata_11epochs")
-model_relations = inferer.rm.idx2rel
+# model will detect E1 and E2 entities on its own if set to True, else using entities from annotated definitions
+inferring_detect_entities = False
+
+# tagged relation -> Hyponym-Hypernym(e1,e2); untagged relation -> Hyponym-Hypernym(e1,e2)
+# boolean is used for determining keys for detected relation counts only - if used model is fine-tuned on
+#     untagged relations, it must be set to False manually
+using_tagged_relations = True
+
+
+print_detection_and_failure_sentences = True
+
+model_dir_default = "../bert/data"
+model_dir1 = "./models/finetuned_semreldata_11epochs"
+model_dir2 = "../bert/data/epochs30"
+infer_class = infer_from_trained(CustomArgs(), detect_entities=True,
+                                 model_dir_path=model_dir2)
+model_relations = infer_class.rm.idx2rel
+
 
 karst_sentences_dict = get_sentences_dict()
 count_results = defaultdict(int)
@@ -21,19 +36,47 @@ results = []
 
 all_detections = 0
 missing_tags = []
+failed_extraction = []
 for i in karst_sentences_dict:
     for j in karst_sentences_dict[i]:
         print("---------------")
         sentence_dict = karst_sentences_dict[i][j]
         annotated_sentence = annotate_sentence_for_bert(sentence_dict)
-        print(annotated_sentence)
-        if "[E1]" not in annotated_sentence or "[E2]" not in annotated_sentence:
+
+        if not inferring_detect_entities and ("[E1]" not in annotated_sentence or "[E2]" not in annotated_sentence):
             missing_tags.append((i, j, annotated_sentence))
             continue
-        relation_index = inferer.infer_sentence(annotated_sentence, detect_entities=False)
-        detected_relation = model_relations[relation_index].strip()
-        results.append((annotated_sentence, detected_relation))
-        count_results[detected_relation] += 1
+        elif inferring_detect_entities:
+            # Remove E1 and E2 tags from sentence because model will try to determine them on its own
+            annotated_sentence = annotated_sentence.replace("[E1]", "").replace("[/E1]", "")
+            annotated_sentence = annotated_sentence.replace("[E2]", "").replace("[/E2]", "")
+
+        predictions = infer_class.infer_sentence(annotated_sentence, detect_entities=inferring_detect_entities)
+
+        if predictions is None:
+            failed_extraction.append(annotated_sentence)
+            continue
+        elif inferring_detect_entities:
+            predictions = sorted(predictions, key=lambda el: el[-1], reverse=True)
+        else:
+            predictions = [predictions]
+
+        for sentence in predictions:
+            print(sentence)
+
+        best_prediction = predictions[0]
+        best_prediction_relation = best_prediction[1]
+
+        results.append(best_prediction)
+
+        # key for dictionary - remove (e1,e2) or (e2,e1) from relation's name if using tagged relations
+        if using_tagged_relations:
+            relation_key = best_prediction_relation[:-7]
+        else:
+            relation_key = best_prediction_relation
+
+        # increment relation's prediction count
+        count_results[relation_key] += 1
         all_detections += 1
 
 print("\n\nClassified relations distribution:")
@@ -44,5 +87,16 @@ print("    ------")
 print("    Total: {} ({})".format(all_detections, 1.0))
 
 print("\nNumber of sentences with missing tags:", len(missing_tags))
-for x in missing_tags:
-    print(x)
+if print_detection_and_failure_sentences:
+    for x in missing_tags:
+        print(x)
+
+print("\nNumber of failed entity extractions:", len(failed_extraction))
+if print_detection_and_failure_sentences:
+    for x in failed_extraction:
+        print(x)
+
+print("\nPredictions considered as correct:")
+if print_detection_and_failure_sentences:
+    for x in results:
+        print(x)
