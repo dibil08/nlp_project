@@ -22,3 +22,9 @@ Develop a tool which will extract new instances of domain-specific semantic rela
 - Limitations to a selection of relations
 - Bonus points for other domains
 - Bonus points for languages other than English. 
+
+## Run instructions:
+
+```bash
+pip install -r requirements.txt
+```
