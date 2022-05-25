@@ -27,12 +27,14 @@ relations_translation_dict={
 }
 relations=set()
 
-def get_sentences_dict(karst_annotated_path):
+def get_sentences_dict(karst_annotated_path, files=None):
     all_files_with_sentences = {}
     file_i = 0
 
     # iterate through each file in directory
-    for f in os.listdir(karst_annotated_path):
+    if files is None:
+        files = os.listdir(karst_annotated_path)
+    for f in files:
         f_path = os.path.join(karst_annotated_path, f)
         # make sure file is not folder
         if not os.path.isfile(f_path):
@@ -191,7 +193,7 @@ def annotate_karst_for_training(all_files_with_sentences: dict):
                         current_sentence_annotated[relation[3]-1] = "{}</e2>".format(current_sentence_annotated[relation[3]-1])
                         
                         current_sentence_annotated=f'\"{" ".join(current_sentence_annotated[:-1])}\"'
-                        relation=f"{relation[0]}(<e1>,<e2>)"
+                        relation=f"{relation[0]}(e1,e2)"
                         comment=f"File: {sentence['file']}, sentence: {sentence_index}"
                         annotated_sentences.append((idx,relation,current_sentence_annotated,comment))
                         idx+=1

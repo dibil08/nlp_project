@@ -14,12 +14,14 @@ semreldata_two_words_relations = {
 }
 
 
-def get_sentences_dict(karst_annotated_filepath="../datasets/karst/AnnotatedDefinitions/EN"):
+def get_sentences_dict(karst_annotated_filepath="../datasets/karst/AnnotatedDefinitions/EN", filenames=None):
     all_sentences = {}
     file_i = 0
 
     # iterate through each file in directory
-    for f in os.listdir(karst_annotated_filepath):
+    if filenames is None:
+        filenames = os.listdir(karst_annotated_filepath)
+    for f in filenames:
         f_path = os.path.join(karst_annotated_filepath, f)
         # make sure file is not folder
         if not os.path.isfile(f_path):
@@ -289,8 +291,9 @@ def read_sentences_from_train_or_test_file(filepath, add_quotes=False):
     return sentences, occurred_relations
 
 
-def get_hypernym_sentences_for_training(filepath="../datasets/karst/AnnotatedDefinitions/EN", idx=0, add_quotes=False):
-    hypernym_sentences_dict = get_sentences_dict(filepath)
+def get_hypernym_sentences_for_training(filepath="../datasets/karst/AnnotatedDefinitions/EN", filenames=None,
+                                        idx=0, add_quotes=False):
+    hypernym_sentences_dict = get_sentences_dict(filepath, filenames=filenames)
     sentences_list = []
     relation = "Hyponym-Hypernym(e1,e2)"
     for i in hypernym_sentences_dict:

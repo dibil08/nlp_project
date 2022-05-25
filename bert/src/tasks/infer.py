@@ -221,6 +221,8 @@ class infer_from_trained(object):
             sent_split = sent.split(" ")
             replacing = [":", "-"]
             for i in [1, 2, 3]:
+                if len(sent_split) - 1 < i:
+                    break
                 if sent_split[i] in replacing:
                     sent_split[i] = "is"
                     sent_split[i + 1] = sent_split[i + 1].lower()
