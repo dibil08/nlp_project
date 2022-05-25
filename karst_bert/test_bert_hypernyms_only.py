@@ -14,19 +14,18 @@ class CustomArgs:
 # model will detect E1 and E2 entities on its own if set to True, else using entities from annotated definitions
 inferring_detect_entities = False
 
-# tagged relation -> Hyponym-Hypernym(e1,e2); untagged relation -> Hyponym-Hypernym(e1,e2)
+# tagged relation -> Hyponym-Hypernym(e1,e2); untagged relation -> Hyponym-Hypernym
 # boolean is used for determining keys for detected relation counts only - if used model is fine-tuned on
 #     untagged relations, it must be set to False manually
-using_tagged_relations = True
+using_tagged_relations = False
 
 
-print_detection_and_failure_sentences = True
+print_detection_and_failure_sentences = False
 
-model_dir_default = "../bert/data"
-model_dir1 = "./models/finetuned_semreldata_11epochs"
-model_dir2 = "../bert/data/epochs30"
+model_dir = input("Specify model, fine-tuned on SemRelData:\n")
+
 infer_class = infer_from_trained(CustomArgs(), detect_entities=True,
-                                 model_dir_path=model_dir2)
+                                 model_dir_path=model_dir)
 model_relations = infer_class.rm.idx2rel
 
 
@@ -96,7 +95,7 @@ if print_detection_and_failure_sentences:
     for x in failed_extraction:
         print(x)
 
-print("\nPredictions considered as correct:")
 if print_detection_and_failure_sentences:
+    print("\nPredictions considered as correct:")
     for x in results:
         print(x)
