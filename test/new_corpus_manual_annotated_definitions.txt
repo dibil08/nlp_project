@@ -1,0 +1,1092 @@
+1	"<e1>Erosion</e1> is a hydraulic action , derived from <e2>the energy of running water</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 0
+
+2	"An <e1>iceberg</e1> is a piece of ice <e2>that has broken from an ice shelf</e2> and that floats in the Ocean"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 2
+
+3	"<e1>Tectonic denudation</e1> is a term that describes the unloading of mountains by <e2>gravity sliding and spreading</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 11
+
+4	"A <e1>coral reef</e1> is a ridge or mound built of the skeletal remains of generations of coral animals , upon which grow <e2>living coral polyps</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 14
+
+5	"<e1>Geomorphic generation</e1> is a part of the classification that allows for the recognition of more than one geomorphic process type or landform at any given location <e2>due to process overprinting</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 0
+
+6	"A <e1>sea cave</e1> is a hollow <e2>excavated by waves</e2> in a zone of weakness on a cliff"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 9
+
+7	"<e1>Moraine</e1> is a material <e2>transported by a glacier and then deposited</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 12
+
+8	"An <e1>anabranching alluvial river</e1> is a system of mul tiple channels characterized by vegetated or oth erwise stable <e2>alluvial islands that divide flows at discharges up to bankfull</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 17
+
+9	"An <e1>earthquake</e1> is a vibration or oscillation of the surface of the earth caused by <e2>sudden release of enormous pressure</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 18
+
+10	"A <e1>paleoseismic record</e1> is a record of large or great earthquakes ( <e2>because geologic evidence of small and moderate-sized earthquakes is rarely created or preserved near the surface</e2> )"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 4
+
+11	"<e1>Ophiolites</e1> are sections of the earth's oceanic crust and the underlying upper mantle that have been <e2>uplifted or emplaced and exposed</e2> within the continental crustal rocks"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 11
+
+12	"<e1>Zeolites</e1> are silicate minerals that typically form during <e2>low-grade metamorphism of volcanic rocks</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 22
+
+13	"<e1>Aiguille</e1> is a sharply pointed rock outcrop or peak , very often produced by <e2>intense frost action</e2> in mountainous regions , such as the Alps"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 0
+
+14	"<e1>Floodplain</e1> is a relatively flat alluvial landform , constructed largely by the <e2>flow regime of the present river</e2> and subject to flooding"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 6
+
+15	"<e1>Rills</e1> are tiny hillside channels a few centimetres wide and deep that are cut by <e2>ephemeral rivulets</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 9
+
+16	"<e1>Geer moraines</e1> or washboard moraines are series of small and roughly parallel ridges of till that are ordinarily <e2>associated with lakes or former lakes</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 12
+
+17	"<e1>Eskers</e1> are the chief landform <e2>created by subglacial meltwater</e2> and form by the infilling of subglacial or englacial channels or by sedimentation in supraglacial channels"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 13
+
+18	"<e1>Eskers</e1> are the chief landform created by subglacial meltwater and form by the <e2>infilling of subglacial or englacial channels or by sedimentation in supraglacial channels</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 13
+
+19	"<e1>Icing blisters</e1> are ice mounds created by <e2>groundwater injected at high pressure between icing layers</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 14
+
+20	"<e1>Dunes</e1> are collections of loose sand built <e2>piecemeal by the wind</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 17
+
+21	"<e1>Blowouts</e1> are depressions created by the <e2>deflation of loose sand partly bound by plant roots</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 18
+
+22	"<e1>Caldera</e1> is a large crater or depression resulting from a <e2>powerful volcanic explosion</e2> or the collapse of the central part of a volcano"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 2
+
+23	"<e1>Catchment</e1> is an area that is <e2>drained by a river</e2> and defined by the surrounding watershed"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 3
+
+24	"<e1>Catchment</e1> is an area that is drained by a river and <e2>defined by the surrounding watershed</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 3
+
+25	"<e1>Corestone</e1> is a spheroidal boulder of relatively unweathered rock surrounded by saprolite and formed by <e2>sub-surface weathering of a joint block</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 6
+
+26	"<e1>Corrasion</e1> is the mechanical erosion of rock surfaces <e2>by the impact of moving debris</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 7
+
+27	"<e1>Dreikanter</e1> is a shaped pebble found on the surface in desert regions and periglacial areas with three distinct facets on its upper surface as a result of <e2>wind abrasion</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 11
+
+28	"<e1>Drift ice</e1> is any type of floating ice that <e2>has drifted from its point of origin</e2> and broken into pieces small enough for a ship to sail through"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 12
+
+29	"<e1>Fiard</e1> is a coastal inlet produced by the <e2>drowning of an undulating landscape of shallow valleys and low interfluves</e2>"
+HAS\_CAUSE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 14
+
+30	"An <e1>iceberg</e1> is a piece of ice that has broken from an ice shelf and <e2>that floats in the Ocean</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 2
+
+31	"A <e1>ground moraine</e1> is a blanket of mixed glacial sediments - mainly tills and other diamictons - formed <e2>beneath a glacier</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 13
+
+32	"A <e1>riegel</e1> is a rock barrier <e2>that sits across a valley , often where a band of hard rock outcrops</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 8
+
+33	"A <e1>sea cave</e1> is a hollow excavated by waves <e2>in a zone of weakness on a cliff</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 9
+
+34	"A <e1>tidewater glacier</e1> is a glacier <e2>that terminates in the sea</e2> , where it usually ends in an ice cliff from which icebergs are discharged"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 10
+
+35	"An <e1>earthquake</e1> is a vibration or oscillation of the <e2>surface of the earth</e2> caused by sudden release of enormous pressure"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 18
+
+36	"A <e1>mantle plume</e1> is a column of hot rock ( not magma ) that <e2>ascends toward the surface from the lowermantle</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 23
+
+37	"<e1>Sills</e1> are concordant intrusions and frequently form resistant , tabular bands within sedimentary beds , although they <e2>may cross beds to spread along other bedding planes</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 6
+
+38	"<e1>Phacoliths</e1> are lens-shaped masses <e2>seated in anticlinal crests and synclinal troughs</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 8
+
+39	"<e1>Ophiolites</e1> are sections of the <e2>earth's oceanic crust and the underlying upper mantle</e2> that have been uplifted or emplaced and exposed within the continental crustal rocks"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 11
+
+40	"<e1>Ophiolites</e1> are sections of the earth's oceanic crust and the underlying upper mantle that have been uplifted or emplaced and exposed within the <e2>continental crustal rocks</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 11
+
+41	"<e1>Karst springs</e1> are locations <e2>where groundwater emerges from the limestone</e2> and flows across the surface forming a stream or contained pool"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 21
+
+42	"<e1>Karst springs</e1> are locations where groundwater emerges from the limestone and <e2>flows across the surface</e2> forming a stream or contained pool"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 21
+
+43	"<e1>Aiguille</e1> is a sharply pointed rock outcrop or peak , very often produced by intense frost action in <e2>mountainous regions , such as the Alps</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 0
+
+44	"<e1>Dome dune</e1> is a low , circular or oval mound <e2>formed where dune height is inhibited by unobstructed strong winds</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 2
+
+45	"<e1>Estuary</e1> is the <e2>seaward</e2> end of a river , opening towards the sea , typically through a funnel-shaped inlet , and usually subject to tidal movements and incursions of salt water from the sea"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 3
+
+46	"<e1>Terracette</e1> is a small terrace that forms a step on a hillside . They often occur in near parallel series running approximately <e2>along the contours of a hillslope</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 7
+
+47	"<e1>Rills</e1> are tiny <e2>hillside</e2> channels a few centimetres wide and deep that are cut by ephemeral rivulets"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 9
+
+48	"<e1>Cirques</e1> are typically armchair-shaped hollows that form in <e2>mountainous terrain</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 10
+
+49	"<e1>Solifluction</e1> is an important <e2>periglacial</e2> process and forms sheets , lobes , terraces , and ploughing boulders"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 16
+
+50	"<e1>Chute</e1> is a narrow channel with a swift current , applied to <e2>rivers</e2> , the straits between the mainland and islands , and to furrows produced by avalanches on hill slopes"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 4
+
+51	"<e1>Chute</e1> is a narrow channel with a swift current , applied to rivers , the <e2>straits between the mainland and islands</e2> , and to furrows produced by avalanches on hill slopes"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 4
+
+52	"<e1>Chute</e1> is a narrow channel with a swift current , applied to rivers , the straits between the mainland and islands , and to <e2>furrows produced by avalanches on hill slopes</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 4
+
+53	"<e1>Corestone</e1> is a spheroidal boulder of relatively unweathered rock <e2>surrounded by saprolite</e2> and formed by sub-surface weathering of a joint block"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 6
+
+54	"<e1>Daya</e1> is a shallow depression found primarily in <e2>areas underlain by limestone bedrock or calcrete</e2> as a result of solution"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 9
+
+55	"<e1>Dreikanter</e1> is a shaped pebble found on the <e2>surface in desert regions and periglacial areas</e2> with three distinct facets on its upper surface as a result of wind abrasion"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 11
+
+56	"<e1>Fiard</e1> is a <e2>coastal</e2> inlet produced by the drowning of an undulating landscape of shallow valleys and low interfluves"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 14
+
+57	"<e1>Foreshore</e1> is the part of a coast lying <e2>between the lowest low-water line and the average high-water mark</e2>"
+HAS\_LOCATION(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 15
+
+58	"<e1>Abrasion</e1> is a <e2>particle-by-particle erosion</e2> process and produces large amounts of silt-sized ( 0.002 - 0.0625 mm ) sediments"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 3
+
+59	"A <e1>fault</e1> is a fracture along which movement associated with an earthquake has taken place , <e2>one side of the fault moving differentially to the other side</e2>"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 9
+
+60	"<e1>Tephra</e1> is a term covering three types of pyroclastic material of <e2>differing grain size</e2>"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 2
+
+61	"The <e1>profilometer</e1> is a comb <e2>equipped with fine , closely spaced teeth</e2> that advance or retreat through the housing when depressed against a rough surface"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 15
+
+62	"A <e1>tsunami</e1> is a series of ocean waves of <e2>extremely long wave length and period</e2> that is generated by an impulsive disturbance that displaces the water , rather than by the wind"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 20
+
+63	"<e1>Magnitude</e1> is a measure of the amount of energy released by an earthquake , and it is <e2>proportional to the area of the rupture surface and to the amount of displacement</e2>"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 22
+
+64	"A <e1>profilometer</e1> is a comb <e2>equipped with fine , closely spaced teeth</e2> that advance or retreat through the housing when depressed against a rough surface"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 1
+
+65	"<e1>Amino-acid geochronology</e1> is a relative-age dating technique <e2>based on the premise that proteins in bones and shells are affected by a number of chemical reactions that are partly time-dependent</e2>"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 2
+
+66	"A <e1>paleoseismic record</e1> is a record <e2>of large or great earthquakes</e2> ( because geologic evidence of small and moderate-sized earthquakes is rarely created or preserved near the surface )"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 4
+
+67	"<e1>Landslides</e1> are <e2>disequilibrium</e2> landforms that change through time more rapidly than surrounding terrain"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 14
+
+68	"<e1>Floodplain</e1> is a relatively flat alluvial landform , constructed largely by the flow regime of the present river and <e2>subject to flooding</e2>"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 6
+
+69	"<e1>Drift ice</e1> is any type of <e2>floating</e2> ice that has drifted from its point of origin and broken into pieces small enough for a ship to sail through"
+HAS\_ATTRIBUTE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 12
+
+70	"<e1>Abrasion</e1> is a particle-by-particle erosion process and produces <e2>large amounts of silt-sized ( 0.002 - 0.0625 mm ) sediments</e2>"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 3
+
+71	"An <e1>isolated system</e1> is a system that is completely cut off from its surroundings and that <e2>cannot therefore import or export matter or energy</e2>"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 8
+
+72	"A <e1>fault</e1> is a fracture along which <e2>movement associated with an earthquake has taken place</e2> , one side of the fault moving differentially to the other side"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 9
+
+73	"<e1>Honeycomb weathering</e1> is a term used to describe <e2>numerous small pits or alveoli</e2> , no more than a few centimetres wide and deep , separated by an intricate network of narrow walls and resembling a honeycomb"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 10
+
+74	"<e1>Weathering</e1> is a process of a slow continuous <e2>breakdown of rocks into smaller particles</e2> that are in equilibrium with the prevailing"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 16
+
+75	"<e1>Geomorphic generation</e1> is a part of the classification that allows for the <e2>recognition of more than one geomorphic process type or landform</e2> at any given location due to process overprinting"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 0
+
+76	"<e1>Carbonation</e1> is a step in the complex <e2>weathering of many other minerals</e2> , such as in the hydrolysis of feldspar"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 4
+
+77	"A <e1>tidewater glacier</e1> is a glacier that terminates in the sea , where it usually <e2>ends in an ice cliff from which icebergs are discharged</e2>"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 10
+
+78	"<e1>Orogeny</e1> is a <e2>mountain building</e2> process whereas epeirogeny is continental building process"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 13
+
+79	"<e1>Laccoliths</e1> are sills <e2>that have thickened to produce domes</e2>"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 7
+
+80	"<e1>Landslides</e1> are disequilibrium landforms <e2>that change through time more rapidly than surrounding terrain</e2>"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 14
+
+81	"<e1>Karst springs</e1> are locations where groundwater emerges from the limestone and flows across the surface <e2>forming a stream or contained pool</e2>"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 21
+
+82	"<e1>Dissolution</e1> is the process <e2>whereby a rock , or parts of a rock , combine with water to form a solution</e2>"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 1
+
+83	"<e1>Solifluction</e1> is an important periglacial process and forms <e2>sheets , lobes , terraces , and ploughing boulders</e2>"
+HAS\_RESULT(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 16
+
+84	"An <e1>aquifer</e1> is defined as a body of <e2>rock or unconsolidated sediment</e2> that has sufficient permeability to allow water to flow through it"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 4
+
+85	"The term <e1>arenite</e1> applies to a so-called clean sandstone , meaning one with <e2>less than 15% silt and clay</e2>"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 5
+
+86	"A <e1>ground moraine</e1> is a blanket of <e2>mixed glacial sediments - mainly tills and other diamictons</e2> - formed beneath a glacier"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 13
+
+87	"A <e1>coral reef</e1> is a ridge or mound <e2>built of the skeletal remains of generations of coral animals</e2> , upon which grow living coral polyps"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 14
+
+88	"An <e1>atoll</e1> is a ring <e2>of coral reef and small sandy islands</e2> that encircles a shallow lagoon"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 15
+
+89	"<e1>Soil</e1> is a mixture of <e2>fine mineral fragments ( including quartz and clay minerals )</e2> , organic matter , and empty spaces that may be partially filled with water"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 17
+
+90	"<e1>Soil</e1> is a mixture of fine mineral fragments ( including quartz and clay minerals ) , <e2>organic matter</e2> , and empty spaces that may be partially filled with water"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 17
+
+91	"A <e1>clast</e1> is a fragment of <e2>rock or mineral</e2> , ranging in size from less than a micron ( too small to see ) to as big as an apartment block"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 18
+
+92	"<e1>Tephra</e1> is a term covering three types of <e2>pyroclastic</e2> material of differing grain size"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 2
+
+93	"<e1>Laterite</e1> is a term used to describe weathering deposits rich in <e2>iron and aluminium</e2>"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 5
+
+94	"A <e1>mantle plume</e1> is a column of <e2>hot rock ( not magma )</e2> that ascends toward the surface from the lowermantle"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 23
+
+95	"<e1>Glaciers</e1> are large masses of ice formed of <e2>compressed snow</e2> that move slowly under their own weight"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 5
+
+96	"<e1>Volcanic rift zones</e1> are belts of <e2>aligned volcanic vents and associated magma-induced extensional structures</e2> such as subparallel normal faults , anastomosing tensile cracks , monoclines , and eruptive fissure"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 13
+
+97	"<e1>Placer deposits</e1> are mixtures <e2>of heavy metals with specific location</e2> , geomorphic principles have been applied other than any other phase of economic geology"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 16
+
+98	"<e1>Jökulhlaups</e1> are outbursts of <e2>meltwater</e2> stored beneath a glacier or ice sheet as a subglacial lake"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 18
+
+99	"<e1>Rock glaciers</e1> are lobes or tongues of <e2>frozen , angular rock and fine debris mixed with interstitial ice and ice lenses</e2>"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 19
+
+100	"<e1>Colloids</e1> are particles of <e2>organic and mineral substances</e2> that range in size from 1 to 100 nm"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 8
+
+101	"<e1>Dunes</e1> are collections of <e2>loose sand</e2> built piecemeal by the wind"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 17
+
+102	"<e1>Tombolos</e1> are wave-built ridges of <e2>beach material</e2> connecting islands to the mainland or islands to islands"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 19
+
+103	"<e1>Tidal flats</e1> are banks of <e2>mud or sand</e2> that are exposed at low tide"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 0
+
+104	"<e1>Greywackes</e1> are sandstones containing <e2>rock fragments and clay minerals</e2>"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 1
+
+105	"<e1>Coquina</e1> is a <e2>carbonate</e2> rock which consists largely or wholly of mechanically sorted , weakly to moderately cemented fossil debris"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 5
+
+106	"<e1>Coquina</e1> is a carbonate rock which consists largely or wholly of <e2>mechanically sorted , weakly to moderately cemented fossil debris</e2>"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 5
+
+107	"<e1>Corestone</e1> is a spheroidal boulder of relatively <e2>unweathered rock</e2> surrounded by saprolite and formed by sub-surface weathering of a joint block"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 6
+
+108	"<e1>Ferricrete</e1> is a type of duricrust consisting of an <e2>iron-pan or near-surface zone of iron sesquioxide cementation</e2>"
+COMPOSITION\_MEDIUM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 13
+
+109	"An <e1>aquifer</e1> is defined as a body of rock or unconsolidated sediment <e2>that has sufficient permeability to allow water to flow through it</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 4
+
+110	"A <e1>dynamic metastable equilibrium</e1> is a combination of dynamic and metastable equilibria , <e2>in which large jumps across thresholds break in upon small-scale fluctuations about a moving mean</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 1
+
+111	"<e1>Friction</e1> is a force <e2>that acts against gravity and resists movement</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 6
+
+112	"<e1>Morphometric analysis</e1> is a method of <e2>extracting information from published maps</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 14
+
+113	"The <e1>profilometer</e1> is a comb equipped with fine , closely spaced teeth that <e2>advance or retreat through the housing when depressed against a rough surface</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 15
+
+114	"A <e1>profilometer</e1> is a comb equipped with fine , closely spaced teeth that <e2>advance or retreat through the housing when depressed against a rough surface</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 1
+
+115	"<e1>Amino-acid geochronology</e1> is a <e2>relative-age dating</e2> technique based on the premise that proteins in bones and shells are affected by a number of chemical reactions that are partly time-dependent"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 2
+
+116	"A <e1>suture</e1> is a surface or zone <e2>separating two non-subductable pieces of crust that are juxtaposed</e2> following disappearance of an intervening ocean"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 3
+
+117	"<e1>Glaciers</e1> are large masses of ice formed of compressed snow that <e2>move slowly under their own weight</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 5
+
+118	"<e1>Grab samplers</e1> are buckets or segments that <e2>drive into the sediment layer and enclose and retain a layer</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 10
+
+119	"<e1>Consociations</e1> are map units which <e2>delineate a single geomorphic process or landform</e2> , depending on scale"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 15
+
+120	"<e1>Fumaroles</e1> are vents <e2>through which volcanic gases are released at the surface</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 20
+
+121	"<e1>Feeder beach</e1> is a beach that is artificially widened and <e2>nourishes downdrift beaches by natural littoral currents or forces</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 4
+
+122	"<e1>Tombolos</e1> are wave-built ridges of beach material <e2>connecting islands to the mainland or islands to islands</e2>"
+HAS\_FUNCTION(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 19
+
+123	"A <e1>periglacial environment</e1> is defined as any place <e2>where the geomorphic processes related to the freezing of water occurs</e2>"
+DEFINED\_AS(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 6
+
+124	"<e1>Amino-acid geochronology</e1> is a relative-age dating technique <e2>based on the premise that proteins in bones and shells are affected by a number of chemical reactions that are partly time-dependent</e2>"
+DEFINED\_AS(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 16
+
+125	"A <e1>bay</e1> is a water body <e2>having a baymouth less than 24 nautical miles wide</e2> and an area that is equal to or greater than the area of a semicircle whose diameter is equal to the width of the"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 7
+
+126	"<e1>Honeycomb weathering</e1> is a term used to describe numerous small pits or alveoli , <e2>no more than a few centimetres wide and deep</e2> , separated by an intricate network of narrow walls and resembling a honeycomb"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 10
+
+127	"A <e1>clast</e1> is a fragment of rock or mineral , ranging in size from <e2>less than a micron ( too small to see ) to as big as an apartment block</e2>"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 18
+
+128	"<e1>Glaciers</e1> are <e2>large</e2> masses of ice formed of compressed snow that move slowly under their own weight"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 5
+
+129	"<e1>Blockfields</e1> are <e2>large expanses</e2> of coarse and angular rock rubble"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 9
+
+130	"<e1>Nunataks</e1> are rock outcrops , <e2>ranging from less than a kilometre to hundreds of kilometres in size</e2> , surrounded by ice"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 17
+
+131	"<e1>Terracette</e1> is a <e2>small</e2> terrace that forms a step on a hillside . They often occur in near parallel series running approximately along the contours of a hillslope"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 7
+
+132	"<e1>Colloids</e1> are particles of organic and mineral substances that range in size <e2>from 1 to 100 nm</e2>"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 8
+
+133	"<e1>Rills</e1> are <e2>tiny</e2> hillside channels a few centimetres wide and deep that are cut by ephemeral rivulets"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 9
+
+134	"<e1>Rills</e1> are tiny hillside channels a <e2>few centimetres wide and deep</e2> that are cut by ephemeral rivulets"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 9
+
+135	"<e1>Geer moraines</e1> or washboard moraines are series of <e2>small</e2> and roughly parallel ridges of till that are ordinarily associated with lakes or former lakes"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 12
+
+136	"<e1>Caldera</e1> is a <e2>large</e2> crater or depression resulting from a powerful volcanic explosion or the collapse of the central part of a volcano"
+HAS\_SIZE(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 2
+
+137	"An <e1>isolated system</e1> is a system that is completely <e2>cut off from its surroundings</e2> and that cannot therefore import or export matter or energy"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 8
+
+138	"<e1>Permafrost</e1> is soil or rock that <e2>remains frozen</e2> for two or more consecutive years"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 12
+
+139	"An <e1>anabranching alluvial river</e1> is a <e2>system of mul tiple channels</e2> characterized by vegetated or oth erwise stable alluvial islands that divide flows at discharges up to bankfull"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 17
+
+140	"<e1>Sills</e1> are concordant intrusions and frequently form <e2>resistant , tabular bands within sedimentary beds</e2> , although they may cross beds to spread along other bedding planes"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 6
+
+141	"<e1>Phacoliths</e1> are <e2>lens-shaped</e2> masses seated in anticlinal crests and synclinal troughs"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 8
+
+142	"<e1>Aiguille</e1> is a <e2>sharply pointed</e2> rock outcrop or peak , very often produced by intense frost action in mountainous regions , such as the Alps"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 0
+
+143	"<e1>Dome dune</e1> is a <e2>low , circular or oval</e2> mound formed where dune height is inhibited by unobstructed strong winds"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 2
+
+144	"<e1>Estuary</e1> is the seaward end of a river , <e2>opening towards the sea , typically through a funnel-shaped inlet</e2> , and usually subject to tidal movements and incursions of salt water from the sea"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 3
+
+145	"<e1>Feeder beach</e1> is a beach that is <e2>artificially widened</e2> and nourishes downdrift beaches by natural littoral currents or forces"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 4
+
+146	"<e1>Terracette</e1> is a small terrace that forms a <e2>step on a hillside</e2> . They often occur in near parallel series running approximately along the contours of a hillslope"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 7
+
+147	"<e1>Terracette</e1> is a small terrace that forms a step on a hillside . They often occur in <e2>near parallel series</e2> running approximately along the contours of a hillslope"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 7
+
+148	"<e1>Cirques</e1> are typically <e2>armchair-shaped</e2> hollows that form in mountainous terrain"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 10
+
+149	"<e1>Lunate features</e1> are fractures <e2>shaped like crescents with the concavity facing the direction of ice flow</e2>"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 11
+
+150	"<e1>Geer moraines</e1> or washboard moraines are series of small and <e2>roughly parallel</e2> ridges of till that are ordinarily associated with lakes or former lakes"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 12
+
+151	"<e1>Thermokarst</e1> is <e2>irregular</e2> terrain characterized by topographic depressions with hummocks between them"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 15
+
+152	"<e1>Tidal flats</e1> are banks of mud or sand that are <e2>exposed at low tide</e2>"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 0
+
+153	"<e1>Corestone</e1> is a <e2>spheroidal</e2> boulder of relatively unweathered rock surrounded by saprolite and formed by sub-surface weathering of a joint block"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 6
+
+154	"<e1>De Geer Moraine</e1> is a glacial landform consisting of swarms of <e2>small ridges oriented perpendicular to the ice flow direction</e2>"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 10
+
+155	"<e1>Dreikanter</e1> is a shaped pebble found on the surface in desert regions and periglacial areas with <e2>three distinct facets on its upper surface</e2> as a result of wind abrasion"
+HAS\_FORM(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 11
+
+156	"An <e1>atoll</e1> is a ring of coral reef and small sandy islands that <e2>encircles a shallow lagoon</e2>"
+CONTAINS(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 15
+
+157	"<e1>Soil</e1> is a mixture of fine mineral fragments ( including quartz and clay minerals ) , organic matter , <e2>and empty spaces</e2> that may be partially filled with water"
+CONTAINS(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 17
+
+158	"<e1>Volcanic rift zones</e1> are belts of aligned volcanic vents and associated magma-induced extensional structures such as <e2>subparallel normal faults , anastomosing tensile cracks , monoclines , and eruptive fissure</e2>"
+CONTAINS(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 13
+
+159	"<e1>Thermokarst</e1> is irregular terrain characterized by <e2>topographic depressions with hummocks between them</e2>"
+CONTAINS(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 15
+
+160	"<e1>Chute</e1> is a narrow channel with a <e2>swift current</e2> , applied to rivers , the straits between the mainland and islands , and to furrows produced by avalanches on hill slopes"
+CONTAINS(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 4
+
+161	"<e1>Corridor karst</e1> is a type of karst characterized by <e2>long , narrow chasms</e2> enlarged by the action of water and into which surface runoff or stream may flow"
+CONTAINS(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 8
+
+162	"<e1>Corridor karst</e1> is a type of karst characterized by long , narrow chasms enlarged by the action of water and into which <e2>surface runoff or stream</e2> may flow"
+CONTAINS(e1,e2)
+Comment: File: KiL-def-en5.tsv, sentence: 8
+
+163	"The term <e1>preglacial landform</e1> refers to any landform <e2>older than a specified glaciation</e2>"
+OCCURS\_IN\_TIME(e1,e2)
+Comment: File: KiL-def-en1.tsv, sentence: 19
+
+164	"<e1>pH</e1> is a measure of the <e2>acidity or alkalinity of aqueous solutions</e2>"
+MEASURES(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 3
+
+165	"<e1>Drainage density</e1> is a measure of <e2>how frequently streams occur on the land surface</e2>"
+MEASURES(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 7
+
+166	"<e1>Accuracy</e1> is a measure of <e2>how close an age is to the time of formation or death of the dated material</e2>"
+MEASURES(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 21
+
+167	"<e1>Magnitude</e1> is a measure of the <e2>amount of energy released by an earthquake</e2> , and it is proportional to the area of the rupture surface and to the amount of displacement"
+MEASURES(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 22
+
+168	"<e1>Clast shape</e1> is a measure of the <e2>overall shape of a particle</e2>"
+MEASURES(e1,e2)
+Comment: File: KiL-def-en3.tsv, sentence: 0
+
+169	"<e1>Carbonation</e1> is a step in the complex weathering of many other minerals , such as in the <e2>hydrolysis of feldspar</e2>"
+AFFECTS(e1,e2)
+Comment: File: KiL-def-en2.tsv, sentence: 4
+
+170	"<e1>Estuary</e1> is the seaward end of a river , opening towards the sea , typically through a funnel-shaped inlet , and usually subject to <e2>tidal movements and incursions of salt water from the sea</e2>"
+AFFECTS(e1,e2)
+Comment: File: KiL-def-en4.tsv, sentence: 3
+
+171	"<e1>Erosion</e1> is a <e2>hydraulic action</e2> , derived from the energy of running water ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+172	"<e1>Basin morphometry</e1> is a <e2>function</e2> of stream order and drainage patterns ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+173	"An <e1>iceberg</e1> is a <e2>piece of ice</e2> that has broken from an ice shelf and that floats in the Ocean ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+174	"<e1>Abrasion</e1> is a particle-by-particle erosion <e2>process</e2> and produces large amounts of silt-sized ( 0.002 - 0.0625 mm ) sediments ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+175	"An <e1>aquifer</e1> is defined as a <e2>body of rock</e2> or unconsolidated <e2>sediment</e2> that has sufficient permeability to allow water to flow through it ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+176	"The term <e1>arenite</e1> applies to a so-called clean <e2>sandstone</e2> , meaning one with less than 15% silt and clay ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+177	"A <e1>periglacial environment</e1> is defined as any <e2>place</e2> where the geomorphic processes related to the freezing of water occurs ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+178	"A <e1>bay</e1> is a <e2>water body</e2> having a baymouth less than 24 nautical miles wide and an area that is equal to or greater than the area of a semicircle whose diameter is equal to the width of the baymouth"
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+179	"An <e1>isolated system</e1> is a <e2>system</e2> that is completely cut off from its surroundings and that cannot therefore import or export matter or energy ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+180	"A <e1>fault</e1> is a <e2>fracture</e2> along which movement associated with an earthquake has taken place , one side of the fault moving differentially to the other side ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+181	"<e1>Honeycomb weathering</e1> is a term used to describe numerous small pits or alveoli , no more than a few centimetres wide and deep , separated by an intricate network of narrow walls and resembling a honeycomb ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+182	"<e1>Tectonic denudation</e1> is a term that describes the <e2>unloading</e2> of mountains by gravity sliding and spreading ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+183	"<e1>Permafrost</e1> is <e2>soil</e2> or <e2>rock</e2> that remains frozen for two or more consecutive years ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+184	"A <e1>ground moraine</e1> is a <e2>blanket</e2> of mixed glacial sediments - mainly tills and other diamictons - formed beneath a glacier ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+185	"A <e1>coral reef</e1> is a <e2>ridge</e2> or <e2>mound</e2> built of the skeletal remains of generations of coral animals , upon which grow living coral polyps ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+186	"An <e1>atoll</e1> is a <e2>ring</e2> of coral reef and small sandy <e2>islands</e2> that encircles a shallow lagoon ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+187	"<e1>Weathering</e1> is a <e2>process</e2> of a slow continuous breakdown of rocks into smaller particles that are in equilibrium with the prevailing environment"
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+188	"<e1>Soil</e1> is a <e2>mixture</e2> of fine mineral fragments ( including quartz and clay minerals ) , organic matter , and empty spaces that may be partially filled with water ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+189	"A <e1>clast</e1> is a <e2>fragment</e2> of rock or mineral , ranging in size from less than a micron ( too small to see ) to as big as an apartment block ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+190	"The term <e1>preglacial landform</e1> refers to any <e2>landform</e2> older than a specified glaciation ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+191	"<e1>Geomorphic generation</e1> is a part of the <e2>classification</e2> that allows for the recognition of more than one geomorphic process type or landform at any given location due to process overprinting ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+192	"A <e1>dynamic metastable equilibrium</e1> is a combination of dynamic and metastable <e2>equilibria</e2> , in which large jumps across thresholds break in upon small-scale fluctuations about a moving mean ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+193	"<e1>Tephra</e1> is a term covering three types of pyroclastic <e2>material</e2> of differing grain size ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+194	"<e1>pH</e1> is a <e2>measure</e2> of the acidity or alkalinity of aqueous solutions ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+195	"<e1>Carbonation</e1> is a <e2>step</e2> in the complex weathering of many other minerals , such as in the hydrolysis of feldspar ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+196	"<e1>Laterite</e1> is a term used to describe weathering <e2>deposits</e2> rich in iron and aluminium ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+197	"<e1>Friction</e1> is a <e2>force</e2> that acts against gravity and resists movement ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+198	"<e1>Drainage density</e1> is a <e2>measure</e2> of how frequently streams occur on the land surface ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+199	"A <e1>riegel</e1> is a <e2>rock barrier</e2> that sits across a valley , often where a band of hard rock outcrops ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+200	"A <e1>sea cave</e1> is a <e2>hollow</e2> excavated by waves in a zone of weakness on a cliff ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+201	"A <e1>tidewater glacier</e1> is a <e2>glacier</e2> that terminates in the sea , where it usually ends in an ice cliff from which icebergs are discharged ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+202	"A <e1>light year</e1> is a <e2>unit of length</e2> , equal to just under 10 trillion km ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+203	"<e1>Moraine</e1> is a <e2>material</e2> transported by a glacier and then deposited ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+204	"<e1>Orogeny</e1> is a mountain building <e2>process</e2> whereas epeirogeny is continental building process ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+205	"<e1>Morphometric analysis</e1> is a <e2>method</e2> of extracting information from published maps ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+206	"The <e1>profilometer</e1> is a <e2>comb</e2> equipped with fine , closely spaced teeth that advance or retreat through the housing when depressed against a rough surface ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+207	"<e1>Amino-acid geochronology</e1> is a relative-age <e2>dating technique</e2> based on the premise that proteins in bones and shells are affected by a number of chemical reactions that are partly time-dependent ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+208	"An <e1>anabranching alluvial river</e1> is a <e2>system</e2> of mul tiple channels characterized by vegetated or oth erwise stable alluvial islands that divide flows at discharges up to bankfull ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+209	"An <e1>earthquake</e1> is a <e2>vibration</e2> or <e2>oscillation</e2> of the surface of the earth caused by sudden release of enormous pressure ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+210	"<e1>Coastal geomorphology</e1> is a <e2>branch of geomorphology</e2> in which the focus is on the area influenced by large bodies of water , including seas and oceans , and large lakes ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+211	"A <e1>tsunami</e1> is a <e2>series of ocean waves</e2> of extremely long wave length and period that is generated by an impulsive disturbance that displaces the water , rather than by the wind ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+212	"<e1>Accuracy</e1> is a <e2>measure</e2> of how close an age is to the time of formation or death of the dated material ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+213	"<e1>Magnitude</e1> is a <e2>measure</e2> of the amount of energy released by an earthquake , and it is proportional to the area of the rupture surface and to the amount of displacement ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+214	"A <e1>mantle plume</e1> is a <e2>column</e2> of hot rock ( not magma ) that ascends toward the surface from the lowermantle ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+215	"<e1>Clast shape</e1> is a <e2>measure</e2> of the overall shape of a particle ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+216	"A <e1>profilometer</e1> is a <e2>comb</e2> equipped with fine , closely spaced teeth that advance or retreat through the housing when depressed against a rough surface ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+217	"<e1>Amino-acid geochronology <e2>is a</e2> relative-age</e1> dating <e2>technique</e2> based on the premise that proteins in bones and shells are affected by a number of chemical reactions that are partly time-dependent ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+218	"A <e1>suture</e1> is a <e2>surface</e2> or <e2>zone</e2> separating two non-subductable pieces of crust that are juxtaposed following disappearance of an intervening ocean ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+219	"A <e1>paleoseismic record</e1> is a <e2>record</e2> of large or great earthquakes ( because geologic evidence of small and moderate-sized earthquakes is rarely created or preserved near the surface ) ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+220	"<e1>Glaciers</e1> are large <e2>masses of ice</e2> formed of compressed snow that move slowly under their own weight ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+221	"<e1>Sills</e1> are concordant <e2>intrusions</e2> and frequently form resistant , tabular bands within sedimentary beds , although they may cross beds to spread along other bedding planes ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+222	"<e1>Laccoliths</e1> are <e2>sills</e2> that have thickened to produce domes ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+223	"<e1>Phacoliths</e1> are lens-shaped <e2>masses</e2> seated in anticlinal crests and synclinal troughs ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+224	"<e1>Blockfields</e1> are large expanses of coarse and angular <e2>rock rubble</e2> ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+225	"<e1>Grab samplers</e1> are <e2>buckets</e2> or <e2>segments</e2> that drive into the sediment layer and enclose and retain a layer ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+226	"<e1>Ophiolites</e1> are <e2>sections</e2> of the earth's oceanic crust and the underlying upper mantle that have been uplifted or emplaced and exposed within the continental crustal rocks ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+227	"<e1>Collisions</e1> are <e2>zones</e2> where a continent , island arc , oceanic plateau , or other thick piece of crust on a downgoing plate arrives at a subduction zone ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+228	"<e1>Volcanic rift zones</e1> are <e2>belts</e2> of aligned volcanic vents and associated magma-induced extensional structures such as subparallel normal faults , anastomosing tensile cracks , monoclines , and eruptive fissure ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+229	"<e1>Landslides</e1> are disequilibrium <e2>landforms</e2> that change through time more rapidly than surrounding terrain ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+230	"<e1>Consociations</e1> are <e2>map units</e2> which delineate a single geomorphic process or landform , depending on scale ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+231	"<e1>Placer deposits</e1> are mixtures of heavy metals with specific location , geomorphic principles have been applied other than any other phase of economic geology ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+232	"<e1>Nunataks</e1> are <e2>rock outcrops</e2> , ranging from less than a kilometre to hundreds of kilometres in size , surrounded by ice ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+233	"<e1>Jökulhlaups</e1> are <e2>outbursts</e2> of meltwater stored beneath a glacier or ice sheet as a subglacial lake ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+234	"<e1>Rock glaciers</e1> are lobes or tongues of <e2>frozen , angular rock</e2> and fine debris mixed with interstitial ice and ice lenses ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+235	"<e1>Fumaroles</e1> are <e2>vents</e2> through which volcanic gases are released at the surface ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+236	"<e1>Karst springs</e1> are <e2>locations</e2> where groundwater emerges from the limestone and flows across the surface forming a stream or contained pool ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+237	"<e1>Zeolites</e1> are silicate <e2>minerals</e2> that typically form during low-grade metamorphism of volcanic rocks ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+238	"<e1>Aiguille</e1> is a sharply pointed <e2>rock outcrop</e2> or <e2>peak</e2> , very often produced by intense frost action in mountainous regions , such as the Alps ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+239	"<e1>Dissolution</e1> is the <e2>process</e2> whereby a rock , or parts of a rock , combine with water to form a solution ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+240	"<e1>Dome dune</e1> is a low , circular or oval <e2>mound</e2> formed where dune height is inhibited by unobstructed strong winds ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+241	"<e1>Estuary</e1> is the seaward <e2>end of a river</e2> , opening towards the sea , typically through a funnel-shaped inlet , and usually subject to tidal movements and incursions of salt water from the sea ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+242	"<e1>Feeder beach</e1> is a <e2>beach</e2> that is artificially widened and nourishes downdrift beaches by natural littoral currents or forces ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+243	"<e1>Flash</e1> is a <e2>depression</e2> formed by subsidence , particularly as a result of the solution of evaporite beds ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+244	"<e1>Floodplain</e1> is a relatively flat alluvial <e2>landform</e2> , constructed largely by the flow regime of the present river and subject to flooding ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+245	"<e1>Terracette</e1> is a small <e2>terrace</e2> that forms a step on a hillside . They often occur in near parallel series running approximately along the contours of a hillslope ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+246	"<e1>Colloids</e1> are <e2>particles</e2> of organic and mineral substances that range in size from 1 to 100 nm ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+247	"<e1>Rills</e1> are tiny hillside <e2>channels</e2> a few centimetres wide and deep that are cut by ephemeral rivulets ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+248	"<e1>Cirques</e1> are typically armchair-shaped <e2>hollows</e2> that form in mountainous terrain ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+249	"<e1>Lunate features</e1> are <e2>fractures</e2> shaped like crescents with the concavity facing the direction of ice flow ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+250	"<e1>Geer moraines</e1> or <e1>washboard moraines</e1> are series of small and roughly parallel <e2>ridges of till</e2> that are ordinarily associated with lakes or former lakes ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+251	"<e1>Eskers</e1> are the chief <e2>landform</e2> created by subglacial meltwater and form by the infilling of subglacial or englacial channels or by sedimentation in supraglacial channels ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+252	"<e1>Icing blisters</e1> are <e2>ice mounds</e2> created by groundwater injected at high pressure between icing layers ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+253	"<e1>Thermokarst</e1> is irregular <e2>terrain</e2> characterized by topographic depressions with hummocks between them ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+254	"<e1>Solifluction</e1> is an important periglacial <e2>process</e2> and forms sheets , lobes , terraces , and ploughing boulders ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+255	"<e1>Dunes</e1> are collections of loose <e2>sand</e2> built piecemeal by the wind ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+256	"<e1>Blowouts</e1> are <e2>depressions</e2> created by the deflation of loose sand partly bound by plant roots ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+257	"<e1>Tombolos</e1> are wave-built <e2>ridges</e2> of beach material connecting islands to the mainland or islands to islands ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+258	"<e1>Tidal flats</e1> are <e2>banks</e2> of mud or sand that are exposed at low tide ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+259	"<e1>Greywackes</e1> are <e2>sandstones</e2> containing rock fragments and clay minerals ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+260	"<e1>Caldera</e1> is a large <e2>crater</e2> or <e2>depression</e2> resulting from a powerful volcanic explosion or the collapse of the central part of a volcano ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+261	"<e1>Catchment</e1> is an <e2>area</e2> that is drained by a river and defined by the surrounding watershed ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+262	"<e1>Chute</e1> is a narrow <e2>channel</e2> with a swift current , applied to rivers , the straits between the mainland and islands , and to furrows produced by avalanches on hill slopes ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+263	"<e1>Coquina</e1> is a carbonate <e2>rock</e2> which consists largely or wholly of mechanically sorted , weakly to moderately cemented fossil debris ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+264	"<e1>Corestone</e1> is a spheroidal <e2>boulder</e2> of relatively unweathered rock surrounded by saprolite and formed by sub-surface weathering of a joint block ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+265	"<e1>Corrasion</e1> is the mechanical <e2>erosion</e2> of rock surfaces by the impact of moving debris ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+266	"<e1>Corridor karst</e1> is a type of <e2>karst</e2> characterized by long , narrow chasms enlarged by the action of water and into which surface runoff or stream may flow ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+267	"<e1>Daya</e1> is a shallow <e2>depression</e2> found primarily in areas underlain by limestone bedrock or calcrete as a result of solution ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+268	"<e1>De Geer Moraine</e1> is a glacial <e2>landform</e2> consisting of swarms of small ridges oriented perpendicular to the ice flow direction ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+269	"<e1>Dreikanter</e1> is a shaped <e2>pebble</e2> found on the surface in desert regions and periglacial areas with three distinct facets on its upper surface as a result of wind abrasion ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+270	"<e1>Drift ice</e1> is any type of floating <e2>ice</e2> that has drifted from its point of origin and broken into pieces small enough for a ship to sail through ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+271	"<e1>Ferricrete</e1> is a type of <e2>duricrust</e2> consisting of an iron-pan or near-surface zone of iron sesquioxide cementation ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+272	"<e1>Fiard</e1> is a coastal <e2>inlet</e2> produced by the drowning of an undulating landscape of shallow valleys and low interfluves ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
+273	"<e1>Foreshore</e1> is the part of a <e2>coast</e2> lying between the lowest low-water line and the average high-water mark ."
+Hyponym-Hypernym(e1,e2)
+Comment: 
+
