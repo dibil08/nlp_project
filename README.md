@@ -83,16 +83,21 @@ In order to fine-tune the model, navigate to `bert` folder in the project's root
 <br>
 #### For BERT:
 - Karst training split
+
 ```
 python main_task.py --train_data ../train/karst_EN_with_hypernyms_bert.txt --num_classes 17 --infer 0 --use_pretrained_blanks 0 --test_data ../train/blank.txt --num_epochs 30
 ```
+
 - SemRelData (useful only for hypernym relations)
 <br>
 You can change `--train_data value` to any of the specified SemRelData files above, however note that this will change names of the relations. 
+
 ```
 python main_task.py --train_data ../train/semreldata_bert_tagged_relations.txt --num_classes 4 --infer 0 --use_pretrained_blanks 0 --test_data ../train/blank.txt
 ```
+
 #### For ALBERT:
+
 ```
 python main_task.py --train_data ../train/karst_EN_with_hypernyms_bert.txt --num_classes 17 --infer 0 --use_pretrained_blanks 0 --test_data ../train/blank.txt --num_epochs 30 --model_no 1 --model_size albert-base-v2 --batch_size 24
 ```
