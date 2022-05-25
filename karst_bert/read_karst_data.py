@@ -6,7 +6,7 @@ from copy import deepcopy
 from typing import Dict
 
 
-karst_path="dataset/ONJ-KiL Projects 2022/Karst Annotated Definitions/AnnotatedDefinitions"
+karst_path="../datasets/karst/AnnotatedDefinitions"
 relations_translation_dict={
     'HAS\\_FORM':'HAS\\_FORM',
     'STUDIES':'STUDIES', 
@@ -235,7 +235,7 @@ if __name__ == "__main__":
 
     for lang in langs:
         file=f"karst_{lang}_bert.txt"
-        rootDir="."
+        rootDir=".."
         train_to_test_ratio=4
 
         all_files_with_sentences=get_sentences_dict(f"{karst_path}/{lang}")

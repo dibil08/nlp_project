@@ -1,0 +1,26 @@
+election	Holonym	vote
+vote	Meronym	election
+win	Synonym	victory
+presidential campaign history	Holonym	campaign
+victory	Synonym	win
+advertisements	Hypernym	campaign advertisements
+advertisements	Meronym	campaign
+campaign	Holonym	advertisements
+campaign	Holonym	campaign advertisements
+campaign	Meronym	presidential campaign history
+campaign advertisements	Hyponym	advertisements
+campaign advertisements	Meronym	campaign
+polls	Meronym	vote
+vote	Holonym	polls
+vote	Holonym	voters
+voters	Meronym	vote
+two-person race	Holonym	leader
+leader	Meronym	two-person race
+Senator	Meronym	state
+Congressman	Meronym	state
+caucus	Holonym	candidates
+caucus	Meronym	party
+party	Holonym	caucus
+candidates	Meronym	caucus
+state	Holonym	Senator
+state	Holonym	Congressman

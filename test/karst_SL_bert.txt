@@ -1,1188 +1,1188 @@
 1	"<e1>Udornice</e1> so površinske kraške oblike , ki nastanejo s podiranjem stropa <e2>v podzemnih jamah z aktivnim vodnim tokom</e2> , ko se zniža gladina podzemne vode ( Stepišnik , 2006 )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-1.tsv, sentence: 0
 
 2	"<e1>Udornice</e1> so izrazita <e2>površinska</e2> reliefna oblika   , ki pa ima svoj izvor v podzemnem dogajanju"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-1.tsv, sentence: 5
 
 3	"<e1>Vršaj</e1> je stožčasto nasutje <e2>ob izstopu iz ozkih gorskih grap v široko glavno ravnino</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-10.tsv, sentence: 12
 
 4	"Najpomembnejše razlike pri <e1>oblikovanju krasa</e1> <e2>v tropskih geografskih širinah</e2> so intenzivna evapotranspiracija in zanemarljivo mehansko preperevanje , pri čemer je mišljena predvsem odsotnost zmrzalnega preperevanja"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-12.tsv, sentence: 7
 
 5	"Osamelce <e2>na kraških poljih</e2> , ki so redki , a zelo značilni za kras , imenujemo <e1>humi</e1>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-13.tsv, sentence: 7
 
 6	"Večje kotanje <e2>v območjih poledenitve</e2> , ki najverjetneje nastanejo s točkastim odtekanjem podledeniških tokov v njihovih dneh , imenujemo <e1>konte</e1>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-13.tsv, sentence: 14
 
 7	"<e1>Sadra</e1> je pogost mineral na Zemljinem površju , <e2>predvsem v sušnejših klimatskih okoljih</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-14.tsv, sentence: 13
 
 8	"<e2>Najnižja cona kraškega vodonosnika</e2> je <e1>nasičena</e1> ali freatična cona , ki jo literatura imenuje tudi prežeta cona"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-15.tsv, sentence: 12
 
 9	"Območja na stiku kraških in nekraških kamnin , <e2>kjer vode iz nekraškega površja tečejo v kras</e2> , imenujemo <e1>kontaktni kras</e1>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-16.tsv, sentence: 9
 
 10	"Odnašanje raztopljenih karbonatov <e2>globlje v vodonosnik</e2> imenujemo <e1>kraška</e1> ali kemična denudacija"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-18.tsv, sentence: 1
 
 11	"Vršaje <e2>na krasu</e2> , ki nimajo aktivnega procesa sedimentacije rečnih nanosov , imenuje <e1>psevdovršaji</e1>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-19.tsv, sentence: 3
 
 12	"Po Jamarski zvezi Slovenije je <e1>jama</e1> vsaka naravna votlina <e2>v kamnini</e2> , ki je prehodna človeku in je vsaj deset metrov dolga ali globoka"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-2.tsv, sentence: 3
 
 13	"Prevladujoč način <e2>na kraškem površju</e2> je <e1>kemično preperevanje</e1> oziroma korozija"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-20.tsv, sentence: 4
 
 14	"Vršaje na krasu , ki nimajo aktivnega procesa sedimentacije rečnih nanosov <e2>na svojem površju</e2> , imenuje <e1>psevdovršaji</e1>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-21.tsv, sentence: 11
 
 15	"<e1>freatično brezno</e1> - Strukturni segment , <e2>ki nastane v prežeti coni</e2> ob preskoku kanala z enega začetnega horizonta v drugega . Prostorska orientacija freatičnega brezna se ravna približno po padnici inicialne strukture . Manjša freatična brezna so v prečnem ( približno vodoravnem ) prerezu elipsasta in podobna kaminom . Od njih ločimo reatična brezna najlaže po tem , da se na nasprotnih straneh lezičnih kanalov , katere povezujejo , ne nadaljujejo . Ob nastajanju sledi vodni tok pravilu veznih posod in se lahko giba navzdol ali navzgor"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-23.tsv, sentence: 4
 
 16	"<e1>neprežeta cona</e1> - Zakraseli del speleogenetskega prostora <e2>nad gladino podtalnice</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-23.tsv, sentence: 10
 
 17	"<e1>jamski splet</e1> - Eden sinonimov za jamski sistem . Izraz sistem , ki ga speleologi uporabljamo v več različnih smislih , v naravoslovju zaradi prodora fizikalne teorije sistemov zgublja prvotno vsebino . Poleg tega uporabljamo sistem <e2>pri opisovanju podzemskega krasa</e2> v nekoliko različnih , a še vedno preveč podobnih zvezah : ( 1 ) kot zapletenejšo jamo ; ( 2 ) kot skupnost več jam skupnega nastanka , ki jih ne vežejo prehodni rovi ; kot skupnost vseh nezveznosti v kamnini ,"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-24.tsv, sentence: 4
 
 18	"<e1>oblezična ploskev</e1> - Speleogenetsko pomembna nezveznost <e2>v kamnini</e2> , ki je v okviru natančnosti opazovanj vzporedna pravim lezikam , a se ne razteza na večje razdalje"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-25.tsv, sentence: 8
 
 19	"<e1>pospešena korozija</e1> - <e2>Krajevno</e2> učinkovitejša korozija , katere učinki se pokažejo kot izrazite površinske ali podzemske reliefue oblike"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-26.tsv, sentence: 2
 
 20	"<e1>tunelski rov</e1> - Rov <e2>v epifreatični coni</e2> , ki po obliki spominja na predor . Nastane za ponori večjih alogenih tokov , v manjšem obsegu kot učinek Gospo­daričevega efekta v avtigenem okolju"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-27.tsv, sentence: 6
 
 21	"<e1>meandrasti žlebiči</e1> : Zaviti žlebiči , podobni zvijugani tokavi , <e2>navadno na zložnejšem pobočju</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-28.tsv, sentence: 13
 
 22	"<e1>boksit</e1> : Usedlina , sestavljena v pretežni meri iz aluminijevih hidroksidov . Ta aluminijeva ruda je rezultat preperevanja apnenca <e2>v vlažni tropski ali subtropski klimi</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-29.tsv, sentence: 9
 
 23	"<e1>jamsko brezno</e1> : <e2>Odpira se v jami</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 0
 
 24	"<e1>geološke orgle</e1> : Oblika podtalnega krasa z globokimi žepi ilovice ali alohtonega gradiva <e2>v razjedeni kraški kamnini</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-32.tsv, sentence: 7
 
 25	"<e1>areacijska cona</e1> , vadozna cona , vadozna voda : Stalno suha cona , vrhnja hidrografska cona , kjer padavinska voda pretežno navzdol premika in se obdobno in lokalno zbira v vodne curke . <e2>Pretaka se po kanalih , ki so večinoma zapolnjeni z zrakom ( odtod ime areacijska cona )</e2> . Po Čvijiču tudi suha cona . Po nekaterih pojmovanjih pomenita vadozna cona in vadozna voda najnižjo aeracijsko cono , ki jo ob visokem vodostaju preplavlja voda iz freatične cone"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-32.tsv, sentence: 14
 
 26	"<e1>gravitacijska voda</e1> , gravitacijski vodni tok : Voda ( vodni tok ) v kraškem podzemlju , ki se pretaka gravitacijsko ( težnostno ) <e2>v kanalih</e2> ter v njih ne sega do stropa in ima prosto gladino ( v nasprotju s tlačno gladino , ki je značilna za tlačni ali eforacijski tok )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-33.tsv, sentence: 5
 
 27	"<e1>hidrogeološki izolator</e1> : Neprepustna kamnina <e2>v kraškem ozemlju</e2> , navadno v obliki vložka , ki razdvaja porečji ali zajezuje podzemeljski vodni tok"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-33.tsv, sentence: 10
 
 28	"<e1>kontaktna jama</e1> : Jama <e2>na stiku različnih kamnin</e2> , često kraških in nekraških"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-35.tsv, sentence: 5
 
 29	"<e1>jamsko okno</e1> : Odprtina <e2>v jamskem stropu</e2> , skozi katero seva nebo"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-36.tsv, sentence: 11
 
 30	"<e1>kolks</e1> , kovk : <e2>Oblika fosilnega krasa</e2> . Kopasta holmasta vzpetina , nastala v osnovi domnevno v terciarni dobi"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-37.tsv, sentence: 10
 
 31	"<e1>robna korozija</e1> , obrobna korozija , krajna korozija : Korozija karbonatne kamnine <e2>ob robu neprepustne naplavine</e2> , zaradi katere so stene kotanj ali kraških polj na kraju ponikanja korozijsko izpodžrte . Robna korozija razširja kraška polja , slepe doline , vrtače in druge kotanje z naplavljenim dnom"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 4
 
 32	"<e1>korozijska stopnička</e1> : Polkrožna izjedenina , podobna odtisu pete , <e2>ki je specifičen pojav razčlenjenih golih , največkrat visokogorskih skalnatih površin</e2> . Nastaja z omejeno retrogradno ploskovno korozijo"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 12
 
 33	"Jame so najznačilnejši kraški pojav . V ožjem smislu je <e1>jama</e1> prehodna , pretežno horizontalna <e2>podzemna</e2> votlina , ravno nasprotno od brezna , ki je navpično"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-4.tsv, sentence: 3
 
 34	"<e1>Požiralnik</e1> , ponikva oziroma   ponor je lijakasta odprtina   <e2>v tleh zakraselega območja</e2> , kjer površinsko tekoča voda izginja v podzemlje"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-4.tsv, sentence: 7
 
 35	"<e1>subnivalni kras</e1> : Kras v višinskem ali subarktičnem pasu , kjer sneg kot očitni morfogenetski dejavnik skopni le čez poletje , tudi pas <e2>pod nivalnim krasom</e2> ali gozdnati pas , kjer je v glacialnih dobah nastal nivalni kras"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-40.tsv, sentence: 2
 
 36	"<e1>kontaktni kras</e1> , stični kras : Kras <e2>na sticišču prepustnih in vodno neprepustnih kamnin</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-41.tsv, sentence: 7
 
 37	"<e1>podtalni kras</e1> , podpreperelinski kras : Kraške oblike v apnencu , nastale neposredno pod prstjo ( zemljo ) . Številne so podobne površinskim ( pokrite škraplje , pokrite vrtace ) ali tem v podzemlju ( zapolnjeno brezno ) , <e2>nekatere pa najdemo samo pod prstjo</e2> ( gl . korozijski vdolbek , zapolnjen jašek , skalne luknje )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-41.tsv, sentence: 14
 
 38	"<e1>kraška bifurkacija</e1> , bifurkacija : <e2>Na krasu</e2> se pri podzemeljski bifurkaciji voda istega toka javlja v dveh kraških izvirih ( primer : . Loški potok , ki izvira v Rinži in Rakitnici ) . Pri vertikalni bifurkaciji se višje vode iz iste kotanje izlivajo v drugo smer kot nižje ( na primer Cerkniško jezero , katerega vode odtekajo v višji legi proti Raku in Uncu , istočasno pa se skozi aluvialne požiralnike odtekajo proti Bistri )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-42.tsv, sentence: 7
 
 39	"<e1>kraška voda</e1> : V širšem pomenu vsa voda <e2>kraškega ozemlja</e2> , v ožjem pomenu samo voda kraškega podzemlja , ki se je nabrala s kraškega ozemlja . Po Grundu ( 1903 ) del vode v krasu , ki se pretaka iznad nivoja kraških izvirov v kanalih v coni kolebanja gladine kraške vode"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-43.tsv, sentence: 5
 
 40	"<e1>kontaktni izvir</e1> , kontaktni kraški izvir : Izvir <e2>na stiku vodno prepustnih kamnin , ki so navadno v krovnini , in neprepustnih kamnin</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-43.tsv, sentence: 10
 
 41	"<e1>prelivni izvir</e1> : Kraški izvir , ki deluje ob višji vodi , <e2>ko nižji stalnejši izvir ne zmore vse iz podzemlja pritekajoče vode</e2> . Je lahko neposredno nad stalnejšim izvirom ( primer : Krška jama ) , ali vstran od njega ( npr . Škratovka , Lijak )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 0
 
 42	"<e1>robni ravnik</e1> : Ravnik <e2>v robnih apnencih ob vododržnih kamninah , s katerih priteka agresivna voda</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 4
 
 43	"<e1>ledeni kapnik</e1> : Sigovim kapnikom podobna ledena tvorba , <e2>ki visi ali stoji v jami</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-45.tsv, sentence: 7
 
 44	"<e1>morski požiralnik</e1> : <e2>V nivoju morske gladine ležeči</e2> požiralnik , kamor teče morska voda"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-45.tsv, sentence: 13
 
 45	"<e1>podorni stožec</e1> : Stožčast kup skalovja <e2>v jami</e2> , najčešce na dnu vhodnih brezen"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-46.tsv, sentence: 8
 
 46	"<e1>podzemeljska reka</e1> : Reka <e2>v kraškem podzemlju</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-46.tsv, sentence: 13
 
 47	"<e1>požiralnik</e1> : <e2>Mesto izgubljanja vode v kraško podzemlje</e2> . Priporočljiv pomen : špranja ali brezno v skalnem koritu , ki požira vodo"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-47.tsv, sentence: 4
 
 48	"<e1>sifonsko jezero</e1> : Vecja kotanja stoječe vode <e2>v sifonskem koritu</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-48.tsv, sentence: 10
 
 49	"<e1>čebulaste tvorbe</e1> , sferične tvorbe : Sigove tvorbe okroglaste , čebuli podobne oblike , <e2>zrasle na jamski steni ali jamskem stropu</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-49.tsv, sentence: 6
 
 50	"<e1>skalni nos</e1> , korozijski nož : <e2>Iz skalne stene ali poševnega pobočja moleča izboklina</e2> v obliki nosu . Domnevno ostanki žlebičastih reber"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-50.tsv, sentence: 0
 
 51	"<e1>obalna škavnica</e1> : Skalna jamica <e2>v območju plimovanja a1i valovanja</e2> , ki jo obdobno zapolnjuje morska voda"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 1
 
 52	"<e1>poklinasta škraplja</e1> , strukturna škraplja : Škraplja , ki kaže v obliki še tesno navezanost <e2>na poklino , ob kateri se je razvila</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 13
 
 53	"<e1>troglofil</e1> : Jamoljubna žival , <e2>ki živi obdobno na zemeljskem površju ( npr . netopir</e2> )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-52.tsv, sentence: 9
 
 54	"<e1>votlikavost</e1> , kavernoznost : Delež , ki odpade na votline <e2>v kraškem podzemlju</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-53.tsv, sentence: 5
 
 55	"<e1>Kopasti vrhovi</e1> so najpogostejši tip kraške vzpetine , ponavadi <e2>se pojavljajo med različnimi depresijskimi oblikami</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-7.tsv, sentence: 5
 
 56	"<e1>Erozijski jarki</e1> so stalna reliefna oblika , pogosta <e2>na strmih pobočjih</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-sl-8.tsv, sentence: 2
 
 57	"<e1>Udornice</e1> so kraške globeli , ki <e2>nastanejo z udori stropov</e2> nad podzemnimi votlinami"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-1.tsv, sentence: 1
 
 58	"<e1>Udornice</e1> so izrazita površinska reliefna oblika   , ki pa <e2>ima svoj izvor v podzemnem dogajanju</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-1.tsv, sentence: 5
 
 59	"<e1>Litotamnijski apnenec</e1> je <e2>biogena</e2> kamnina kopučaste teksture"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-10.tsv, sentence: 1
 
 60	"<e1>Kraški izvir</e1> je <e2>naravni</e2> iztok kraške vode na površje"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-11.tsv, sentence: 1
 
 61	"Manjše , poklinaste škraplje imenuje <e1>splitkarren</e1> , <e2>nastanejo pa ob manjših nezveznostih v kamnini</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-11.tsv, sentence: 10
 
 62	"Zvezdasta tlorisna oblika <e1>cockpitov</e1> je posledica erozijskih jarkov , <e2>ki se centripetalno stekajo s pobočij v dna kotanj</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-13.tsv, sentence: 1
 
 63	"<e1>Marmor</e1> je metamorfna kamnina , <e2>ki nastane z metamorfozo apnencev in dolomitov pri povišanih tlakih in temperaturi</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-14.tsv, sentence: 9
 
 64	"<e1>Stalagmiti</e1> so sigaste tvorbe , ki zrastejo na tleh <e2>iz kapljajoče vode</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-16.tsv, sentence: 14
 
 65	"Vzrok <e1>parageneze</e1> <e2>je zasipavanje dna rova s sedimenti in iztiskanje toka ter s tem tudi korozijskega procesa pod strop rova</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-18.tsv, sentence: 13
 
 66	"<e1>Oblika udornic</e1> <e2>je rezultat ravnovesja med različnimi procesi v udornici</e2> , ki oblikujejo udornice v dinamičnem kraškem površju"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-19.tsv, sentence: 9
 
 67	"Prvi <e1>jamo</e1> opredeljujejo kot vsako naravno votlino v kamnini , ki je prehodna človeku in je vsaj 10 m dolga ali globoka , drugi pa , da je jama <e2>naravna</e2> podzemna votlina v kamnini , ki je dovolj velika , da je prehodna za človeka ( cv : Stepišnik , 2011 )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-2.tsv, sentence: 2
 
 68	"<e1>Udor stropa</e1> <e2>je najstarejša razlaga nastanka</e2> vseh udornic"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-20.tsv, sentence: 8
 
 69	"<e1>freatični kanal</e1> - Kanal , nastal v prežeti coni . <e2>Njegov prostorski potek se ne ravna po vodoravni smeri , temveč po smeri inicialnih struktur</e2> . Značilna sta elipsast ali lečast prečni presek"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-23.tsv, sentence: 3
 
 70	"<e1>Gamsov efekt</e1> - Način preoblikovanja svežnja , ko ponikalnica z nekraškega površja vnaša prod . Ker pretok in transportna moč vode nista popolnoma enakomerna , se plavje odlaga v globljih delih svežnja . <e2>To prisili vodo , da ubira pota po kanalih , ki so vse bliže piezometrični gladini</e2> . Če proces traja dovolj dolgo , voda končno izoblikuje tunelski rov vzdolž gladine podtalnice in teče po lastnem nasipu . Dejansko to pomeni vdor tluvialnih razmer v kraško podzemlje ( transenvironmental effect ) in Gamsov efekt je značilen za kras na nizvodnem stiku z nekrasom . l . Gams ( 1959 ) je tako razložil lego in nastanek večine največjih jam na Slovenskem"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-23.tsv, sentence: 5
 
 71	"<e1>jamski minerali</e1> - Minerali , ki jih najdemo v kraških votlinah . Po izvoru ločimo : <e2>avtohtone , ki nastajajo iz komponent poljubnega izvora v specifično jamskih razmerah</e2> ( siga kot svojska oblika kalcita , aragonit , opal ) , paravtohtone ki so presedimentirani iz matične kamnine ( minerali netopnega ostanka oz . njihovi reaktanti ) , in alohtone , ki so zunanjega izvora in lahko s krasom sploh nimajo zveze . Po analogiji s petrografsko klasifikacijo lahko imamo jamske minerale za drugotne kraške minerale"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-24.tsv, sentence: 3
 
 72	"<e1>razpoka</e1> - <e2>Mehansko nastala</e2> ploskev nezveznosti v kamnini , ob kateri je prišlo le do neznatnih premikov"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-26.tsv, sentence: 8
 
 73	"<e1>tunelski rov</e1> - Rov v epifreatični coni , ki po obliki spominja na predor . <e2>Nastane za ponori večjih alogenih tokov , v manjšem obsegu kot učinek Gospo­daričevega efekta v avtigenem okolju</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-27.tsv, sentence: 6
 
 74	"<e1>zakrasevanje</e1> , skrasevanje , vkraševanje , karstifikacija : Proces nastajanja krasa . Pričetek kraškega razvoja po odstranitvi neprepustnega pokrova . <e2>Kras nastaja s kraškimi procesi , med katerimi je v ospredju korozija</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-28.tsv, sentence: 8
 
 75	"<e1>Reliktni   vršaji</e1> so značilne oblike   kontaktnega krasa , ki <e2>nastanejo s postopno denudacijo flišne naplavine in kemično denudacijo karbonatne podlage</e2> na območjih vršajev"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-3.tsv, sentence: 4
 
 76	"<e1>erozijsko brezno</e1> : <e2>Nastalo je pretežno z mehaničnim delovanjem tekoče vode</e2> in ima jasne erozijske oblike"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-30.tsv, sentence: 11
 
 77	"<e1>Dimnica</e1> : Jama z meglo ob vhodu , <e2>ki nastaja ob določenem vremenu zaradi mešanja hladnejšega zunanjega in toplejšega jamskega zraka</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 8
 
 78	"<e1>gravitacijska voda</e1> , gravitacijski vodni tok : Voda ( vodni tok ) v kraškem podzemlju , ki <e2>se pretaka gravitacijsko</e2> ( težnostno ) v kanalih ter v njih ne sega do stropa in ima prosto gladino ( v nasprotju s tlačno gladino , ki je značilna za tlačni ali eforacijski tok )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-33.tsv, sentence: 5
 
 79	"<e1>Inkazija</e1> : Preoblikovanje jamskega prostora <e2>zaradi jamskih podorov in drugih oblik rušenja skalovja</e2> . Če se odlepi ob leziki del sklada , govorimo o skladovnem odlomu . Če se odlomi skalni blok , je to blokovni odlom"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-34.tsv, sentence: 1
 
 80	"<e1>fosilna jama</e1> : V <e2>preteklih geoloških razdobjih nastala</e2> jama , ki se , danes ne oblikuje več . Objekt fosilnega krasa ( gl . fosilni kras )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-35.tsv, sentence: 0
 
 81	"<e1>lezična jama</e1> : Jama , <e2>ki kaže jasne znake nastanka ob leziki</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-35.tsv, sentence: 4
 
 82	"<e1>jerina</e1> , rdeca zemlja , terra rossa : Rdečkasta zemlja , ki je po prevladujočem naziranju <e2>v glavnem netopni ostanek karbonatov</e2> . Značilna za submediteranski in mediteranski kras"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-36.tsv, sentence: 12
 
 83	"<e1>biogena korozija</e1> : Korozija <e2>pod vplivom organizmov</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 0
 
 84	"<e1>korozijski stalaktit</e1> : <e2>S selektivno korozijo nastali</e2> , večinoma skalni izrastki na jamskem stropu , pogosti v tropski klimi"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 11
 
 85	"<e1>aridni kras</e1> : <e2>Nastal je v aridni ( sušni ) klimi</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-39.tsv, sentence: 13
 
 86	"<e1>Vrtače</e1> se pogosto nahajajo na karbonatih in evaporitih ( Williams , 2006 ) . Po obliki jih   Slovenska kraška terminologija   ( Gams in sod . , 1973 ) deli na skledaste , lijakaste , kotlaste in vodnjakaste . Po nastanku pa <e2>jih ločimo na korozijske , udorne , sufozijske in posedne</e2> ( Ford , Williams , 2007 ) . Veliko gostoto vrtač najdemo na apnencih , na dolomitih jih navadno ni , razvijejo se tudi na pleistocenskih in oligocenskih konglomeratih . Na njihovo razporeditev vpliva tudi relief , saj se manj pogosto pojavljajo na strmih pobočjih , zato sta pobočni naklon in gostota vrtač obratno sorazmerna . Odvisne so tudi od skladovitosti apnencev"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-4.tsv, sentence: 5
 
 87	"<e1>subnivalni kras</e1> : Kras v višinskem ali subarktičnem pasu , kjer <e2>sneg kot očitni morfogenetski dejavnik</e2> skopni le čez poletje , tudi pas pod nivalnim krasom ali gozdnati pas , kjer je v glacialnih dobah nastal nivalni kras"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-40.tsv, sentence: 2
 
 88	"<e1>Fluviokras</e1> : Kras , <e2>katerega površje je izoblikoval fluvialni proces ( erozija , denudacija )</e2> , čeprav je bila korozija znatna , vendar ne odločilna za relief . kras kraških polj in podolijl . Kras , kjer so kraška polja in povezane suhe doline - podolja - poglavitne kraške značilnosti površja ( npr . kras Notranjskega podolja )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-40.tsv, sentence: 12
 
 89	"<e1>kraška erozija prsti</e1> : Erozija prsti , <e2>pri kateri se zaradi spiranja</e2> v kraško notranjost zniža raven prsti . Zunanji znak intenzivne kraške erozije prsti so kamni , ki na obdelovalnih zemljišcih pogledajo na površje . Prim . trebljenje krasa"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-42.tsv, sentence: 10
 
 90	"<e1>fosilno kraško polje</e1> : V literaturi se javlja v več pomenih : kraško polje , zapolnjeno z neprepustnimi sedimenti , ali : nekdanje kraško polje , <e2>ki mu je reka predrla obod</e2> . Tudi polje , ki je v osnovi nastalo v subtropski klimi in je danes oblika mediteranskega krasa"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-45.tsv, sentence: 1
 
 91	"<e1>gravitacijski rov</e1> : . Jamski rov značilne oblike , <e2>ki je nastal s pretokom vode s prosto ( nepritisnjeno ) gladino - z gravitacijskim tokom</e2> . Prim . gravitacijski prečni profil"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-48.tsv, sentence: 5
 
 92	"<e1>kapniški steber</e1> , stalagmat : Zraščena stalagmit in stalaktit , tudi <e2>do stropa zrasli stalagmit</e2> ali do dna zrasli stalaktit"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-49.tsv, sentence: 11
 
 93	"Najosnovnejša značilnost <e1>glaciokraškega okolja</e1> je dobra ohranjenost ledeniških geomorfoloških oblik , saj v kraških okoljih prevladujeta <e2>kemična denudacija površja in vertikalni odtok padavinske vode v podzemlje</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-5.tsv, sentence: 6
 
 94	"<e1>skalni nos</e1> , korozijski nož : Iz skalne stene ali poševnega pobočja moleča izboklina v obliki nosu . <e2>Domnevno ostanki žlebičastih reber</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-50.tsv, sentence: 0
 
 95	"<e1>jamska škraplja</e1> : Škraplja v jami , <e2>ki nastane z agresivno prenikajočo vodo</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 6
 
 96	"<e1>udornica</e1> : Depresijska oblika <e2>z očitno udornim nastankom</e2> nad votlino . Pogosto ime za udorno vrtačo"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-52.tsv, sentence: 12
 
 97	"Osnovni mehanizem nastanka <e1>udornic</e1> je <e2>rušenje jamskih stropov do površja oziroma udor</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-6.tsv, sentence: 7
 
 98	"Dejavniki nastanka <e1>periglacialnega dolca</e1> so <e2>zmrzovanje in taljenje , dežno-snežna erozija , soliflukcija in nivacija</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-6.tsv, sentence: 14
 
 99	"Poglavitni recentni geomorfni procesi v <e1>dolcih</e1> so preperevanje ( prvotni geomorfni proces , ki lahko preoblikuje površje brez stalnih površinskih vodnih tokov ) , denudacija ( ki lahko preko trenja med preperelino in podlago pomaga oblikovati začetno obliko dolca ; proces je predstavil Penck kot posebno obliko denudacije , ki jo imenuje korazija , nastalo obliko pa korazijska dolina ) , polzenje , erozija ( pomembna tam , kjer rastje ne varuje podlage ) , korozija ( krajevno spremenljiva glede na debelino prsti – razčlenjevanje površja je močnejše , če je debelina prsti tanka ali manj prepustna ; korozija je najmočnejša v dnu dolca in ne na pobočjih , saj je dno dolca položnejše od pobočij , posledično se agresivna voda dlje časa zadržuje v dnu in ga ob tem korodira ) , <e2>akumulacija ( gradivo se odlaga na stiku pobočja in dna dolca ter v dnu dolca )</e2> ter podzemsko spiranje prepereline in drobirja ( lahko pomembno prispevajo k denudaciji )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-7.tsv, sentence: 0
 
 100	"<e1>Relief</e1> <e2>je rezultat litološke in tektonske zgradbe ter njenega dosedanjega geomorfološkega preoblikovanja</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-8.tsv, sentence: 10
 
 101	"<e1>Škraplje</e1> so kraške oblike , ki <e2>nastanejo zaradi korozije vode na površju ali subkutano</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-sl-9.tsv, sentence: 10
 
 102	"<e1>Udornice</e1> so zaprte kraške globeli   <e2>različnih</e2> dimenzij in oblik , ki so nastale z udori stropov nad podzemnimi votlinami"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-1.tsv, sentence: 2
 
 103	"Za <e1>kraška polja</e1> sta značilna <e2>sklenjen obod nad razmeroma uravnanim obsežnim dnom</e2> in kraška hidrologija .   Slovenska kraška terminologija   ( cit . Gams , 2004 ) opredeljuje , da je za kraško polje bistvena najmanj pol kilometra široka uravnava z višjim obodom"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-1.tsv, sentence: 8
 
 104	"<e1>Grapa</e1> je dolina na pobočju , <e2>s precejšnjim strmcem in prečnim profilom v obliki črke V</e2> . Voda po njej teče le v majhnih količinah in le občasno , ob nalivih lahko v njih nastanejo siloviti hudourniki"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-10.tsv, sentence: 13
 
 105	"Večje kamnito , <e2>gruščnato</e2> površje iz razpadlega kamenja , značilno za polgoli in goli kras , imenujemo <e1>griža</e1>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-12.tsv, sentence: 9
 
 106	"<e1>Vrtača</e1> je kotanja , navadno globoka več metrov , in <e2>je bolj široka kot globoka</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-14.tsv, sentence: 2
 
 107	"Beseda <e1>jama</e1> lahko pomeni <e2>vodoravno votlino</e2> ali pa brezno , ki se poglablja navzdol"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-17.tsv, sentence: 3
 
 108	"<e1>Kal</e1> je <e2>plitva</e2> kotanja na kraških tleh , kjer se zaradi nepropustnega dna in pobočij zbira deževnica"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-18.tsv, sentence: 4
 
 109	"<e1>Jame</e1> so najznačilnejši kraški pojav . V ožjem smislu je jama prehodna , <e2>pretežno horizontalna</e2> podzemna votlina , ravno nasprotno od brezna , ki je navpično (   Slovenska kraška terminologija   , 1973 , str . 8 )"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-2.tsv, sentence: 4
 
 110	"Natančnejšo opredelitev   <e1>kraškega polja</e1> je   podal Gams ( 1973 ; 1974 ; 1978 ) po sledečih kriterijih ( Gams , 1978 ; cv : Ford , Williams , 2007 ; Gams , 1973 : Gams , 1974 ) : <e2>uravnano , tudi terasirano dno</e2> v živoskalni podlagi oziroma v nesortiranih naplavinah ; jasno zaokrožena depresija s strmo vzpenjajočim se obodom vsaj na eni strani polja ; kraški odtok ; površinske vode na polju ponikajo"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-2.tsv, sentence: 13
 
 111	"Večje globeli , <e2>ki naj bi bile v tlorisu bolj nepravilnih oblik</e2> , imenujemo <e1>uvale</e1>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-20.tsv, sentence: 7
 
 112	"Ford ( 2007 ) definira <e1>kraško polje</e1> kot dolgo in <e2>zaprto</e2> depresijo z ravnim dnom v kraškem reliefu"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-21.tsv, sentence: 8
 
 113	"<e1>neprežeta cona</e1> - <e2>Zakraseli</e2> del speleogenetskega prostora nad gladino podtalnice"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-23.tsv, sentence: 10
 
 114	"<e1>razpoklinska cona</e1> - Bolj ali manj gost , do več 10O m širok , <e2>usmerjen sistem razpok</e2> . Premiki ob razpokah so neznatni ali zelo majhni"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-26.tsv, sentence: 10
 
 115	"<e1>turbulentni tok</e1> - Vrtinčast način pretakanja tekočine , <e2>pri katerem se tokovnice prepletajo</e2> . To se dogaja pri hitrostih , večjih od 10 · 3 m / s . Navadno se pojavi v kanalih večjih od 51 O mm . Turbulentni tok traja od preboja do paragenetskega praga , pa tudi onkraj njega . Kriterij je Re > 3000"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-27.tsv, sentence: 7
 
 116	"<e1>žlebič</e1> : Žlebaste izjedenine s polkrožnim prečnim prerezom , <e2>potekajoče po smeri največjega strmca po kompaktni kamnini</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-28.tsv, sentence: 10
 
 117	"<e1>zaobljeni žlebiči</e1> : Žlebiči , <e2>ki imajo zaobljene vmesne hrbte</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-28.tsv, sentence: 16
 
 118	"<e1>brezno</e1> : Navpična ali strma votlina , <e2>bolj globoka kot široka</e2> , ki se ji ne vidi dna , “ brez dna ” . V nekaterih kraških predelih Slovenije lj . jama"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-29.tsv, sentence: 10
 
 119	"Drugi tip vršajev predstavljajo   <e1>reliktni vršaji</e1> , ki so v tlorisu pahljačaste oblike . <e2>Njihovi podolžni profili so izrazito konkavni v zgornjih delih</e2> , v osrednjih in spodnjih delih pa imajo značilno konveksno obliko"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-3.tsv, sentence: 5
 
 120	"<e1>zvonasto brezno</e1> : <e2>Navzdol se razširja v obliki zvona</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-30.tsv, sentence: 3
 
 121	"<e1>črvičaste tvorbe</e1> , hieroglifi : Pretežno ilovnate proge , lise , pege in druge razkrojene oblike , <e2>podobne črvičastim ekskrementom</e2> na jamskih stenah ali stropu . Delijo jih tudi na točkaste , pasaste , leopardaste , tigraste itd"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 2
 
 122	"<e1>dimnik</e1> : <e2>Ožji</e2> rov v jamskem stropu , ki ima zvezo s površjem"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 9
 
 123	"<e1>eforacijski rov</e1> : Jamski rov , ki ga je izoblikoval vodni tok pod tlakom ( eforacijski tok ) <e2>in ima v prečnem prerezu zaokrožen ( eforacijski ) profil</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-32.tsv, sentence: 1
 
 124	"<e1>griža</e1> : Večje kamnito , gruščnato površje iz razpadlega kamenja , značilno za polgoli in goli kras . <e2>Nerazpadla kamnita podlaga je bolj ali manj prekrita</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-32.tsv, sentence: 10
 
 125	"<e1>injekcijska zavesa</e1> : <e2>Navpični sloj</e2> , v katerem z uvajanjem posebne gmote zapolnijo votline v kraškem podzemlju in ga napravijo neprepustnega , da preprečuje vodni odtok iz vodnega bazena . Znane injekcijske zavese so na spodnji strani vodnih akumulacij za hidroelektrarne na kraških poljih dinarskega krasa ( sistem HE na Cetini , Trebišnjici )"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-34.tsv, sentence: 0
 
 126	"<e1>etažna jama</e1> , jama v nadstropjih : Jama , <e2>ki ima rove vidno razvrščene v dveh ali več nadstropjih</e2> ( etažah ) , ki jih lahko povezujejo brezna ali skoki"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-35.tsv, sentence: 6
 
 127	"<e1>jamski rov</e1> : Del jame , <e2>ki je mnogo bolj razvita veni smeri</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-36.tsv, sentence: 8
 
 128	"<e1>kapelica</e1> : Večja niša ali <e2>zaokrožena</e2> , bogato zakapana votlinica"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-37.tsv, sentence: 4
 
 129	"<e1>konta</e1> : Uvala . Visokogorska uvala . Glaciokraška globel , več deset ali sto metrov dolga in široka , <e2>običajno skledaste oblike</e2> . Mnogokrat širša kot globlja . Ljudsko ime v Julijskih Alpah , kjer je zelo pogosta"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-37.tsv, sentence: 12
 
 130	"<e1>korozijska polica</e1> : Redke , nekaj dm ali metrov široke , skoraj vodoravne ploskve na skalnem površju visokogorskega ( subnivalnega ) krasa . Nastanejo z retrogradno ploskovno korozija ; <e2>zato so obicajno navzgor omejene s strmo stopnjo</e2> . Genetsko sorodne korozijskim stopnickam"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 10
 
 131	"<e1>kotlica</e1> : Okroglasta vdolbina <e2>gladkih sten</e2> s premerom nekaj centimetrov ali decimetrov , v stropu , na steni ali dnu jame . Poznamo korozijsko in erozijsko kotlico"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 14
 
 132	"Jame so najznačilnejši kraški pojav . V ožjem smislu je <e1>jama</e1> prehodna , <e2>pretežno horizontalna</e2> podzemna votlina , ravno nasprotno od brezna , ki je navpično"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-4.tsv, sentence: 3
 
 133	"<e1>poligonalni kras</e1> : Kras , <e2>kjer so kraške kotanje , nastale z zraščanjem vrtač , iz zraka vidne kot poligonalna mreža</e2> . Pogojen je s “ parketnim ” razporedom tektonskih prepok . Pogost v tropskem krasu"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-40.tsv, sentence: 11
 
 134	"<e1>podtalni kras</e1> , podpreperelinski kras : Kraške oblike v apnencu , nastale neposredno pod prstjo ( zemljo ) . Številne <e2>so podobne površinskim</e2> ( pokrite škraplje , pokrite vrtace ) ali tem v podzemlju ( zapolnjeno brezno ) , nekatere pa najdemo samo pod prstjo ( gl . korozijski vdolbek , zapolnjen jašek , skalne luknje )"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-41.tsv, sentence: 14
 
 135	"<e1>kraška miza</e1> : Ledeniški balvan , podorna ali druga alohtona skala , ki je zašlitila apneniško podlago pred zniževanjem in zato <e2>leži na podstavku</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-42.tsv, sentence: 11
 
 136	"<e1>kraški jarek</e1> , bogaz : Do nekaj metrov širok in <e2>globok premočrten jarek</e2> vzdolž razpok , navadno s strmimi ali navpičnimi pobočji . V slovenski kraški literaturi tudi prelomniški žleb , prelomniški jarek za večje kraške jarke v visokogorskem krasu . Za manjše kraške jarke internacionalni bogaz , sprejet preko srbohrvatske literature . Podobne oblike v krasu na Portoriku imenujejo zanjon"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 1
 
 137	"<e1>kraško polje</e1> , polje : Največja kraška vdolbina <e2>z ravnim dnom</e2> in kraškim odtokom . V tipični obliki ima ponikalnico in strm obod . Ime iz jugoslovanskih jezikov , ki je sprejeto kot mednarodni termin ( polje )"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 8
 
 138	"<e1>uvalasto kraško polje</e1> : Neizrazito polje manjših dimenzij , prehodna oblika med uvalo in kraškim poljem , <e2>navadno brez vecjega ravnega dna</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-45.tsv, sentence: 2
 
 139	"<e1>lisičina</e1> : Ožji , <e2>navadno zavit</e2> rov , ki povezuje večje podzemeljske prostore , prehoden s plazenjem po vseh štirih"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-45.tsv, sentence: 10
 
 140	"<e1>podorni stožec</e1> : <e2>Stožčast</e2> kup skalovja v jami , najčešce na dnu vhodnih brezen"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-46.tsv, sentence: 8
 
 141	"<e1>Gravitacijski vodni tok</e1> oblikuje gravitacijski prečni profil . <e2>Zanj so značilne stene , ravno dno in svodast strop</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-47.tsv, sentence: 6
 
 142	"<e1>slepi rov</e1> : Rov , ki <e2>se slepo konča</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-48.tsv, sentence: 1
 
 143	"<e1>sifonski zapirac</e1> : <e2>Del stropa , ki moli v sifon</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-48.tsv, sentence: 11
 
 144	"<e1>sigova ponvica</e1> : Kotanjica iz sige , z značilno , <e2>navpično do gladine vode segajočo steno na odtočni strani</e2> , stalno ali obdobno zapolnjena s stoječo vodo"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-49.tsv, sentence: 4
 
 145	"<e1>kapnik</e1> , kapniška tvorba : <e2>Stoječa ali viseča</e2> tvorba , nastala z izločanjem sige iz kapljajoče vode . V širšem smislu vsaka stoječa ali viseča sigova tvorba . Glede na obliko ločimo gobasti kapnik , grozdasti stalaktit , korenasti kapnik , cevasti kapnik"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-49.tsv, sentence: 7
 
 146	"<e1>stalaktit</e1> : Viseči kapnik . <e2>Po obliki cevast , korenast , kijast , svedrast</e2> , itd"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-49.tsv, sentence: 10
 
 147	"Kopaste vzpetine , ki jih na tem območju najpogosteje imenujejo <e1>glavice</e1> ali kuki , se dvigujejo od nekaj 10 do 200 m nad okoliško površje in <e2>so v tlorisu okroglaste oblike</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-5.tsv, sentence: 2
 
 148	"<e1>skalni nož</e1> : <e2>Noževemu rezilu podobna ostra</e2> skala , ki kot ostanek izvotljevanja štrli v jamski prostor"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-50.tsv, sentence: 1
 
 149	"<e1>škavnica</e1> , škalba : Skalna vdolbina , globoka in široka več centimetrov ali decimetrov , izjemoma nekaj metrov . Običajno <e2>ravnega dna in strmih , celo previsnih sten</e2> . Na krasu lj . škavna za večje škavnice"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 0
 
 150	"<e1>luknjasta škraplja</e1> : Izjedenina <e2>v obliki navpicnih lukenj in raz</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 10
 
 151	"<e1>fosilna škraplja</e1> : <e2>Z neprepustnimi sedimenti prekrita</e2> škraplja ali vsaka škraplja , ki ni v skladu s procesi v novem okolju"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-52.tsv, sentence: 1
 
 152	"<e1>uvala</e1> : Skledasta vdolbina , navadno manjša od kraškega polja in večja od vrtače , <e2>z neravnim , običajno z vrtacami razčlenjenim dnom</e2> . Ljudski izraz z dinarskega krasa"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-52.tsv, sentence: 14
 
 153	"<e1>vrtrača</e1> : V Sloveniji ljudsko dolina , le v Beli Krajini draga . V slovenskem strokovnem slovstvu se je vrtača uveljavila v prvi polovici XX . stol . , ker je dolina preširok pojem . Vrtača je depresijska oblika , navadno globoka več metrov <e2>in je bolj široka kot globoka</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-53.tsv, sentence: 8
 
 154	"<e1>Dolec</e1> je <e2>plitva dolinasta</e2> reliefna oblika brez površinskega vodnega pretakanja , in je bolj plitva kot je dolga"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-7.tsv, sentence: 1
 
 155	"<e1>Dolec</e1> je <e2>plitva dolinasta reliefna oblika</e2> na pobočju in brez površinskega vodnega pretakanja"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-7.tsv, sentence: 4
 
 156	"<e1>Ponor</e1> je večja , <e2>vodoravna</e2> odprtina , v katero teče potok ali reka"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-8.tsv, sentence: 4
 
 157	"Kot občno ime ( <e1>kras</e1> ) pomeni v ljudskem jeziku <e2>kamnito ozemlje</e2> , kar je v skladu s paleoevropsko osnovo"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-sl-9.tsv, sentence: 5
 
 158	"<e1>Udornice</e1> so <e2>večje</e2> kraške kotanje   , ki so nastale zaradi rušenja stropa , zato imajo strma pobočja"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-1.tsv, sentence: 3
 
 159	"<e1>Kras</e1> , ki ga imenujemo tudi Tržaški , Goriški , Divaško – Komenski ali Sežanski Kras je <e2>okoli 500 km2 velika</e2> apneniška uravnava v jugozahodni Sloveniji"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-11.tsv, sentence: 6
 
 160	"<e2>Večje</e2> kamnito , gruščnato površje iz razpadlega kamenja , značilno za polgoli in goli kras , imenujemo <e1>griža</e1>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-12.tsv, sentence: 9
 
 161	"<e1>Vrtača</e1> je kotanja , <e2>navadno globoka več metrov</e2> , in je bolj široka kot globoka"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-14.tsv, sentence: 2
 
 162	"Prvi <e1>jamo</e1> opredeljujejo kot vsako naravno votlino v kamnini , ki je prehodna človeku in je vsaj 10 m dolga ali globoka , drugi pa , da je jama naravna podzemna votlina v kamnini , ki <e2>je dovolj velika , da je prehodna za človeka</e2> ( cv : Stepišnik , 2011 )"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-2.tsv, sentence: 2
 
 163	"<e2>Večje globeli od uval</e2> imenujemo <e1>kraška polja</e1>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-20.tsv, sentence: 9
 
 164	"<e1>oblezična ploskev</e1> - Speleogenetsko pomembna nezveznost v kamnini , ki je v okviru natančnosti opazovanj vzporedna pravim lezikam , <e2>a se ne razteza na večje razdalje</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-25.tsv, sentence: 8
 
 165	"<e1>delana škavna</e1> : Lj . na Krasu , <e2>pomeni meter ali bolj široko</e2> odprto škavno ( škavnico ) , ki so jo zaprli , da bi držala vodo za napajanje drobnice ( ovac ) ( prim . škavnica )"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 5
 
 166	"<e1>golobinka</e1> , golobina , golobnjača : Lj . za <e2>večjo</e2> udornico ali brezno s širokim skalnatim vhodom , kjer se zadržujejo golobi"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-32.tsv, sentence: 8
 
 167	"<e1>jamski biser</e1> , pizolit : <e2>Droben</e2> obrušen kamen ali delček sige , ki ga v mirujoči vodi obrača in brusi nanj kapljajoča voda in ( ali ) debeli s koncentričnimi skorjami sige"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-36.tsv, sentence: 2
 
 168	"<e1>kapelica</e1> : <e2>Večja</e2> niša ali zaokrožena , bogato zakapana votlinica"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-37.tsv, sentence: 4
 
 169	"<e1>korozijski vdolbek</e1> : <e2>Nekaj dm široka in globoka</e2> ovalna vdolbinica v apneniški skali pod prstjo ( zemljo , preperino ) . Ena od oblik podtalnega krasa"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 9
 
 170	"<e1>Udornice</e1> so površinske kraške globeli   različnih oblik in <e2>velikosti</e2> , katerih nastanek povezujemo s točkastim vertikalnim odnašanjem kamnine v podzemlje , bodisi z nenadnimi udori nad jamskimi prostori , bodisi s postopnim odnašanjem kamnine nad aktivnimi jamskimi rovi ( Stepišnik , 2001 )"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-4.tsv, sentence: 0
 
 171	"<e1>plitvi kras</e1> : Kras , <e2>v katerem je cona vertikalnega pretakanja plitva</e2> . Globlje reliefne depresije segajo do freatične cone . Po drugem pojmovanju kras s plitvimi kraškimi ( vodoprepustnimi ) kamninami"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-41.tsv, sentence: 10
 
 172	"<e1>kraško polje</e1> , polje : <e2>Največja</e2> kraška vdolbina z ravnim dnom in kraškim odtokom . V tipični obliki ima ponikalnico in strm obod . Ime iz jugoslovanskih jezikov , ki je sprejeto kot mednarodni termin ( polje )"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 8
 
 173	"<e1>lisičina</e1> : Ožji , navadno zavit rov , ki povezuje večje podzemeljske prostore , <e2>prehoden s plazenjem po vseh štirih</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-45.tsv, sentence: 10
 
 174	"<e1>ponor</e1> : Večja odprtina , v kateri ponika voda . Priporočljiv pomen : <e2>večja</e2> vodoravna luknja ( jama ) , v katero teče potok ali reka ( na primer vtok Pivke v Postojnsko jamo )"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-47.tsv, sentence: 2
 
 175	"<e1>kapniški izrastek</e1> : <e2>Drobna</e2> kapniška tvorba , ki zraste v raznih smereh zaradi kapilarne vode ( tudi poliekscentrične tvorbe )"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-49.tsv, sentence: 12
 
 176	"<e1>škrapljasti vodnjak</e1> : <e2>Nekaj decimetrov , do nekaj metrov globoka</e2> skalna luknja z vidnim dnom"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 11
 
 177	"<e1>vodnjakasta vrtača</e1> : <e2>Globoka</e2> vrtača s strmimi stenami"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-sl-53.tsv, sentence: 12
 
 178	"<e1>Litotamnijski apnenec</e1> je biogena kamnina <e2>kopučaste teksture</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-10.tsv, sentence: 1
 
 179	"Jame <e2>s sledovi bivanja v paleolitiku</e2> so <e1>jamske paleolitske postaje</e1>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-13.tsv, sentence: 13
 
 180	"<e1>Laminarni tok</e1> je način pretakanja tekočine , pri katerem so tokovnice ves čas vzporedne ; <e2>molekule vode se gibljejo vzporedno v smeri gibanja vodnega toka</e2> brez mešanja oziroma pravokotne komponente premikanja"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-15.tsv, sentence: 3
 
 181	"Vršaje na krasu , <e2>ki nimajo aktivnega procesa sedimentacije rečnih nanosov</e2> , imenuje <e1>psevdovršaji</e1>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-18.tsv, sentence: 12
 
 182	"Vršaje na krasu , <e2>ki nimajo aktivnega procesa sedimentacije rečnih nanosov</e2> na svojem površju , imenuje <e1>psevdovršaji</e1>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-21.tsv, sentence: 11
 
 183	"<e1>pospešena korozija</e1> - Krajevno <e2>učinkovitejša</e2> korozija , katere učinki se pokažejo kot izrazite površinske ali podzemske reliefue oblike"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-26.tsv, sentence: 2
 
 184	"<e1>dinamična jama</e1> , klimodinamična jama : Jama , <e2>ki je vse leto dobro prezračena</e2> , ker vse leto živahno komunicira z zunanjim zrakom . Navadno ima dva vhoda v neenaki višini , kar omogoča prepih vse leto"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 10
 
 185	"<e1>Območje osciliranja</e1> : prehodna cona , periodično <e2>vlažna</e2> cona"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-33.tsv, sentence: 4
 
 186	"<e1>kalcitna žila</e1> : Tanka , nekaj milimetrov ali cm debela plast rekristaliziranega apnenca <e2>svetle barve</e2> , ki navadno moli iz jamske stene ali stropa za nekaj milimetrov , pa tudi centimetrov . Tudi kalcitno rebro ali kalcitna pola"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-37.tsv, sentence: 1
 
 187	"<e1>matični kras</e1> : Kras kraške pokrajine med Tržaškim zalivom in Vipavsko dolino v regiji , ki jo imenujemo Kras in katere ime je <e2>prešlo v krasoslovno terminologijo kot geomorfološki termin</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-39.tsv, sentence: 3
 
 188	"<e1>Holokarst</e1> : Po Cvijiču popolni , globoki kras z vsemi kraškimi pojavi , vključno polji . <e2>Nasprotje od merokrasa</e2> . Tudi dinarski tip krasa"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-41.tsv, sentence: 2
 
 189	"<e1>kropa</e1> : <e2>Močan</e2> kraški izvir , katerega vode pritekajo na dan razpršeno med skalovjem na nagnjenem površju . vretje . Skupinski kraški izvir , v katerem voda ob visoki vodi vre"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-43.tsv, sentence: 14
 
 190	"Cvijić je izraz <e1>fluviokras</e1> za območja na karbonatnih kamninah , kjer <e2>prevladuje površinski odtok vode</e2> , uporabil že leta 1900 v razpravi o kraških poljih zahodne Bosne in Hercegovine , vendar ni podrobneje opredelil njegovega pomena"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-5.tsv, sentence: 0
 
 191	"<e1>Kopasti vrhovi</e1> so višji deli kraškega reliefa in predstavljajo <e2>najpogostejši tip kraške vzpetine</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-sl-7.tsv, sentence: 2
 
 192	"<e1>Litotamnijski apnenec</e1> je <e2>miocenska ( badenijska )</e2> apnena usedlina , nastala z biokemičnimi procesi"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-sl-10.tsv, sentence: 2
 
 193	"<e1>Prelivni izvir</e1> je občasni kraški izvir , <e2>ki je aktiven ob visokih vodostajih , ko nižji , običajno stalnejši izvir ne zmore prevajati vse vode , ki priteka iz kraškega vodonosnika</e2>"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-sl-16.tsv, sentence: 6
 
 194	"<e1>prevajanje</e1> - speleogenetska faza <e2>ko je paragenetski prag prekoračen</e2>"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-sl-26.tsv, sentence: 5
 
 195	"<e1>viseča voda</e1> : Je voda v aeracijski ( vadozni ) coni , ki jo je od navzdolžnega prenikanja odklonil vododržni vložek . Tudi stoječa voda , ki je ujeta v kotanjah <e2>po upadu vodne gladine</e2>"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-sl-33.tsv, sentence: 1
 
 196	"<e1>kolks</e1> , kovk : Oblika fosilnega krasa . Kopasta holmasta vzpetina , <e2>nastala v osnovi domnevno v terciarni dobi</e2>"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-sl-37.tsv, sentence: 10
 
 197	"<e1>kreda</e1> : Porozna , drobnozrnata , pretežno iz skeletov mikroorganizmov <e2>v kredni dobi nastala</e2> karbonatna kamnina . Prim . kredni kras"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-sl-45.tsv, sentence: 5
 
 198	"<e1>Statična jama</e1> , klimostatična jama : Izraz je iz jamske klimatologije . Pomeni jamo , ki <e2>pozimi in poleti</e2> zračno slabo komunicira z zunanjim zrakom in so v njej zračne razmere statične"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-sl-50.tsv, sentence: 7
 
 199	"<e1>Turloughi</e1> so mokrišča , pomemben habitat za floro in favno , <e2>v poletnem času , ko turloughi presahnejo so pomembni za pašo drobnice</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-10.tsv, sentence: 7
 
 200	"<e2>Pomemben dejavnik pri oblikovanju polj</e2> je <e1>tektonika</e1>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-13.tsv, sentence: 3
 
 201	"<e1>Požiralnik</e1> je špranja ali brezno v skalnem koritu , <e2>ki požira vodo</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-16.tsv, sentence: 0
 
 202	"<e1>Sufozija</e1> <e2>je proces spiranja gradiva izpod ruše ali krovnih usedlin s pomočjo tekoče vode</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-18.tsv, sentence: 7
 
 203	"Po Jamarski zvezi Slovenije je <e1>jama</e1> vsaka naravna votlina v kamnini , ki <e2>je prehodna človeku</e2> in je vsaj deset metrov dolga ali globoka"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-2.tsv, sentence: 3
 
 204	"Območja , <e2>kjer pobočni procesi niso več prisotni in na njih prevladuje kemična denudacija</e2> , v nadaljevanju imenujem <e1>uravnotežena pobočja</e1> , saj se na njih vzpostavi ravnovesje med intenziteto sil , ki delujejo na maso vzporedno s pobočjem navzdol , in silami , ki zavirajo to premikanje"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-21.tsv, sentence: 12
 
 205	"<e1>neprežeta cona</e1> - Območje speleogentskega prostora nad gladino podtalnice . <e2>Prevaja preniklo padavinsko vodo in jo oddaja prežeti coni</e2> . Prevaja tudi vode invazijskih jam"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-25.tsv, sentence: 6
 
 206	"<e1>speleogenetski prostor</e1> - Del kamninskega masiva , <e2>v katerem lahko nastanejo ali so že nastale kraške votline</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-27.tsv, sentence: 3
 
 207	"<e1>ponorno brezno</e1> , požiralno brezno : Brezno , <e2>v katerega ponika voda</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-29.tsv, sentence: 11
 
 208	"<e1>zvezno brezno</e1> : <e2>Povezuje dva dela jame</e2> . Večji rezervoar pitne vode , na krasu navadno pokrit vodnjak , s cementnimi stenami in dnom , v katerega se steka voda s strehe ( kapnica )"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 1
 
 209	"<e1>dinamična jama</e1> , klimodinamična jama : Jama , ki je vse leto dobro prezračena , <e2>ker vse leto živahno komunicira z zunanjim zrakom</e2> . Navadno ima dva vhoda v neenaki višini , kar omogoča prepih vse leto"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 10
 
 210	"<e1>faseta</e1> : Nekaj cm ali dm dolga ovalna vdolbinica v jamski steni ali dnu rova . Globlja in strmejša je na strani , iz katere je pritekla voda , ki je faseto izdelala . <e2>Po tem znaku so fasete indikatorji smeri vodnega toka</e2> . Možen je tudi drugačen nastanek"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-32.tsv, sentence: 4
 
 211	"<e1>ujeta voda</e1> : Voda , ki v freatični coni <e2>stagnira v slepih ali nepovezanih kanalih</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-33.tsv, sentence: 8
 
 212	"<e1>injekcijska zavesa</e1> : Navpični sloj , <e2>v katerem z uvajanjem posebne gmote zapolnijo votline v kraškem podzemlju in ga napravijo neprepustnega , da preprečuje vodni odtok iz vodnega bazena .</e2> Znane injekcijske zavese so na spodnji strani vodnih akumulacij za hidroelektrarne na kraških poljih dinarskega krasa ( sistem HE na Cetini , Trebišnjici )"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-34.tsv, sentence: 0
 
 213	"<e1>mrtva jama</e1> : Jama , <e2>kjer ne delujejo niti evakuacijski niti akumulacijski procesi</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-34.tsv, sentence: 14
 
 214	"<e1>končni podor</e1> : Podor , <e2>ki na koncu jame onemogoča prehod</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-36.tsv, sentence: 6
 
 215	"Slovenska kraška terminologija ( 1973 )   <e1>jamo</e1> definira   kot <e2>prehodno</e2> podzemeljsko votlino , ki je lahko vodoravna ali navpična"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-4.tsv, sentence: 2
 
 216	"<e1>kraška voda</e1> : V širšem pomenu vsa voda kraškega ozemlja , v ožjem pomenu samo voda kraškega podzemlja , ki se je nabrala s kraškega ozemlja . Po Grundu ( 1903 ) del vode v krasu , <e2>ki se pretaka iznad nivoja kraških izvirov</e2> v kanalih v coni kolebanja gladine kraške vode"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-43.tsv, sentence: 5
 
 217	"<e1>prelivno kraško polje</e1> : Iz vodonepropustnih ali slabo prepustnih kamnin sestavljeno <e2>dno polja predstavlja jez za podzemeljske kraške pretoke</e2> , ki prečkajo polje površinsko in na drugi strani spet poniknejo ( primer : Planinsko polje )"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 11
 
 218	"<e1>nasičena voda</e1> : V kraški geomorfologiji voda , <e2>ki ni več sposobna korodirati</e2> . Nasprotje agresivni vodi"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-46.tsv, sentence: 0
 
 219	"<e1>ponikalnica</e1> , ponornica : Vodni tok , ki <e2>ponikne</e2> v kraško podzemlje"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-47.tsv, sentence: 0
 
 220	"<e1>požiralnik</e1> : Mesto izgubljanja vode v kraško podzemlje . Priporočljiv pomen : špranja ali brezno v skalnem koritu , <e2>ki požira vodo</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-47.tsv, sentence: 4
 
 221	"<e1>zvezni rov</e1> : Rov , ki <e2>povezuje dve ali več votlin</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-48.tsv, sentence: 3
 
 222	"<e1>škraplja</e1> , škrapa : Nekaj centimetrov do vec decimetrov in metrov razsežna izjedenina v skalnem površju , <e2>brez vzdolžnega pretakanja</e2> , ki ji smer določuje biološka linija najmanjšega odpora . V rabi tudi škraplje za skalni kompleks s škrapljami . Škraplje ločijo vmesni noži , grebeni , hrbti , poličke ( z ravnim vrhom )"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 5
 
 223	"<e1>Požiralnik</e1> je špranja ali brezno v skalnem koritu , <e2>ki požira vodo</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-sl-8.tsv, sentence: 5
 
 224	"<e1>Burja</e1> je <e2>suh , hladen , padajoč in sunkovit SV veter</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-11.tsv, sentence: 5
 
 225	"<e1>Sufozija</e1> je <e2>proces spiranja drobnega materiala krovnine</e2> v kraške kanale"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-12.tsv, sentence: 14
 
 226	"<e1>Ravnovesna meja</e1> je <e2>navidezna meja na ledeniku , vzdolž katere je masna bilanca enaka nič</e2> ( Porter , 2000 ) ; nahaja se na nadmorski višini , na kateri sta akumulacija in ablacija ledu v ravnovesju ( Benn , Evans , 1998 )"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-21.tsv, sentence: 3
 
 227	"<e1>jamski splet</e1> - Eden sinonimov za jamski sistem . Izraz sistem , ki ga speleologi uporabljamo v več različnih smislih , v naravoslovju zaradi prodora fizikalne teorije sistemov zgublja prvotno vsebino . Poleg tega uporabljamo sistem pri opisovanju podzemskega krasa v nekoliko različnih , a še vedno preveč podobnih zvezah : ( 1 ) kot zapletenejšo jamo ; ( 2 ) <e2>kot skupnost več jam skupnega nastanka</e2> , ki jih ne vežejo prehodni rovi ; kot skupnost vseh nezveznosti v kamnini ,"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-24.tsv, sentence: 4
 
 228	"<e1>razpoka</e1> - Mehansko nastala <e2>ploskev nezveznosti v kamnini</e2> , ob kateri je prišlo le do neznatnih premikov"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-26.tsv, sentence: 8
 
 229	"<e1>zakrasevanje</e1> , skrasevanje , vkraševanje , karstifikacija : <e2>Proces nastajanja krasa</e2> . Pričetek kraškega razvoja po odstranitvi neprepustnega pokrova . Kras nastaja s kraškimi procesi , med katerimi je v ospredju korozija"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-28.tsv, sentence: 8
 
 230	"<e1>zvezno brezno</e1> : Povezuje dva dela jame . Večji rezervoar pitne vode , <e2>na krasu navadno pokrit vodnjak</e2> , s cementnimi stenami in dnom , v katerega se steka voda s strehe ( kapnica )"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 1
 
 231	"<e1>dolina</e1> : <e2>Je internacionalni termin za vrtačo</e2> . V polpretekli dobi , včasih v sestavi kraška dolina , slovenski strokovni izraz za vrtačo"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 14
 
 232	"<e1>piezometrični nivo</e1> , tudi piezometer : <e2>Je vsakokratna predpostavljena ploskev</e2> , do katere sega vodna gladina v kraškem podzemlju v sistemu veznih posod"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-33.tsv, sentence: 2
 
 233	"<e1>korozija</e1> : V krasoslovju kemično ali v manjši meri fizikalno raztapljanje kraške kamnine , večji del s posredovanjem vode , ki vsebuje ogljikovo kislino . Tudi <e2>odnašanje raztopljenih snovi</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-37.tsv, sentence: 14
 
 234	"<e1>kraška klima</e1> , kraška mikroklima : Klima kraškega ozemlja , v <e2>kateri se odražajo klimatske oz . mikroklimatske lastnosti kraških kotanj ( npr . klima kraških polj ) , kraških tal ( posebnosti v geotermični stopnji ) in jam ( jamska klima )</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-43.tsv, sentence: 0
 
 235	"<e2>Meja med nezasičenim in zasičenim območjem</e2> se imenuje <e1>epifreatično območje</e1>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-5.tsv, sentence: 9
 
 236	"<e1>Vorfluter</e1> , Vorfluterniveau : <e2>Nivo površinske kraške vode , ki ga določuje morska ali jezerska gladina v zaledju</e2> . Izraz se uporablja zlasti pri opisu tropskega krasa , kjer so številna dna kraških polj v višini Vorflutra"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-sl-53.tsv, sentence: 4
 
 237	"<e1>Kras</e1> , ki ga imenujemo tudi Tržaški , Goriški , Divaško – Komenski ali Sežanski Kras je okoli 500 km2 velika <e2>apneniška</e2> uravnava v jugozahodni Sloveniji"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-11.tsv, sentence: 6
 
 238	"Najpogostejši kemogeni sediment v jamah je <e1>siga</e1> , ki je na slovenskem krasu <e2>večinoma kalcitne sestave</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-16.tsv, sentence: 12
 
 239	"Natančnejšo opredelitev   <e1>kraškega polja</e1> je   podal Gams ( 1973 ; 1974 ; 1978 ) po sledečih kriterijih ( Gams , 1978 ; cv : Ford , Williams , 2007 ; Gams , 1973 : Gams , 1974 ) : uravnano , tudi terasirano dno <e2>v živoskalni podlagi</e2> oziroma v nesortiranih naplavinah ; jasno zaokrožena depresija s strmo vzpenjajočim se obodom vsaj na eni strani polja ; kraški odtok ; površinske vode na polju ponikajo"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-2.tsv, sentence: 13
 
 240	"<e1>žlebičje</e1> : <e2>Skalno</e2> površje z gostimi žlebiči"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-28.tsv, sentence: 17
 
 241	"<e1>boksit</e1> : Usedlina , <e2>sestavljena v pretežni meri iz aluminijevih hidroksidov</e2> . Ta aluminijeva ruda je rezultat preperevanja apnenca v vlažni tropski ali subtropski klimi"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-29.tsv, sentence: 9
 
 242	"<e1>dolomit</e1> : Usedlina , <e2>ki jo sestavlja magnezijev karbonat ( MgCO3 ) , navadno s primesjo kalcita</e2> . Zaradi krušljivosti ga ponekod imenujejo tudi grintovec . Po deležu magnezijevega in kalcijevega karbonata ločimo dolomit , apneniški dolomit , dolomitski apnenec itd"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-31.tsv, sentence: 12
 
 243	"<e1>karbonatna kamnina</e1> : Usedlina , <e2>ki jo v glavnem sestavljajo soli ogljikove kisline</e2> . Na Dinarskem krasu sta apnenec in dolomit najbolj razširjeni karbonatni kamnini , na katerih se razvija karbonatni kras"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-37.tsv, sentence: 5
 
 244	"<e1>korozijska vdolbinica</e1> : Do nekaj centimetrov ali decimetrov široka in globoka <e2>skalna</e2> vdolbinica , nastala zaradi različnih vrst korozije . Pod preperino je širša in plitvejša"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 8
 
 245	"<e1>klastokras</e1> : Kras <e2>v klasticnih kamninah</e2> ( prodih , peskih , breci , puhlici )"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-39.tsv, sentence: 7
 
 246	"<e1>Vrtače</e1> se pogosto nahajajo na karbonatih in evaporitih ( Williams , 2006 ) . Po obliki jih   Slovenska kraška terminologija   ( Gams in sod . , 1973 ) deli na skledaste , lijakaste , kotlaste in vodnjakaste . Po nastanku pa jih ločimo na korozijske , udorne , sufozijske in posedne ( Ford , Williams , 2007 ) . Veliko gostoto vrtač najdemo <e2>na apnencih , na dolomitih jih navadno ni , razvijejo se tudi na pleistocenskih in oligocenskih konglomeratih</e2> . Na njihovo razporeditev vpliva tudi relief , saj se manj pogosto pojavljajo na strmih pobočjih , zato sta pobočni naklon in gostota vrtač obratno sorazmerna . Odvisne so tudi od skladovitosti apnencev"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-4.tsv, sentence: 5
 
 247	"<e1>Parakras</e1> : Kras z neizrazitimi kraškimi oblikami , <e2>v kamninah , kot je dolomit</e2> , ki le delno podlegajo zakrasevanju . Pogosto ime v italijanskem krasoslovju"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-41.tsv, sentence: 4
 
 248	"<e1>kraška prevotljenost</e1> , kraška votlikavost : Značilna prevotljenost <e2>kraške kamnine</e2> , ki zaradi vodne prepustnosti omogoča razvoj krasa"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-43.tsv, sentence: 2
 
 249	"<e1>mikroreliefne kraške oblike</e1> : Drobne oblike <e2>skalnega površja</e2> , korozijske vdolbinice , škraplje , žlebiči"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-45.tsv, sentence: 11
 
 250	"<e1>Psevdovrtača</e1> , nekraška vrtača : Vrtačasta oblika <e2>v nekarbonatni kamnini</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-47.tsv, sentence: 11
 
 251	"<e1>kalcitni mehur</e1> : Mehur <e2>s kalcitno skorjo</e2> , nastal v stoječi jamski vodi"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-48.tsv, sentence: 14
 
 252	"<e1>čebulaste tvorbe</e1> , sferične tvorbe : <e2>Sigove tvorbe</e2> okroglaste , čebuli podobne oblike , zrasle na jamski steni ali jamskem stropu"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-49.tsv, sentence: 6
 
 253	"Zgornji del te cone predstavlja <e2>tanka prst</e2> , ki jo imenujemo <e1>cone talnega prenikanja</e1>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-5.tsv, sentence: 14
 
 254	"<e1>škrapljasti vodnjak</e1> : Nekaj decimetrov , do nekaj metrov globoka <e2>skalna</e2> luknja z vidnim dnom"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 11
 
 255	"<e1>Kontaktni kras</e1> je tip reliefa , značilen za <e2>stik med kraškimi in nekraškimi kamninami</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-7.tsv, sentence: 12
 
 256	"<e1>ŠKRAPLJE</e1> : So manjša kraška oblika , dolga od nekaj centimetrov do več decimetrov in metrov , <e2>izjedena v trdi kamnini ( apnencu ali drugih karbonatnih kamninah )</e2> , nastala zaradi kemičnega delovanja vode"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-sl-9.tsv, sentence: 8
 
 257	"<e1>Pogozdovanje</e1> je načrtno sajenje mladik gozdnega drevja na določenem zemljišču <e2>zaradi gojitve ali obnove , pomlajevanja gozdov</e2> , ogozdovanje pa spreminjanje kmetijskih zemljišč , to je njiv , travnikov , sadovnjakov , vinogradov in pašnikov v gozd oziroma njihovo zaraščanje z gozdovi"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-12.tsv, sentence: 3
 
 258	"<e2>Posledica <e1>korozije</e1> je prevotljenost podzemlja z jamami</e2> , na površju pa se oblikujejo različne površinske oblike , za katere je pomembna kombinacija dobro topnih kamnin , njihova razpokanost in zadostna količina meteorne vode"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-19.tsv, sentence: 6
 
 259	"<e1>Gamsov efekt</e1> - Način preoblikovanja svežnja , ko ponikalnica z nekraškega površja vnaša prod . Ker pretok in transportna moč vode nista popolnoma enakomerna , se plavje odlaga v globljih delih svežnja . To prisili vodo , da ubira pota po kanalih , ki so vse bliže piezometrični gladini . Če proces traja dovolj dolgo , <e2>voda končno izoblikuje tunelski rov vzdolž gladine podtalnice</e2> in teče po lastnem nasipu . Dejansko to pomeni vdor tluvialnih razmer v kraško podzemlje ( transenvironmental effect ) in Gamsov efekt je značilen za kras na nizvodnem stiku z nekrasom . l . Gams ( 1959 ) je tako razložil lego in nastanek večine največjih jam na Slovenskem"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-23.tsv, sentence: 5
 
 260	"<e1>haloklinala</e1> - Meja med slano podtalnico in sladkovodno lečo na morskih grebenih in atolih . Zaradi stika obeh voda se poveča agresivnost vode , ki <e2>oblikuje posebne tipe kraških votlin</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-23.tsv, sentence: 8
 
 261	"<e1>paragenetski prag</e1> - Dimenzija kanala , pri kateri netopno plavje prekrije stene in <e2>bistveno zavre nadaljnje korozijsko večanje</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-25.tsv, sentence: 9
 
 262	"<e1>primarna vrtača</e1> : Vrtača , <e2>v kateri so nastale sekundarne vrtače</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-28.tsv, sentence: 2
 
 263	"<e1>robna korozija</e1> , obrobna korozija , krajna korozija : Korozija karbonatne kamnine ob robu neprepustne naplavine , <e2>zaradi katere so stene kotanj ali kraških polj na kraju ponikanja korozijsko izpodžrte</e2> . Robna korozija razširja kraška polja , slepe doline , vrtače in druge kotanje z naplavljenim dnom"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 4
 
 264	"<e1>pospešena korozija</e1> : Korozijski proces , ki lokalno hitreje poglablja površje in <e2>lahko ustvarja kotanje</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-38.tsv, sentence: 6
 
 265	"<e1>kraška bifurkacija</e1> , bifurkacija : Na krasu se pri podzemeljski bifurkaciji voda istega toka javlja v dveh kraških izvirih ( primer : . Loški potok , ki izvira v Rinži in Rakitnici ) . Pri vertikalni bifurkaciji <e2>se višje vode iz iste kotanje izlivajo v drugo smer kot nižje</e2> ( na primer Cerkniško jezero , katerega vode odtekajo v višji legi proti Raku in Uncu , istočasno pa se skozi aluvialne požiralnike odtekajo proti Bistri )"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-42.tsv, sentence: 7
 
 266	"Meje območij , <e2>od koder se stekajo vode proti različnim izvirom</e2> , imenujemo <e1>razvodnice</e1>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-sl-6.tsv, sentence: 0
 
 267	"<e1>Matični kras</e1> : Kras kraške pokrajine <e2>med Tržaškim zalivom in Vipavsko dolino v regiji , ki jo imenujemo Kras</e2> in katere ime je prešlo v krasoslovno terminologijo kot geomorfološki termin"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-sl-14.tsv, sentence: 1
 
 268	"<e1>Kraška krnica</e1> je značilna reliefna oblika <e2>za Južne Alpe in Dinarsko gorstvo</e2> , kjer jo na južnem delu Dinarskega gorstva krajevno imenujejo do , na severnem delu pa navadno konta"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-sl-19.tsv, sentence: 12
 
 269	"<e1>morska jama</e1> , abrazijska jama : Leži na obali v nivoju morske gladine , tako da jo delno ali v celoti zaliva morska voda . Prim . Modra špilja na Biševu , <e2>Grotta azzurra pri Capriju</e2> . V širšem smislu vsaka jama , ki je nastala na obali zaradi abrazije ( delovanja morskih valov )"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-sl-34.tsv, sentence: 6
 
 270	"<e1>prelivni izvir</e1> : Kraški izvir , ki deluje ob višji vodi , ko nižji stalnejši izvir ne zmore vse iz podzemlja pritekajoče vode . Je lahko neposredno nad stalnejšim izvirom ( primer : <e2>Krška jama</e2> ) , ali vstran od njega ( npr . Škratovka , Lijak )"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 0
 
 271	"<e1>podzemeljska bifurkacija</e1> : Hidrološki pojav , da se enotni podzemski tok v podzemlju vilici , razteka in izvira v dveh oddaljenih krajih , v dveh porečjih ali morjih ( npr . <e2>raztekanje Loškega potoka v izvire Rinže - Kolpe in Krke</e2> )"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-sl-46.tsv, sentence: 10
 
 272	"<e1>Holokras</e1> je popolni kras , <e2>ki ima razvite vse tipične kraške oblike , vključno s kraškimi polji</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-15.tsv, sentence: 0
 
 273	"<e1>Kras</e1> je ozemlje , kjer vlada zaradi poklinske prepustnosti kamnine podzemeljsko , kraško , pretakanje vode , učinkovito kemično raztapljanje kamnin in <e2>kjer so lahko razvite tudi značilne površinske in podzemeljske oblike</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-18.tsv, sentence: 8
 
 274	"Proces , ki povzroča nastanek uravnav , imenujemo <e1>korozijsko uravnavanje</e1> ( ang . corrosional planation ) ter vključuje kombinacijo vertikalnega raztapljanja s padavinami , bočne korozije morfološko vzpetih delov , korozije pod naplavino ter <e2>zadenjske rečne erozije</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-19.tsv, sentence: 7
 
 275	"<e1>prežeta cona</e1> - <e2>obsega zakraseli del speleogenetskega prostora</e2> pod njo"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-23.tsv, sentence: 11
 
 276	"<e1>agresivna voda</e1> : Voda , <e2>ki vsebuje nevezano ogljikovo , humozno , dušikovo ali druge kisline</e2> ter je še sposobna raztapljati karbonatno kamnino . V krasoslovju voda , ki je sposobna korodirati"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-29.tsv, sentence: 1
 
 277	"<e1>zatrpano brezno</e1> : Je brezno , <e2>pretežno zapolnjeno s klastičnimi sedimenti , to je gruščem , prodom , ilovico in pod</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-30.tsv, sentence: 7
 
 278	"<e1>freatična cona</e1> : Najnižja hidrografska cona , <e2>v kateri voda trajno zapolnjuje votline</e2> , prevladuje pa tlačno pretakanje"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-33.tsv, sentence: 6
 
 279	"<e1>kristalna jama</e1> : Jama , <e2>kjer se javljajo na oko vidni kristali kot pomembna sigova tvorba</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-34.tsv, sentence: 9
 
 280	"<e1>jamska postaja</e1> , jamsko nahajališce : Jama , <e2>v kateri so najdeni sledovi zadrževanja predzgodovinskega človeka</e2> . Jame s sledovi bivanja v paleolitu so jamske paleolitske postaje . Drug pomen za jamsko postajo : meteorološka postaja v jami"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-36.tsv, sentence: 0
 
 281	"<e1>klasični kras</e1> : Kraško ozemlje med Trstom , Kvarnerskim zalivom in Postojno , katerega kraške značilnosti so bile prvič strokovno opisane . V širšem pomenu <e2>ozemlje z izrazitimi kraškimi pojavi</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-39.tsv, sentence: 4
 
 282	"<e1>srednejevropski kras</e1> , kras Jure , moravski tip : Kras s suhimi dolinami na planotastem nizkem reliefu in <e2>z redkimi drugimi kraškimi pojavi na površju</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-40.tsv, sentence: 0
 
 283	"<e1>Fluviokras</e1> : Kras , katerega površje je izoblikoval fluvialni proces ( erozija , denudacija ) , čeprav je bila korozija znatna , vendar ne odločilna za relief . <e2>kras kraških polj in podolijl</e2> . Kras , kjer so kraška polja in povezane suhe doline - podolja - poglavitne kraške značilnosti površja ( npr . kras Notranjskega podolja )"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-40.tsv, sentence: 12
 
 284	"<e1>Holokarst</e1> : Po Cvijiču popolni , globoki kras <e2>z vsemi kraškimi pojavi , vključno polji</e2> . Nasprotje od merokrasa . Tudi dinarski tip krasa"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-41.tsv, sentence: 2
 
 285	"<e1>linearni kras</e1> : Kras , v katerem je <e2>opazna linearna razvrstitev depresijskih oblik , reber ali večjih vzpetinic</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-42.tsv, sentence: 3
 
 286	"<e1>kraško podolje</e1> : Podolžni sistem <e2>kraških polj , uval , suhih dolin</e2> , tudi niz nižjega kraškega sveta . Npr . Notranjsko podolje"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 6
 
 287	"<e1>suho kraško polje</e1> : Kraško polje , <e2>v katerem ni površinskega trajnega ali periodičnega vodnega toka ali poplav</e2> ( primer : Dobro polje )"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-44.tsv, sentence: 12
 
 288	"<e1>paleta</e1> , ščit : Sigova tvorba v obliki diska ali palete , ki je pritrjena na jamsko steno ali na strop . Raz njene poševne , gladke stene pogosto vise <e2>majhni stalaktiti</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-49.tsv, sentence: 0
 
 289	"<e1>delno suha dolina</e1> : Dolinasta oblika <e2>s površinskim vodnim tokom v delu doline</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-50.tsv, sentence: 11
 
 290	"<e1>škraplja</e1> , škrapa : Nekaj centimetrov do vec decimetrov in metrov razsežna izjedenina v skalnem površju , brez vzdolžnega pretakanja , ki ji smer določuje biološka linija najmanjšega odpora . V rabi tudi škraplje za skalni kompleks s škrapljami . Škraplje <e2>ločijo vmesni noži , grebeni , hrbti , poličke</e2> ( z ravnim vrhom )"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-51.tsv, sentence: 5
 
 291	"<e1>Fluviokras</e1> je tip kraškega površja , ki je v veliki meri razrezano z <e2>dolinami</e2> , večina katerih ima svoje začetne dele na krasu"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-sl-7.tsv, sentence: 3
 
 292	"<e1>Prepustnost</e1> navadno opisujemo s parametrom , ki ga imenujemo <e2>hidravlična prevodnost</e2>"
-MEASURES(<e1>,<e2>)
+MEASURES(e1,e2)
 Comment: File: defs-sl-15.tsv, sentence: 9
 
 293	"<e1>prebojni čas</e1> - <e2>Čas</e2> med začetjem in prebojem"
-MEASURES(<e1>,<e2>)
+MEASURES(e1,e2)
 Comment: File: defs-sl-26.tsv, sentence: 4
 
 294	"<e1>Speleogeneza</e1> je <e2>razlaga izvora in nastanka jam</e2>"
-STUDIES(<e1>,<e2>)
+STUDIES(e1,e2)
 Comment: File: defs-sl-18.tsv, sentence: 5
 
 295	"<e1>geografija krasa</e1> : <e2>Panoga geografije , ki se ukvarja z naravnimi osnovami in socialnim valoriziranjem krasa</e2>"
-STUDIES(<e1>,<e2>)
+STUDIES(e1,e2)
 Comment: File: defs-sl-32.tsv, sentence: 6
 
 296	"<e1>krasoslovje</e1> : Znanstvena panoga , ki preučuje kras . Je kompleksna veda , ki <e2>združuje fizično speleologijo , biospeleologijo , geografijo krasa</e2> itd . Znanstvenik , ki se bavi s krasoslovjem , je krasoslovec"
-STUDIES(<e1>,<e2>)
+STUDIES(e1,e2)
 Comment: File: defs-sl-42.tsv, sentence: 6
 
 297	"<e1>speleogeneza</e1> : Nastanek jame . Tudi tisti del speleologije , <e2>ki se bavi s preučevanjem jam</e2>"
-STUDIES(<e1>,<e2>)
+STUDIES(e1,e2)
 Comment: File: defs-sl-50.tsv, sentence: 3
 

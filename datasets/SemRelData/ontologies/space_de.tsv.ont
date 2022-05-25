@@ -1,0 +1,6 @@
+Information	Meronym	Presse
+Presse	Holonym	Information
+Weltraumtrainings	Holonym	Tests
+Weltraumtrainings	Hyponym	Vorbereitungen
+Tests	Meronym	Weltraumtrainings
+Vorbereitungen	Hypernym	Weltraumtrainings

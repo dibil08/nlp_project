@@ -1,0 +1,68 @@
+Кэтсьют	Synonym	кэтсьюит
+Кэтсьют	Holonym	капюшоном
+Кэтсьют	Holonym	маской
+Кэтсьют	Hyponym	комбинезона
+кэтсьюит	Synonym	Кэтсьют
+кэтсьюит	Holonym	капюшоном
+кэтсьюит	Holonym	маской
+кэтсьюит	Hyponym	комбинезона
+одежды	Hypernym	комбинезона
+одежды	Holonym	капюшоном
+одежды	Holonym	маской
+комбинезона	Hypernym	Кэтсьют
+комбинезона	Hypernym	кэтсьюит
+комбинезона	Holonym	капюшоном
+комбинезона	Holonym	маской
+комбинезона	Hyponym	одежды
+капюшоном	Meronym	одежды
+капюшоном	Meronym	комбинезона
+капюшоном	Meronym	Кэтсьют
+капюшоном	Meronym	кэтсьюит
+маской	Meronym	одежды
+маской	Meronym	комбинезона
+маской	Meronym	Кэтсьют
+маской	Meronym	кэтсьюит
+тело[1	Holonym	туловище
+тело[1	Holonym	руки
+тело[1	Holonym	ноги
+тело[1	Holonym	кистей рук
+тело[1	Holonym	ступней ног
+тело[1	Holonym	копчика
+тело[1	Holonym	пах
+латекса	Hyponym	тканей
+винила	Hyponym	тканей
+стрейч - кожи	Hyponym	тканей
+лайкры	Hyponym	тканей
+спандекса	Hyponym	тканей
+бифлекса	Hyponym	тканей
+тканей	Hypernym	латекса
+тканей	Hypernym	винила
+тканей	Hypernym	стрейч - кожи
+тканей	Hypernym	лайкры
+тканей	Hypernym	спандекса
+тканей	Hypernym	бифлекса
+кэтсьют	Holonym	перчатками
+кэтсьют	Holonym	чулками
+кэтсьют	Holonym	масками
+кэтсьют	Holonym	капюшоном
+кэтсьют	Holonym	Застёжка - молния
+кэтсьют	Holonym	воротника
+туловище	Meronym	тело[1
+руки	Meronym	тело[1
+ноги	Meronym	тело[1
+кистей рук	Meronym	тело[1
+кистей рук	Meronym	рук
+рук	Holonym	кистей рук
+ступней ног	Meronym	тело[1
+ступней ног	Meronym	ног
+ног	Holonym	ступней ног
+перчатками	Meronym	кэтсьют
+чулками	Meronym	кэтсьют
+масками	Meronym	кэтсьют
+капюшоном	Meronym	кэтсьют
+Застёжка - молния	Holonym	бегунками
+Застёжка - молния	Meronym	кэтсьют
+бегунками	Meronym	Застёжка - молния
+копчика	Meronym	тело[1
+пах	Meronym	тело[1
+воротника	Meronym	кэтсьют

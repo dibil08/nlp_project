@@ -1,0 +1,28 @@
+Catsuit	Hyponym	Kleidungsstück
+Kleidungsstück	Hypernym	Catsuit
+Kleidungsstück	Hypernym	Leotard
+Kleidungsstück	Hypernym	Zentais
+Kleidungsstück	Hypernym	Sportbekleidung
+Körper	Holonym	Beine
+Körper	Holonym	Kopf
+Körper	Holonym	Gesicht
+Körper	Meronym	Trägers
+Leotard	Hyponym	Kleidungsstück
+Beine	Meronym	Körper
+Zentais	Hyponym	Kleidungsstück
+Kopf	Holonym	Gesicht
+Kopf	Meronym	Körper
+Kopf	Meronym	Trägers
+Gesicht	Meronym	Körper
+Gesicht	Meronym	Kopf
+Gesicht	Meronym	Trägers
+Catsuits	Hyponym	Sportbekleidung
+Kostümierung	Synonym	Maskierung
+Maskierung	Synonym	Kostümierung
+Trägers	Holonym	Körper
+Trägers	Holonym	Kopf
+Trägers	Holonym	Gesicht
+Sportbekleidung	Hypernym	Catsuits
+Sportbekleidung	Hyponym	Kleidungsstück
+Bluescreen - Aufnahmen	Meronym	Filmindustrie
+Filmindustrie	Holonym	Bluescreen - Aufnahmen

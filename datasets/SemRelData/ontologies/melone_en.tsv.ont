@@ -1,0 +1,64 @@
+Muskmelon	Hypernym	honeydew
+Muskmelon	Synonym	Cucumis melo
+Muskmelon	Hyponym	melon
+Muskmelon	Hyponym	species
+Cucumis melo	Hypernym	honeydew
+Cucumis melo	Synonym	Muskmelon
+Cucumis melo	Hyponym	melon
+Cucumis melo	Hyponym	species
+species	Hypernym	Muskmelon
+species	Hypernym	honeydew
+species	Hypernym	Cucumis melo
+melon	Hypernym	Muskmelon
+melon	Hypernym	honeydew
+melon	Hypernym	Cucumis melo
+varieties	Hypernym	cultivars
+honeydew	Hyponym	Muskmelon
+honeydew	Hyponym	melon
+honeydew	Hyponym	species
+honeydew	Hyponym	Cucumis melo
+crenshaw	Hyponym	muskmelon
+casaba	Hyponym	muskmelon
+cultivars	Hyponym	varieties
+cantaloupe	Hyponym	muskmelon
+Persian melon	Hyponym	muskmelon
+Santa Claus	Synonym	Christmas melon
+Santa Claus	Hyponym	muskmelon
+Christmas melon	Synonym	Santa Claus
+Christmas melon	Hyponym	muskmelon
+Armenian cucumber	Hyponym	muskmelon
+muskmelon	Hypernym	crenshaw
+muskmelon	Hypernym	casaba
+muskmelon	Hypernym	cantaloupe
+muskmelon	Hypernym	Persian melon
+muskmelon	Hypernym	Santa Claus
+muskmelon	Hypernym	Armenian cucumber
+muskmelon	Hypernym	Christmas melon
+shape	Co-Hyponym	taste
+shape	Co-Hyponym	culinary uses
+taste	Co-Hyponym	shape
+taste	Co-Hyponym	culinary uses
+culinary uses	Co-Hyponym	shape
+culinary uses	Co-Hyponym	taste
+cucumber	Co-Hyponym	wild cabbage
+cultivars	Hyponym	species
+species	Hypernym	cultivars
+wild cabbage	Co-Hyponym	cucumber
+fruit	Hypernym	Muskmelon
+fruit	Meronym	pepo
+pepo	Holonym	fruit
+pepo	Holonym	Muskmelon
+pepo	Holonym	pepo
+pepo	Hyponym	Muskmelon
+pepo	Meronym	pepo
+Muskmelon	Hypernym	pepo
+Muskmelon	Hyponym	fruit
+Muskmelon	Meronym	pepo
+areas	Hypernym	provinces
+areas	Synonym	regions
+west	Co-Hyponym	east
+east	Co-Hyponym	west
+provinces	Hyponym	areas
+provinces	Hyponym	regions
+regions	Hypernym	provinces
+regions	Synonym	areas

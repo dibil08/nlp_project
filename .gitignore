@@ -129,11 +129,9 @@ dmypy.json
 .pyre/
 
 # Custom
-datasets
 karst_bert/models/
 .idea/
 
-dataset/
 data/
 cnn.txt
 karst

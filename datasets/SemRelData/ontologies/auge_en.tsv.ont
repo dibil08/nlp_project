@@ -1,0 +1,56 @@
+Eyes	Holonym	neurons
+Eyes	Holonym	photoreceptor cells
+Eyes	Hyponym	organs
+Eyes	Hyponym	organs
+organs	Hypernym	Eyes
+organs	Hypernym	Eyes
+impulses	Meronym	brain
+neurons	Meronym	Eyes
+photoreceptor cells	Meronym	Eyes
+organisms	Holonym	eye
+organisms	Holonym	brain
+organisms	Meronym	species
+organisms	Meronym	molluscs
+organisms	Meronym	chordates
+organisms	Meronym	arthropods
+eye	Holonym	diaphragm
+eye	Holonym	lenses
+eye	Hyponym	optical system
+eye	Meronym	organisms
+eye	Meronym	brain
+optical system	Hypernym	eye
+optical system	Meronym	brain
+diaphragm	Meronym	eye
+lenses	Meronym	eye
+brain	Holonym	impulses
+brain	Holonym	optical system
+brain	Holonym	nerve
+brain	Holonym	visual cortex
+brain	Holonym	eye
+brain	Meronym	organisms
+eye	Meronym	visual cortex
+nerve	Meronym	brain
+visual cortex	Holonym	eye
+visual cortex	Meronym	brain
+visual cortex	Meronym	optical system
+visual cortex	Meronym	brain
+brain	Holonym	visual cortex
+Eyes	Meronym	optical system
+Eyes	Meronym	optical system
+species	Hypernym	molluscs
+species	Hypernym	chordates
+species	Hypernym	arthropods
+species	Holonym	organisms
+optical system	Holonym	visual cortex
+optical system	Holonym	Eyes
+optical system	Holonym	Eyes
+molluscs	Holonym	organisms
+molluscs	Hyponym	species
+chordates	Holonym	organisms
+chordates	Hyponym	species
+arthropods	Holonym	organisms
+arthropods	Hyponym	species
+eyes	Meronym	microorganisms
+microorganisms	Holonym	eyes
+eyes	Holonym	ganglion cells
+ganglion cells	Meronym	eyes

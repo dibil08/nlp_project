@@ -1,0 +1,16 @@
+фигуры	Hypernym	президент
+фигуры	Hypernym	чемпионка
+фигуры	Hypernym	премьер
+президент	Hyponym	фигуры
+президент	Meronym	страны
+страны	Holonym	президент
+страны	Holonym	премьер
+чемпионка	Hyponym	фигуры
+президент	Co-Hyponym	премьер
+премьер	Co-Hyponym	президент
+премьер	Hyponym	фигуры
+премьер	Meronym	страны
+игр	Hypernym	гонке
+гонке	Hyponym	игр
+членов	Meronym	делегации
+делегации	Holonym	членов

@@ -1,0 +1,30 @@
+hat	Hyponym	head covering
+head covering	Hypernym	hat
+head covering	Hyponym	fashion accessory
+fashion accessory	Hypernym	head covering
+status	Hypernym	rank
+military	Holonym	regiment
+rank	Hyponym	status
+regiment	Meronym	military
+hats	Hypernym	hard hat
+hats	Hypernym	sun hat
+hard hat	Hyponym	hats
+construction workers	Holonym	heads
+construction workers	Holonym	shoulders
+heads	Holonym	face
+heads	Meronym	construction workers
+sun hat	Hyponym	hats
+face	Meronym	heads
+shoulders	Meronym	construction workers
+fur hat	Holonym	ear-flaps
+fur hat	Holonym	ear-flaps
+fur hat	Hyponym	hats
+ear-flaps	Meronym	fur hat
+ear-flaps	Meronym	fur hat
+hats	Hypernym	fur hat
+hats	Hypernym	mortarboard
+mortarboard	Hyponym	hats
+Toque	Hyponym	hats
+hats	Hypernym	Toque
+hats	Hypernym	turban
+turban	Hyponym	hats

@@ -1,0 +1,66 @@
+Rioting	Hyponym	violence
+Rioting	Hyponym	acts
+theft	Hyponym	violence
+theft	Hyponym	acts
+vandalism	Hyponym	violence
+vandalism	Hyponym	acts
+acts	Hypernym	Rioting
+acts	Hypernym	theft
+acts	Hypernym	vandalism
+violence	Hypernym	Rioting
+violence	Hypernym	theft
+violence	Hypernym	vandalism
+cities	Hypernym	capital
+capital	Hyponym	cities
+Minister	Hyponym	individuals
+Minister	Meronym	Parliament
+acts	Hypernym	incident
+incident	Hyponym	acts
+individuals	Hypernym	Minister
+individuals	Hypernym	police officers
+individuals	Hypernym	police officers
+Parliament	Holonym	Minister
+police officers	Hyponym	individuals
+police officers	Hyponym	individuals
+officers	Co-Hyponym	Minister
+Minister	Co-Hyponym	officers
+riots	Co-Hyponym	shooting
+riots	Co-Hyponym	retaliation
+riots	Hyponym	protest
+shooting	Holonym	gun unit
+shooting	Co-Hyponym	riots
+shooting	Co-Hyponym	retaliation
+police	Holonym	anti - gun unit
+part	Meronym	series
+anti - gun unit	Meronym	police
+gun unit	Meronym	shooting
+Complaints	Hypernym	protest
+retaliation	Co-Hyponym	riots
+retaliation	Co-Hyponym	shooting
+retaliation	Hyponym	riot
+protest	Hypernym	riots
+protest	Hyponym	Complaints
+family	Co-Hyponym	friends
+family	Co-Hyponym	youths
+friends	Co-Hyponym	family
+friends	Co-Hyponym	youths
+series	Holonym	part
+disturbances	Hypernym	riot
+riot	Hypernym	retaliation
+riot	Hyponym	disturbances
+youths	Co-Hyponym	family
+youths	Co-Hyponym	friends
+copycat	Hyponym	individuals
+copycat	Meronym	Police
+activity	Hypernym	crimes
+activity	Hypernym	riots
+individuals	Hypernym	copycat
+individuals	Meronym	Police
+crimes	Hypernym	riots
+crimes	Hyponym	activity
+Police	Holonym	individuals
+Police	Holonym	copycat
+riots	Hyponym	crimes
+riots	Hyponym	activity
+police	Holonym	weapon
+weapon	Meronym	police

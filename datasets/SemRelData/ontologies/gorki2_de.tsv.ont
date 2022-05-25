@@ -1,0 +1,10 @@
+Stadt	Holonym	Spelunken
+Jahr	Holonym	Herbst
+Spelunken	Meronym	Stadt
+Herbst	Meronym	Jahr
+Frieden	Synonym	Friede
+Frieden	Co-Hyponym	Leiden
+Friede	Synonym	Frieden
+Friede	Co-Hyponym	Leiden
+Leiden	Co-Hyponym	Frieden
+Leiden	Co-Hyponym	Friede

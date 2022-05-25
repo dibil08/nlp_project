@@ -1,0 +1,14 @@
+Gebiet	Holonym	Ort
+Ort	Meronym	Gebiet
+Kommandeur	Hyponym	Menschen
+Völkermords	Hyponym	Verbrechen
+Kriegsverbrechen	Hyponym	Verbrechen
+Verbrechen	Hypernym	Völkermords
+Verbrechen	Hypernym	Kriegsverbrechen
+Verbrechen	Hypernym	Belagerung
+Verbrechen	Hypernym	Massakers
+Belagerung	Hyponym	Verbrechen
+Menschen	Hypernym	Kommandeur
+Tode	Meronym	Massakers
+Massakers	Holonym	Tode
+Massakers	Hyponym	Verbrechen

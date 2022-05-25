@@ -1,0 +1,42 @@
+town	Holonym	quarter
+town	Holonym	steamship wharves
+quarter	Meronym	town
+steamship wharves	Meronym	town
+food	Meronym	meal
+buildings	Hypernym	warehouses
+warehouses	Hyponym	buildings
+meal	Holonym	food
+body	Meronym	man
+body	Meronym	folks
+folks	Hypernym	man
+folks	Holonym	body
+mind	Meronym	man
+man	Holonym	body
+man	Holonym	mind
+man	Hyponym	folks
+rain	Co-Hyponym	wind
+wind	Hypernym	north wind
+wind	Co-Hyponym	rain
+booths	Co-Hyponym	shops
+booths	Co-Hyponym	taverns
+shops	Co-Hyponym	booths
+shops	Co-Hyponym	taverns
+window - panes	Meronym	taverns
+taverns	Holonym	window - panes
+taverns	Co-Hyponym	booths
+taverns	Co-Hyponym	shops
+foam	Meronym	wavelets
+wavelets	Holonym	foam
+wavelets	Holonym	crests
+wavelets	Meronym	river
+river	Holonym	wavelets
+crests	Meronym	wavelets
+distance	Hypernym	proximity
+proximity	Hyponym	distance
+north wind	Hyponym	wind
+drops	Meronym	rain
+rain	Holonym	drops
+willow - trees	Holonym	roots
+boat	Holonym	bottom
+bottom	Meronym	boat
+roots	Meronym	willow - trees

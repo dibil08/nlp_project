@@ -1,0 +1,22 @@
+Butcher	Hyponym	men
+general	Meronym	police
+police	Holonym	general
+war crimes	Hyponym	crimes
+genocide	Hyponym	crimes
+genocide	Hyponym	crimes
+crimes	Hypernym	war crimes
+crimes	Hypernym	genocide
+crimes	Hypernym	genocide
+crimes	Hypernym	massacre
+massacre	Hyponym	crimes
+men	Hypernym	Butcher
+men	Hypernym	boys
+boys	Hyponym	men
+protests	Hyponym	actions
+protests	Hyponym	reaction
+reaction	Hypernym	protests
+actions	Hypernym	protests
+family	Holonym	son
+family	Holonym	father
+son	Meronym	family
+father	Meronym	family

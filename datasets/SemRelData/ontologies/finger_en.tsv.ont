@@ -1,0 +1,192 @@
+finger	Hypernym	thumb
+finger	Hypernym	index finger
+finger	Hypernym	middle finger
+finger	Hypernym	ring finger
+finger	Hypernym	little finger
+finger	Hypernym	pinky
+finger	Holonym	bones
+finger	Holonym	phalanges
+finger	Hyponym	organ
+finger	Hyponym	digit
+finger	Hyponym	limb
+finger	Meronym	hands
+finger	Meronym	primates
+finger	Meronym	body
+finger	Meronym	humans
+limb	Hypernym	finger
+limb	Hypernym	thumb
+limb	Hypernym	index finger
+limb	Hypernym	middle finger
+limb	Hypernym	ring finger
+limb	Hypernym	little finger
+limb	Hypernym	pinky
+limb	Holonym	bones
+limb	Holonym	phalanges
+limb	Hyponym	organ
+limb	Meronym	primates
+limb	Meronym	body
+limb	Meronym	humans
+body	Holonym	limb
+body	Holonym	organ
+body	Holonym	finger
+body	Holonym	thumb
+body	Holonym	index finger
+body	Holonym	middle finger
+body	Holonym	ring finger
+body	Holonym	little finger
+body	Holonym	pinky
+body	Meronym	primates
+body	Meronym	humans
+digit	Hypernym	finger
+digit	Hypernym	thumb
+digit	Hypernym	index finger
+digit	Hypernym	middle finger
+digit	Hypernym	ring finger
+digit	Hypernym	little finger
+digit	Hypernym	pinky
+organ	Hypernym	finger
+organ	Hypernym	limb
+organ	Hypernym	thumb
+organ	Hypernym	index finger
+organ	Hypernym	middle finger
+organ	Hypernym	ring finger
+organ	Hypernym	little finger
+organ	Hypernym	pinky
+organ	Meronym	body
+organ	Meronym	primates
+organ	Meronym	humans
+hands	Holonym	finger
+hands	Holonym	thumb
+hands	Holonym	index finger
+hands	Holonym	middle finger
+hands	Holonym	ring finger
+hands	Holonym	little finger
+hands	Holonym	pinky
+humans	Holonym	organ
+humans	Holonym	finger
+humans	Holonym	limb
+humans	Holonym	thumb
+humans	Holonym	index finger
+humans	Holonym	middle finger
+humans	Holonym	ring finger
+humans	Holonym	little finger
+humans	Holonym	body
+humans	Holonym	bones
+humans	Holonym	phalanges
+humans	Holonym	pinky
+humans	Hyponym	primates
+primates	Hypernym	humans
+primates	Holonym	limb
+primates	Holonym	body
+primates	Holonym	organ
+primates	Holonym	bones
+primates	Holonym	finger
+primates	Holonym	thumb
+primates	Holonym	index finger
+primates	Holonym	middle finger
+primates	Holonym	ring finger
+primates	Holonym	little finger
+primates	Holonym	phalanges
+primates	Holonym	pinky
+digits	Holonym	bones
+digits	Holonym	phalanges
+digits	Meronym	hand
+bones	Hypernym	phalanges
+bones	Meronym	limb
+bones	Meronym	primates
+bones	Meronym	digits
+bones	Meronym	hand
+bones	Meronym	finger
+bones	Meronym	thumb
+bones	Meronym	index finger
+bones	Meronym	middle finger
+bones	Meronym	ring finger
+bones	Meronym	little finger
+bones	Meronym	humans
+bones	Meronym	pinky
+phalanges	Hyponym	bones
+phalanges	Meronym	limb
+phalanges	Meronym	primates
+phalanges	Meronym	digits
+phalanges	Meronym	hand
+phalanges	Meronym	finger
+phalanges	Meronym	thumb
+phalanges	Meronym	index finger
+phalanges	Meronym	middle finger
+phalanges	Meronym	ring finger
+phalanges	Meronym	little finger
+phalanges	Meronym	humans
+phalanges	Meronym	pinky
+hand	Holonym	digits
+hand	Holonym	bones
+hand	Holonym	phalanges
+polydactyly	Co-Hyponym	oligodactyly
+polydactyly	Co-Hyponym	digit loss
+oligodactyly	Co-Hyponym	polydactyly
+oligodactyly	Co-Hyponym	digit loss
+digit loss	Co-Hyponym	polydactyly
+digit loss	Co-Hyponym	oligodactyly
+thumb	Holonym	bones
+thumb	Holonym	phalanges
+thumb	Hyponym	finger
+thumb	Hyponym	organ
+thumb	Hyponym	digit
+thumb	Hyponym	limb
+thumb	Meronym	hands
+thumb	Meronym	primates
+thumb	Meronym	body
+thumb	Meronym	humans
+index finger	Holonym	bones
+index finger	Holonym	phalanges
+index finger	Hyponym	finger
+index finger	Hyponym	organ
+index finger	Hyponym	digit
+index finger	Hyponym	limb
+index finger	Meronym	hands
+index finger	Meronym	primates
+index finger	Meronym	body
+index finger	Meronym	humans
+middle finger	Holonym	bones
+middle finger	Holonym	phalanges
+middle finger	Hyponym	finger
+middle finger	Hyponym	organ
+middle finger	Hyponym	digit
+middle finger	Hyponym	limb
+middle finger	Meronym	hands
+middle finger	Meronym	primates
+middle finger	Meronym	body
+middle finger	Meronym	humans
+ring finger	Holonym	bones
+ring finger	Holonym	phalanges
+ring finger	Hyponym	finger
+ring finger	Hyponym	organ
+ring finger	Hyponym	digit
+ring finger	Hyponym	limb
+ring finger	Meronym	hands
+ring finger	Meronym	primates
+ring finger	Meronym	body
+ring finger	Meronym	humans
+little finger	Synonym	pinky
+little finger	Holonym	bones
+little finger	Holonym	phalanges
+little finger	Hyponym	finger
+little finger	Hyponym	organ
+little finger	Hyponym	digit
+little finger	Hyponym	limb
+little finger	Meronym	hands
+little finger	Meronym	primates
+little finger	Meronym	body
+little finger	Meronym	humans
+pinky	Synonym	little finger
+pinky	Holonym	bones
+pinky	Holonym	phalanges
+pinky	Hyponym	finger
+pinky	Hyponym	organ
+pinky	Hyponym	digit
+pinky	Hyponym	limb
+pinky	Meronym	hands
+pinky	Meronym	primates
+pinky	Meronym	body
+pinky	Meronym	humans
+thumb	Hyponym	finger
+finger	Hypernym	thumb

@@ -1,1280 +1,1280 @@
 1	"The term <e1>bedding-plane cave</e1> is strictly applied to a passage that has <e2>not enlarged by growth into a major tube or canyon</e2> , but has remained almost entirely on the bedding plane"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-1.tsv, sentence: 3
 
 2	"<e1>Stalagmites</e1> are convex deposits that grow upward , commonly fed by an overhanging stalactite , and <e2>show flat , rounded , or slightly hollow tops , but not a central canal</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-10.tsv, sentence: 4
 
 3	"<e1>Opal</e1> ( cristobalite ) is a very <e2>fine-grained</e2> silica that occurs as thin interlayers in some calcite and gypsum speleothems"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 10
 
 4	"<e1>Blue holes</e1> are <e2>water-filled vertical openings</e2> in the carbonate rock of the islands , which exhibit complex morphologies , ecologies , and water chemistries"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-12.tsv, sentence: 9
 
 5	"Glacier pseudokarst also develops in debris where buried ice melts in situ , developing closed depressions , in isolation known as “ <e1>kettle holes</e1> ” , or <e2>assembled into extensive debris pseudokarst hillocks</e2> termed “ hummocky moraine ”"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-13.tsv, sentence: 11
 
 6	"<e1>Decantation runnels</e1> are rills , which <e2>reduce in width and depth downslope</e2> because the solvent supply is not directly related to rainfall , but corresponds to overspilling stores of water , such as moss clumps , small snow banks , or soil remnants"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-14.tsv, sentence: 9
 
 7	"“ <e1>Spongework mazes</e1> ” are irregular cavities enlarged from primary pores , which <e2>interconnect in a three-dimensional array like the holes in a sponge</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-15.tsv, sentence: 10
 
 8	"The term <e1>anchialine</e1> was coined by Holthuis ( 1973 ) to describe <e2>pools with no surface connection to the sea</e2> , containing salt or brackish water , which fluctuates with the tides"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-16.tsv, sentence: 12
 
 9	"A typical <e1>sinkhole</e1> is <e2>bowl shaped</e2> , with one or more low spots along its bottom"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-17.tsv, sentence: 11
 
 10	"The word “ <e1>uvala</e1> ” is a common toponym in the Dinaric karst , always <e2>denoting a large depression</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-18.tsv, sentence: 6
 
 11	"<e1>Kluftkarren</e1> or   grikes are   merely the <e2>visible surface expression of the fissures of a karstifiable rock</e2> ; as such , they are a significant component of the epikarst , or the outer skin of the whole karst system"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-2.tsv, sentence: 5
 
 12	"<e1>Caves</e1> are <e2>natural</e2> underground laboratories where crystal growth processes can be directly observed"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-20.tsv, sentence: 13
 
 13	"<e1>bedding-grike</e1> - a <e2>narrow</e2> , rectilinear slot in a karst rock outcrop as a result of solution along a bedding-plane"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-22.tsv, sentence: 6
 
 14	"<e1>blind shaft</e1> - a vertical extension upwards from part of a cave but <e2>not reaching the surface</e2> ; small in area in relation to its height"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-22.tsv, sentence: 10
 
 15	"<e1>branchwork</e1> - a dendritic system of underground streams or passages wherein <e2>branches join successively to form a major stream or passage</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-22.tsv, sentence: 14
 
 16	"<e1>cave blister</e1> - an <e2>almost perfect hemisphere</e2> of egg-shell calcite"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 5
 
 17	"<e1>cave pearl</e1> - a smooth , polished and <e2>rounded</e2> speleothem found in shallow hollows into which water drips"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 10
 
 18	"<e1>doline</e1> - a <e2>closed depression</e2> draining underground in karst , of simple but variable form , e.g . , cylindrical , conical , bowl - or dish-shaped . from a few to many hundreds of metres in dimension"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-24.tsv, sentence: 8
 
 19	"<e1>grike</e1> - a <e2>deep</e2> , narrow , vertical or steeply inclined rectilinear slot in a rock outcrop as a result of solution along a joint"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 11
 
 20	"<e1>half-tube</e1> - a semi-eylindrical , elongate recess in a cave surface , <e2>often meandering or anastomosing</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 14
 
 21	"<e1>meander niche</e1> - a <e2>hemispherically roofed part of a cave</e2> formed by a stream meandering and cutting down at the same time"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-26.tsv, sentence: 11
 
 22	"<e1>pipe</e1> - a <e2>tubular</e2> cavity projecting as much as several metres down from the surface into ' karst rocks and often filled with earth , sand , gravel , breccia , etc"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 8
 
 23	"<e1>pseudokarst</e1> - terrain with landforms which <e2>resemble those of karst</e2> but which are not the producer of karst processes"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 13
 
 24	"<e1>solution flute</e1> - a solution hollow running down the maximum slope of the rock , of uniform fingertip width and depth , <e2>with sharp ribs between it and its neighbours</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-28.tsv, sentence: 8
 
 25	"<e1>stalactite</e1> - a speleothem <e2>hanging downwards from a roof or wall</e2> , of cylindrical or conical form , usually with a central hollow tube"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-29.tsv, sentence: 2
 
 26	"<e1>steephead</e1> - a steep-sided valley in karst , generally short , <e2>ending abruptly upstream</e2> where a stream emerges or formerly did so"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-29.tsv, sentence: 4
 
 27	"Short steep-sided valleys caused by collapse of an underground cavern and <e2>exposing the river to the surface</e2> are called <e1>karst windows</e1>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-3.tsv, sentence: 8
 
 28	"<e1>tube</e1> - a cave passage of smooth surface , and <e2>elliptical or nearly circular in cross-section</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-30.tsv, sentence: 1
 
 29	"<e1>well</e1> - a <e2>deep rounded</e2> hole in a cave floor or on the surface in karst"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-30.tsv, sentence: 10
 
 30	"<e1>apron</e1> : A <e2>smooth</e2> bulging mass of flowstone covering sloping projections from walls of caves or limestone cliffs"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-31.tsv, sentence: 5
 
 31	"<e1>bacon</e1> : Thin , <e2>elongated</e2> , translucent flowstone having parallel colored bands on or projecting from roofs and walls of some caves . See also blanket ; curtain ; drapery"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-31.tsv, sentence: 10
 
 32	"<e1>blanket</e1> : A <e2>thick layer</e2> of dripstone , not translucent , see also bacon ; curtain ; drapery"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-32.tsv, sentence: 0
 
 33	"<e1>calcirudite</e1> : A <e2>fragmental</e2> limestone in which the particles are generally larger than 2 millimeters"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 1
 
 34	"<e1>canyon</e1> : A <e2>steep-walled</e2> chasm , gorge , or ravine cut by running water"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 5
 
 35	"<e1>cave coral</e1> : A <e2>rough</e2> , knobby growth of calcite resembling coral in shape , generally small ; found on floor , walls , or ceiling of a cave . Synonym , coral formation . See also knobstone"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 13
 
 36	"<e1>cave guano</e1> : Accumulations of dung in caves , generally from bats ; <e2>in some places partially mineralized</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-34.tsv, sentence: 3
 
 37	"<e1>cenote</e1> : <e2>Steep-walled</e2> natural well that extends below the water tabl ? ; generally caused by collapse of a cave roof . Term used only for features in Yucatan . See also natural well"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-35.tsv, sentence: 1
 
 38	"<e1>chute</e1> : An <e2>inclined channel or trough</e2> in a cave"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-35.tsv, sentence: 8
 
 39	"<e1>collapse sink</e1> : A <e2>closed</e2> depression formed by the collapse of tie roof of a cave . See also doline"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-36.tsv, sentence: 1
 
 40	"<e1>cove</e1> : <e2>Narrow steep-sided</e2> karst valley flanking limestone plateaus"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-36.tsv, sentence: 10
 
 41	"<e1>cupola</e1> : <e2>A hemispheric hill</e2> of limestone . Cupole . Halb-kugel"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-37.tsv, sentence: 0
 
 42	"<e1>cutter</e1> : A <e2>Karren-like</e2> groove formed beneath the soil , more commonly referred to as subsoil Karren . See also Karren"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-37.tsv, sentence: 4
 
 43	"<e1>dry valley</e1> : A valley that <e2>lacks a surface water channel</e2> ; common in the chalk of southern England"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-38.tsv, sentence: 0
 
 44	"<e1>foiba</e1> : A natural <e2>vertical shaft</e2> in soluble rock , tending toward cylindrical shape ; it may or may not reach the surface . A dome pit"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-38.tsv, sentence: 11
 
 45	"<e1>grike</e1> , gryke : A <e2>vertical or subvertical fissure</e2> in a limestone pavement developed by solution along a joint . Synonym : Kluftkarren"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 1
 
 46	"<e1>helictite</e1> : A <e2>curved or angular twiglike lateral projection</e2> of calcium carbonate having a tiny central canal , found in caves . Synonym : eccentric stalactite"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 12
 
 47	"<e1>Karren</e1> : Channels or furrows , caused by solution on massive bare limestone surfaces ; they vary in depth from a few millimeters to more than a meter and are <e2>separated by ridges</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-40.tsv, sentence: 3
 
 48	"<e1>karst bridge</e1> : A natural <e2>bridge or arch</e2> in limestone"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-40.tsv, sentence: 16
 
 49	"<e1>karst window</e1> : A <e2>small natural bridge or arch</e2> which can be seen through"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-41.tsv, sentence: 5
 
 50	"<e1>level</e1> : Within a cave , a <e2>group of passages</e2> developed in the same horizontal plane"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-41.tsv, sentence: 13
 
 51	"<e1>meander niche</e1> : A <e2>conical or crescentshaped opening</e2> in the wall of a cave , formed by the downward and lateral erosion of a stream on the floor of a passage"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 5
 
 52	"<e1>natural arch</e1> : A <e2>rock arch</e2> or very short natural tunnel ; contrasted with natural bridge , which spans a ravine or valley"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 13
 
 53	"<e1>natural tunnel</e1> : A nearly horizontal cave open at both ends , <e2>generally fairly straight in direction and fairly uniform in cross section</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 15
 
 54	"<e1>palette</e1> : In a cave , a more or less <e2>flat protruding sheet</e2> of crystalline calcium carbonate spared during solution of the rock on each side of it . See also blade ; shield"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-43.tsv, sentence: 5
 
 55	"<e1>pillar</e1> : A <e2>tall thin</e2> stalagmite that does not reach the roof of a cave , also pipe . Small cylindrical hole in unconsolidated sediments , caused by removal of fine material by water"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-43.tsv, sentence: 12
 
 56	"<e1>pocket</e1> : Solution cavity in ceiling , floor , or walls of a cave , <e2>shaped like the interior of a round-bottomed kettle</e2> ; unrelated to joints or bedding"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 1
 
 57	"<e1>pothole</e1> : A small <e2>rounded</e2> hole worn into rock in a streambed , at a waterfall , or near sea level by sand , gravel , and stones being spun around by force of the currents ; a nature mill"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 8
 
 58	"<e1>rock pillar</e1> : <e2>A residual isolated mass of bedrock linking the roof or overhanging wall and floor of a cave</e2> , in contrast with a column , which is composed of dripstone or flowstone"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-45.tsv, sentence: 6
 
 59	"<e1>scaling plate</e1> : A small flat piece of rock of rectangular or polygonal shape , that has fallen to the floor of a cave . A form of cave breakdown in thin-tedded impure limestone <e2>cut by closely spaced joints</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-45.tsv, sentence: 13
 
 60	"<e1>shield</e1> : A <e2>disk-shaped</e2> speleothem standing edgewise at a high angle"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-46.tsv, sentence: 4
 
 61	"<e1>solution pipe</e1> : A vertical cylindrical hole attributable to solution , <e2>often without surface expression</e2> , filled with debris , such as sand , clay , rock chips , and bones . Synonym : sand pipe . See also geologic organ"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-46.tsv, sentence: 13
 
 62	"<e1>squeeze</e1> : A <e2>narrow</e2> passage or opening just passable with effort . Differs from flattener in that there is little spare space in any direction"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-47.tsv, sentence: 7
 
 63	"<e1>straw stalactite</e1> : <e2>Thin tubular</e2> stalactite , generally less than a centimeter in diameter and of very great length ; also called soda straw"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-47.tsv, sentence: 12
 
 64	"<e1>tower karst</e1> , Turmkarst : Karst topography characterized by isolated limestone hills separated by areas of alluvium or other detrital sand ; <e2>towers are generally steep-sided forest-covered hills , and many have flat tops</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 14
 
 65	"<e1>valley sink</e1> : An <e2>elongated closed</e2> depression or series of interconnecting depressions forming a valleylike depression"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-49.tsv, sentence: 5
 
 66	"<e1>Jamas</e1> are shafts of greater dimensions , <e2>sinking deep into the carbonate massive</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-5.tsv, sentence: 0
 
 67	"A particular type of collapse doline is the <e1>cenotes</e1> , <e2>open depressions</e2> in the coastal karst belts giving access to the water table and resulting from the collapse of the roof of submerged cavities"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-5.tsv, sentence: 10
 
 68	"The <e1>flank margin caves</e1> are a <e2>series of oval rooms</e2> from pore size up to large chambers , which tend to be extensive in the horizontal direction , but limited in the vertical direction , a result of developing in the thinning margin of the freshwater lens ( Fig"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-6.tsv, sentence: 7
 
 69	"<e1>Gypsum needles</e1> are <e2>straight , clear</e2> crystals that grow by extrusion from the soil in some caves"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-7.tsv, sentence: 6
 
 70	"The term <e1>anastamose</e1> refers to a reticulate pattern ( such as in the veins of a leaf ) ; in caves it applies to a <e2>pattern of interweaving channels</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-8.tsv, sentence: 2
 
 71	"<e1>Aragonite</e1> is the metastable , orthorhombic polymorph of calcite and <e2>occurs as short to long prismatic ( along c ) , acicular or tabular ( chisel-shaped ) crystals , often twinned</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-8.tsv, sentence: 8
 
 72	"According to this concept , a <e1>sinkhole</e1> is part of a long-term process and it <e2>may have different forms and surface expressions</e2> at different times"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-9.tsv, sentence: 6
 
 73	"<e1>Cave pearls</e1> are <e2>near-spherical , unattached speleothem</e2> hat form in pools agitated by water dripping from considerable heights"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-en-9.tsv, sentence: 14
 
 74	"Less permeable rock below an aquifer that <e2>keeps groundwater from draining away</e2> is called a <e1>confining bed</e1> ( also known as aquitard or aquiclude )"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-1.tsv, sentence: 6
 
 75	"<e1>Caves</e1> are natural museums , <e2>preserving important archaeological evidence as well as sediments and deposits that provide clues to past environments</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-12.tsv, sentence: 8
 
 76	"The <e1>phreatic zone</e1> is the deep portion of an aquifer that <e2>does not experience exchange with stream water</e2> , in contrast to the hyporheic zone"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-14.tsv, sentence: 5
 
 77	"<e1>Fungi</e1> are <e2>important decomposers in caves</e2> and produce a variety of extracellular enzymes ( lipases , proteinases , and chitinases ) that degrade organic detritus"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-16.tsv, sentence: 9
 
 78	"Basins <e2>designed and maintained to filter sediments and pollutants</e2> are known as <e1>sedimentation and filtration basins</e1>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-17.tsv, sentence: 13
 
 79	"<e1>Time series analysis</e1> are signal processing methods belonging to this category , and are <e2>mostly used to improve the understanding of the hydrological behaviour of karst systems</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-20.tsv, sentence: 4
 
 80	"<e1>Karst poljes</e1> are natural <e2>retainers of discharge surpluses</e2> and important regulators of water conditions in rivers in the lower parts of river basins"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-21.tsv, sentence: 10
 
 81	"<e1>canyon</e1> - a deep , elongated cavity cut by running water in the roof or floor of a cave or <e2>forming a cave passage</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 3
 
 82	"<e1>fluorometer</e1> - an instrument for measuring the fluorescence of water ; <e2>used in water tracing and dye gauging</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 9
 
 83	"<e1>relict karst</e1> - old cave forms produced by earlier geomorphic processes within the present cycle of karstification and <e2>open to modification by present-day processes</e2> such as deposition of speleothems , sediments or skeletal deposits"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 14
 
 84	"Joints that cross many beds are called <e1>master joints</e1> ; they often extend to a depth of several tens of metres and <e2>control the orientation of master conduits</e2> ( Dreybrodt 1988 , Ford & Williams 1989 )"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-3.tsv, sentence: 14
 
 85	"<e1>blowhole</e1> : A hole on land near the shore <e2>through which air and water are forced by incoming waves</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-32.tsv, sentence: 2
 
 86	"<e1>cave earth</e1> , cave fill : Insoluble deposits of clay , silt , sand , or gravel <e2>flooring or filling a cave passage</e2> . In a more restricted sense , cave earth includes only the finer fractions : clay , silt , and fine sand deposits"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 14
 
 87	"<e1>closed depression</e1> : A general term for any enclosed topographic basin <e2>having no external drainage</e2> , regardless of origin or size"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-35.tsv, sentence: 12
 
 88	"<e1>estavelle</e1> : An intermittent resurgence or exsurgence , active only in wet seasons . <e2>May act alternatively as a swallow hole and as a rising according to ground-water conditions</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-38.tsv, sentence: 2
 
 89	"The <e1>step-wise calibration</e1> is a procedure that <e2>allowed calibrating the different components of the streamflow according to different hydrologic processes</e2> underpinning Pagliero et al"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-4.tsv, sentence: 7
 
 90	"<e1>karst window</e1> : A small natural bridge or arch which <e2>can be seen through</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-41.tsv, sentence: 5
 
 91	"<e1>ponor</e1> : Hole in the bottom or side of a closed depression <e2>through which water passes to or from an underground channel</e2> . Compare swallet , swallow hole"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 4
 
 92	"<e1>steephead</e1> : A deeply cut valley , generally short , terminating at its upslope end in an amphitheater , <e2>at the foot of which a stream may emerge</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-47.tsv, sentence: 11
 
 93	"<e1>vauclusian spring</e1> : A large spring or exsurgence of an underground river , generally from limestone , that varies greatly in output and <e2>is impenetrable except with diving apparatus</e2> . Synonym : gushing spring"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-49.tsv, sentence: 6
 
 94	"A particular type of collapse doline is the <e1>cenotes</e1> , open depressions in the coastal karst belts <e2>giving access to the water table</e2> and resulting from the collapse of the roof of submerged cavities"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-en-5.tsv, sentence: 10
 
 95	"Karst <e2>formed by the influence surface river flow</e2> could be designated by the term of <e1>contact karst</e1>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-1.tsv, sentence: 7
 
 96	"<e1>Soda straws</e1> are speleothems <e2>generated by axial feeding</e2> , and characterized by a central canal with constant diameter and by a wall structure that is controlled by geometric selection during growth on the meniscus of a drip"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-10.tsv, sentence: 3
 
 97	"<e1>Suffosion</e1> is the process whereby fines are evacuated through underlying pipes in the karstified bedrock <e2>by a combination of physical downwashing and chemical solution</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 14
 
 98	"<e1>Fenglin</e1> is an extreme form of karst that only <e2>develops where dissolution rates , tectonic uplift , and alluviation maintain a critical balance</e2> ( Zhang , 1980 )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-13.tsv, sentence: 3
 
 99	"A <e1>paleocave hydrocarbon reservoir</e1> is a reservoir where the pore network consists of <e2>karst-related cavernous porosity and / or of cave-collapse-related interclast and fracture porosity</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-14.tsv, sentence: 4
 
 100	"“ <e1>Spongework mazes</e1> ” are irregular <e2>cavities enlarged from primary pores</e2> , which interconnect in a three-dimensional array like the holes in a sponge"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-15.tsv, sentence: 10
 
 101	"<e1>Whiting</e1> is a specific category of fine-grained filler <e2>derived by fine grinding</e2> such that > 95% is < 44 µm"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-16.tsv, sentence: 1
 
 102	"In most references , <e1>uvalas</e1> are defined as karst depressions which <e2>are formed due to coalescence of several dolines</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-17.tsv, sentence: 7
 
 103	"Various forms of <e1>flowstone</e1> <e2>are the result of dripping , running , trickling , trapped , condensed water etc</e2> . It is secreted from water flowing down the walls or the floor in layers"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-19.tsv, sentence: 10
 
 104	"In the most general terms , <e1>karst</e1> may be defined as a process of <e2>interaction between soluble rocks and different waters</e2> , as a result of which characteristic features develop on the Earth's surface and underground"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-2.tsv, sentence: 10
 
 105	"<e1>Speleogenesis</e1> ( karstic ) is a mass-transfer process , which <e2>critically depends on both , the aggressiveness of groundwater and its circulation ( movement )</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-20.tsv, sentence: 5
 
 106	"<e1>Ghost rock karstification</e1> is an intermediate phenomenon , between karstification stricto sensu and the alteration of fractured rock , for example like in granites , <e2>where the action of water occurs only as it filters in through fractures</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-21.tsv, sentence: 5
 
 107	"<e1>Collapse dolines</e1> are large depressions <e2>that were formed with slow collapsing of roofs</e2> above larger underground cavities and afterwards with transformation of slopes"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-21.tsv, sentence: 13
 
 108	"<e1>canyon</e1> - a deep valley with steep to vertical walls ; in karst <e2>frequently formed by a river rising on impervious rocks outside the karst area</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 2
 
 109	"<e1>dome</e1> - a large hemispheroidal hollow in the roof of a cave , <e2>formed by breakdown and / or salt weathering</e2> , generally in mechanically weak rocks , which prevents bedding and joints dominating the form"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-24.tsv, sentence: 10
 
 110	"<e1>exsurgence</e1> - a spring <e2>fed only by percolation water</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 3
 
 111	"<e1>grike</e1> - a deep , narrow , vertical or steeply inclined rectilinear slot in a rock outcrop <e2>as a result of solution along a joint</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 11
 
 112	"<e1>meander niche</e1> - a hemispherically roofed part of a cave <e2>formed by a stream meandering and cutting down at the same time</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-26.tsv, sentence: 11
 
 113	"<e1>pillar</e1> - a bedrock column from roof to floor <e2>left by the removal of surrounding rock</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 7
 
 114	"<e1>spring</e1> - a <e2>natural</e2> flow of water from rock or soil onto the land surface or into a body of surface water"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-29.tsv, sentence: 1
 
 115	"<e1>Karst</e1> is a landscape   <e2>created by the dissolution of carbonate rocks</e2> , although similar features can also be found in volcanic and permafrost areas"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-3.tsv, sentence: 0
 
 116	"<e1>travertine</e1> - compact calcium carbonate deposit , often banded , <e2>precipitated from spring , river or lake water</e2> . cf . tufa"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-30.tsv, sentence: 0
 
 117	"<e1>bogaz</e1> : A long narrow chasm <e2>enlarged by solution of the limestone</e2> . See also corridor ; struga ; kanjon"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-32.tsv, sentence: 6
 
 118	"<e1>capillary stalagmite</e1> : Hollow stalagmite <e2>formed by saturated karst water pushed up through capillaries and small cracks</e2> in a sinter crust ; covering permeable fluvial deposits on the floor of a cave ; first reported from Cuba , where such stalagmites are composed of aragonite"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 7
 
 119	"<e1>cave breccia</e1> : Angular fragments of rock forming a fill in a cave , <e2>either cemented together by dripstone or in a matrix of cave earth</e2> . See also solution breccia"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 12
 
 120	"<e1>cave pearl</e1> : Small concretion of calcite or aragonite <e2>formed by concentric precipitation around a nucleus</e2> . Synonyms , pisolite , pisolith"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-34.tsv, sentence: 7
 
 121	"<e1>collapse breccia</e1> : A mass of rock composed of angular to rounded fragments of limestone or dolomite that <e2>has formed as the result of the collapse of the roof of a cave , of an underlying cave , or of an overhanging ledge</e2> . See also solution breccia"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-36.tsv, sentence: 0
 
 122	"<e1>covered karst :</e1> A terrain of karst features , usually subdued , <e2>resulting from the development of solution features in limestone covered by soil</e2> ; contrasted with naked karst , which is soil free . See also buried karst"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-36.tsv, sentence: 11
 
 123	"<e1>doline</e1> : A basin - or funnel-shaped hollow in limestone , ranging in diameter from a few meters to a kilometer and in depth from a few to several hundred meters . Some dolines are gentle grassy hollows ; others are rocky cliff-bounded basins . A distinction may be made between those formed mainly by direct solution of the limestone surface zone , solution dolines , and those <e2>formed by collapse over a cave</e2> , collapse dolines , but it is generally not possible to establish the origin of individual examples"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-37.tsv, sentence: 6
 
 124	"<e1>exhumed karst</e1> : Karst features <e2>reexposed by erosion from bene ? th former covering strata</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-38.tsv, sentence: 3
 
 125	"<e1>half-blind valley</e1> : Blind valley in which the stream overflows in floodtirae <e2>when the swallow hole can not accep t all the water</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 7
 
 126	"<e1>Karren</e1> : Channels or furrows , <e2>caused by solution</e2> on massive bare limestone surfaces ; they vary in depth from a few millimeters to more than a meter and are separated by ridges"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-40.tsv, sentence: 3
 
 127	"<e1>karst river</e1> : A river that <e2>originates from a karst spring</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-40.tsv, sentence: 22
 
 128	"<e1>meander</e1> : In a cave , an arcuate curve in a channel <e2>formed by lateral shifting of a cave stream</e2> . See ceiling meander ; meander niche"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 4
 
 129	"<e1>paleokarst</e1> : A karstified rock or <e2>area that has been buried by later sediments</e2> ; in some places , ancient caves have been completely filled by the later sediments"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-43.tsv, sentence: 4
 
 130	"<e1>piping</e1> : Formation of a passage <e2>by water under pressure</e2> in the form of conduits through permeable materials when the hydraulic head exceeds a certain critical value"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-43.tsv, sentence: 13
 
 131	"<e1>pseudokarst</e1> : Karstlike terrain <e2>produced by a process other than the dissolving of rock , such as the rough surface above a lava field</e2> , where the ceilings of lava tubes have collapsed Features of pseudokarst include lava tunnels , lava tubes , lava stalactites , and lava stalagmites"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 10
 
 132	"<e1>rock shelter</e1> : Shallow cave under an overhanging rock ledge . Many sea caves are rock shelters . Also found in limestone and other rock types <e2>where streams have undercut their banks at bends , or where there has been abrasion by blowing sand</e2> . Common in tropical areas at places where a secondarily hardened layer of limestone forms a ledge that projects over unindurated limestone"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-45.tsv, sentence: 8
 
 133	"<e1>shake</e1> , shakehole : Hole <e2>formed by solution , subsidence , and compaction</e2> in loose draft or alluvium overlying beds of limestone"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-46.tsv, sentence: 2
 
 134	"<e1>solution pan</e1> : Shallow <e2>solution</e2> basin formed on bare limestone , generally characterized by flat bottom and overhanging sides . Synonyms : Kamenitza ; Opferkessel ; panhole ; tinajita"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-46.tsv, sentence: 12
 
 135	"<e1>subjacent karst</e1> : Karst landscape in noncarbonate rocks <e2>due to presence of karstified rocks beneath the surface formation</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 1
 
 136	"<e1>wall slab</e1> : A thin but large block of rock , <e2>which has fallen outward from the wall of a cave in limestone</e2> in which the dip is nearly vertical"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-49.tsv, sentence: 7
 
 137	"<e1>Lava conduits</e1> ( also known as tubes , tunnels , or pyroducts ) form on the sides of volcanoes within streams of lava <e2>by a process called inflation</e2> or by the crusting over of channels"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-5.tsv, sentence: 6
 
 138	"A <e1>tecto-karstic hollow</e1> is a closed basin that developed inside a tectonic depression that also <e2>evolved through karst processes</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-6.tsv, sentence: 0
 
 139	"Remnants of old river streams are <e1>dry valleys</e1> , which lack an active watercourse over all or parts of their length for at least part of the year , <e2>because water is lost in karst or is in a much lower position</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-6.tsv, sentence: 14
 
 140	"<e1>Gypsum needles</e1> are straight , clear crystals <e2>that grow by extrusion from the soil</e2> in some caves"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-7.tsv, sentence: 6
 
 141	"<e1>Hypogene speleogenesis</e1> is defined as the formation of solution-enlarged permeability structures by <e2>water that recharges the cavernous zone from below , independent of recharge from the overlying or immediately adjacent surface</e2> ( Ford , 2006 ; Klimchouk , 2007 )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-en-9.tsv, sentence: 8
 
 142	"<e1>Endokarst</e1> is defined as karst developing <e2>in the lower part of the karstosphere</e2> , where the internal ( telluric ) energy is dominant and the rock mass is under lithostatic pressure which exceeds its tensile strength"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-1.tsv, sentence: 11
 
 143	"<e1>Stalactites</e1> are centimeter to meter in scale , <e2>hanging from the ceiling</e2> and growing toward the cave floor"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-10.tsv, sentence: 1
 
 144	"<e1>Tufa</e1> refers to softer porous material found <e2>near cave entrances</e2> where rapid deposition is encouraged by evaporation"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 8
 
 145	"<e1>Blue holes</e1> are water-filled vertical openings <e2>in the carbonate rock of the islands</e2> , which exhibit complex morphologies , ecologies , and water chemistries"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-12.tsv, sentence: 9
 
 146	"<e1>Fovals</e1> are brown-greyish formations that <e2>can be found in different positions in the caves , on the floor , or on the rocky walls</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-13.tsv, sentence: 10
 
 147	"<e1>Aragonite</e1> is a main speleothem mineral <e2>in some parts of the cave</e2> , often in association with calcite"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-14.tsv, sentence: 12
 
 148	"<e1>Littoral caves</e1> , more commonly known as sea caves , are found throughout the world , actively <e2>forming along present coastlines</e2> and as relict sea caves on former coastlines"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-16.tsv, sentence: 2
 
 149	"Various names have been ascribed to the towers and the overall landscape : in Chinese , tower karst is known as <e1>fenglin</e1> ( peak forest ) <e2>where towers are isolated</e2> , and fengcong ( peak cluster ) where groups of residual hills share a common exposed bedrock base ; in Spanish the towers are termed mogotes ; in French they are tourelles or pitons ; in German Turmkarst ; elsewhere they are known as “ haystacks ” and pepinos"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-17.tsv, sentence: 2
 
 150	"<e1>Paleokarst</e1> is karst terrain that <e2>has been buried beneath younger sediments</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-17.tsv, sentence: 12
 
 151	"Karst process is a part of <e1>geological processes</e1> . The latter is defined as the processes of the transformation and movement of the carbon <e2>between the lithosphere , the hydrosphere , the atmosphere and the biosphere</e2> in the forms of CO3 ( mainly CaCO , MgCO ) , HCO , CO , CH , and ( CH O ) n ( organic carbon )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-19.tsv, sentence: 0
 
 152	"Smaller <e1>fluvial karst forms</e1> ( mesoforms ) are smaller dolines <e2>that can be found particularly on flat parts of land</e2> and can amount to several 10 per km2"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-19.tsv, sentence: 13
 
 153	"<e1>Karren</e1> is a common term used for dissolution features <e2>on exposed soluble rock surfaces</e2> ( Gines 2009 )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-2.tsv, sentence: 8
 
 154	"The word epikarst came into widespread use in the 1990s following the definition by Mangin ( 1973 ) of an <e1>epikarst aquifer</e1> as a perched saturated zone <e2>within the superficial part of the karst</e2> that stores a part of the infiltrated water ( Bakalowicz , 2012 )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-20.tsv, sentence: 2
 
 155	"A <e1>blind valley</e1> is a gorge that terminates abruptly <e2>at a point where the stream sinks</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-21.tsv, sentence: 4
 
 156	"<e1>Caves</e1> are an important part of both the terrestrial and aquatic ecosystems <e2>in karst terrains</e2> , but are not the only components"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-21.tsv, sentence: 14
 
 157	"<e1>bedding-grike</e1> - a narrow , rectilinear slot in a karst rock outcrop as a result of solution <e2>along a bedding-plane</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-22.tsv, sentence: 6
 
 158	"<e1>cave pearl</e1> - a smooth , polished and rounded speleothem <e2>found in shallow hollows into which water drips</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 10
 
 159	"<e1>curtain</e1> - a speleothem in the form of a wavy or folded sheet , often translucent and resonant , <e2>hanging from the roof or wall of a cave</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-24.tsv, sentence: 5
 
 160	"<e1>erosion</e1> - the wearing away of bedrock or sediment <e2>at the surface or in caves</e2> by mechanical and chemical actions of all moving agents , such as rivers , wind and glaciers"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 2
 
 161	"<e1>grike</e1> - a deep , narrow , vertical or steeply inclined rectilinear slot <e2>in a rock outcrop</e2> as a result of solution along a joint"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 11
 
 162	"<e1>lava-cave</e1> - a cave <e2>in a lava flow</e2> ; usually a tube or tunnel formed by flow of liquid lava through a solidified mass , or by roofing of an open channel of flowing lava"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-26.tsv, sentence: 8
 
 163	"<e1>plunge pool</e1> - a swirlhole , generally of large size , <e2>occurring at the foot of a waterfall or rapid</e2> , on the surface or underground"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 9
 
 164	"<e1>speleogen</e1> - a cave feature formed erosionally or by weathering <e2>in cave enlargement</e2> , such as current markings ( cf . scallop ) or rock pendants"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-28.tsv, sentence: 11
 
 165	"<e1>subcutaneous zone</e1> - <e2>the uppermost layers of rock below the soil on a karst</e2> . this zone is distinguished from lower zones by a higher porosity and storage capacity for water as a result of the presence of many solutionally enlarged fissures"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-29.tsv, sentence: 6
 
 166	"<e1>Karst</e1> is a product   of processes that operate <e2>on continental land masses</e2> , especially when the land masses are uplifted above sea level"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-3.tsv, sentence: 1
 
 167	"<e1>water table</e1> - the surface <e2>between phreatic water , which completely fills voids in the rock , and ground air , which partially fills higher voids</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-30.tsv, sentence: 8
 
 168	"<e1>apron</e1> : A smooth bulging mass of flowstone <e2>covering sloping projections from walls of caves or limestone cliffs</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-31.tsv, sentence: 5
 
 169	"<e1>bedding-plane cave</e1> : A passage <e2>formed along a bedding plane</e2> , especially when there is a difference in susceptibility to corrosion in the two beds"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-31.tsv, sentence: 13
 
 170	"<e1>blue hole</e1> : A <e2>drowned</e2> solution sinkhole"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-32.tsv, sentence: 5
 
 171	"<e1>canopy</e1> : A compound cave formation consisting of flowstone <e2>hanging from a sloping wall projection</e2> and forming a fringe of shawls or stalactites on the outer edge"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 4
 
 172	"<e1>cave coral</e1> : A rough , knobby growth of calcite resembling coral in shape , generally small ; <e2>found on floor , walls , or ceiling of a cave</e2> . Synonym , coral formation . See also knobstone"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 13
 
 173	"<e1>cave series</e1> : A group of caves of similar morphology <e2>in a particular district</e2> . See also cave group"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-34.tsv, sentence: 8
 
 174	"<e1>ceiling tube</e1> : A half tube <e2>remaining in the ceiling of a cave</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-35.tsv, sentence: 0
 
 175	"<e1>chimney</e1> : A narrow vertical shaft <e2>in the roof of a cave</e2> , generally smaller than an aven ; a dome pit"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-35.tsv, sentence: 5
 
 176	"<e1>cockpit karst</e1> : <e2>Tropical</e2> karst topography containing many closed depressions surrounded by conical hills . Divided by French and German geographers into several types depending on shape of hills . See also cone karst ; Halbkugel - karst ; Kegelkarst ; Spitzkegelkarst ; tower karst"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-35.tsv, sentence: 14
 
 177	"<e1>corridor</e1> : A fairly level and straight passage that links two or more rooms or chambers <e2>in a cave</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-36.tsv, sentence: 7
 
 178	"<e1>crust stone</e1> : A fragile layer of flowstone <e2>covering portions of walls of caves</e2> ; looks like a flaky crust . Found in some Kentucky caves"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-36.tsv, sentence: 14
 
 179	"<e1>cutter</e1> : Solution crevice in limestone <e2>underlying residual phosphate deposits</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-37.tsv, sentence: 3
 
 180	"<e1>epiphreas</e1> , epiphreatic zone : The zone in a cave system , immediately <e2>above the phreatic zone</e2> , affected morphologically and hydrologically by floods too large for the cave to absort at once"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-38.tsv, sentence: 1
 
 181	"<e1>fungling</e1> : Isolated limestone hill <e2>in alluvial plain</e2> , probably similar to mogote"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-38.tsv, sentence: 12
 
 182	"<e1>hall</e1> : <e2>In a cave</e2> , a lofty chamber which is much longer than it is wide"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 9
 
 183	"<e1>hum</e1> : Karst inselberg . Residual hill of limestone <e2>on a fairly level floor</e2> , such as the isolated hills of limestone in poljes . In some tropical areas , used loosely as synonym for mogote"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 15
 
 184	"<e1>Spitzkarren</e1> : Type of Karren , large deep grooves <e2>extending down from steep spires or pinnacles</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-40.tsv, sentence: 7
 
 185	"<e1>karst spring</e1> : A spring <e2>emerging from karstified limestone</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-41.tsv, sentence: 0
 
 186	"<e1>lost river</e1> : <e2>In a karst region</e2> , a surface stream that enters an underground course"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 2
 
 187	"<e1>network</e1> : A complex pattern of repeatedly connected passages <e2>in a cave system</e2> . Synonym : labyrinth"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-43.tsv, sentence: 1
 
 188	"<e1>phreatic zone</e1> : The region <e2>below the water table</e2> , in which rock is saturated with water"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-43.tsv, sentence: 9
 
 189	"<e1>ponor</e1> : Hole <e2>in the bottom or side of a closed depression</e2> through which water passes to or from an underground channel . Compare swallet , swallow hole"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 4
 
 190	"<e1>pseudokarst</e1> : Karstlike terrain produced by a process other than the dissolving of rock , such as the <e2>rough surface above a lava field</e2> , where the ceilings of lava tubes have collapsed Features of pseudokarst include lava tunnels , lava tubes , lava stalactites , and lava stalagmites"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 10
 
 191	"<e1>Rillenstein</e1> : Microsolution grooves and pitting <e2>on rock surface</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-45.tsv, sentence: 1
 
 192	"<e1>rock shelter</e1> : Shallow cave <e2>under an overhanging rock ledge</e2> . Many sea caves are rock shelters . Also found in limestone and other rock types where streams have undercut their banks at bends , or where there has been abrasion by blowing sand . Common in tropical areas at places where a secondarily hardened layer of limestone forms a ledge that projects over unindurated limestone"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-45.tsv, sentence: 8
 
 193	"<e1>sea cave</e1> : A cave or cleft <e2>in a sea cliff</e2> eroded by waves or currerts or dissolved by water"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-45.tsv, sentence: 15
 
 194	"<e1>siphon</e1> : In speleology , a cave passage <e2>in which the ceiling dips below a water surface</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-46.tsv, sentence: 10
 
 195	"<e1>stalactite</e1> : A cylindrical or conical deposit of minerals , generally calcite , formed by dripping water , <e2>hanging from the roof of a cave</e2> , generally having a hollow tube at its center"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-47.tsv, sentence: 9
 
 196	"<e1>subterranean river</e1> : <e2>Underground</e2> stream of flowing water , not necessarily large"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 4
 
 197	"<e1>threshold</e1> : That part of a cave system <e2>to which light penetrates in some degree</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 9
 
 198	"<e1>water trap</e1> : <e2>A place where the roof of a chamber or passage of a cave dips under water but lifts again farther on</e2> . Synonym : trap"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-49.tsv, sentence: 8
 
 199	"<e1>zone of aeration</e1> : The zone in permeable soil or rock that is <e2>above the zone saturated with water</e2> ; the zone of vadose water"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-49.tsv, sentence: 14
 
 200	"A <e1>tecto-karstic hollow</e1> is a closed basin that developed <e2>inside a tectonic depression</e2> that also evolved through karst processes"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-6.tsv, sentence: 0
 
 201	"<e1>Blue holes</e1> are defined as subsurface voids that are developed in carbonate banks and islands ; are open to the Earth ’ s surface ; contain tidally-influenced waters of fresh , marine , or mixed chemistry ; <e2>extend below sea level for a majority of their depth</e2> ; and may provide access to submerged cave passages"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-6.tsv, sentence: 8
 
 202	"The <e1>halocline</e1> is a layer <e2>where the salinity abruptly changes</e2> ( sometimes from polyhaline to nearly limnic )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-7.tsv, sentence: 2
 
 203	"<e1>Network caves</e1> are angular grids of intersecting passages formed by widening of nearly all major fractures <e2>within favorable areas of soluble rocks</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-7.tsv, sentence: 12
 
 204	"A <e1>cutter</e1> is a deep grike that <e2>has formed under an acidic soil cover</e2> , often with a complex curved cross section , some cavernous karren , and remnant rounded pinnacles"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-en-8.tsv, sentence: 5
 
 205	"The <e1>epikarst</e1> is defined as the uppermost zone of exposed karst rock , in which <e2>permeability due to fissuring and karstification is higher and more uniformly distributed than in the rock mass below</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-1.tsv, sentence: 12
 
 206	"In contrast , <e1>travertine</e1> is <e2>crystalline , dense</e2> calcite that is often well layered , quite lustrous and lacks framing plant content"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 7
 
 207	"A <e1>paleocave system</e1> is defined as a cave system <e2>that is no longer related in time or space to the active karst system that formed it</e2> ( Loucks , 1999 )"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-14.tsv, sentence: 3
 
 208	"The <e1>dissolution of rock</e1> is the decisive process <e2>in the formation of karst</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-18.tsv, sentence: 9
 
 209	"<e1>bathyphreatic</e1> - <e2>referring to water moving with some speed</e2> through downward looping passages in the phreatic zone"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-22.tsv, sentence: 4
 
 210	"<e1>inflow cave</e1> - a cave into which a stream enters or is known to have entered formerly but <e2>which cannot be followed downstream to the surface</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-26.tsv, sentence: 3
 
 211	"<e1>travertine</e1> - <e2>compact</e2> calcium carbonate deposit , often banded , precipitated from spring , river or lake water . cf . tufa"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-30.tsv, sentence: 0
 
 212	"<e1>cave group</e1> : A number of caves or cave systems , <e2>not interconnected but geographically associated in some relief feature or particular geological outcrop</e2> . See also cave series"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-34.tsv, sentence: 2
 
 213	"<e1>dry cave</e1> : <e2>A cave without a running stream</e2> . See also dead cave"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-37.tsv, sentence: 15
 
 214	"<e1>karstland</e1> : A region <e2>characterized by karst topography</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-41.tsv, sentence: 7
 
 215	"<e1>torricellian chamber</e1> : A submerged airfilled chamber of a cave at a pressure below atmospheric pressure , <e2>sealed by water</e2> , having an air-water surface above that of adjacent free air-water surfaces"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 12
 
 216	"<e1>Glaciers</e1> are sedimentary formations of seasonal snow that accumulates on the upper elevations of a glacier and <e2>buries the previous season ’ s accumulation</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-en-7.tsv, sentence: 3
 
 217	"<e1>Stalactites</e1> are <e2>centimeter to meter in scale</e2> , hanging from the ceiling and growing toward the cave floor"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-10.tsv, sentence: 1
 
 218	"<e1>Pit caves</e1> are vertical shafts , <e2>1 – 2 m in diameter and up to 15 m deep</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-13.tsv, sentence: 1
 
 219	"<e1>Rainpits</e1> are small cup-like hollows , sub-circular in plan and nearly parabolic in cross section , whose <e2>diameter ranges from 0.5 – 5 cm and rarely exceed 2 cm in depth</e2> ; they appear clustered in groups , or even packed by coalescence"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-14.tsv, sentence: 8
 
 220	"<e2>Smaller</e2> <e1>fluvial karst forms</e1> ( mesoforms ) are smaller dolines that can be found particularly on flat parts of land and can amount to several 10 per km2"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-19.tsv, sentence: 13
 
 221	"<e1>Tafoni geomorphology</e1> designates a hollow shape <e2>rounded several decimeters to several meters</e2> , carved by erosion in the coastal carbonates"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-20.tsv, sentence: 7
 
 222	"<e1>cave</e1> - a natural cavity in rock <e2>large enough to be entered by man</e2> . it may be water-filled . if it becomes full of ice or sediment and is impenetrable , the term applies but will need qualification"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 4
 
 223	"<e1>chamber</e1> - the largest order of cavity in a cave , with considerable width and length but <e2>not necessarily great height</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-24.tsv, sentence: 0
 
 224	"<e1>plunge pool</e1> - a swirlhole , <e2>generally of large size</e2> , occurring at the foot of a waterfall or rapid , on the surface or underground"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 9
 
 225	"<e1>steephead</e1> - a steep-sided valley in karst , <e2>generally short</e2> , ending abruptly upstream where a stream emerges or formerly did so"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-29.tsv, sentence: 4
 
 226	"<e1>balcony</e1> : Any projection on the wall of a cave <e2>large enough to support one or more persons</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-31.tsv, sentence: 11
 
 227	"<e1>calcirudite</e1> : A fragmental limestone <e2>in which the particles are generally larger than 2 millimeters</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 1
 
 228	"<e1>ceiling block</e1> : Roughly cubical joint - bounded <e2>large</e2> block , which has fallen from the ceiling of a cave . See also cave breakdown ; ceiling slab"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-34.tsv, sentence: 12
 
 229	"<e1>constructive waterfall</e1> : A <e2>large</e2> rimstone dam on a surface stream"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-36.tsv, sentence: 5
 
 230	"<e1>doline lake</e1> : A <e2>small</e2> karst lake occupying a doline"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-37.tsv, sentence: 7
 
 231	"<e2><e1>Smaller scale forms</e2> in caves</e1> ( microforms ) are features much smaller than the passage diameter ( Lauritzen & Lundberg , 2000 )"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-4.tsv, sentence: 4
 
 232	"<e1>Rinnenkarren</e1> : Type of Karren , flat-bottomed grooves <e2>several centimeters apart</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-40.tsv, sentence: 5
 
 233	"<e1>pothole</e1> : A <e2>small</e2> rounded hole worn into rock in a streambed , at a waterfall , or near sea level by sand , gravel , and stones being spun around by force of the currents ; a nature mill"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 8
 
 234	"<e1>sotano</e1> : Term used in Mexico for <e2>deep</e2> vertical shafts in limestone , which may or may not lead to a cave"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-46.tsv, sentence: 14
 
 235	"<e1>submarine spring</e1> : <e2>Large</e2> offshore emergence , generally from cavernous limestone , but in some areas from beds of lava"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 2
 
 236	"<e1>tourelle</e1> : A little tower ; applied to <e2>small</e2> flat-topped buttes of limestone in karst areas . Contrasted with pitons , which have pointed tops , and with coupoles , which have rounded tops"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 13
 
 237	"<e1>window</e1> : The opening under the arch of a <e2>small</e2> natural bridge"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-49.tsv, sentence: 12
 
 238	"In 1895 , Cvijic defined a <e1>polje</e1> as a <e2>large</e2> karst depression , with a wide , flat and nearly horizontal floor , completely enclosed between steep slopes"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-6.tsv, sentence: 2
 
 239	"<e1>Pendants</e1> are positive forms hanging from passage ceilings , <e2>typically B10 — 100 cm in dimension</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-en-8.tsv, sentence: 3
 
 240	"In order for a <e1>sinkhole</e1> to form in the first place , there are three requirements : a <e2>drainage path for the surface water runoff to follow</e2> ; a zone of bedrock modified by solution located at or near the surface ; and a covering of soil or some other material making up the land surface ( this last is not an absolute requirement ; when that cover is absent , certain types of sinkholes can still form )"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-10.tsv, sentence: 5
 
 241	"<e1>Vertical shafts</e1> are common underground , and are often exposed at the surface , truncated by glaciation and <e2>filled with shattered rock and sediment</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-13.tsv, sentence: 5
 
 242	"The <e1>fengcong</e1> is defined as <e2>groups of rocky hills or peaks</e2> rising from shared limestone foot-slopes"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-16.tsv, sentence: 14
 
 243	"<e1>aeolian calcarenite</e1> - a limestone formed on land by solution and redeposition of calcium carbonate in coastal dune sands <e2>containing a large proportion of calcareous sand from mollusc shells and other organic remains</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-22.tsv, sentence: 1
 
 244	"<e1>cave system</e1> - a collection of <e2>caves interconnected by enterable passages</e2> or linked hydrologically or a cave with an extensive complex of chambers and passages"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 12
 
 245	"<e1>ice cave</e1> - a cave <e2>with perennial ice in it</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-26.tsv, sentence: 2
 
 246	"<e1>pseudokarst</e1> - terrain <e2>with landforms</e2> which resemble those of karst but which are not the producer of karst processes"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 13
 
 247	"<e1>Karst</e1> is   terrain <e2>with distinctive hydrology and landforms</e2> arising from the combination of high rock solubility and well-developed solution channel ( secondary ) porosity underground"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-3.tsv, sentence: 2
 
 248	"<e1>bone-breccia</e1> : Cave breccia <e2>including much bone</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-32.tsv, sentence: 8
 
 249	"<e1>gulf</e1> : Steep-walled closed depression having a flat alluviated bottom ; in some gulfs <e2>a stream flows across the bottom</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 4
 
 250	"<e1>Karrenfeld</e1> : An area of limestone <e2>dominated by Karren</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-40.tsv, sentence: 12
 
 251	"<e1>karst topography</e1> : Topography <e2>dominated by features of solutional origin</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-41.tsv, sentence: 1
 
 252	"<e1>merokarst</e1> : Defined by Cvijic to indicate imperfect karst topography as found on thin , impure , or chalky limestone <e2>where surface drainage and dry valleys are present in addition to some karstic features</e2> . Contrast perfectly formed holokarst"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 6
 
 253	"<e1>pitted plain</e1> : Plain <e2>having numerous small closely spaced closed depressions</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 0
 
 254	"<e1>speleogen</e1> : A secondary cave structure formed by dissolving , <e2>such as a dome pit or a scallop</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-47.tsv, sentence: 0
 
 255	"<e1>torricellian chamber</e1> : A submerged <e2>airfilled</e2> chamber of a cave at a pressure below atmospheric pressure , sealed by water , having an air-water surface above that of adjacent free air-water surfaces"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 12
 
 256	"Riedl defined the <e1>marginal cave</e1> by its position at the sea coast , the presence of brackish water , and <e2>the presence of troglobiotic species in it</e2> , but he also supposed that the origin of such caves was due to wave action and their gradual loss of connection to the sea"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-en-7.tsv, sentence: 1
 
 257	"<e1>Intrastratal karstification</e1> refers to the <e2>preferential dissolution of a particular bed or other unit</e2> within a sequence of soluble rocks , e.g . a gypsum bed in a dolomite formation"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 0
 
 258	"<e1>Emanation</e1> is the <e2>net radon production rate in the rock walls of a cave , or in unconsolidated sediment within the cave</e2> , and ultimately depends on the concentration of uranium ( which then decays to radium ) in the material"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-15.tsv, sentence: 14
 
 259	"<e1>Dry valleys</e1> are often defined <e2>as thosewithout , or with only a temporary , watercourse</e2> ( Sweeting , 1973 )"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-20.tsv, sentence: 3
 
 260	"<e1>permeability</e1> - <e2>the property of rock or soil permitting water to pass through it</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 4
 
 261	"In geology , the term <e1>karst topography</e1> is used to describe <e2>areas similar to that found in Kras</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-3.tsv, sentence: 7
 
 262	"<e1>backflooding</e1> : <e2>Temporarily rising water level</e2> in a cave caused downstream passage being too small to pass an abnormally high discharge . The excavation and reexcavation of some caves is ascribed to the enlarger'ent of a passage at or near the water table by gravity flow alternating with periods of calcite precipitation"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-31.tsv, sentence: 9
 
 263	"<e1>clay fill</e1> : <e2>Dry or wet clay</e2> that fills a cave passage"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-35.tsv, sentence: 9
 
 264	"<e1>Hard data</e1> are defined as long-term , measured time series , typically at a point within a watershed , while soft data are defined as <e2>information on individual processes within a budget that may not be directly measured within the study area , generally from literature information</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-4.tsv, sentence: 6
 
 265	"<e1>Mischungskorrosion</e1> : <e2>Dissolving of limestone</e2> by water derived from the mixing of two saturated waters that differ in carbon dioxide partial pressure . Such a mixture is undersaturated because a nonlinear re  ation exists between calcite solubility and the partial pressure of carbon dioxide"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 8
 
 266	"<e1>Allogeneic waters</e1> are defined as <e2>stream flow derived from nonlocal sources</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-en-9.tsv, sentence: 2
 
 267	"<e1>Intrastratal karstification</e1> refers to the preferential dissolution of a particular bed or other unit <e2>within a sequence of soluble rocks , e.g . a gypsum bed in a dolomite formation</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 0
 
 268	"<e1>Tufa</e1> refers to <e2>softer porous material</e2> found near cave entrances where rapid deposition is encouraged by evaporation"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 8
 
 269	"<e1>Carbonatites</e1> are intrusive igneous rocks <e2>composed of 60 – 90% carbonate minerals , chiefly calcite</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-13.tsv, sentence: 0
 
 270	"The outstanding landforms are <e1>dissolutional corridors</e1> ( “ streets ” ) <e2>in the limestone</e2> that follow major vertical fractures created by the doming ( Brook & Ford , 1978 )"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-15.tsv, sentence: 2
 
 271	"The <e1>fenglin</e1> is defined as <e2>limestone</e2> towers or peaks that are isolated from each other by flat limestone surfaces , which are generally covered by a thin layer of loose sediment"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-17.tsv, sentence: 0
 
 272	"Karst process is a part of <e1>geological processes</e1> . The latter is defined as the processes of the transformation and movement of the carbon between the lithosphere , the hydrosphere , the atmosphere and the biosphere in <e2>the forms of CO3 ( mainly CaCO , MgCO ) , HCO , CO , CH , and ( CH O ) n ( organic carbon</e2> )"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-19.tsv, sentence: 0
 
 273	"In desert environments , <e1>spring mounds</e1> are hot beds of biological activity that , like soils , <e2>tend to be zones of high PCO2</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-20.tsv, sentence: 9
 
 274	"<e1>breccia</e1> - angular fragments <e2>of rock and / or fossils cemented together or with a matrix of finer sediment</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 0
 
 275	"<e1>doline</e1> - a closed depression draining underground <e2>in karst</e2> , of simple but variable form , e.g . , cylindrical , conical , bowl - or dish-shaped . from a few to many hundreds of metres in dimension"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-24.tsv, sentence: 8
 
 276	"<e1>flowstone</e1> - a deposit formed from thin films or trickles of water over floors or walls , <e2>usually of calcite</e2> . cf . travertine"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 8
 
 277	"<e1>steephead</e1> - a steep-sided valley <e2>in karst</e2> , generally short , ending abruptly upstream where a stream emerges or formerly did so"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-29.tsv, sentence: 4
 
 278	"<e1>Karst</e1> is   the term used to describe a special style of landscape containing caves and extensive underground water systems that is <e2>developed on especially soluble rocks such as limestone , marble , and gypsum</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-3.tsv, sentence: 3
 
 279	"<e1>apron</e1> : A smooth bulging <e2>mass of flowstone</e2> covering sloping projections from walls of caves or limestone cliffs"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-31.tsv, sentence: 5
 
 280	"<e1>boxwork</e1> : Network of thin blades <e2>of calcite or gypsum</e2> etched out in relief on the limestone walls and ceiling of a cave"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-32.tsv, sentence: 11
 
 281	"<e1>cave coral</e1> : A rough , knobby growth <e2>of calcite</e2> resembling coral in shape , generally small ; found on floor , walls , or ceiling of a cave . Synonym , coral formation . See also knobstone"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 13
 
 282	"<e1>cave pearl</e1> : Small concretion <e2>of calcite or aragonite</e2> formed by concentric precipitation around a nucleus . Synonyms , pisolite , pisolith"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-34.tsv, sentence: 7
 
 283	"<e1>covered karst :</e1> A terrain of karst features , usually subdued , resulting from the development of solution features in limestone covered by soil ; <e2>contrasted with naked karst , which is soil free</e2> . See also buried karst"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-36.tsv, sentence: 11
 
 284	"<e1>drapery</e1> : A thin sheet <e2>of dripstone</e2> , equivalent to curtain . See also bacon ; blanket"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-37.tsv, sentence: 11
 
 285	"<e1>floe calcite</e1> : Very <e2>thin film of pure calcium carbonate</e2> floating on the surface of a subterranean pool of very calm water"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-38.tsv, sentence: 7
 
 286	"<e1>glade</e1> : <e2>Limestone</e2> pavement having extensive growth of cedar trees"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 0
 
 287	"<e1>holokarst</e1> : Cvijić's term for a karst area like that of the Dinaric Karst of Slovenia . Such areas have bare surfaces <e2>on thick deposits of limestone</e2> that extend below sea level , well-developed Karren , dolines , uvalas , poljes , deep ponors , and extensive cave systems ; they have little or no surface drainage"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 14
 
 288	"The <e1>juvenile pattern</e1> is a time-controlled pattern that <e2>prevails where soluble rocks are exposed by uplift and by removal of any impermeable cover</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-4.tsv, sentence: 3
 
 289	"<e1>karst barre</e1> : A karst of limited area completely <e2>surrounded by rocks of low permeability</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-40.tsv, sentence: 14
 
 290	"<e1>lycopodium spores</e1> : Spores <e2>of lycopodium claratum</e2> , which can be used in natural or dyed color as a label in studying ground-water movement in karst areas"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 3
 
 291	"<e1>moon milk</e1> : A white plastic calcareous cave deposit <e2>composed of calcite , huntite , or magnesite</e2> . From Swiss dialect moon - milch , elf's milk . Corrupt spelling mondmilch is common"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-42.tsv, sentence: 10
 
 292	"<e1>piping</e1> : Formation of a passage by water under pressure in the form of conduits <e2>through permeable materials</e2> when the hydraulic head exceeds a certain critical value"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-43.tsv, sentence: 13
 
 293	"<e1>residual clay</e1> : <e2>Clay or sandy clay</e2> remaining on a rock surface after removal of calcium carbonate by solution"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-44.tsv, sentence: 11
 
 294	"<e1>sand stalagmite</e1> : A stalagmite formed on sand and <e2>made of calcite cemented sandstone</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-45.tsv, sentence: 11
 
 295	"<e1>sinkhole pond</e1> : Small lake in closed depression <e2>in limestone</e2> , due to an impervious clay floor or to intersection of depression with the water table"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-46.tsv, sentence: 7
 
 296	"<e1>sotano</e1> : Term used in Mexico for deep vertical shafts <e2>in limestone</e2> , which may or may not lead to a cave"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-46.tsv, sentence: 14
 
 297	"<e1>syngenetic karst</e1> : Karst <e2>developed in eolian calcarenite</e2> where lithification of dune sands and productior of karst phenomena occurred simultaneously"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-48.tsv, sentence: 7
 
 298	"<e1>vauclusian spring</e1> : A large spring or exsurgence of an underground river , <e2>generally from limestone</e2> , that varies greatly in output and is impenetrable except with diving apparatus . Synonym : gushing spring"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-49.tsv, sentence: 6
 
 299	"<e1>Limonite</e1> is a generic term that refers to both <e2>mineral and amorphous forms of iron oxides and hydroxides</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-6.tsv, sentence: 9
 
 300	"The term <e1>wad</e1> is frequently used as a field term for composite mixtures <e2>consisting mainly of manganese oxides</e2> , in much the same sense as limonite is used for hydrous iron oxides"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-en-8.tsv, sentence: 9
 
 301	"Sedimentologists define <e1>primary porosity</e1> as that <e2>created during deposition of the rock ( i.e . created first )</e2> and secondary porosity as that produced during diagenesis"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 12
 
 302	"<e1>half-blind valley</e1> - a blind valley which overflows its threshold <e2>when the streamsink cannot accept all the water at a time of flood</e2>"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 13
 
 303	"<e1>clay filling</e1> : According to Bretz , <e2>time interval between end of phreatic solution of a cave and beginning of deposition of flowstone</e2>"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-en-35.tsv, sentence: 10
 
 304	"Remnants of old river streams are <e1>dry valleys</e1> , which lack an active watercourse over all or parts of their length <e2>for at least part of the year</e2> , because water is lost in karst or is in a much lower position"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-en-6.tsv, sentence: 14
 
 305	"<e1>Suffosion</e1> is the process <e2>whereby fines are evacuated through underlying pipes</e2> in the karstified bedrock by a combination of physical downwashing and chemical solution"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-en-11.tsv, sentence: 14
 
 306	"<e1>Halite</e1> is known to form seeping water speleothems such as crusts , hair , cotton , and flowers , and <e2>dripping water speleothems such as stalactites and stalagmites</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-en-14.tsv, sentence: 13
 
 307	"In the most general terms , <e1>karst</e1> may be defined as a process of interaction between soluble rocks and different waters , <e2>as a result of which characteristic features develop on the Earth's surface and underground</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-en-2.tsv, sentence: 10
 
 308	"<e1>polje</e1> - a large closed depression draining underground , with a flat floor across which there may be an intermittent or perennial stream and <e2>which may be liable to flood and become a lake</e2> . the floor makes a sharp break with parts of surrounding slopes"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-en-27.tsv, sentence: 10
 
 309	"<e1>Mines</e1> are fresh excavations in the bedrock and it is the stress pattern around the opening that determines such hazards as <e2>rock bursts , spalling , and roof collapse</e2> ( Brady and Brown , 1993 )"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-en-5.tsv, sentence: 2
 
 310	"<e1>Pinnacle karst</e1> is a spectacular small-scale landform found principally in the humid tropics and subtropics , with the best known examples coming from Gunung Api , <e2>Mulu</e2> , and Mount Kaijende , New Guinea"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-en-12.tsv, sentence: 7
 
 311	"The word “ <e1>uvala</e1> ” is a common toponym <e2>in the Dinaric karst</e2> , always denoting a large depression"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-en-18.tsv, sentence: 6
 
 312	"<e1>capillary stalagmite</e1> : Hollow stalagmite formed by saturated karst water pushed up through capillaries and small cracks in a sinter crust ; covering permeable fluvial deposits on the floor of a cave ; <e2>first reported from Cuba</e2> , where such stalagmites are composed of aragonite"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-en-33.tsv, sentence: 7
 
 313	"<e1>holokarst</e1> : Cvijić's term for a karst area like that of the <e2>Dinaric Karst</e2> of Slovenia . Such areas have bare surfaces on thick deposits of limestone that extend below sea level , well-developed Karren , dolines , uvalas , poljes , deep ponors , and extensive cave systems ; they have little or no surface drainage"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-en-39.tsv, sentence: 14
 
 314	"<e1>zanjon</e1> : <e2>In Puerto Pico</e2> , solution trench in limestone . Zanjones range from a few centimeters to about 3 meters in width and from about 1 to 4 meters in depth . Apparently they form by the widening and deepening of joints by solution"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-en-49.tsv, sentence: 13
 
 315	"<e1>Carbon dioxide</e1> in aqueous solution is a critical component in both the solution and precipitation of speleothems and the <e2>solution of limestone</e2>"
-AFFECTS(<e1>,<e2>)
+AFFECTS(e1,e2)
 Comment: File: defs-en-12.tsv, sentence: 12
 
 316	"<e1>Vulcanospeleology</e1> is the study of <e2>caves in volcanic rocks — primarily lava tube caves and open vertical volcanic conduits</e2>"
-STUDIES(<e1>,<e2>)
+STUDIES(e1,e2)
 Comment: File: defs-en-16.tsv, sentence: 11
 
 317	"<e1>cave ecology</e1> - the study of the interaction between cave organisms and their environment , e.g . , energy input from surface , <e2>climatic influences</e2>"
-STUDIES(<e1>,<e2>)
+STUDIES(e1,e2)
 Comment: File: defs-en-23.tsv, sentence: 8
 
 318	"<e1>Radiolocation</e1> is a technique to <e2>fix an underground point to the corresponding point on the surface</e2> , usually to find out where the extremities of a cave lie and reduce cumulative errors in the survey"
-MEASURES(<e1>,<e2>)
+MEASURES(e1,e2)
 Comment: File: defs-en-17.tsv, sentence: 1
 
 319	"<e1>fluorometer</e1> - an instrument <e2>for measuring the fluorescence of water</e2> ; used in water tracing and dye gauging"
-MEASURES(<e1>,<e2>)
+MEASURES(e1,e2)
 Comment: File: defs-en-25.tsv, sentence: 9
 
 320	"<e1>The fracture aperture</e1> d ( m ) is a <e2>function in time of the initial aperture di ( m ) and the calcium flux rate F in a given fracture</e2>"
-MEASURES(<e1>,<e2>)
+MEASURES(e1,e2)
 Comment: File: defs-en-8.tsv, sentence: 10
 

@@ -1,1256 +1,1256 @@
 1	"<e1>agresivnost</e1> : Mjera sposobnosti vode da <e2>otapa stijene</e2> . U kršu se obično odnosi na otapanje vapnenca i dolomita djelovanjem otopljenog ugljičnog dioksida , mada mogu biti prisutne i druge kiseline"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 1
 
 2	"<e1>kondenzacijska dvorana</e1> : Područje u špilji <e2>u kojem se voda kondenzira na stijenkama</e2> zbog niže temperature stijenki od zraka koji ulazi u prostoriju"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-08.tsv, sentence: 2
 
 3	"<e1>početni horizont</e1> : Pogodni horizont ili zona u sedimentnoj stijeni koja <e2>vodi do najranije faze razvoja špilje</e2> ( Lowe , 2000 )"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-13.tsv, sentence: 9
 
 4	"<e1>špiljsklo mlijeko</e1> : Kriptokristalasta tvar bijele boje koja <e2>formira sige</e2> . Normalno je izgrađena od karbonatnih minerala i koja , kada je vlažna , na opip sliči kremi od sira , a kada je suha finom puderu . Može se sastojati od kalcita , hidromagnezita , neskuehonita , huntita , aragonita , magnezita ili dolomita"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-16.tsv, sentence: 14
 
 5	"<e1>vrtača</e1> : Zatvorena depresija kružna oblika , čiji se promjer mjeri metrima ili desecima metara , u krškom ili pseudokrškom području . <e2>Njome se voda drenira u podzemlje gdje se dalje širi sustavom pukotina , šupljina i špilja</e2> . Ona obuhvaća depresije sa i bez ponora , mjesta poniranja , špilje , krške prozore i jame i vertikalne šahte"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-21.tsv, sentence: 9
 
 6	"<e1>agresivna voda</e1> – voda koja sadrži slobodnu kiselinu ( ugljičnu , dušičnu i dr . ) , <e2>što je osposobljuje za dalje otapanje karbonatnih stijena</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-26.tsv, sentence: 3
 
 7	"<e1>eforacija</e1> - mehanička erozija brzih pukotinskih voda <e2>koje nose trošan materijal</e2> , te korazijom ( v . ) na podu ( eforacijski rov ) i na stranama modeliraju različite eforacijske oblike"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 2
 
 8	"<e1>hidrogeološki regulator</e1> ( m ) – izdanak nepropusne klastične podloge koji uvjetuje pojavu stalnih izvora , odnosno rijeka u kršu . Tim izbijanjima <e2>su određena hidrografska čvorišta</e2> ( v . )"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-29.tsv, sentence: 11
 
 9	"<e1>ledenica</e1> – spilja ili japaga <e2>u kojoj se održava led</e2> . To su hladne spilje i kapnica se zaleđuje , prekrivajući pod i strane ledenom korom i ukrasujući cjelinu slikovitim mosurima i ledenim stupovima.U japage se preko zime navije snijeg koji se preko ljeta postepeno otapa i održi ( v . sniježnica ) . Otapanjem površinskog dijela voda se u dubljim dijelovima , gdje je temperatura ispod 0 ° C , pretvara u led . Ekspozicija i kosi položaj udubine imaju znatnu ulogu"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-32.tsv, sentence: 12
 
 10	"<e1>prirodni most</e1> – ostatak urušenog pokrova koji <e2>presvođuje otkriveni protjecajni kanal ili suhu udubinu</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-34.tsv, sentence: 18
 
 11	"usku vezu među spiljskim šupljinama nazivamo <e1>lisičji prolaz</e1> . Često kroz uske prolaze struji zrak , što ukazuje da <e2>spajaju veće šupljine različitih termičkih osobina</e2> . Za protočne spilje su važni sifonski dijelovi ( oblika slova U ) koji su ispunjeni vodom , utječu na protjecanje i velika su zapreka u istraživanjima"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 2
 
 12	"krška su specifičnost vrela , <e2>iz kojih u kišnom razdoblju istječe golema količina vode</e2> , te odjednom nastaje moćna tekućica , a u sušno doba presahnu ; prema vrelu kod mjesta Vaucluse ( Francuska ) taj tip je nazvan “ <e1>vokliško vrelo</e1> ” , a sve češće se upotrebljava širi termin krško vrelo , jer je taj način izbijanja u skladu s podzemnim protjecanjem kroz pukotine , koje se vrši brzo i s velikim kolebanjima"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-38.tsv, sentence: 8
 
 13	"<e1>Ponori</e1> su otvori ili sustavi pukotina u kršu <e2>kroz koje se prema podzemlju gubi ( ponire ) tekuća ili stajaća voda</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-41.tsv, sentence: 14
 
 14	"<e1>Količina istjecanja</e1> je hidrološka veličina koja <e2>označava količinu protekle vode u jedinici vremena</e2>"
-HAS\_FUNCTION(<e1>,<e2>)
+HAS\_FUNCTION(e1,e2)
 Comment: File: defs-hr-46.tsv, sentence: 4
 
 15	"<e1>aguada</e1> : U krškom području Yukatana , plitka depresija , općenito veličine nekoliko hektara , u kojoj se nakuplja voda u kišnoj sezoni . Obično se radi o jami <e2>nastaloj otapanjem</e2> i sa dnom koje je prirodno ili umjetno obloženo glinom"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 2
 
 16	"<e1>banana jama</e1> : Izraz koji se koristi u Bahamima za jamu <e2>nastalu kolapsom plitke špilje</e2> formirane na vrhu nekadašnje više leće sa slatkom vodom . Jama se koristi za obradu posebnih uroda kao što su banane"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-02.tsv, sentence: 5
 
 17	"<e1>﻿kanjon</e1> : 1 U špilji , kanal koji je puno viši nego širi , uglavnom meandrira , a <e2>formiran je usijecanjem dna vadoznim vodotokom</e2> . 2 Ponor formiran špiljskim vodotokom"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 0
 
 18	"<e1>špiljski balon</e1> : Rijetki tip sige u špiljama kojeg čini šuplji mjehur , obično od hidromagnezita , koji je napuhnut s plinom ( zrak ili biogeni ugljični dioksid ) . Vjerojatno <e2>nastaje prodiranjem kroz pukotine otopine pod tlakom u špilju</e2> i nailaskom na mjesečevo mlijeko ekspandiraju poput gumenog balona . Prevlaka od mjesečevog mlijeka koja je formirala odljev može se raspucati ili isušiti ostavljajući izloženim hidromagnezitni balon"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 2
 
 19	"<e1>disanje špilje</e1> : Strujanje zraka u špilju i iz špilje . Može se javiti u ciklusima od nekoliko minuta ili kao dnevni ciklus . Disanje može biti posljedica brojnih uzroka : ( 1 ) dnevne promjene tlaka zbog zagrijavanja zraka suncem izvan špilja ; ( 2 ) barometrijske promjene tlaka ; ( 3 ) propuh koji se javlja kod špilja s ulazima na različitim nivoima ; ( 4 ) hladni zrak koji se spušta u špilju i zamjenjuje topliji zrak u špilji ; ( 5 ) <e2>vjetar koji puše iznad ulaza u špilju</e2> ; ( 6 ) vodotok koji ulazi u špilju također može uzrokovati strujanje zraka"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 6
 
 20	"<e1>špiljska poroznost</e1> : Poroznost koja se odlikuje velikim nepravilnim šupljinama - kavernama , <e2>nastala procesima otapanja pojedinih dijelova karbonatne stijene pod djelovanjem slatke meteorske vode</e2> u subaerskim uvjetima , posebice proširivanjem i korozijom tektonskih prslina i razdrobljenih zona u kršu"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 11
 
 21	"<e1>kavernozna stijena</e1> : Svaka stijena s brojnim šupljinama , ćelijama i velikim porama , npr . , površina litice s brojnim plitkim udubljenjima <e2>nastalim kavernoznim trošenjem</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-06.tsv, sentence: 3
 
 22	"<e1>﻿cenota</e1> : <e2>Prirodni</e2> površinski otvor strmih stijenki . Obično je ispunjen vodom , a uglavnom je nastao kolapsom svoda špilje . Izraz se pretežito koristi za oblike na poluotoku Yucatanu u Meksiku"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-07.tsv, sentence: 0
 
 23	"<e1>kolapsna doma</e1> : Dvorana u špilji <e2>formirana progresivnim urušavanjem svoda</e2> sve dok se ne postigne stabilan oblik sličan domi . Na dnu se općenito nalazi humak od kršja . Urušavanje može započeti prestankom hidrostatske potpore s opadanjem razine vode u špilji"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-07.tsv, sentence: 13
 
 24	"<e1>proširenje</e1> : Točka u špilji u kojoj se cjevasti kanal spaja s većim kanalom ili dvoranom . dekoracija , špiljski ukras : Špiljski oblici <e2>nastali sekundarnim taloženjem minerala</e2> , obično kalcita ali i aragonita , gipsa , soli , leda , lave i drugih rijetkih minerala"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-09.tsv, sentence: 7
 
 25	"<e1>eksfolijacijska špilja</e1> : Špilja <e2>formirana djelomičnim razaranjem pločaste stijene</e2> nastale eksfolijacijom , koja ima ravnu zadnju stijenku s produženom eksfolijacijskom pukotinom u svodu špilje"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 1
 
 26	"<e1>pukotinska špilja</e1> : Uski vertikalni kanal , često ali ne i nužno razvijen duž pukotine . Obično kao posljedica otapanja , katkada <e2>zbog naprezanja</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 10
 
 27	"<e1>folija</e1> : Niz naslaganih polica , uglavnom od kalcita , često udružene s kalcitnim splavima . Formirane su blizu ili tik ispod linije vode na svodu i zidovima špilje nalik okrenutim rubnim pregradama . Smatra se da su formirane primarno blizu vrha vodene plohe i da su povezane s opadanjem nivoa vode . Vjerojatno su <e2>formirane iz precipitata na površini vode koji se nakupio na zidovima .</e2> Kako je nivo vode opadao , sve više kalcita se taložilo i formiralo ravnu površinu . Prema drugoj teoriji došlo je do hvatanja ugljičnog dioksida na izbočinama i pojačanog taloženja kalcita na njima"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-12.tsv, sentence: 3
 
 28	"<e1>heliktit</e1> : Savijene prutičaste špiljske naslage , obično od kalcita ili aragonita , koje se razvijaju na slobodnom kraju <e2>taloženjem iz vode koja izvire iz gotovo mikroskopskog središnjeg kanala</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-13.tsv, sentence: 5
 
 29	"<e1>krška dolina</e1> : 1 Izdužena dolina nastala otapanjem . 2 Dolina <e2>nastala urušavanjem svoda špilje</e2> . 3 Zatvorena depresija formirana spajanjem nekoliko ponora . Njena odvodnja je potpovršinska , a veličina se mjeri od nekoliko stotina metara do više kilometara . Obično ima nepravilno dno , a odrezani rub je naslijeđen od ponora"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-15.tsv, sentence: 2
 
 30	"<e1>nivo-krš</e1> : Karakteristika periglacijalnih sredina pri čemu različitim kemijskim trošenjem ispod hrpa snijega nastaje kršolika topografija , poput otapanja fragmenata vapnenca vodom koja je <e2>nastala otapanjem snijega</e2> i koja sadrži ugljičnu kiselinu"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-17.tsv, sentence: 5
 
 31	"<e1>fitokrš</e1> : Tip okoliša u kojem je osnovna morfologija <e2>nastala ubušivanjem algi i / ili gljiva u vapnenac</e2> . Karakterizirana je zupčastom , grotesknom skulpturom , a od krša koji je formiran otapanjem , razlikuje se po nasumičnoj orijentaciji skulptura u odnosu na gravitaciju i crnom algalnom oblogom ( Folk i dr . , 1973 )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-18.tsv, sentence: 6
 
 32	"<e1>razgranata špilja</e1> : Špilja <e2>nastala otapanjem</e2> , a sastoji se od nepravilnih komora i galerija koje se pružaju prema van u različitim smjerovima od glavnog špiljskog sustava ; tipičan model hipogenih špilja formiranih povećanom koncentracijom vodikovog sulfida u vodi ( Palmer , 1991 )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-19.tsv, sentence: 7
 
 33	"<e1>gomila stijena</e1> : Hrpa fragmenata stijena u špilji , obično <e2>nastala lokalnim obrušavanjem</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-20.tsv, sentence: 6
 
 34	"<e1>﻿kosina otapanja</e1> : U speleologiji , ravna padina u zidu špilje , <e2>uzrokovana nejednakom brzinom otapanja susjednih slojeva nejednake topivosti</e2> ; geometrijski rezultat otapanja ispod vode koja sporo teče ( Lange , 1964 )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 0
 
 35	"<e1>ploha otapanja</e1> : Gotovo ravna ploha , uglavnom oivičena uskim obrubom ili izdignutim rubom , nastala na topivoj stijeni , kao što je vapnenac , <e2>progresivnim otapanjem kišnicom</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 7
 
 36	"<e1>škarpa otapanja</e1> : Škarpa formirana na višoj padini <e2>aktivnijim otapanjem</e2> nego u nižem području ili podsijecanjem baze škarpe otapanjem"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 13
 
 37	"<e1>siga</e1> : Generičko ime za sekundarne kemijske precipitate u špiljama , uključujući špiljske koralje , špiljsku draperiju , špiljski oniks , špiljsku perlu , kamene brazde , heliktite , mjesečevo mlijeko , obodne barijere , stalaktite i stalagmite koji <e2>nastali pri kapanju vode zasićene Ca-hidrogenkarbonatom</e2> u vapnenačkim špiljama i kavernama . Najvećim dijelom su izgrađeni od kalcita ali mogu biti , vrlo rijetko , od gipsa i halita"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-23.tsv, sentence: 9
 
 38	"<e1>singenetski krš</e1> : Krš koji je <e2>razvijen istovremeno sa litifikacijom eolskih kalkarenita i grebenskih vapnenaca</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-24.tsv, sentence: 10
 
 39	"<e1>abrazijska pećina</e1> ili garma – udubina u stjenovitoj obali , <e2>izmodelirana abrazijskim djelovanjem valova</e2> , a u vapnencima i korozijom morske ili jezerske vode"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-26.tsv, sentence: 0
 
 40	"<e1>bočata voda</e1> – slankasta voda koja nastaje miješanjem slatke vode i mora ili <e2>procjeđivanjem morske vode u priobalska jezera i bunare</e2> ( v . šepurina )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-26.tsv, sentence: 14
 
 41	"<e1>crvenica</e1> – crvenkasto tlo , <e2>nastalo kao zaostatak otapanja vapnenaca u uvjetima tople i dosta vlažne klime</e2> ; kao klimatogeno tlo moglo je nastati i rastrožbom drugih stijena , te je transportirano u krške pukotine , gdje se očuvalo . Crvena boja je uvjetovana oksidimame tala . Primarni položaj c . je kao sloj B , ispod površinskog humusnog sloja A , tj . u neposrednom dodiru s vapnencem ( v . kontaktna korozija ) . Površinski položaj je sekundaran i posljedica spiranja sloja A . U krajevima koji suvremenim pedogenetskim uvjetima ne odgovaraju ovom tlu c . je indikator paleoklimatskih prilika . Ovlažena c . ima osobine gline te zadržava procjeđivanje vode ; prije cementa je , miješana s vapnom , korištena za uređenje rezervoara kišnice"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 5
 
 42	"<e1>garma</e1> – narodni izraz , vjerojatno ilirskog podrijetla ( P . Skok 1971 ) , za procijepe i pećinske oblike u stjenovitim , uglavnom vapnenačkim obalama . G . su <e2>izmodelirane diferenciranom abrazijom i korozijom</e2> . Za manje oblike upotrebljava se i deminutivni oblik “ garmica ”"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 14
 
 43	"<e1>heliktit</e1> – sigasta tvorevina , prvenstveno stalaktit , koja je razvijena u obliku složenih grančica i radijalnih stupčića . Ti složeni oblici redovito <e2>nastaju pri kristaliziranju aragonita</e2> ( v . ) , a ima i kalcitnih . Posebni uvjeti kristaliziranja su utjecali na razvoj"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-29.tsv, sentence: 9
 
 44	"<e1>hum</e1> – općeslavenski naziv ( i u oblicima kum , hom i holm ) za osamljena i istaknuta uzvišenja , bez obzira na vrstu reljefa . Dolazi do izražaja i u mnogobrojnim toponimima . H . su posebno rašireni u Dinarskom kršu ( v . glavica ) ; u stručnoj literaturi je zastupano mišljenja da se radi o specifičnom obliku cikličkog razvoja krškog reljefa , te je termin preuzet u međunarodnu znanstvenu terminologiju . Davana su različita mišljenja o postanku huma : ostatak grebena među ponikvama , ostatak razvodnica “ mosor ” ( v . ) , <e2>otporniji dio zemljišta “ monadnock ”</e2> ( v . ) itd . Suvremena karstologija ograničava termin h . na osamljena uzvišenja na naplavnim ravnicama i korozijskim zaravnima ( v . )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 1
 
 45	"<e1>kora</e1> - čvrsti sloj koji se hvata na površini stijena i tla <e2>izlučivanjem vapnenca ( CaCO3 ) iz otopine [ H2Ca ( CO3</e2> ) 2 ] – v . sedra , sedrene tvorevine , siga i sigaste tvorevine"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-31.tsv, sentence: 8
 
 46	"<e1>krško modeliranje</e1> – <e2>poniranje i pukotinsko protjecanje vode</e2> uvjetuju složeno modeliranje površja i podzemlja , čime se krš bitno razlikuje od drugih terena . Različite posebnosti uvjetuju prostorne razlike ( v . krški proces ) , a vremenske izmjene modificiraju krški proces ( v . ) . Specifičnost je krškog modeliranja relativno mali opseg akumuliranih oblika ako se usporedi s golemim količinama korodiranih stijena"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-32.tsv, sentence: 9
 
 47	"<e1>potočno modeliranje</e1> – spiranje , transport i akumulacija koju <e2>vrše epizodne tekućice</e2> . P . m . je izrazitije na rastrošivim stijenama , osobito na padinama . Padinske udoline i plavine u podnožjima su naslijeđe iz hladnih i vlažnih razdoblja pleistocena , kad je p . m . imalo znatan udio i na kršu"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-34.tsv, sentence: 14
 
 48	"<e1>pržina</e1> – narodni naziv za pjeskovite trošine ; p . <e2>nastaje trošenjem dolomita</e2> , otuda njegov naziv “ pržnjak ” ; p . se nazivaju i sitnije kamene trošine transportirane i modelirane tekućicama"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 3
 
 49	"<e1>retroverzija</e1> – izmjena smjera otjecanja ponornice , <e2>uvjetovana različitim pružanjem podzemnih protočnih šupljina</e2> ; može biti i suprotan smjeru površinskog dijela tekućice"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 11
 
 50	"suha spilja je ona kroz koju voda ne protječe i nema vodom ispunjenih bazena . Kroz vodnu spilju voda protječe trajno ili periodski ili se zadržava u bazenima . Spiljsko jezero je u udubini gline ili onoj koja je cementirana sedrenom korom . <e1>Spiljska glina</e1> u različitim količinama prekriva dna spiljskih šupljina , a neke ogranke i sasvim ispunjava . <e2>Nastala je dekalcifikacijom</e2> ( v . ) na licu mjesta ( autohtona ) ili je transportirana iz jednog u drugi dio ( parautohtona ) ili je nanesena izvana ( alo htona ) . Spiljski sedimenti obuhvaćaju cjelinu na slaga nataloženih u podzemnim šupljinama : sigaste tvore vine , urušene blokove , gline , naneseni šljunak i pijesak i sl"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 4
 
 51	"<e1>sufozija</e1> – erozija klastične podloge <e2>vodom koja pritječe kroz krški pokrov</e2> ili erozija rahlog pokrova vodom koja protječe šupljinama pokrivenog krša . U “ kriokršu ” ( v . ) to se vrši odmržnjavanjem i otjecanjem iznad sloja permafrosta ili mrzlote . Duž kontaktne plohe erodira se i evakuira podloga , te dolazi do urušavanja pokrova . U hidrologiji s . znači kaptiranje površinske tekućice od strane podzemnog toka"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 13
 
 52	"tlom obuhvaćeni blokovi karbonatnih stijena se različito i slikovito modeliraju – skulpturne škrape , ili prstenasto probijaju – prstenaste grižine ( v . ogoljeni krš ) . Različite <e1>stropne škrape</e1> ( v . spilja ) , osobito u obliku izvrnutog lonca , vjerojatno su <e2>izmodelirane kontaktnom korozijom</e2> u doba kad su podzemne šupljine bile ispunjene nanosima"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 16
 
 53	"<e1>kemijski vapnenci</e1> <e2>nastaju izdvajanjem i taloženjem iz nestabilnog kalcijeva hidrobikarbonata</e2> . Pod utjecajem ekobiotskih uvjeta i procesa , na brzacima i vodopadima tekućica obara se sedra ( v . ) . Rasprskavanjem i prozračivanjem prokapne vode izdvajaju se u podzemnim šupljinama sigaste tvorevine ( v . ) kalcita ili aragonita . U kemijske vapnence spadaju i oolitski vapnenci koji su izlučeni u obliku sitnih kuglica ( ooida ) , tj . vapnenačke lupi ne su staložene oko fragmenta nekog materijala"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-38.tsv, sentence: 5
 
 54	"<e1>Oscilacije</e1> su <e2>rezultat pritjecanja zraka različitih temperatura i vlažnosti s površine u spilju</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-39.tsv, sentence: 12
 
 55	"<e1>Sige</e1> su sekundarni kemijski produkti ( mineralni talozi ) <e2>reakcije vode i primarnog minerala koji postoji u stijenama ili u talogu</e2> ( Ford i Wiliams , 2007 ; Palmer , 2007 )"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-43.tsv, sentence: 14
 
 56	"<e1>Žljebovi</e1> su tipovi grižina koji <e2>nastaju korozijskim djelovanje vode koja teče preko površine stijene</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-44.tsv, sentence: 13
 
 57	"Kiseline otapaju karbonatne stijene , a najčešća kiselina u prirodi je <e1>ugljična kiselina</e1> koja <e2>nastaje otapanjem ugljikovog dioksida ( CO2 ) u vodi</e2>"
-HAS\_CAUSE(<e1>,<e2>)
+HAS\_CAUSE(e1,e2)
 Comment: File: defs-hr-46.tsv, sentence: 3
 
 58	"<e1>zračni džep</e1> : Zatvoreni zračni prostor <e2>između površine vode i svoda pećine</e2> . U njega se može ući samo ronjenjem"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 3
 
 59	"<e1>arktički krš</e1> : Krš <e2>formiran u polarnim područjima</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 13
 
 60	"<e1>banana jama</e1> : Izraz koji se koristi u Bahamima za jamu nastalu kolapsom plitke špilje <e2>formirane na vrhu nekadašnje više leće sa slatkom vodom</e2> . Jama se koristi za obradu posebnih uroda kao što su banane"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-02.tsv, sentence: 5
 
 61	"<e1>rikavica</e1> : Jama , često okrugla , <e2>na krškom terenu u blizini obale</e2> kroz koju udari valova izbacuju zrak i vodu"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-02.tsv, sentence: 13
 
 62	"<e1>saće</e1> : 1 Kod špilja nastalih otapanjem , mreža otpornih prečki koje se sijeku , obično od kalcita ( može i kvarca , gipsa , anhidrita , limonita , silicija ili drugih minerala ) koje poput saća <e2>strše iz duboko rastrošene osnovne stijene</e2> . Često je prisutna u današnjim i nekadašnjim sulfatnim i sulfidnim zonama u kršu ( Palmer i Palmer , 1995 ) . 2 Saćast model limonita koji je zaostao u šupljinama nakon što su sulfidna mineralna zrna otopljena . Može imati spužvasti , saćasti , trokutasti , piramidalni ili nepravilni oblik i može biti različito obojen od oker do tamnosmeđe boje"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 6
 
 63	"<e1>bezdan</e1> : Duboki , široki i izduženi procjep <e2>u podu špilje</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 12
 
 64	"<e1>﻿kanjon</e1> : 1 <e2>U špilji</e2> , kanal koji je puno viši nego širi , uglavnom meandrira , a formiran je usijecanjem dna vadoznim vodotokom . 2 Ponor formiran špiljskim vodotokom"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 0
 
 65	"<e1>špiljski mjehur</e1> : Djelomično ili kompletno šuplja polukuglasta do gotovo kuglasta siga <e2>pričvršćena za stijenku špilje</e2> . Može biti izgrađena od kalcita , gipsa , kalcedona ili opala"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 4
 
 66	"<e1>špiljski kalež</e1> : Šuplja , kružna do piramidalna kalcitna siga koja <e2>viri iz stijenke špilje</e2> ili strši iz plitkog špiljskog jezerca"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 10
 
 67	"<e1>špiljski cvijet</e1> : Mineral koji se javlja kao savijene izdužene naslage koje <e2>se šire iz stijenki špilje</e2> . Uglavnom se radi o gipsu ili epsomitu ali se može raditi i o mnogim drugim mineralima , te ledu . Struktura se razvija na pričvršćenom kraju"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 2
 
 68	"<e1>špiljski biser</e1> : Glatko polirana i zaobljena siga <e2>nađena u plitkim šupljinama u koje kaplje voda</e2> . Sastoji se od koncentričnih slojeva oko jezgre i karakterizirana je radijalnom kristalnom strukturom ( Hill , 1992 )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 8
 
 69	"<e1>špiljski izvor</e1> : Prirodni tok vode <e2>iz stijene ili sedimenta unutar špilje</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-06.tsv, sentence: 5
 
 70	"<e1>stropna cijev</e1> : Polucijev zaostala <e2>na stropu špilje</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-06.tsv, sentence: 14
 
 71	"<e1>tobogan</e1> : Kosi kanal ili prolaz <e2>u špilji</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-07.tsv, sentence: 6
 
 72	"<e1>kolapsna doma</e1> : Dvorana <e2>u špilji</e2> formirana progresivnim urušavanjem svoda sve dok se ne postigne stabilan oblik sličan domi . Na dnu se općenito nalazi humak od kršja . Urušavanje može započeti prestankom hidrostatske potpore s opadanjem razine vode u špilji"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-07.tsv, sentence: 13
 
 73	"<e1>konulit</e1> : Šuplja i konična siga s vrhom usmjerenim na dolje . Formirana je u siltu ili nekom drugom mekanom materijalu , npr . <e2>u rupi u koju kaplje voda sa svoda</e2> . Kapanjem se oslobađa ugljièčni dioksid , taloži se kalcijev karbonat koji služi kao ljepilo za razmaknuta mineralna zrna . S vremenom se može formirati kalcificirani udarni krater , ili konulit , sa svojim vlastitim izbačenim kalcificiranim pokrovom . Središnja udarna rupa će se cementirati s kalcijevim karbonatom , a kasnija erozija može učiniti da mineralna obloga ostaje slobodno stajati"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-08.tsv, sentence: 6
 
 74	"<e1>pokriveni krš</e1> : Krš <e2>formiran ispod zemljanog pokrova</e2> koji ublažava njegove topografske oblike"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-08.tsv, sentence: 10
 
 75	"<e1>strujna obilježja</e1> : Plitke asimetrične udubine formirane turbulentnim tokom vode i pravilno raspoređene <e2>na površinama stijena u kršu</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-09.tsv, sentence: 2
 
 76	"<e1>kalcit pasjeg zuba</e1> : Siga <e2>nađena u vapnenačkim pećinama</e2> a sastoji se od velikih kristala kalcita nalik pasjim zubima . Obično se nalaze blizu stajaće vode gdje kristali mogu rasti kroz vrlo dugo vrijeme . Većina pećina s ovim sigama imaju sezonsko poplavljivanje . Oni nisu ograničeni samo na pećine već ih se može naći i u žilama , frakturama i geodama . Kalcit kristalizira u romboedarskom sustavu i najčešće je oštrog skalenoedrijskog trokutastog oblika"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-09.tsv, sentence: 10
 
 77	"<e1>﻿doma</e1> : 1 Visoko okno u dvorani špilje ili prolaz formiran otapanjem . 2 Velika polukuglasta šupljina <e2>u svodu špilje</e2> formirana pucanjem stijena svoda ili njihovim mehaničkim trošenjem"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-10.tsv, sentence: 0
 
 78	"<e1>izviranje</e1> : Točka <e2>u krškoj regiji</e2> u kojoj podzemni vodotok izbija na površinu i dalje teče kao površinski vodotok"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-10.tsv, sentence: 8
 
 79	"<e1>ulazna zona</e1> : Kod špilja , prijelaz <e2>između površine i podzemnih okoliša</e2> koji vodi u zonu sumraka"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-10.tsv, sentence: 10
 
 80	"<e1>rasjedna špilja</e1> : Špilja <e2>formirana duž rasjeda ili rasjedne zone</e2> bilo zbog samog kretanja na rasjedu ili olakšanog otapanja duž rasjedne plohe"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 6
 
 81	"<e1>bočno-rubna špilja</e1> : Špilja razvijena nekanaliziranim tokom , unutar karbonatnog otoka ili obalne linije , <e2>na rubu izlijevanja leće slatke vode</e2> ( Mylroie , i Carew , 1990 )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 12
 
 82	"<e1>fojba</e1> : Slijepi završetak šahte <e2>u špilji</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-12.tsv, sentence: 2
 
 83	"<e1>glaciokrš</e1> : 1 Krš <e2>razvijen u glacijalnim terenima</e2> . 2 Krški okoliš koji je zaleđen još od Ledenog doba"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-12.tsv, sentence: 8
 
 84	"<e1>hala</e1> : Visoka dvorana u špilji koja je puno duža nego što je široka . haloklina špilja : Mala špilja <e2>u obalnom kršu</e2> formirana otapanjem u brakičnoj vodi u bazi leće slatke vode"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-13.tsv, sentence: 3
 
 85	"<e1>pukotinska špilja</e1> : Jaka šupljikavost u odnosu na širinu <e2>razvijena duž strmo nagnutih pukotinskih ravnina</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-14.tsv, sentence: 1
 
 86	"<e1>krška ravnica</e1> : Ravnica , obično <e2>na vapnencu</e2> , na kojoj su razvijeni krški oblici"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-14.tsv, sentence: 13
 
 87	"<e1>razina</e1> : 1 Grupa kanala <e2>u špilji</e2> razvijena na istoj horizontalnoj ravnini , posebno u špiljama u kojima su razvijene u dvije ili više ravnine . 2 Visinska povezanost dna špilje i površine izvan špilje"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-15.tsv, sentence: 10
 
 88	"<e1>mamilaran</e1> : 1 Varijetet zaobljene podvodne prevlake . 2 Zaobljena siga koja se sastoji od karbonatnog sloja <e2>koji prekriva čvrstu stijenu</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-16.tsv, sentence: 5
 
 89	"<e1>nivo-krš</e1> : Karakteristika periglacijalnih sredina pri čemu različitim kemijskim trošenjem <e2>ispod hrpa snijega</e2> nastaje kršolika topografija , poput otapanja fragmenata vapnenca vodom koja je nastala otapanjem snijega i koja sadrži ugljičnu kiselinu"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-17.tsv, sentence: 5
 
 90	"<e1>﻿pregrada</e1> : Kod špilja , ostatak neotopljene stijene <e2>koji se proteže od dna do stropa kanala</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-18.tsv, sentence: 0
 
 91	"<e1>freatski kanal</e1> : Kanal u špilji koji je prvenstveno <e2>razvijen ispod stalnog vodnog lica</e2> ili tijekom poplava , kako ukazuje morfologija kanala karakteristična za cijevi koje su u cijelosti ispunjene vodom"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-18.tsv, sentence: 5
 
 92	"<e1>﻿ponor</e1> : Rupa ili ždrijelo <e2>u vapnenačkoj zatvorenoj depresiji</e2> kroz koju se voda gubi u podzemlju"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-19.tsv, sentence: 0
 
 93	"<e1>obodna pregrada</e1> : Barijera od kalcita , aragonita ili nekog drugog materijala koja omogućava špiljskom vodotoku da formira jezerce . Produkt je taloženja , a <e2>javlja se na mjestu promjene kuta nagiba kosine vodotoka</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-20.tsv, sentence: 2
 
 94	"<e1>stropna kora</e1> : Tanka siga <e2>na stropu špilje</e2> istaložena iz tankih filmova vode koja se procjeđuje iz pora i pukotina"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-20.tsv, sentence: 9
 
 95	"<e1>plitki freatik</e1> : Govori o formiranju špilje <e2>blizu vrha vodom zasićene zone</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-21.tsv, sentence: 6
 
 96	"<e1>﻿kosina otapanja</e1> : U speleologiji , ravna padina <e2>u zidu špilje</e2> , uzrokovana nejednakom brzinom otapanja susjednih slojeva nejednake topivosti ; geometrijski rezultat otapanja ispod vode koja sporo teče ( Lange , 1964 )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 0
 
 97	"<e1>depresija otapanja</e1> : Opći izraz za bazen otapanja koja <e2>se javlja u krškom terenu</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 5
 
 98	"<e1>vrtača otapanja</e1> : Najčešći tip vrtače koja se povećava kada voda proširi pukotinu , ili njih nekoliko , <e2>na površini topive stijene</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 14
 
 99	"<e1>vršna škrapa</e1> : <e2>U kršu</e2> , velika duboka brazda koja se spušta niz strmi vrh . Jedna od brazda otapanja koje su međusobno razdvojene visokim hrptovima oštrih piramidalnih vrhova"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-23.tsv, sentence: 11
 
 100	"<e1>stalagmit</e1> : Špiljski ukras cilindrična ili konična oblika <e2>koji raste s poda špilje prema gore</e2> . Izgrađen od kalcita ili nekih drugih minerala koji se izlučuje iz vode koja kapa"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-24.tsv, sentence: 2
 
 101	"<e1>siparišna špilja</e1> : Špilja koja se sastoji od međusobno povezanih prostora <e2>između siparišnih blokova</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-24.tsv, sentence: 11
 
 102	"<e1>vertikalni šaht</e1> : <e2>Kod špilje</e2> , zaobljeni vertikalni kanal ili visoka dvorana , karakterizirana vertikalnim brazdama otapanja na zidovima i kapanjem vode"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-25.tsv, sentence: 8
 
 103	"<e1>porub</e1> : U speleologiji , tanke naslage izdužene ili u obliku diska <e2>duž pukotine u temeljnoj stijeni</e2> ili napukline u stupu ; početna faza formiranja štita"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-25.tsv, sentence: 13
 
 104	"<e1>alogena tekućica</e1> – tekućica koja pritječe <e2>na krš</e2> s nepropusnih stijena : Naziv i za tekućicu u aridnom kraju , koja pritječe iz humidnog prostora"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-26.tsv, sentence: 4
 
 105	"<e1>bočati izvor</e1> – <e2>priobalski</e2> izvor bočate vode ; objašnjava se aspiracijom morske vode , koju vrši pukotinsko protjecanje"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 0
 
 106	"<e1>crvenica</e1> – crvenkasto tlo , nastalo kao zaostatak otapanja vapnenaca u uvjetima tople i dosta vlažne klime ; kao klimatogeno tlo moglo je nastati i rastrožbom drugih stijena , te je transportirano u krške pukotine , gdje se očuvalo . Crvena boja je uvjetovana oksidimame tala . Primarni položaj c . je kao sloj B , ispod površinskog humusnog sloja A , tj . <e2>u neposrednom dodiru s vapnencem</e2> ( v . kontaktna korozija ) . Površinski položaj je sekundaran i posljedica spiranja sloja A . U krajevima koji suvremenim pedogenetskim uvjetima ne odgovaraju ovom tlu c . je indikator paleoklimatskih prilika . Ovlažena c . ima osobine gline te zadržava procjeđivanje vode ; prije cementa je , miješana s vapnom , korištena za uređenje rezervoara kišnice"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 5
 
 107	"<e1>egutacija</e1> – erozija prokapne vode koja <e2>u glini ( v . glineni stalagmit ) , guanu , snijegu i ledu</e2> modelira oblike različitog izgleda i dimenzija"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 3
 
 108	"<e1>garma</e1> – narodni izraz , vjerojatno ilirskog podrijetla ( P . Skok 1971 ) , za procijepe i pećinske oblike <e2>u stjenovitim , uglavnom vapnenačkim obalama</e2> . G . su izmodelirane diferenciranom abrazijom i korozijom . Za manje oblike upotrebljava se i deminutivni oblik “ garmica ”"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 14
 
 109	"<e1>glinena piramida</e1> – piramidni i slični oblici , visoki od nekoliko centimetara do nekoliko decimetara , izmodelirani kapnicom ( v . ) <e2>u glinovitom pokrovu dna spilja i pećina</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-29.tsv, sentence: 4
 
 110	"<e1>hidrološka sanacija</e1> ( f ) , m . hidrološka sanacija – umjetno tlačno ispunjavanje pukotina <e2>u kršu</e2> različitim smjesama ; na taj način se sprečava poniranje i pukotinsko protjecanje vode ( v . injekcijska zavjesa )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 0
 
 111	"<e1>incizija</e1> – korozijsko usijecanje u karbonatnim stijenama ispod tla ( subkutana korozija , v . ) ili <e2>naplavnog pokrova</e2> ( pokriveni krš , v . ) . Zbog nejednakih osobina pokrova i koncentracije vlage u njemu , te razlika u stjenovitoj podlozi , dolazi do različitog iznosa incizije i stvaranja neravnina u reljefu podloge . Može se i cijeli ovlaživani pokrov incizijski usijecati u podlogu i tako dolazi do reljefnih razlika prema okolici"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 3
 
 112	"<e1>kamenica</e1> – 1 . korozijsko udubljenje u kompaktnim vapnencima , najčešće <e2>na ravnim i subhorizontalnim plohama</e2> . K . ide u grupu škrapa ( v . ) koje na engleskom ( rock rills ) , francuskom ( lapies ) i njemačkom ( Karren ) jeziku u prijevodu znače “ kamenice ” . Posebnost je k . da je sa strane zatvorena udubina , te se u njoj zadržava padalinska voda . Redovito je male dubine , ali promjer može biti i do 2 m ; široku , ali plitku k . nazivaju plitvina . Jačom korozijom – pod mahovinom , lišajem ili nakup ljenim lišćem – nastaje na kompaktnoj stijeni udubina , koja postaje biotop , u kojemu se okuplja , živi i trune specifična vegetacija . U kamenici se stvara pokrov humusa , koji svakim vlaženjem aktivira biokorozijski proces , uvjetuje zaravnjenost dna i okuplja otapanje duž rubova ( v . korozija rubna ) . Rubna korozija potkopava strane i širi kamenicu ; širenje ovisi o kompaktnosti i dimenzijama vapnenačkog bloka . Kad rubno širenje dopre do pukotine ili površine stijene , kamenica se otvori i prestaje njen razvoj ; ostaje ravno dno"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 14
 
 113	"“ <e1>Kriokrš</e1> ” – pseudokrške pojave koje su posljedica zamržnjavanja i odmržnjavanja zemljišta <e2>u periglacijalnim krajevima</e2> , te sufozijskih procesa , uvjetovanih slojem permafrosta ( v . krš – pseudokrš )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-31.tsv, sentence: 15
 
 114	"U skladu s tadašnjim općim shvaćanjem i idejama W . M . Davisa , A . Penck ( 1900 ) je objašnjavao da je okršavanje sekundarni proces i nastupa poslije faze dolinskog ( flu vijalnog ) modeliranja . To je bilo općenito prihvaćeno i bezuspješno su određivana geološka razdoblja kad je počelo okršavanje . Istraživanja upućuju da je <e1>okršavanje</e1> primaran i <e2>specifičan proces za karbonatne stijene</e2> ( v . singenetski krš ) , a modificira se izmjenom ekoloških prilika i litološkim razlikama ( v . krš )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-33.tsv, sentence: 2
 
 115	"<e1>pećina</e1> – zaklon , poluspilja <e2>u podnožju ili u stranama stjenovitog strmca</e2> . P . su imale ključno značenje kao prvobitna skloništa ljudi ( etimološki vezane uz “ peći ” , tj . loženje vatre , pripremanje jela , peć ) , zbog toga je naziv očuvan u toponimima , čak i u krajevima gdje više ne živi slavenski narod . Pećine su vezane za različite uvjete ja čeg koncentriranja korozijskog procesa ( v . korozija , dife rencirana i pritlena )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-33.tsv, sentence: 9
 
 116	"<e1>postinje</e1> – naziv za prostor ispod stjenovitih strmaca , što je česti položaj <e2>u kršu</e2> . Termin susrećemo i u toponimima"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-34.tsv, sentence: 13
 
 117	"<e1>pseudoponikva</e1> - ponikvasti oblik <e2>u stijenama koje nisu podložne krškom procesu</e2> , a nastao je mehaničkim trošenjem ( izmjene temperatura , utjecaj leda ) ili sufozijskim ispiranjem , a manje kemijskim procesima"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 5
 
 118	"<e1>sifon</e1> – potopljeno suženje <e2>u protočnim šupljinama</e2> koje propušta vodu pod tlakom vode koja ispunjava višu šupljinu i to brzinom ko ja odgovara odnosu njegova propusnog kapaciteta i tlaka vode ( v . intermitentno vrelo ) ; to su inversni sifoni ( u obliku slova U )"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-36.tsv, sentence: 4
 
 119	"<e1>kontaktna</e1> spilja je izmodelirana kombiniranim erozijsko-korozijskim procesom <e2>na dodiru karbonatnih stijena i klastične podloge ili između slojeva</e2> – slojna spilja . Ponorna spilja je vezana za ponor , a izvorska spilja za vrelo tekućice"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 5
 
 120	"<e1>suha dolina</e1> – dolina kojom ne protječe tekućica ; češće su <e2>u fluviokršu</e2> , a rijetke u kršu . Mnoge “ pseudodoline ” ( v . ) , udoline ( v . ) i drage ( v . ) su naslijeđe diferenciranog modeliranja tokom vlažnog i hladnog pleistocena , a važni su i procesi plošne korozije ( v . korozija ) i povezana evolucija površja u šumovitom i pokrivenom kršu ( v . ) . Aktivne i suhe doline imaju u kršu kanjonski izgled . Sljedbenici teorije o sekundarnoj ( poslije faze fluvijalnog modeliranja ) prirodi krša bezuspješno su pretpostavljenim suhim dolinama pokušavali obnoviti prvobitne dolinske sustave"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 14
 
 121	"škrapama obiluje i <e2>obalski pojas</e2> . Tu su specifične <e1>rupičaste škrape</e1> , kod kojih se žlijeb na donjoj strani završava malim udubljenjem u kojem se zadrži voda . Različiti saksofiti u obalskom pojasu , a drugdje lišaji i mahovine , svojim biotskim procesima pridonose hrapavosti karbonatnih stijena . Pseudoškrapa je škrapi sličan oblik u nekarbonatnim stijenama"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 20
 
 122	"<e1>Cijednica</e1> je voda koja se pojavljuje na kraju pukotina u zidovima kanala ili <e2>na kosom stropu</e2> i cijedi se pod utjecajem sile teže"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-40.tsv, sentence: 0
 
 123	"<e1>Kršje</e1> je najčešći klastični sediment koji se javlja <e2>u svim dijelovima špilje</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-41.tsv, sentence: 0
 
 124	"<e1>Humovi</e1> su osamljena čunjasta uzvišenja ( do 200 m visine ) , na korozijskim zaravnima ili <e2>naplavnim ravnicama</e2>"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-45.tsv, sentence: 2
 
 125	"<e1>Fluviokrš</e1> je <e2>karakterističan za dijelove u čijoj građi dominiraju stijenski kompleksi slabije vodopropusnosti ( dolomiti )</e2> , i za dijelove gdje dolazi do izmjene vodopropusnih i nepropusnih naslaga"
-HAS\_LOCATION(<e1>,<e2>)
+HAS\_LOCATION(e1,e2)
 Comment: File: defs-hr-46.tsv, sentence: 13
 
 126	"<e1>alas</e1> : Termokrška depresija <e2>strmih strana i ravna dna</e2> prekrivena travom u kojoj je došlo do lokalnog otapanja permafrosta ( Washburn , 1973 )"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 4
 
 127	"<e1>arete krš</e1> : Tropski okoliš s izdancima nalik tornjevima <e2>s gotovo vertikalnim stranama</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 14
 
 128	"<e1>slijepi šaht</e1> : <e2>Vertikalni</e2> odvojak kanala u špilji koji ne izlazi na površinu"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-02.tsv, sentence: 10
 
 129	"<e1>mreža špiljskih prolaza</e1> : <e2>Trodimenzionalna</e2> mreža šupljina u špilji koja nije posljedica frakturiranja , a šupljine mogu biti dovoljno velike da se ljudi mogu provući kroz"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 2
 
 130	"<e1>most</e1> : U špilji , ostatak otopljene stijene <e2>oblika luka</e2> koja se proteže od jednog zida špilje do drugog"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 9
 
 131	"<e1>špiljska brada</e1> : Varijetet špiljskog pamuka gdje <e2>paralelne , vlaknaste niti</e2> od gipsa ili nekog drugog sulfatnog minerala slobodno vise sa svoda špilje"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 3
 
 132	"<e1>špiljski kalež</e1> : <e2>Šuplja</e2> , kružna do piramidalna kalcitna siga koja viri iz stijenke špilje ili strši iz plitkog špiljskog jezerca"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 10
 
 133	"<e1>špiljski cvijet</e1> : Mineral koji se javlja kao <e2>savijene izdužene naslage</e2> koje se šire iz stijenki špilje . Uglavnom se radi o gipsu ili epsomitu ali se može raditi i o mnogim drugim mineralima , te ledu . Struktura se razvija na pričvršćenom kraju"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 2
 
 134	"<e1>špiljski prišt</e1> : Bijele <e2>polukuglaste</e2> naslage kalcita na zidovima i stropu špilje"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 10
 
 135	"<e1>dimnjak</e1> : Kod špilja , <e2>zaobljeni vertikalni</e2> kanal ili otvor koji je dovoljno uzak da se njime može penjati kao u dimnjaku"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-07.tsv, sentence: 3
 
 136	"<e1>kolapsna doma</e1> : Dvorana u špilji formirana progresivnim urušavanjem svoda sve dok se ne postigne <e2>stabilan oblik sličan domi</e2> . Na dnu se općenito nalazi humak od kršja . Urušavanje može započeti prestankom hidrostatske potpore s opadanjem razine vode u špilji"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-07.tsv, sentence: 13
 
 137	"<e1>strujna obilježja</e1> : Plitke <e2>asimetrične</e2> udubine formirane turbulentnim tokom vode i pravilno raspoređene na površinama stijena u kršu"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-09.tsv, sentence: 2
 
 138	"<e1>domepit</e1> : Zastarjeli izraz za <e2>vertikalno</e2> okno u špilji . zavjesa , draperija : Pločasta ili valovita siga koja visi sa stropa špilje ili zidova i nalikuje zavjesi"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-10.tsv, sentence: 1
 
 139	"<e1>lažno dno</e1> : Kod špilja , više ili manje <e2>horizontalni sloj</e2> od kalcijeva karbonata ili nekog drugog minerala ispod kojeg postoji otvoreni prostor . Ostatak ploče istaložene na sedimentima koji su kasnije erozijom odneseni"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 5
 
 140	"<e1>glade</e1> : 1 Jamaičanski izraz za izduženu depresiju strmih padina kod koje je <e2>uglavnom ravno dno podijeljeno na manje bazene odvojene niskim pregradama</e2> . 2 U Tennessiju ( SAD ) vapnenačka kaldrma s cedrovima . obodna barijera ; obodno jezero : Obodna barijera u špilji i njen produkt , obodno jezerce"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-12.tsv, sentence: 9
 
 141	"<e1>heliktit</e1> : <e2>Savijene prutičaste</e2> špiljske naslage , obično od kalcita ili aragonita , koje se razvijaju na slobodnom kraju taloženjem iz vode koja izvire iz gotovo mikroskopskog središnjeg kanala"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-13.tsv, sentence: 5
 
 142	"<e1>krški toranj</e1> : Izolirano brdo <e2>sa strmim vertikalnim padinama</e2> na krškoj ravnici koja je često pokrivena aluvijalnim naslagama"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-15.tsv, sentence: 1
 
 143	"<e1>stožac</e1> : <e2>Konični humak</e2> na krškom krajoliku"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-15.tsv, sentence: 4
 
 144	"<e1>mogot</e1> : Općenito rezidualno vapnenačko brdo <e2>strmih padina</e2> u tropskom krškom terenu"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-16.tsv, sentence: 13
 
 145	"<e1>fitokrš</e1> : Tip okoliša u kojem je osnovna morfologija nastala ubušivanjem algi i / ili gljiva u vapnenac . <e2>Karakterizirana je zupčastom , grotesknom skulpturom ,</e2> a od krša koji je formiran otapanjem , razlikuje se po nasumičnoj orijentaciji skulptura u odnosu na gravitaciju i crnom algalnom oblogom ( Folk i dr . , 1973 )"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-18.tsv, sentence: 6
 
 146	"<e1>polje</e1> : U okolišu krške topografije , vrlo velika zatvorena depresija , mjestimično duga i široka nekoliko kilometara , <e2>s ravnim dnom</e2> ili od golog vapnenca ili dna prekrivenog aluvijalnim naslagama i uglavnom okružena strmim vapnenačkim padinama"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-18.tsv, sentence: 13
 
 147	"<e1>jama</e1> ( pothole ) : Izraz kojim se u Engleskoj označava <e2>vertikalno ili vrlo strmo</e2> okno u vapnencu"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-19.tsv, sentence: 2
 
 148	"<e1>škrapa otapanja</e1> : Mali žljebovi otapanja ravna dna , široki nekoliko centimetara i <e2>s oštrim hrptima između žljebova</e2> , koji se javljaju na kosim površinama stijene"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-20.tsv, sentence: 4
 
 149	"<e1>šaht</e1> : Vertikalni ili gotovo vertikalni kanal u špilji . Dublji je nego širi i <e2>u grubo kružna presjeka</e2> . Širi je od dimnjaka"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-21.tsv, sentence: 5
 
 150	"<e1>﻿kosina otapanja</e1> : U speleologiji , <e2>ravna padina</e2> u zidu špilje , uzrokovana nejednakom brzinom otapanja susjednih slojeva nejednake topivosti ; geometrijski rezultat otapanja ispod vode koja sporo teče ( Lange , 1964 )"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 0
 
 151	"<e1>zdjela otapanja</e1> : <e2>Plitko udubljenje</e2> otapanja formirano na golom vapnencu . Uglavnom je karakterizirano ravnim dnom i nadvijenim stijenkama"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 10
 
 152	"<e1>čaša prskanja</e1> : <e2>Plitka udubina</e2> na vrhu stalagmita . Također i udubina u mulju ili nekom drugom materijalu uzrokovana udarom vode koja kapa"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-23.tsv, sentence: 12
 
 153	"<e1>stegamit</e1> : Siga koja se izdiže s dna špilje <e2>u formi kalcitnog grebena</e2> . Duž vrha grebana nalazi se pukotina kroz koju je voda kapilarnom silom potiskivana iz sige"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-24.tsv, sentence: 4
 
 154	"<e1>polumjesečasta škrapa</e1> : <e2>Polumjesečasti</e2> džep otapanja na površini vapnenca promjera oko 30 cm"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-25.tsv, sentence: 4
 
 155	"<e1>porub</e1> : U speleologiji , tanke naslage <e2>izdužene ili u obliku diska</e2> duž pukotine u temeljnoj stijeni ili napukline u stupu ; početna faza formiranja štita"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-25.tsv, sentence: 13
 
 156	"<e1>boksit</e1> – žuto-crvena do crveno-smeđa zemljasto-kamenasta ruda aluminija . B . je <e2>mineralni</e2> agregat aluminijskih hidroksida : sporogelita , dijaspora i bemita ( Al203 · H20 ) , te hidrargilita ( Al203 · H20 ) . Vrijednost rude je u obrnutoj proporciji sa sadržinom kremena , jer njegovo otklanjanje poskupljuje preradu . U Dinarskom kršu imamo b . iz eocena , krede i trijasa ; posljednji ( Lika ) imaju najviše kremena . Smatra se da je b . produkt otapanja vapnenaca u uvjetima tople i periodski vlažne klime ; ima i drugih objašnjenja"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 1
 
 157	"<e1>dolomit</e1> – mineral , dvosol kalcija i magnezija ( CaC03 · MgCO3 ) . <e2>Kristalizira se u heksagonskom sustavu</e2> , ali ima manju simetriju od kalcita . Glavni je sastojak stijene dolomita ( v . ) . Ne otapa se u hladnoj već samo u zagrijanoj solnoj kiselini"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 13
 
 158	"<e1>duliba</e1> – naziv za prostrane udoline visokog Velebita . Redovito su dosta pošumljene , ali <e2>najniži dijelovi su , uglavnom zbog širenja pašnjaka , ogoljeni</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 1
 
 159	"<e1>freatska zona</e1> – podzemni pojas u kome su <e2>pukotine stalno ili povremeno ispunjene vodom</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 13
 
 160	"<e1>japaga</e1> – <e2>jamoliko udubljenje</e2> kojemu se vidi dno , do kojega je teško doći jer su strane strme"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 9
 
 161	"<e1>kanal</e1> - termin za uzane i duboke doline , <e2>čije strane strmo padaju do obala korita</e2> . Kanjoni su karakteristični za vapnence , a usjekle su ih alogene tekućice ( v . ) vodom i trošinama koje donose iz klastičnih stijena"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-31.tsv, sentence: 1
 
 162	"<e1>okršavanje</e1> – kompleksan proces razvoja krša pod utjecajem agresivne vode ( v . ) , koja ponire i podzemno pukotinski protječe ; na taj način se modelira specifičan površinski reljef – “ egzokrš ” i nastaju složeni sustavi podzemnih šupljina - ” endokrš ” ( v . krš ) . Pri tome se vapnenac ( CaCO3 ) pod utjecajem ugljične kiseline ( H2CO3 ) otapa u nestabilan kalcijev bikarbonat [ Ca ( HCO3 ) 2 ] i <e2>pukotine šire</e2> , stvarajući šupljikavi krtičnjak krša"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-33.tsv, sentence: 1
 
 163	"<e1>proplanak</e1> – <e2>istaknuti i ravniji</e2> dio padine , izdvojen strminama . P . je važan u društvenom životu : obradivo tlo , pašnjak i smještaj naselja . Uvjetovan je litološkim razlikama i strukturnim odnosima"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 1
 
 164	"<e1>sadra</e1> – hidratni sulfat kalcija ( CaSO4 · 2H2O ) , <e2>kristalizira se monoklinski</e2> . Lako se topi i tako nastaju krške udubine i podzemne šupljine . Kako je sadra redovito raširena na malim prostranstvima , to krški pejzaži imaju sporedno značenje , ali se mogu razviti znatne podzemne šupljine"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 13
 
 165	"<e1>slijepa dolina</e1> – dolina koja je <e2>nizvodno zatvorena</e2> . Doline ponornica su slijepe doline"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-36.tsv, sentence: 12
 
 166	"tlom obuhvaćeni blokovi karbonatnih stijena se različito i slikovito modeliraju – skulpturne škrape , ili prstenasto probijaju – prstenaste grižine ( v . ogoljeni krš ) . Različite <e1>stropne škrape</e1> ( v . spilja ) , osobito <e2>u obliku izvrnutog lonca</e2> , vjerojatno su izmodelirane kontaktnom korozijom u doba kad su podzemne šupljine bile ispunjene nanosima"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 16
 
 167	"<e1>Grozdasti stalaktit</e1> je složena tvorevina <e2>u obliku grozda</e2>"
-HAS\_FORM(<e1>,<e2>)
+HAS\_FORM(e1,e2)
 Comment: File: defs-hr-39.tsv, sentence: 3
 
 168	"<e1>alas</e1> : Termokrška depresija strmih strana i ravna dna <e2>prekrivena travom</e2> u kojoj je došlo do lokalnog otapanja permafrosta ( Washburn , 1973 )"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 4
 
 169	"<e1>autogena odvodnja</e1> : Podzemna krška drenaža <e2>gdje svu količinu vode čini površinska meteorska voda</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-02.tsv, sentence: 1
 
 170	"<e1>slijepa dolina</e1> : Krška dolina strmih obronaka <e2>sa stalnim ili povremenim vodotokom koji u najnižoj točki doline ponire</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-02.tsv, sentence: 11
 
 171	"<e1>špilja</e1> : 1 Prirodni podzemni otvoreni prostor . Općenito je povezan sa površinom kanalom dovoljno prostranim da može ući jedna osoba . Speleološki objekt čiji je prosječni nagib kanala manji od 45 stupnjeva u odnosu na horizontalu . Špilja može biti <e2>djelomično ili u cijelosti blokirana sedimentom ili ledom</e2> . Špilje se najčešće formiraju u vapnencu otapanjem ali se mogu formirati u mnogim drugim tipovima stijena i mnogim drugim procesima . 2 Špilji sličan objekt formiran umjetno . 3 Neformalno se špiljom može nazvati bilo koje sklonište ispod litice"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 1
 
 172	"<e1>grupa špilja</e1> : Mnoštvo špilja , koje nisu međusobno povezane , ali su <e2>geografski povezane s nekim reljefnim oblikom ili geološkim izdankom</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 4
 
 173	"<e1>kaverna</e1> : Špilja <e2>koja nije spojena kanalom s površinom</e2> . Može biti različite veličine i nastati na različite načine , od kojih su glavni otapanje vapnenačkih stijena podzemnim vodama i djelovanjem mora"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 14
 
 174	"<e1>kava s vrhnjem</e1> : Špiljska dekoracija nastala od izlučene soli iz sitno zdrobljene stijene koja sadrži fluor . <e2>Boje naslaga su nalik kavi s vrhnjem</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-07.tsv, sentence: 11
 
 175	"<e1>pukotinski krš</e1> : <e2>Zamršeni nepravilni</e2> sustav pukotina formiran otapanjem i proširenjem tijesno smještenih pukotina"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-08.tsv, sentence: 12
 
 176	"<e1>mrtva špilja</e1> : Špilja <e2>u kojoj već dugo nema vlage ili rasta siga povezanih sa prisutnošću vlage</e2> . Špilja bez vodotoka ili kapanja vode"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-09.tsv, sentence: 6
 
 177	"<e1>endokrš</e1> : Gornji dio krškog sistema ispod površine , <e2>sa slobodnom drenažom vode</e2> plus područje ispod razine vode . Uključuje sve podzemne šupljine i elemente otapanja koji su prisutni u okolnim stijenama"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-10.tsv, sentence: 9
 
 178	"<e1>fengkong</e1> : Kineski izraz za hrpu krških tornjeva <e2>koji se izdižu iz zajedničke baze</e2> , a odvojeni su velikim udubljenjim"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 7
 
 179	"<e1>folija</e1> : Niz naslaganih polica , uglavnom od kalcita , <e2>često udružene s kalcitnim splavima</e2> . Formirane su blizu ili tik ispod linije vode na svodu i zidovima špilje nalik okrenutim rubnim pregradama . Smatra se da su formirane primarno blizu vrha vodene plohe i da su povezane s opadanjem nivoa vode . Vjerojatno su formirane iz precipitata na površini vode koji se nakupio na zidovima . Kako je nivo vode opadao , sve više kalcita se taložilo i formiralo ravnu površinu . Prema drugoj teoriji došlo je do hvatanja ugljičnog dioksida na izbočinama i pojačanog taloženja kalcita na njima"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-12.tsv, sentence: 3
 
 180	"<e1>pećinica</e1> : Mala i <e2>beznačajna</e2> špilja bez daljnih kanala i često tijesna i gotovo neprohodna"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-12.tsv, sentence: 11
 
 181	"<e1>pravi krš</e1> : Teren s potpuno razvijenim oblicima krša , formiran u cijelosti na topivoj stijeni i koji je <e2>bez površinskog drenažnog sustava</e2> ( Ford i Williams , 1989 )"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-13.tsv, sentence: 7
 
 182	"<e1>krška dolina</e1> : 1 Izdužena dolina nastala otapanjem . 2 Dolina nastala urušavanjem svoda špilje . 3 Zatvorena depresija formirana spajanjem nekoliko ponora . <e2>Njena odvodnja je potpovršinska</e2> , a veličina se mjeri od nekoliko stotina metara do više kilometara . Obično ima nepravilno dno , a odrezani rub je naslijeđen od ponora"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-15.tsv, sentence: 2
 
 183	"<e1>živa špilja</e1> : Špilja <e2>u kojoj je rast siga vezan za prisutnost vlage u njoj</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-15.tsv, sentence: 13
 
 184	"<e1>mogot</e1> : <e2>Općenito rezidualno</e2> vapnenačko brdo strmih padina u tropskom krškom terenu"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-16.tsv, sentence: 13
 
 185	"<e1>prirodni tunel</e1> : Špilja koja je gotovo horizontalna i koja je <e2>otvorena s oba kraja</e2> . Njome može teči vodotok"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-17.tsv, sentence: 2
 
 186	"<e1>mramorni oniks</e1> : Kompaktni , obično prugasti , općenito providni varijetet kalcita ( ili rjeđe aragonita ) <e2>nalik na pravi oniks</e2> . Obično se taloži iz hladnih vodenih otopina , često u formi stalaktita i stalagmita u špiljama"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-17.tsv, sentence: 7
 
 187	"<e1>parafreatski</e1> : Kanal u špilji koji je kod relativno niskog vodostaja dijelom ispunjen zrakom , a <e2>kod visokog vodostaja , ili ako je odvodnja spriječena , je u cijelosti ispunjen vodom</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-17.tsv, sentence: 14
 
 188	"<e1>okno</e1> : Vertikalno okno u špilji koje <e2>se može ili ne mora protezati sve do površine</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-18.tsv, sentence: 10
 
 189	"<e1>randpolje</e1> : Ravnica na rubu krškog područja zatvorena uzvisinama koja <e2>dobiva površinsku vodu iz nekrškog područja</e2> . Voda se drenira kroz podzemne kanale u krškom području"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-19.tsv, sentence: 8
 
 190	"<e1>kameno sklonište</e1> : Špilja , česta u bazi klifa , uglavnom formirana u netopivoj stijeni , manje više je ravna dna i koja <e2>samo malo zadire u stijenu tako da u svaki njen dio dopire danje svetlo</e2> . Strop se obično nalazi iza njenih bočnih strana"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-20.tsv, sentence: 8
 
 191	"<e1>ploha otapanja</e1> : Gotovo ravna ploha , <e2>uglavnom oivičena uskim obrubom ili izdignutim rubom</e2> , nastala na topivoj stijeni , kao što je vapnenac , progresivnim otapanjem kišnicom"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-22.tsv, sentence: 7
 
 192	"<e1>vršna škrapa</e1> : U kršu , velika duboka brazda koja se spušta niz strmi vrh . Jedna od brazda otapanja koje su <e2>međusobno razdvojene visokim hrptovima oštrih piramidalnih vrhova</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-23.tsv, sentence: 11
 
 193	"<e1>krš s tornjevima</e1> : 1 Tip tropskog krša karakteriziran pojedinačnim , vapnenačkim brdima strmih do okomitih padina koja se izdižu iz ravnice . 2 Skup vrhova koji se poput tornjeva izdižu iznad zajedničke osnove , a <e2>odvojeni su velikim vrtačama</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-25.tsv, sentence: 1
 
 194	"<e1>zonacija</e1> : Podjela špilje u niz zona <e2>u odnosu na prodiranje svjetla , utjecaj vanjskih okolišnih faktora i stupnja unutrašnje stabilnosti</e2> ( ASF"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-25.tsv, sentence: 16
 
 195	"<e1>blato</e1> – narodni naziv za naplavne ravnice na kojima se dugo zadržava relativno plitka voda , te <e2>nisu pogodne za obrađivanje</e2> i prevladava hidrofilna vegetacija : Buško blato , Svitavsko blato , Mostarsko blato i dr . Neka blata su tunelskim odvodima pretvorena u “ polja ” ( v . )"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-26.tsv, sentence: 13
 
 196	"<e1>intermitentno vrelo</e1> – vrelo koje <e2>istječe u vremenskim razmacima</e2> ; J . Poljak je upotrijebio i termin “ vrelo na preskoke ” . Pojava se objašnjava postojanjem podzemne šupljine koja se puni vodom i potom tlačno prazni kroz sisteme sifona"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 6
 
 197	"<e1>osulina</e1> – trošan materijal <e2>koji se osiplje sa strmaca ( v . točilo</e2> ) i taloži po zakonima teže , te najteži blokovi pa daju najniže , a prema vrhu ostaju sve finiji sastojci"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-33.tsv, sentence: 5
 
 198	"<e1>prslina</e1> – mala i <e2>redovito vodonepropusna</e2> pukotina u stijeni"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 2
 
 199	"<e1>spiljski sustav</e1> – skupina spiljskih šupljina koja je <e2>međusobno povezana bilo prohodnim kanalima bilo dokazanom vodnom cirkulacijom bilo umjetnim tunelima</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 8
 
 200	"I <e1>korozija</e1> je diferenciran proces , <e2>jače struže niže plohe</e2> – gljivasti oblici monolita , a manje otporne stijene"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-39.tsv, sentence: 0
 
 201	"<e1>Troglobionti i stigobionti</e1> su organizmi koji <e2>cijeli život provode u podzemlju</e2> i nikad ne izlaze na površinu"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-41.tsv, sentence: 2
 
 202	"<e1>Uravnavanje</e1> je površinski proces , <e2>uvjetovan lokalnim odnosimastabilnosti</e2>"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-42.tsv, sentence: 7
 
 203	"<e1>Morske špilje</e1> su <e2>djelomično potopljene morem</e2> i posebno su cijenjene zbog plavog refleksa sunčevog svjetla kroz morsku vodu i pojava prije loma zraka svjetlosti"
-HAS\_ATTRIBUTE(<e1>,<e2>)
+HAS\_ATTRIBUTE(e1,e2)
 Comment: File: defs-hr-43.tsv, sentence: 7
 
 204	"<e1>alas</e1> : Termokrška depresija strmih strana i ravna dna prekrivena travom <e2>u kojoj je došlo do lokalnog otapanja permafrosta</e2> ( Washburn , 1973 )"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 4
 
 205	"<e1>račvasta špilja</e1> : Razgranati sustav podzemnih vodotoka ili kanala koji <e2>spajanjem formiraju sve veće i veće vodotoke i kanale</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 7
 
 206	"<e1>okršavanje</e1> : 1 Proces pojačanog otapanja CO2 u meteorskoj vodi <e2>dovodi do stvaranja slabe ugljične kiseline koja vrlo brzo kemijski razgrađuje kalcit i aragonit u otopljeni kalcij-hidrogenkarbonat , mineral dolomit u kalcij-hidrogenkarbonat i magnezijhidrogenkarbonat , a siderit u željezo-hidrogenkarbonat</e2> . Otapanje karbonatnih minerala najintenzivnije je u vadoznoj i freatičkoj zoni . 2 Djelovanje vode , pretežno otapanjem ali i mehaničko , kojim nastaju oblici krške topografije , uključujući takve površinske oblike kao što su doline , škrape , humci , te podzemne oblike kao što su špilje i ponori"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-14.tsv, sentence: 10
 
 207	"<e1>anhidrit</e1> – sulfat kalcija ( CaS04 ) koji se pod utjecajem vode <e2>pretvara u sadru</e2> ( v . ) , pri čemu dolazi do širenja"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-26.tsv, sentence: 6
 
 208	"<e1>eforacija</e1> - mehanička erozija brzih pukotinskih voda koje nose trošan materijal , te <e2>korazijom ( v . ) na podu ( eforacijski rov ) i na stranama modeliraju različite eforacijske oblike</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 2
 
 209	"<e1>hidrogeološki regulator</e1> ( m ) – izdanak nepropusne klastične podloge koji <e2>uvjetuje pojavu stalnih izvora , odnosno rijeka u kršu</e2> . Tim izbijanjima su određena hidrografska čvorišta ( v . )"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-29.tsv, sentence: 11
 
 210	"<e1>inkrustirajuće vrelo</e1> – iz vrela , posebno toplih , bogatih kalcijevim bi karbonatom [ ( Ca ( HC03 ) 2 ] <e2>izdvaja se , pri izviranju i prozračivanju , kalcijev karbonat ( CaC03 ) i inkrustira oko uronjenih predmeta</e2> , npr . u Karlovim Varima , ČSSR"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 5
 
 211	"<e1>okršavanje</e1> – kompleksan proces razvoja krša pod utjecajem agresivne vode ( v . ) , koja ponire i podzemno pukotinski protječe ; na taj način se modelira specifičan površinski reljef – “ egzokrš ” i nastaju složeni sustavi podzemnih šupljina - ” endokrš ” ( v . krš ) . Pri tome se vapnenac ( CaCO3 ) pod utjecajem ugljične kiseline ( H2CO3 ) otapa u nestabilan kalcijev bikarbonat [ Ca ( HCO3 ) 2 ] i pukotine šire , <e2>stvarajući šupljikavi krtičnjak krša</e2>"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-33.tsv, sentence: 1
 
 212	"<e1>sufozija</e1> – erozija klastične podloge vodom koja pritječe kroz krški pokrov ili erozija rahlog pokrova vodom koja protječe šupljinama pokrivenog krša . U “ kriokršu ” ( v . ) to se vrši odmržnjavanjem i otjecanjem iznad sloja permafrosta ili mrzlote . Duž kontaktne plohe erodira se i evakuira podloga , te <e2>dolazi do urušavanja pokrova</e2> . U hidrologiji s . znači kaptiranje površinske tekućice od strane podzemnog toka"
-HAS\_RESULT(<e1>,<e2>)
+HAS\_RESULT(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 13
 
 213	"<e1>niša</e1> : <e2>Relativno kratki</e2> ( ili se barem tako čini ) bočni kanal u špilji koji nema vidljivi nastavak"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 5
 
 214	"<e1>britva</e1> : <e2>Tanka</e2> oštra izbočina iz neke od površina u špilji"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-02.tsv, sentence: 8
 
 215	"<e1>kalcitna splav</e1> : <e2>Tanki</e2> mineralni film , obično od kalcita , formiran na površini špiljskog jezerca"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 13
 
 216	"<e1>kavernozna poroznost</e1> : Sustav <e2>velikih</e2> pora s kavernoznim otvorima s donjom granicom veličine koja je praktički definirana kao najmanji otvor kroz koji može ući odrasla osoba ( Choquette i Pray , 1970 )"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-06.tsv, sentence: 2
 
 217	"<e1>stropna ploča</e1> : Tanka ploča stijene <e2>velike površine</e2> koja je pala sa stropa špilje"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-06.tsv, sentence: 13
 
 218	"<e1>strujna obilježja</e1> : <e2>Plitke</e2> asimetrične udubine formirane turbulentnim tokom vode i pravilno raspoređene na površinama stijena u kršu"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-09.tsv, sentence: 2
 
 219	"<e1>epikrš</e1> : Relativno debeli dio krša ( <e2>debljine 15 do 30 m</e2> ) , neposredno ispod sloja tla , a karakteriziran je ekstremnim frakturiranjem i pojačanim otapanjem . Odvojen je od freatske zone neaktivnim , relativno bezvodnim intervalom u kojem se lokalno može odvijati procjeđivanje . Mjestimično se mogu javiti rezevoari sa značajnim količinama vode i sustavi transporta vode ( Williams , 1983"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-10.tsv, sentence: 13
 
 220	"<e1>zaležnica</e1> : Kanal u špilji , često veće dužine i dovoljne širine ali koji je <e2>tako nizak da se njime može kretati samo u ležećem položaju</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 13
 
 221	"<e1>dekorirana komora</e1> : Dvorana u špilji <e2>srednje veličine</e2> ali bogato dekorirana"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-12.tsv, sentence: 12
 
 222	"<e1>škrapa</e1> : Utori ili brazde nastale otapanjem na površinama masivnog , čistog vapnenca . <e2>Dubina im varira od nekoliko milimetara do preko jednog metra</e2> , a međusobno su odvojene grebenima . Izraz opisuje ukupni kompleks površinskih oblika otapanja nađen na kompaktnom čistom vapnencu . Bögli ( 1960 ) ih je klasificirao na više vrsta od kojih su najčešći deckenkarren ; kluftkarren ; mäanderkarren ; rillenkarren ; rinnen-karren ; rundkarren ; spitzkarren ; trittkarren"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-14.tsv, sentence: 2
 
 223	"<e1>mikrokaverna</e1> : Obuhvaća sve šupljine u stijeni promjera manjeg od 0,1 cm , <e2>uključujući mikroskopske veličine</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-16.tsv, sentence: 10
 
 224	"<e1>kotao</e1> : Opći izraz za bilo koju rupu , jamu ili depresiju koja je prirodno nastala u zemlji ( i često je ispunjena vodom ) , a čiji oblik podsjeća na kotao ili zdjelu . Mogu biti <e2>promjera 2 - 8 m</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-19.tsv, sentence: 1
 
 225	"<e1>škrapa otapanja</e1> : Mali žljebovi otapanja ravna dna , <e2>široki nekoliko centimetara</e2> i s oštrim hrptima između žljebova , koji se javljaju na kosim površinama stijene"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-20.tsv, sentence: 4
 
 226	"<e1>šaht</e1> : Vertikalni ili gotovo vertikalni kanal u špilji . Dublji je nego širi i u grubo kružna presjeka . <e2>Širi je od dimnjaka</e2>"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-21.tsv, sentence: 5
 
 227	"<e1>sótano</e1> : U Meksiku , <e2>duboki</e2> vertikalni ponor u kršu koji može ali i ne mora voditi u špilju"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-23.tsv, sentence: 1
 
 228	"<e1>pretočni kanal</e1> : <e2>Relativno kratki</e2> , strmi kanal u špilji koji odvodi vodu višeg potoka u potok koji teče na manjoj visini"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-24.tsv, sentence: 12
 
 229	"<e1>jama</e1> – najimpresivnija udubina u kršu . Sastoji se od kanala razvijenog u okomitom smjeru i povezanog s drugim podzemnim šupljinama , te najčešće čini složeni sustav . Zajednička je osobina jama da im se ne vidi dno , zbog toga ulijevaju strah ; narod ih izbjegava i dao im je redovito sadržajne nazive i povezao s legendama . J . su karakterističan oblik dubokog krša ( v . ) naših primorskih planina ; na Velebitu se čuje i naziv “ điot ” . Otvor ili “ ždrijelo ” ima promjer i preko 10 m , a istražene su jame do 1000 m dubine ; u Dinarskom kršu <e2>do 500 m</e2> . ( Speleolozi su se 1993 . godine u Lukinoj jami na Velebitu spustili do 1392 m dubine . – op . ur . ) Ističući dubinu , čuju se narodni nazivi “ bezdan ” ( otuda sl . brezno ) , “ bezdanka ” , “ jama bezdanica ” i “ bezdenjača ” , a to se dokazuje time što se ne čuje da je ubačen kamen pao na dno , već se izgubi šum u padu . Vodne jame su one u kojima je utvrđena prisutnost vode ; jame su većinom suhe"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 8
 
 230	"<e1>škrip</e1> – udubina u karbonatnim stijenama , osobito u čistim vapnencima ; čini prijelaz između škrapa ( v . ) i japaga ( v . ) . Duboka je do 4 m , <e2>široka do 1 m</e2> , obično izdužena duž pukotina . Škrip je često u dubljem dijelu prostraniji , što je posljedica zadržavanja snijega u višim krajevima ili ranije ispunjenosti tlom . Š . je nepopularan kod stanovništva , jer u njega upadaju sitna stoka i neoprezna djeca"
-HAS\_SIZE(<e1>,<e2>)
+HAS\_SIZE(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 22
 
 231	"<e1>niša</e1> : Relativno kratki ( ili se barem tako čini ) bočni kanal <e2>u špilji</e2> koji nema vidljivi nastavak"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 5
 
 232	"<e1>glade</e1> : 1 Jamaičanski izraz za izduženu depresiju strmih padina kod koje je uglavnom ravno dno podijeljeno na manje bazene odvojene niskim pregradama . 2 <e2>U Tennessiju</e2> ( SAD ) vapnenačka kaldrma s cedrovima . obodna barijera ; obodno jezero : Obodna barijera u špilji i njen produkt , obodno jezerce"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-hr-12.tsv, sentence: 9
 
 233	"<e1>boksit</e1> – žuto-crvena do crveno-smeđa zemljasto-kamenasta ruda aluminija . B . je mineralni agregat aluminijskih hidroksida : sporogelita , dijaspora i bemita ( Al203 · H20 ) , te hidrargilita ( Al203 · H20 ) . Vrijednost rude je u obrnutoj proporciji sa sadržinom kremena , jer njegovo otklanjanje poskupljuje preradu . <e2>U Dinarskom kršu</e2> imamo b . iz eocena , krede i trijasa ; posljednji ( Lika ) imaju najviše kremena . Smatra se da je b . produkt otapanja vapnenaca u uvjetima tople i periodski vlažne klime ; ima i drugih objašnjenja"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 1
 
 234	"<e1>dräga</e1> – veoma raširen narodni naziv za udolinske oblike izmodelirane u klastičnim ili manje otpornim karbonatnim stijenama . Pored kopnenih oblika d . je raširena i kao naziv zaliva u sjeverozapadnom primorju , osobito kad se nastavlja udolinama u kopno , gdje d . susrećemo u više toponima : <e2>Baška draga</e2> ; Limska draga i dr"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 0
 
 235	"<e1>jama</e1> – najimpresivnija udubina u kršu . Sastoji se od kanala razvijenog u okomitom smjeru i povezanog s drugim podzemnim šupljinama , te najčešće čini složeni sustav . Zajednička je osobina jama da im se ne vidi dno , zbog toga ulijevaju strah ; narod ih izbjegava i dao im je redovito sadržajne nazive i povezao s legendama . J . su karakterističan oblik dubokog krša ( v . ) naših primorskih planina ; <e2>na Velebitu</e2> se čuje i naziv “ điot ” . Otvor ili “ ždrijelo ” ima promjer i preko 10 m , a istražene su jame do 1000 m dubine ; u Dinarskom kršu do 500 m . ( Speleolozi su se 1993 . godine u Lukinoj jami na Velebitu spustili do 1392 m dubine . – op . ur . ) Ističući dubinu , čuju se narodni nazivi “ bezdan ” ( otuda sl . brezno ) , “ bezdanka ” , “ jama bezdanica ” i “ bezdenjača ” , a to se dokazuje time što se ne čuje da je ubačen kamen pao na dno , već se izgubi šum u padu . Vodne jame su one u kojima je utvrđena prisutnost vode ; jame su većinom suhe"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 8
 
 236	"<e1>polje</e1> – 1 . Općenit naziv za obrađenu ili obradivu površinu , veoma raširen u toponimima autarkijske ere . Donedavno su često spominjani nazivi : <e2>Zagrebačko p</e2> . , Varaždinsko p . , Ptujsko p . , Splitsko p . i sl . ; tržišnim povezivanjem ti nazivi brzo gube značenje i upotrebu . Pejzažno izolirana i gospodarski relativno važna polja u složenim dolinama održavaju se i dalje u toponimi ma , npr . Sarajevsko p . , Kosovo p . , Bihaćko p . , Sinjsko p . , Kninsko p . i sl"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-hr-34.tsv, sentence: 0
 
 237	"<e1>rikavica</e1> – obalska spilja čiji je ulaz potopljen . Valovi u šupljinu zbijaju zrak koji šumom izbija , “ riče ” kroz krške šupljine ; <e2>na Mljetu</e2> se čuje i naziv “ puhavac ” , a na Šolti “ ripavica ”"
-HAS\_POSITION(<e1>,<e2>)
+HAS\_POSITION(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 12
 
 238	"<e1>alogena odvodnja</e1> : <e2>Podzemna krška drenaža</e2> gdje voda u cijelosti potječe s površine susjednih nekrških i općenito nepropusnih stijena"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 6
 
 239	"<e1>dno</e1> : <e2>Dno uleknine s ponorom</e2> koje se nalazi neposredno uz sam ponor"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 4
 
 240	"<e1>duljina špilje</e1> : <e2>Ukupna duljina svih kanala u špilji</e2> . Ona je normalno veća od protezanja špilje"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 6
 
 241	"<e1>ulazna zona</e1> : Kod špilja , <e2>prijelaz između površine i podzemnih okoliša</e2> koji vodi u zonu sumraka"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-10.tsv, sentence: 10
 
 242	"<e1>sigovina</e1> : Opći izraz za bilo koje <e2>naslage kalcijeva karbonata ili drugih minerala</e2> istaloženih iz tekuće vode na zidove ili na dno špilje"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 14
 
 243	"<e1>polucijev</e1> : <e2>Ostatak ili trag cjevastog kanala u špilji</e2> vidljivog na svodu ili na zidovima špilje"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-13.tsv, sentence: 2
 
 244	"<e1>krški most</e1> : <e2>Prirodni most u vapnencu ili drugim topivim stijenama</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-14.tsv, sentence: 4
 
 245	"<e1>lublinit</e1> : Vrlo mekana , sirasta ili spužvasta <e2>mješavina kalcita i vode</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-16.tsv, sentence: 3
 
 246	"<e1>﻿pregrada</e1> : Kod špilja , <e2>ostatak neotopljene stijene</e2> koji se proteže od dna do stropa kanala"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-18.tsv, sentence: 0
 
 247	"<e1>krš s vrtačama</e1> : <e2>Tipično krško umjereno područje</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-21.tsv, sentence: 10
 
 248	"<e1>speleogeneza</e1> : <e2>Proces formiranja špilje</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-23.tsv, sentence: 5
 
 249	"<e1>vulkanospeleologija</e1> : <e2>Izučavanje špilja u vulkanskim stijenama</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-25.tsv, sentence: 9
 
 250	"<e1>dekalcifikacija</e1> – <e2>izdvajanje i ispiranje kalcijevog karbonata ( CaCO3 ) iz stijena i trošina</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 6
 
 251	"<e1>endogen</e1> ( adj ) – pored <e2>epiteta za endogena gibanja</e2> pridaje se i rijekama u kršu , koje nastaju od jakih vrela , tj . pritječu iz podzemlja"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 5
 
 252	"<e1>freatska zona</e1> – <e2>podzemni pojas</e2> u kome su pukotine stalno ili povremeno ispunjene vodom"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 13
 
 253	"<e1>grižine</e1> – <e2>udubine kojima su najedene plohe vapnenaca</e2> , sinonim za škrape"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-29.tsv, sentence: 8
 
 254	"<e1>incizija</e1> – <e2>korozijsko usijecanje</e2> u karbonatnim stijenama ispod tla ( subkutana korozija , v . ) ili naplavnog pokrova ( pokriveni krš , v . ) . Zbog nejednakih osobina pokrova i koncentracije vlage u njemu , te razlika u stjenovitoj podlozi , dolazi do različitog iznosa incizije i stvaranja neravnina u reljefu podloge . Može se i cijeli ovlaživani pokrov incizijski usijecati u podlogu i tako dolazi do reljefnih razlika prema okolici"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 3
 
 255	"<e1>kalcitni mjehurići</e1> – <e2>loptaste konkrecije</e2> nastale na rubu spiljskih jezera ; promjera 2 - 3 cm . S unutrašnje strane su glatke , a izvana prekrivene sitnim kristalima"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 13
 
 256	"<e1>korazija</e1> – <e2>proces modeliranja</e2> udaranjem čvrstih čestica u plohe stijena ( v . eforacija , v . evrozija ) . Korazija ima znatan udio u modeliranju krških podzemnih protočnih šupljina ; k . je specifičan proces pustinjskog modeliranja"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-31.tsv, sentence: 9
 
 257	"<e1>polukrš</e1> – A . Grund ( 1914 ) pod tim nazivom razumijeva reljef na dolomitima , a J . Cvijić ( 1924 ) tako naziva ( “ merokarst ” ) <e2>terene karbonatnih stijena</e2> na kojima su krški oblici “ djelomično i nepotpuno razvijeni ” ; termin “ fluviokrš ” je kompleksniji i adekvatniji . Potpuni krš ili “ holokarst ” bio bi , prema Cvijiću , krš u kome su razvijeni i pretpostavljeni završni ciklički oblici , tj . polja ( v . ) ; taj bi epitet pripadao samo Dinarskom kršu . Makro – i mikro krš su teoretsko-deskriptivni termini koji , s obzirom na nevidljivo podzemlje , malo kažu ; u nabrojenim terminima imamo kompleksnije i adekvatnije izraze . Termin “ rudimentni krš ” netočno se upotrebljava za početnu fazu okršavanja , tj . orimentni krš , a rudimentni krš bi značio ostatak krškog terena . “ Mediteranski krš ” i “ srednjoeuropski krš ” su termini koje je J . Cvijić upotrijebio u svom prvom radu ( 1893 ) , ali ih je kasnije zamjenjivao s holokarstom i merokarstom . Ti regionalni nazivi ne mogu se primjeniti , jer u tim krajevima imamo različite tipove krša . Obalni krš , termin koji se upotrebljava za krške obalne oblike griža ( v . ) , spilja ( v . ) i garma ( v . ) . Kontaktni krš je karakteriziran pojavama i oblicima uvjetovanim susjedstvom karbonatnih i klastičnih stijena : zaravni ( v . ) , spilje ( v . ) , pokriveni krš ( v . ) i sl . linearni krš , naziv za krški pejzaž u kojemu su oblici linearno raspoređeni što je uvjetovano sastavom i građom stijena te tektonskim pukotinama . Rebrasti krš je okarakteriziran nizovima usporednih uzvišenja , redovito od otpornijih slojeva . Tektokrš je krš u kojemu bi glavne reljefne osobine bile određene građom zemljišta , posebno rasjednim linijama"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-32.tsv, sentence: 7
 
 258	"<e1>otapanje</e1> – <e2>pretvaranje čvrste tvari u molekularnu ili koloidnu otopinu</e2> ; to se događa korozijom vapnenaca ( CaCO3 ) . Ugljična kiselina ( H2CO3 ) pretvara vapnenac u nestabilni kalcijev bikarbonat [ Ca ( HCO3 ) 2 ] – v . korozija"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-33.tsv, sentence: 6
 
 259	"<e1>polje</e1> – 1 . Općenit naziv za <e2>obrađenu ili obradivu površinu</e2> , veoma raširen u toponimima autarkijske ere . Donedavno su često spominjani nazivi : Zagrebačko p . , Varaždinsko p . , Ptujsko p . , Splitsko p . i sl . ; tržišnim povezivanjem ti nazivi brzo gube značenje i upotrebu . Pejzažno izolirana i gospodarski relativno važna polja u složenim dolinama održavaju se i dalje u toponimi ma , npr . Sarajevsko p . , Kosovo p . , Bihaćko p . , Sinjsko p . , Kninsko p . i sl"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-34.tsv, sentence: 0
 
 260	"<e1>potočno modeliranje</e1> – <e2>spiranje , transport i akumulacija</e2> koju vrše epizodne tekućice . P . m . je izrazitije na rastrošivim stijenama , osobito na padinama . Padinske udoline i plavine u podnožjima su naslijeđe iz hladnih i vlažnih razdoblja pleistocena , kad je p . m . imalo znatan udio i na kršu"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-34.tsv, sentence: 14
 
 261	"<e1>pukotina</e1> – <e2>sekundarna šupljina u stijeni</e2> , važna za gibanje voda i razvoj površinskog krškog reljefa i podzemlja"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 6
 
 262	"<e1>sifon</e1> – <e2>potopljeno suženje</e2> u protočnim šupljinama koje propušta vodu pod tlakom vode koja ispunjava višu šupljinu i to brzinom ko ja odgovara odnosu njegova propusnog kapaciteta i tlaka vode ( v . intermitentno vrelo ) ; to su inversni sifoni ( u obliku slova U )"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-36.tsv, sentence: 4
 
 263	"<e1>spiljski sustav</e1> – <e2>skupina spiljskih šupljina</e2> koja je međusobno povezana bilo prohodnim kanalima bilo dokazanom vodnom cirkulacijom bilo umjetnim tunelima"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 8
 
 264	"<e1>škrip</e1> – udubina u karbonatnim stijenama , osobito u čistim vapnencima ; čini <e2>prijelaz između škrapa ( v . ) i japaga</e2> ( v . ) . Duboka je do 4 m , široka do 1 m , obično izdužena duž pukotina . Škrip je često u dubljem dijelu prostraniji , što je posljedica zadržavanja snijega u višim krajevima ili ranije ispunjenosti tlom . Š . je nepopularan kod stanovništva , jer u njega upadaju sitna stoka i neoprezna djeca"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 22
 
 265	"<e1>Puženja</e1> su <e2>polagani procesi kretanja regolita niz padinu</e2>"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-40.tsv, sentence: 6
 
 266	"Adolfo Charles Morlot 1848 . radi geološku kartu Krasa ( on ju je nazvao Dinarskog krša ) u kojoj je objavio da <e1>krš</e1> znači općenito <e2>vapnenačke predjele</e2> s kojima se povezuje pojam pustinjskih , kamenitih i razlomljnih površina terena"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-42.tsv, sentence: 1
 
 267	"<e1>Speleološke ekspedicije</e1> su <e2>višednevna speleološka istraživanja nekog većeg speleološkog objekta ili više speleoloških objekata</e2> , čiji cilj je sustavno istraživanje svih njegovih nepoznatih dijelova ili pojava u njemu"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-43.tsv, sentence: 3
 
 268	"<e1>Humovi</e1> su <e2>osamljena čunjasta uzvišenja</e2> ( do 200 m visine ) , na korozijskim zaravnima ili naplavnim ravnicama"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-45.tsv, sentence: 2
 
 269	"<e1>Kanjon</e1> je karakterističan <e2>oblik</e2> za vapnenačke terene"
-DEFINED\_AS(<e1>,<e2>)
+DEFINED\_AS(e1,e2)
 Comment: File: defs-hr-45.tsv, sentence: 13
 
 270	"<e1>anastomozna špilja</e1> : Špilja <e2>koju čine međusobno prepleteni cjevasti kanali</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-01.tsv, sentence: 9
 
 271	"<e1>kalcitna splav</e1> : Tanki <e2>mineralni</e2> film , obično od kalcita , formiran na površini špiljskog jezerca"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 13
 
 272	"<e1>špiljski mjehur</e1> : Djelomično ili kompletno šuplja polukuglasta do gotovo kuglasta siga pričvršćena za stijenku špilje . <e2>Može biti izgrađena od kalcita , gipsa , kalcedona ili opala</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 4
 
 273	"<e1>špiljski cvijet</e1> : Mineral koji se javlja kao savijene izdužene naslage koje se šire iz stijenki špilje . Uglavnom se radi o gipsu ili <e2>epsomitu</e2> ali se može raditi i o mnogim drugim mineralima , te ledu . Struktura se razvija na pričvršćenom kraju"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-05.tsv, sentence: 2
 
 274	"<e1>špiljsko uže</e1> : <e2>Sulfatna</e2> siga s paralelnim vlaknima upletenim poput užeta"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-06.tsv, sentence: 4
 
 275	"<e1>lažno dno</e1> : Kod špilja , više ili manje horizontalni sloj <e2>od kalcijeva karbonata ili nekog drugog minerala</e2> ispod kojeg postoji otvoreni prostor . Ostatak ploče istaložene na sedimentima koji su kasnije erozijom odneseni"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 5
 
 276	"<e1>špiljsklo mlijeko</e1> : Kriptokristalasta tvar bijele boje koja formira sige . Normalno je izgrađena od karbonatnih minerala i koja , kada je vlažna , na opip sliči kremi od sira , a kada je suha finom puderu . <e2>Može se sastojati od kalcita , hidromagnezita , neskuehonita , huntita , aragonita , magnezita ili dolomita</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-16.tsv, sentence: 14
 
 277	"<e1>obodna pregrada</e1> : Barijera <e2>od kalcita , aragonita ili nekog drugog materijala</e2> koja omogućava špiljskom vodotoku da formira jezerce . Produkt je taloženja , a javlja se na mjestu promjene kuta nagiba kosine vodotoka"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-20.tsv, sentence: 2
 
 278	"<e1>siga</e1> : Generičko ime za sekundarne kemijske precipitate u špiljama , uključujući špiljske koralje , špiljsku draperiju , špiljski oniks , špiljsku perlu , kamene brazde , heliktite , mjesečevo mlijeko , obodne barijere , stalaktite i stalagmite koji nastali pri kapanju vode zasićene Ca-hidrogenkarbonatom u vapnenačkim špiljama i kavernama . Najvećim dijelom su <e2>izgrađeni od kalcita</e2> ali mogu biti , vrlo rijetko , od gipsa i halita"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-23.tsv, sentence: 9
 
 279	"<e1>boksit</e1> – žuto-crvena do crveno-smeđa zemljasto-kamenasta ruda aluminija . B . je mineralni agregat aluminijskih hidroksida : <e2>sporogelita , dijaspora i bemita ( Al203 · H20 ) , te hidrargilita ( Al203 · H20 )</e2> . Vrijednost rude je u obrnutoj proporciji sa sadržinom kremena , jer njegovo otklanjanje poskupljuje preradu . U Dinarskom kršu imamo b . iz eocena , krede i trijasa ; posljednji ( Lika ) imaju najviše kremena . Smatra se da je b . produkt otapanja vapnenaca u uvjetima tople i periodski vlažne klime ; ima i drugih objašnjenja"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 1
 
 280	"<e1>greda</e1> – istaknut i izdužen stjenoviti oblik , značajan za reljef krša i <e2>uvjetovan otpornijim slojevima ili bankov skim vapnencima</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-29.tsv, sentence: 6
 
 281	"<e1>konglomerat</e1> – klastična stijena nastala cementnim vezivanjem valutica , otuda i naziv “ valutičnjak ” . <e2>Valutice kao i cement koji ih spaja mogu biti različitog sastava</e2> ; za krš su karakteristični vapnenački konglomerati , čije je vezivo od kalcijeva karbonata , koji dominira i u sastavu valutica"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-31.tsv, sentence: 6
 
 282	"<e1>lapor</e1> – slojevita stijena , <e2>smjesa gline i kalcita ( rjeđe dolomita )</e2> , deponirana je u jezerima i moru tokom mlađih geoloških razdoblja . Udio gline koleba između 25 - 75% ; povećanjem tog udjela prelazi u vapnene lapore , a smanjenjem u laporaste vapnence"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-32.tsv, sentence: 11
 
 283	"<e1>Autohtoni sediment</e1> – taložine koje <e2>se sastoje od trošina matičnih stijena u podlozi</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-39.tsv, sentence: 7
 
 284	"<e1>Breče</e1> su sivosmeđe , <e2>izgrađene su od fragmenata jurskih i donjokrednih vapnenaca</e2>"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-42.tsv, sentence: 2
 
 285	"<e1>Konglomerati</e1> su <e2>izgrađeni od valutica različitih vapnenačkih i klastičnih stijena</e2> koje su zbijene , dok je cement oskudan"
-COMPOSITION\_MEDIUM(<e1>,<e2>)
+COMPOSITION\_MEDIUM(e1,e2)
 Comment: File: defs-hr-46.tsv, sentence: 9
 
 286	"<e1>dno</e1> : Dno uleknine <e2>s ponorom</e2> koje se nalazi neposredno uz sam ponor"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-03.tsv, sentence: 4
 
 287	"<e1>špiljske naslage</e1> : Akumulacija materijala u špilji kojeg ne čine sige , kao što su fosili , ostaci kostiju i kršja donesenog poplavama , kao i <e2>glina , silt , pijesak i šljunak</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 11
 
 288	"<e1>kavernozna stijena</e1> : Svaka stijena <e2>s brojnim šupljinama , ćelijama i velikim porama</e2> , npr . , površina litice s brojnim plitkim udubljenjima nastalim kavernoznim trošenjem"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-06.tsv, sentence: 3
 
 289	"<e1>dodirni krš</e1> : Međusobno povezana , <e2>zrakom ili vodom ispunjena</e2> mreža šupljina otapanja ili hidrološka mreža u okolišu karstificiranih karbonatnih stijena"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-08.tsv, sentence: 5
 
 290	"<e1>pukotinski kanal</e1> : Visoki , linearni kanal u špilji <e2>formiran od jedne ili više pukotina</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-11.tsv, sentence: 11
 
 291	"<e1>﻿gipsna špilja</e1> : 1 Špilja koja je formirana otapanjem gipsne stijene . 2 Špilja koja <e2>sadrži obilje gipsnih prevlaka</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-13.tsv, sentence: 0
 
 292	"<e1>stožasti krš</e1> : Vapnenački krajolik karakteriziran brojnim , blisko smještenim humcima i <e2>prošaran zatvorenim udolinama i uskim krškim dolinama strmih padina</e2> ; tipični krš"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-15.tsv, sentence: 5
 
 293	"<e1>nivo-krš</e1> : Karakteristika periglacijalnih sredina pri čemu različitim kemijskim trošenjem ispod hrpa snijega nastaje kršolika topografija , poput otapanja fragmenata vapnenca vodom koja je nastala otapanjem snijega i <e2>koja sadrži ugljičnu kiselinu</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-17.tsv, sentence: 5
 
 294	"<e1>polje</e1> : U okolišu krške topografije , vrlo velika zatvorena depresija , mjestimično duga i široka nekoliko kilometara , s ravnim dnom ili od golog vapnenca ili <e2>dna prekrivenog aluvijalnim naslagama</e2> i uglavnom okružena strmim vapnenačkim padinama"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-18.tsv, sentence: 13
 
 295	"<e1>razgranata špilja</e1> : Špilja nastala otapanjem , a <e2>sastoji se od nepravilnih komora i galerija koje se pružaju prema van u različitim smjerovima od glavnog špiljskog sustava</e2> ; tipičan model hipogenih špilja formiranih povećanom koncentracijom vodikovog sulfida u vodi ( Palmer , 1991 )"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-19.tsv, sentence: 7
 
 296	"<e1>spužvasta špilja</e1> : Špilja <e2>koja se sastoji od nepravilnih , međusobno povezanih kanala</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-23.tsv, sentence: 13
 
 297	"<e1>krš s tornjevima</e1> : 1 Tip tropskog krša <e2>karakteriziran pojedinačnim , vapnenačkim brdima strmih do okomitih padina koja se izdižu iz ravnice</e2> . 2 Skup vrhova koji se poput tornjeva izdižu iznad zajedničke osnove , a odvojeni su velikim vrtačama"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-25.tsv, sentence: 1
 
 298	"<e1>blato</e1> – narodni naziv za naplavne ravnice <e2>na kojima se dugo zadržava relativno plitka voda</e2> , te nisu pogodne za obrađivanje i prevladava hidrofilna vegetacija : Buško blato , Svitavsko blato , Mostarsko blato i dr . Neka blata su tunelskim odvodima pretvorena u “ polja ” ( v . )"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-26.tsv, sentence: 13
 
 299	"<e1>dinarski krš</e1> – prema izrazitom pružanju planine Dinare , NW-SE , nazvano je Dinarsko gorje od Alpa do Drima . <e2>Debela serija mezozojskih i paleogenih karbonatnih stijena</e2> i u njima razvijeni krš svjetski su poznata osobina gorja . U svjetskoj znanosti D . k . ima klasično značenje ; u njemu su precizirani glavni krški fenomeni i u međunarodnu terminologiju preuzeti mnogi domaći nazivi . Kontrastni pejzaž polja , dubina krša povezana s odgovarajućom cirkulacijom voda , sedrenim ustavama pregrađene doline , izrazite zaravni te specifični uvjeti i organizacija života ostaju svjetski jedinstvene osobine D . k . Izdvajaju se dva pojasa : priobalski pojas krša ( v . ) i unutrašnji fluviokrša ( v ."
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-27.tsv, sentence: 11
 
 300	"<e1>kamenica</e1> – 1 . korozijsko udubljenje u kompaktnim vapnencima , najčešće na ravnim i subhorizontalnim plohama . K . ide u grupu škrapa ( v . ) koje na engleskom ( rock rills ) , francuskom ( lapies ) i njemačkom ( Karren ) jeziku u prijevodu znače “ kamenice ” . Posebnost je k . da je sa strane zatvorena udubina , te <e2>se u njoj zadržava padalinska voda</e2> . Redovito je male dubine , ali promjer može biti i do 2 m ; široku , ali plitku k . nazivaju plitvina . Jačom korozijom – pod mahovinom , lišajem ili nakup ljenim lišćem – nastaje na kompaktnoj stijeni udubina , koja postaje biotop , u kojemu se okuplja , živi i trune specifična vegetacija . U kamenici se stvara pokrov humusa , koji svakim vlaženjem aktivira biokorozijski proces , uvjetuje zaravnjenost dna i okuplja otapanje duž rubova ( v . korozija rubna ) . Rubna korozija potkopava strane i širi kamenicu ; širenje ovisi o kompaktnosti i dimenzijama vapnenačkog bloka . Kad rubno širenje dopre do pukotine ili površine stijene , kamenica se otvori i prestaje njen razvoj ; ostaje ravno dno"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-30.tsv, sentence: 14
 
 301	"<e1>ledenica</e1> – spilja ili japaga u kojoj se održava led . To su hladne spilje i kapnica se zaleđuje , prekrivajući pod i strane ledenom korom i ukrasujući cjelinu slikovitim mosurima i ledenim stupovima.U japage se preko zime <e2>navije snijeg koji se preko ljeta postepeno otapa i održi</e2> ( v . sniježnica ) . Otapanjem površinskog dijela voda se u dubljim dijelovima , gdje je temperatura ispod 0 ° C , pretvara u led . Ekspozicija i kosi položaj udubine imaju znatnu ulogu"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-32.tsv, sentence: 12
 
 302	"<e1>sigasti bazen</e1> – školjkoliki bazen na sigastim slapovima ( v . sigaste tvorevine ) Raspoređeni su stepeničasto i imaju izrazito vodoravan prilivni rub . <e2>Ispunjeni su vodom stalno ili povremeno</e2> , prema prirodi slapa"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-36.tsv, sentence: 10
 
 303	"za razliku od jama s . su jače razvijene u lateralnom smjeru . Etažna s . je raspoređena u dva ili više katova šupljina koji su međusobno veznim kanalima spojeni . <e1>Spiljski kompleks</e1> se sastoji iz raznovrsnih oblika : galerija ili hodnik je izdužena šupljina ; dvorana ili sala je veliki spiljski prostor u čijem nastajanju znatan udio imaju urušavanja stropnih dijelova ; kanali , rovovi i prolazi su uži i izduženi dijelovi , koji mogu biti spojni između većih šupljina ili se završavaju slijepo – <e2>slijepi kanal ili rov</e2> . Pored glavnog izdvajaju se sporedni ili bočni kanali"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-37.tsv, sentence: 1
 
 304	"<e1>Brdo</e1> je tipičan krški dio koje opisuje kao « kamenito-goletni prostor » s « <e2>ponekom obrađenom vrtačom</e2> » , obrastao « dračom , smrekom , kupinom i ponekim drvetom hrasta , jasena , trensle , graba , divlje kruške i dr . , te pelimom , vrijeskom , smiljem , koviljem i travom ( bjeliš )"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-41.tsv, sentence: 7
 
 305	"<e1>Spiljski kompleks</e1> se sastoji iz raznovrsnih oblika : galerija ili hodnik je izdužena šupljina ; <e2>dvorana ili sala</e2> je veliki spiljski prostor u čijem nastajanju znatan udio imaju urušavanja stropnih dijelova ; kanali , rovovi i prolazi su uži i izduženi dijelovi , koji mogu biti spojni između većih šupljina ili se završavaju slijepo – slijepi kanal ili rov"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-43.tsv, sentence: 8
 
 306	"<e1>Spiljski kompleks</e1> se sastoji iz raznovrsnih oblika : galerija ili hodnik je izdužena šupljina ; dvorana ili sala je veliki spiljski prostor u čijem nastajanju znatan udio imaju urušavanja stropnih dijelova ; kanali , rovovi i prolazi su uži i izduženi dijelovi , koji mogu biti spojni između većih šupljina ili se završavaju slijepo – slijepi kanal ili <e2>rov</e2>"
-CONTAINS(<e1>,<e2>)
+CONTAINS(e1,e2)
 Comment: File: defs-hr-43.tsv, sentence: 8
 
 307	"<e1>disanje špilje</e1> : Strujanje zraka u špilju i iz špilje . Može se javiti <e2>u ciklusima od nekoliko minuta</e2> ili kao dnevni ciklus . Disanje može biti posljedica brojnih uzroka : ( 1 ) dnevne promjene tlaka zbog zagrijavanja zraka suncem izvan špilja ; ( 2 ) barometrijske promjene tlaka ; ( 3 ) propuh koji se javlja kod špilja s ulazima na različitim nivoima ; ( 4 ) hladni zrak koji se spušta u špilju i zamjenjuje topliji zrak u špilji ; ( 5 ) vjetar koji puše iznad ulaza u špilju ; ( 6 ) vodotok koji ulazi u špilju također može uzrokovati strujanje zraka"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-hr-04.tsv, sentence: 6
 
 308	"<e1>paleookršavanje</e1> : Okršavanje koje <e2>zbivalo tijekom geološke prošlosti u kopnenim fazama</e2>"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-hr-17.tsv, sentence: 12
 
 309	"<e1>estavela</e1> – specifična pojava cirkuliranja voda u kršu : vrelo <e2>u kišovito doba</e2> , a ponor pri niskim vodama ; u Lici se čuje narodni naziv “ ponor-rigalo ” . E . su najčešće obodom udubina koje su periodski plavljene . Morska e . je na obali i kroz nju izbija slatka voda u kišno doba , a u sušno ponire more"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-hr-28.tsv, sentence: 6
 
 310	"oblik taloženja vapnenca utječe na razvoj krškog reljefa ; izrazite su reljefne razlike među bankovitim ili gromadastim vapnencima , pravilno uslojenim i u tanke slojeve ( ploče , v . ) staloženim vapnencima . <e1>Kreda</e1> ( v . ) , bijela i lako drobljiva taložina , mineralnim sastavom odgovara vapnencu ; nastala je taloženjem vapnenačkih dijelova mikroorganizama , <e2>uglavnom u periodu krede</e2> ; otuda zajedničko ime"
-OCCURS\_IN\_TIME(<e1>,<e2>)
+OCCURS\_IN\_TIME(e1,e2)
 Comment: File: defs-hr-38.tsv, sentence: 4
 
 311	"<e1>biospeleologija</e1> – <e2>disciplina koja istražuje floru i faunu , te uvjete života u spiljskim šupljinama</e2> , a postoji tendencija da se proširi na rudarska okna , tunele i podzemne kanale"
-STUDIES(<e1>,<e2>)
+STUDIES(e1,e2)
 Comment: File: defs-hr-26.tsv, sentence: 12
 
 312	"<e1>karstologija</e1> - znanstvena disciplina koja izučava krš . Posebno <e2>izučava osobine karbonatnih stijena</e2> ( v . ) , te korozijske i erozijske procese kojima nastaje specifičan reljef – krš ( v . ) . S time je povezana cirkulacija voda ( v . hidrologija krša ) . Izučavanje se širi na specifična tla , organski svijet , te uvjete i mogućnosti društvenog valoriziranja"
-STUDIES(<e1>,<e2>)
+STUDIES(e1,e2)
 Comment: File: defs-hr-31.tsv, sentence: 3
 
 313	"<e1>sedra</e1> – šupljikavi vapnenac koji je nastao taloženjem iz tvrdih voda ( v . ) . Prozračivanjem vode koja sadrži kalcijev bikarbonat [ Ca ( HCO3 ) 2 ] oslobađa se CO2 i tako se obara kalcijev karbonat , odnosno sedra ( CaCO3 ) , koja se hvata kao kora ( v . inkrustacija ) na predmetima i vegetaciji . Sedra se taloži u čistim protočnim vodama , čija brzina ( do 3,5 m / sek ) ne ugrožava život organizama . Na sedrenim taložinama nasta ju povoljni ekološki uvjeti za određenu hidro i kalcifilnu životnu zajednicu , osobito neke vrste mahovina . Rastom sedre <e2>mijenjaju se ekološki uvjeti</e2> , što se odražava u smjeni životnih zajednica . Sedra se taloži na temperaturama iznad 14 ° C ; i pored velikog alkaliteta sedra se ne taloži u hladnim krajevima . Sedra je indikator klime i ekoloških prilika . Poznata su izlučivanja sedre na vrelima ( v . inkrustiraju će vrelo ) , posebno toplim , te na brzacima i slapovima tekućica u kršu . Vlažna sedra se lako obrađuje , a suha je cijenjen i dobar građevinski kamen . U Dinarskom kršu su posebno važne sedrene tvorevine ( v . ) na brzacima , slapovima i vodopadima Korane , Krke , Une , Plive i dr"
-AFFECTS(<e1>,<e2>)
+AFFECTS(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 14
 
 314	"<e1>sedra</e1> – šupljikavi vapnenac koji je nastao taloženjem iz tvrdih voda ( v . ) . Prozračivanjem vode koja sadrži kalcijev bikarbonat [ Ca ( HCO3 ) 2 ] oslobađa se CO2 i tako se obara kalcijev karbonat , odnosno sedra ( CaCO3 ) , koja se hvata kao kora ( v . inkrustacija ) na predmetima i vegetaciji . Sedra se taloži u čistim protočnim vodama , čija brzina ( do 3,5 m / sek ) ne ugrožava život organizama . Na sedrenim taložinama nasta ju povoljni ekološki uvjeti za određenu hidro i kalcifilnu životnu zajednicu , osobito neke vrste mahovina . Rastom sedre mijenjaju se ekološki uvjeti , što se odražava u smjeni životnih zajednica . Sedra se taloži na temperaturama iznad 14 ° C ; i pored velikog alkaliteta sedra se ne taloži u hladnim krajevima . Sedra je <e2>indikator klime i ekoloških prilika</e2> . Poznata su izlučivanja sedre na vrelima ( v . inkrustiraju će vrelo ) , posebno toplim , te na brzacima i slapovima tekućica u kršu . Vlažna sedra se lako obrađuje , a suha je cijenjen i dobar građevinski kamen . U Dinarskom kršu su posebno važne sedrene tvorevine ( v . ) na brzacima , slapovima i vodopadima Korane , Krke , Une , Plive i dr"
-MEASURES(<e1>,<e2>)
+MEASURES(e1,e2)
 Comment: File: defs-hr-35.tsv, sentence: 14
 

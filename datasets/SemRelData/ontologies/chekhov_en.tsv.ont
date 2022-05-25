@@ -1,0 +1,54 @@
+dog	Hypernym	dachshund
+dog	Hypernym	yard - dog
+dog	Holonym	face
+dog	Holonym	paw
+dog	Holonym	mind
+dog	Co-Hyponym	fox
+dachshund	Holonym	face
+dachshund	Holonym	paw
+dachshund	Holonym	mind
+dachshund	Hyponym	dog
+yard - dog	Holonym	face
+yard - dog	Holonym	paw
+yard - dog	Holonym	mind
+yard - dog	Hyponym	dog
+fox	Holonym	face
+fox	Co-Hyponym	dog
+face	Meronym	dog
+face	Meronym	fox
+face	Meronym	dachshund
+face	Meronym	yard - dog
+paw	Meronym	dog
+paw	Meronym	dachshund
+paw	Meronym	yard - dog
+mind	Meronym	dog
+mind	Meronym	dachshund
+mind	Meronym	yard - dog
+day	Holonym	end
+end	Meronym	day
+master	Holonym	arm
+hat	Co-Hyponym	handkerchief
+arm	Meronym	master
+handkerchief	Co-Hyponym	hat
+name	Meronym	dogs
+name	Meronym	mongrel
+mongrel	Holonym	name
+mongrel	Holonym	ear
+mongrel	Hyponym	dogs
+master	Holonym	face
+master	Holonym	fist
+dogs	Hypernym	mongrel
+dogs	Holonym	name
+dogs	Holonym	ear
+carpenter	Holonym	face
+carpenter	Holonym	fist
+face	Meronym	master
+face	Meronym	carpenter
+ear	Meronym	dogs
+ear	Meronym	mongrel
+fist	Meronym	master
+fist	Meronym	carpenter
+Pla - a - ague	Hypernym	pest
+Pla - a - ague	Synonym	pest
+pest	Synonym	Pla - a - ague
+pest	Hyponym	Pla - a - ague

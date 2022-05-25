@@ -1,0 +1,66 @@
+Я́блоня	Hyponym	листопадных деревьев
+род	Hyponym	семейства
+листопадных деревьев	Hypernym	Я́блоня
+деревьев	Holonym	плодами
+деревьев	Co-Hyponym	кустарников
+кустарников	Holonym	плодами
+кустарников	Co-Hyponym	деревьев
+семейства	Hypernym	род
+плодами	Meronym	деревьев
+плодами	Meronym	кустарников
+Род	Hypernym	видов
+Род	Hypernym	яблоня домашняя
+Род	Hypernym	культурная
+Род	Hypernym	сортов
+Род	Hypernym	яблоня сливолистная
+Род	Hypernym	яблоня низкая
+Род	Hypernym	китайская
+трибе	Hyponym	подсемейства
+подсемейства	Hypernym	трибе
+видов	Hypernym	яблоня домашняя
+видов	Hypernym	культурная
+видов	Hypernym	сортов
+видов	Hypernym	яблоня сливолистная
+видов	Hypernym	яблоня низкая
+видов	Hypernym	китайская
+видов	Hyponym	Род
+яблоня домашняя	Hyponym	видов
+яблоня домашняя	Hyponym	Род
+культурная	Hyponym	видов
+культурная	Hyponym	Род
+сортов	Hyponym	видов
+сортов	Hyponym	Род
+яблоня сливолистная	Synonym	китайская
+яблоня сливолистная	Hyponym	видов
+яблоня сливолистная	Hyponym	Род
+китайская	Synonym	яблоня сливолистная
+китайская	Hyponym	видов
+китайская	Hyponym	Род
+яблоня низкая	Hyponym	видов
+яблоня низкая	Hyponym	Род
+яблони	Hyponym	растений
+яблони	Meronym	парках
+яблони	Meronym	садах
+растений	Hypernym	яблони
+растений	Hypernym	медоносы
+растений	Meronym	парках
+растений	Meronym	садах
+садах	Holonym	растений
+садах	Holonym	яблони
+садах	Holonym	медоносы
+садах	Co-Hyponym	парках
+парках	Holonym	растений
+парках	Holonym	яблони
+парках	Holonym	медоносы
+парках	Co-Hyponym	садах
+медоносы	Hyponym	растений
+медоносы	Meronym	парках
+медоносы	Meronym	садах
+Древесина	Meronym	столярных изделий
+Древесина	Meronym	токарных
+Древесина	Meronym	яблони
+яблони	Holonym	Древесина
+токарных	Holonym	Древесина
+столярных изделий	Holonym	Древесина
+изделий	Synonym	поделок[4
+поделок[4	Synonym	изделий

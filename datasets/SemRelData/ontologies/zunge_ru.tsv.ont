@@ -1,0 +1,14 @@
+Язык	Hyponym	вырост
+Язык	Meronym	ротовой полости
+вырост	Hypernym	Язык
+дна	Meronym	полости
+ротовой полости	Holonym	Язык
+полости	Holonym	дна
+Форма	Co-Hyponym	положение
+положение	Co-Hyponym	Форма
+язык	Meronym	полость рта
+полость рта	Holonym	язык
+Верхушка	Meronym	языка
+языка	Holonym	Верхушка
+языка	Co-Hyponym	зубов
+зубов	Co-Hyponym	языка

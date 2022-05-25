@@ -3,7 +3,7 @@ from read_data import get_hypernym_sentences_for_training
 from collections import defaultdict
 
 
-annotated_path_root = "../datasets/annotated_definitions/en"
+annotated_path_root = "../datasets/new_corpus_annotated_definitions/en"
 base_filename = "KiL-def-en{}.tsv"
 
 
